@@ -672,3 +672,136 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભાગ અને પૂર્ણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અપૂર્ણાંકમાં ઉપરની સંખ્યાને શું કહેવામાં આવે છે? \n(A) છેદ \n(B) અંશ \n(C) પૂર્ણાંક \n(D) ભાજક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અંશ અને 'અ' થી આકાશ (ઉપર) - એટલે કે ઉપરની સંખ્યા અંશ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અપૂર્ણાંકમાં નીચેની સંખ્યાને શું કહેવામાં આવે છે? \n(A) અંશ \n(B) લસાઅ \n(C) છેદ \n(D) શેષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છે' થી છેદ અને 'છે' થી છેલ્લે (નીચે) - એટલે કે નીચેની સંખ્યા છેદ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતના રાષ્ટ્રધ્વજમાં સફેદ રંગનો પટ્ટો કુલ ધ્વજનો કેટલામો ભાગ છે? \n(A) 1/2 \n(B) 1/4 \n(C) 1/3 \n(D) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રધ્વજમાં 3 સમાન પટ્ટા છે, માટે દરેક પટ્ટો 1/3 ભાગ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "₹ 1 ના અડધા ભાગને પૈસામાં કેવી રીતે લખાય? \n(A) 25 પૈસા \n(B) 50 પૈસા \n(C) 75 પૈસા \n(D) 100 પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50 પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ₹ 1 = 100 પૈસા, હવે 100 ના અડધા (100 ÷ 2) એટલે 50!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક લંબચોરસના 6 સમાન ભાગ કર્યા છે. તેમાંથી 3 ભાગમાં રંગ પૂર્યો હોય, તો તેને અપૂર્ણાંકમાં શું કહેવાય? \n(A) 1/6 \n(B) 3/6 \n(C) 6/3 \n(D) 1/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ભાગમાં રંગ હોય તે અંશમાં અને કુલ ભાગ છેદમાં લખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "1 કલાકનો 1/4 ભાગ એટલે કેટલી મિનિટ થાય? \n(A) 15 મિનિટ \n(B) 30 મિનિટ \n(C) 45 મિનિટ \n(D) 10 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 15 મિનિટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કલાક = 60 મિનિટ. ચોથો ભાગ એટલે 60 ને 4 વડે ભાગો (60 ÷ 4 = 15).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કયો અપૂર્ણાંક 'અડધો ભાગ' દર્શાવે છે? \n(A) 1/4 \n(B) 2/4 \n(C) 3/4 \n(D) 4/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 એ 4 ના અડધા છે, એટલે 2/4 ને છેદ ઉડાડતા 1/2 (અડધું) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો એક સફરજનની કિંમત ₹ 12 હોય, તો અડધા સફરજનની કિંમત કેટલી થાય? \n(A) ₹ 3 \n(B) ₹ 4 \n(C) ₹ 6 \n(D) ₹ 24",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹ 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો ભાગ એટલે સંખ્યાને 2 વડે ભાગવી. 12 ÷ 2 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "1 કિલોગ્રામ બટાટાનો ભાવ ₹ 20 છે, તો 1/4 કિલોગ્રામ બટાટાની કિંમત કેટલી? \n(A) ₹ 5 \n(B) ₹ 10 \n(C) ₹ 15 \n(D) ₹ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ₹ 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 ભાગ એટલે સંખ્યાનો ચોથો ભાગ. 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કયો અપૂર્ણાંક સૌથી મોટો છે? \n(A) 1/2 \n(B) 1/4 \n(C) 1/8 \n(D) 1/10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ સરખા હોય, તો જેનો છેદ નાનો તે અપૂર્ણાંક મોટો ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "₹ 1 નો 1/10 ભાગ એટલે કેટલા પૈસા? \n(A) 1 પૈસો \n(B) 10 પૈસા \n(C) 100 પૈસા \n(D) 50 પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પૈસાનો 10 મો ભાગ એટલે 100 ÷ 10 = 10 પૈસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો એક દિવસના 24 કલાક હોય, તો દિવસનો 1/3 ભાગ ઊંઘવામાં વિતાવતા બાળક કેટલા કલાક ઊંઘે છે? \n(A) 6 કલાક \n(B) 8 કલાક \n(C) 12 કલાક \n(D) 3 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 8 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 24 કલાકનો 1/3 ભાગ એટલે 24 ÷ 3 = 8 કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "1/2 + 1/2 બરાબર કેટલા થાય? \n(A) 1/4 \n(B) 2/2 એટલે કે 1 \n(C) 2/4 \n(D) 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અડધા ભાગ ભેગા કરો એટલે એક આખી વસ્તુ (પૂરેપૂરી) બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક ડઝન કેળા એટલે 12 કેળા. તો 1/2 ડઝન કેળા એટલે કેટલા કેળા? \n(A) 12 \n(B) 6 \n(C) 4 \n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું એટલે હંમેશા કુલ સંખ્યાના અડધા કરવા. 12 ÷ 2 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કોઈ વસ્તુના 4 સરખા ભાગમાંથી 1 ભાગ લઈએ તો તેને શું કહેવાય? \n(A) અડધો \n(B) પોણો \n(C) પા \n(D) આખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પા (Quarter)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 ને 'પા ભાગ' કહેવાય અને 3/4 ને 'પોણો ભાગ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મીટર પટ્ટી પર 50 સેમી એટલે કેટલામો ભાગ? \n(A) 1/4 મીટર \n(B) 1/2 મીટર \n(C) 3/4 મીટર \n(D) 1/10 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 100 સેમી. હવે 50 એ 100 ના અડધા છે, માટે 1/2 મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક રકમનો 3/4 ભાગ એટલે તેને બીજા કયા નામે ઓળખાય? \n(A) પા \n(B) અડધો \n(C) પોણો \n(D) સવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પોણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3/4 એટલે 4 માંથી 3 ભાગ, જેને આપણે વ્યવહારમાં 'પોણો' કહીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો 1 કિગ્રા ટામેટાનો ભાવ ₹ 40 હોય, તો 3/4 કિગ્રા ટામેટાનો ભાવ કેટલો થાય? \n(A) ₹ 10 \n(B) ₹ 20 \n(C) ₹ 30 \n(D) ₹ 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹ 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 40 નો 1/4 ભાગ એટલે 10. હવે 3/4 ભાગ એટલે 10 × 3 = 30!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વર્તુળના 8 સરખા ભાગ કર્યા છે, તેમાંથી 4 ભાગમાં લાલ રંગ છે. તો કેટલામો ભાગ લાલ રંગનો છે? \n(A) 1/4 \n(B) 1/2 \n(C) 1/8 \n(D) 4/1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 એ 8 ના અડધા છે, તેથી 4/8 = 1/2 ભાગ રંગીન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "1 કલાકનો 1/2 ભાગ અને 1/4 ભાગ મળીને કુલ કેટલી મિનિટ થાય? \n(A) 30 મિનિટ \n(B) 15 મિનિટ \n(C) 45 મિનિટ \n(D) 60 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 45 મિનિટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 (30 મિનિટ) + 1/4 (15 મિનિટ) = 45 મિનિટ (પોણો કલાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "60 ના 1/10 ભાગ કેટલા થાય? \n(A) 6 \n(B) 10 \n(C) 600 \n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/10 ભાગ કરવા માટે સંખ્યાનું છેલ્લું મીંડું કાઢી નાખવું! 60 માંથી 0 જાય તો 6 વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક ચોકલેટના 10 ટુકડા છે. રાનીએ 1/5 ભાગ ખાધો, તો તેણે કેટલા ટુકડા ખાધા હશે? \n(A) 5 \n(B) 2 \n(C) 1 \n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/5 ભાગ એટલે 10 ને 5 વડે ભાગો. 10 ÷ 5 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયો અપૂર્ણાંક 1/3 ની સમાન છે? \n(A) 2/6 \n(B) 2/3 \n(C) 3/1 \n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદને સરખી સંખ્યા વડે ગુણો. 1x2=2 અને 3x2=6, એટલે 2/6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "1 લીટર દૂધનો 1/2 ભાગ એટલે કેટલા મિલીલીટર? \n(A) 250 મિલી \n(B) 500 મિલી \n(C) 750 મિલી \n(D) 100 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 500 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લીટર = 1000 મિલી. તેના અડધા 500 મિલી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રામુએ 1/4 કિગ્રા ગાજર ₹ 10 માં ખરીદ્યા, તો 1 કિગ્રા ગાજરનો ભાવ શું હશે? \n(A) ₹ 20 \n(B) ₹ 30 \n(C) ₹ 40 \n(D) ₹ 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹ 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પા ભાગનો ભાવ ખબર હોય તો આખાનો ભાવ જાણવા 4 વડે ગુણી નાખો! 10 × 4 = 40.</p></div>"
+    }
+  ]
+}
