@@ -36,14 +36,14 @@ syllabus = {
 standards = [5, 6]
 
 # ---------------------------------------------------------
-# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ (નાના પ્રશ્નો 30+, મોટા 10+)
+# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ (નાના પ્રશ્નો 60+, મોટા 10+)
 # ---------------------------------------------------------
 question_types = [
-    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQs)", "marks": 1, "min_count": 30},
-    {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો", "marks": 1, "min_count": 30},
-    {"id": "TrueFalse", "name": "ખરા ખોટા જણાવો", "marks": 1, "min_count": 30},
-    {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 30},
-    {"id": "1_Mark", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 30},
+    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQs)", "marks": 1, "min_count": 60},
+    {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો", "marks": 1, "min_count": 60},
+    {"id": "TrueFalse", "name": "ખરા ખોટા જણાવો", "marks": 1, "min_count": 60},
+    {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 60},
+    {"id": "1_Mark", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 60},
     {"id": "2_Marks", "name": "બે ગુણના ટૂંક જવાબી પ્રશ્નો", "marks": 2, "min_count": 10},
     {"id": "3_Marks", "name": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો", "marks": 3, "min_count": 10},
     {"id": "4_Marks", "name": "ચાર ગુણના વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 10}
