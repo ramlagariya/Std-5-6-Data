@@ -464,3 +464,211 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "કેટલા ચોરસ?",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "1 સેમી બાજુવાળા ચોરસની પરિમિતિ કેટલી થાય? <br> A. 1 સેમી <br> B. 2 સેમી <br> C. 4 સેમી <br> D. 3 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 4 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે બધી બાજુનો સરવાળો. ચોરસને 4 બાજુ હોય, તેથી 1+1+1+1 = 4 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "1 સેમી બાજુવાળા ચોરસનું ક્ષેત્રફળ કેટલું થાય? <br> A. 1 ચો.સેમી <br> B. 4 ચો.સેમી <br> C. 2 ચો.સેમી <br> D. 1 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 1 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે અંદરની જગ્યા. 1 × 1 = 1. એકમ હંમેશા 'ચોરસ' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો એક ટિકિટ 6 ખાના (ચોરસ) રોકે છે, તો તેનું ક્ષેત્રફળ કેટલું ગણાય? <br> A. 12 ચો.સેમી <br> B. 6 ચો.સેમી <br> C. 3 ચો.સેમી <br> D. 10 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 6 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ખાના રોકે તેટલું જ તેનું ક્ષેત્રફળ થાય. 6 ખાના = 6 ચોરસ સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબચોરસની પરિમિતિ શોધવાનું સૂત્ર કયું છે? <br> A. લંબાઈ × પહોળાઈ <br> B. 2 × (લંબાઈ + પહોળાઈ) <br> C. 4 × લંબાઈ <br> D. લંબાઈ + પહોળાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 2 × (લંબાઈ + પહોળાઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસમાં બે લંબાઈ અને બે પહોળાઈ હોય, એટલે બે વાર સરવાળો કરવાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો કોઈ આકાર 4 આખા ચોરસ અને 2 અડધા ચોરસ રોકે, તો તેનું કુલ ક્ષેત્રફળ કેટલું થાય? <br> A. 6 ચો.સેમી <br> B. 4 ચો.સેમી <br> C. 5 ચો.સેમી <br> D. 8 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 5 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 અડધા ચોરસ ભેગા થઈને 1 આખો ચોરસ બને. એટલે 4 + 1 = 5!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરિમિતિનો એકમ કયો હોઈ શકે? <br> A. ચો.સેમી <br> B. સેમી <br> C. લિટર <br> D. કિલોગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એ લંબાઈ છે એટલે સેમી કે મીટર આવે, ક્ષેત્રફળમાં જ 'ચોરસ' શબ્દ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "8 સેમી લંબાઈ અને 2 સેમી પહોળાઈ ધરાવતા લંબચોરસનું ક્ષેત્રફળ કેટલું? <br> A. 10 ચો.સેમી <br> B. 20 ચો.સેમી <br> C. 16 ચો.સેમી <br> D. 6 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 16 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે લંબાઈ અને પહોળાઈનો ગુણાકાર. 8 × 2 = 16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જેનું ક્ષેત્રફળ 20 ચો.સેમી હોય તેવા લંબચોરસની લંબાઈ 5 સેમી હોય, તો પહોળાઈ કેટલી? <br> A. 4 સેમી <br> B. 15 સેમી <br> C. 10 સેમી <br> D. 2 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 4 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 ને કેટલા વડે ગુણીએ તો 20 આવે? 5 × 4 = 20. જવાબ 4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ એ તેને સમાવતા લંબચોરસ કરતા કેવું હોય છે (જો લંબચોરસના અડધા ભાગમાં હોય)? <br> A. બમણું <br> B. ત્રીજા ભાગનું <br> C. અડધું <br> D. ચોથા ભાગનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અડધું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસને વચ્ચેથી કાપો એટલે બે સરખા ત્રિકોણ બને. એટલે ત્રિકોણ = અડધો લંબચોરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કઈ આકૃતિની પરિમિતિ સૌથી ઓછી હોય? <br> A. 10 સેમી લંબાઈનો તાર <br> B. 5 સેમી લંબાઈનો તાર <br> C. 15 સેમી લંબાઈનો તાર <br> D. 20 સેમી લંબાઈનો તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 5 સેમી લંબાઈનો તાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે તારની લંબાઈ ઓછી, તેની પરિમિતિ પણ ઓછી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચોરસની બધી બાજુઓના માપ કેવા હોય છે? <br> A. અલગ અલગ <br> B. સમાન <br> C. માત્ર બે સમાન <br> D. શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ એટલે ચારે બાજુ સરખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "3 સેમી બાજુવાળા ચોરસની પરિમિતિ કેટલી? <br> A. 9 સેમી <br> B. 6 સેમી <br> C. 12 સેમી <br> D. 3 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 12 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 × બાજુ = 4 × 3 = 12 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "4 સેમી લંબાઈ અને 3 સેમી પહોળાઈ ધરાવતા લંબચોરસમાં 1 સેમીના કેટલા ચોરસ સમાઈ શકે? <br> A. 7 <br> B. 12 <br> C. 14 <br> D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલું ક્ષેત્રફળ (4×3=12), તેટલા જ 1 સેમીના ચોરસ સમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો એક આકારમાં 3 આખા ચોરસ અને 4 અડધાથી વધારે ચોરસ છે, તો અંદાજિત ક્ષેત્રફળ કેટલું? <br> A. 3 ચો.સેમી <br> B. 4 ચો.સેમી <br> C. 7 ચો.સેમી <br> D. 5 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 7 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધાથી વધારે ખાનાને 'આખા' ગણવા. 3 + 4 = 7!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ક્ષેત્રફળનો સૌથી મોટો એકમ કયો છે? <br> A. ચો.સેમી <br> B. ચો.મીટર <br> C. ચો.કિમી <br> D. ચો.મિલીમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચો.કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ કિલોમીટર લંબાઈમાં મોટો, તેમ ચોરસ કિલોમીટર ક્ષેત્રફળમાં મોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તમારા ગણિતના પુસ્તકનું ક્ષેત્રફળ આશરે કેટલું હોઈ શકે? <br> A. 500 ચો.મીટર <br> B. 500 ચો.સેમી <br> C. 5 ચો.કિમી <br> D. 50 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 500 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુઓ માટે 'ચો.સેમી' એકમ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો બે આકૃતિઓના ક્ષેત્રફળ સમાન હોય, તો શું તેમની પરિમિતિ પણ હંમેશા સમાન જ હોય? <br> A. હા <br> B. ના <br> C. કહી શકાય નહીં <br> D. હંમેશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલગ અલગ આકારના ક્ષેત્રફળ સરખા હોઈ શકે પણ પરિમિતિ અલગ હોઈ શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક ચોરસની પરિમિતિ 20 સેમી છે, તો તેની બાજુનું માપ શું હશે? <br> A. 10 સેમી <br> B. 4 સેમી <br> C. 5 સેમી <br> D. 80 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિને 4 વડે ભાગો! 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કઈ વસ્તુનું ક્ષેત્રફળ સૌથી વધુ હશે? <br> A. પોસ્ટકાર્ડ <br> B. ગણિતનું પાઠ્યપુસ્તક <br> C. વર્ગખંડનો દરવાજો <br> D. રૂમાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વર્ગખંડનો દરવાજો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ જેટલી મોટી જગ્યા રોકે, તેનું ક્ષેત્રફળ તેટલું જ વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કઈ આકૃતિની પરિમિતિ વધારે હશે? <br> A. 2 સેમી બાજુવાળો ચોરસ <br> B. 4 સેમી લંબાઈ અને 1 સેમી પહોળાઈવાળો લંબચોરસ <br> C. બંનેની સરખી <br> D. એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 4 સેમી લંબાઈ અને 1 સેમી પહોળાઈવાળો લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની પરિમિતિ = 2+2+2+2=8. લંબચોરસની = 4+1+4+1=10. એટલે લંબચોરસની વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો આલેખ પત્રના 1 ખાનાનું માપ 1 સેમી × 1 સેમી હોય, તો 10 ખાનાનું ક્ષેત્રફળ કેટલું? <br> A. 1 ચો.સેમી <br> B. 10 સેમી <br> C. 10 ચો.સેમી <br> D. 20 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 10 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ખાનું = 1 ચો.સેમી, તો 10 ખાના = 10 ચો.સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાર્ડબોર્ડના એક ટુકડાની લંબાઈ 10 સેમી અને પહોળાઈ 5 સેમી છે, તો તેનું ક્ષેત્રફળ કેટલું? <br> A. 15 ચો.સેમી <br> B. 50 ચો.સેમી <br> C. 30 ચો.સેમી <br> D. 25 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 50 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ × પહોળાઈ = 10 × 5 = 50.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો આકૃતિમાં અડધાથી ઓછા ભાગમાં રંગ પૂરેલો હોય, તો તેને ગણતરીમાં લેવો? <br> A. હા <br> B. ના (અવગણવો) <br> C. અડધો ગણવો <br> D. આખો ગણવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ના (અવગણવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમ મુજબ: અડધાથી ઓછું હોય તો શૂન્ય, અડધાથી વધુ હોય તો એક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "1 ચોરસ મીટર એટલે કેટલા ચોરસ સેમી? (જાણકારી માટે) <br> A. 100 <br> B. 1000 <br> C. 10000 <br> D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 10000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 100 સેમી, તો 1 ચો.મી = 100 × 100 = 10,000 ચો.સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કિલોમીટર એ શેનો એકમ છે? <br> A. ક્ષેત્રફળ <br> B. વજન <br> C. લંબાઈ (અંતર) <br> D. સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લંબાઈ (અંતર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિમાં લંબાઈના એકમ (સેમી, મી, કિમી) જ વપરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કઈ આકૃતિ સૌથી વધુ ક્ષેત્રફળ ધરાવે છે? <br> A. જે 5 ખાના રોકે છે <br> B. જે 8 ખાના રોકે છે <br> C. જે 3 ખાના રોકે છે <br> D. જે 6 ખાના રોકે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જે 8 ખાના રોકે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ખાના = વધુ ક્ષેત્રફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રૂમાલની લંબાઈ 20 સેમી છે, તો તેની પરિમિતિ (જો તે ચોરસ હોય તો) કેટલી? <br> A. 40 સેમી <br> B. 60 સેમી <br> C. 80 સેમી <br> D. 100 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 80 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 + 20 + 20 + 20 = 80 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ચોરસનું ક્ષેત્રફળ શોધવાનું સૂત્ર કયું? <br> A. લંબાઈ + લંબાઈ <br> B. લંબાઈ × લંબાઈ <br> C. 4 × લંબાઈ <br> D. 2 × લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લંબાઈ × લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં લંબાઈ અને પહોળાઈ સરખી હોય, એટલે બાજુનો ગુણાકાર બાજુ સાથે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક લંબચોરસ પ્લોટની લંબાઈ 15 મીટર અને પહોળાઈ 10 મીટર છે, તો ક્ષેત્રફળ કેટલું? <br> A. 150 ચો.મીટર <br> B. 50 ચો.મીટર <br> C. 25 ચો.મીટર <br> D. 150 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 150 ચો.મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 × 10 = 150. એકમ ખાસ જોવો 'ચો.મીટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો બે અડધા ચોરસ ભેગા કરવામાં આવે તો કેટલા આખા ચોરસ બને? <br> A. 2 <br> B. 1 <br> C. 0.5 <br> D. 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધી રોટલી + અડધી રોટલી = 1 આખી રોટલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક ચોરસની એક બાજુ 6 સેમી છે, તેનું ક્ષેત્રફળ શોધો. <br> A. 12 ચો.સેમી <br> B. 24 ચો.સેમી <br> C. 36 ચો.સેમી <br> D. 6 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 36 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 × 6 = 36!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "આકૃતિની હદની લંબાઈને શું કહેવાય? <br> A. ક્ષેત્રફળ <br> B. પરિમિતિ <br> C. ઘનફળ <br> D. વ્યાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પરિમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હદ = પરિમિતિ, અંદરની જગ્યા = ક્ષેત્રફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "5 સેમી બાજુવાળા ચોરસની પરિમિતિ અને ક્ષેત્રફળનો આંકડો સમાન છે? <br> A. હા <br> B. ના <br> C. ક્યારેક <br> D. માહિતી અધૂરી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 સેમી માટે પરિમિતિ 20 થાય (4×5) અને ક્ષેત્રફળ 25 થાય (5×5). બંને અલગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક લંબચોરસની પરિમિતિ 30 સેમી છે. જો તેની લંબાઈ 10 સેમી હોય, તો પહોળાઈ કેટલી? <br> A. 20 સેમી <br> B. 5 સેમી <br> C. 10 સેમી <br> D. 15 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિના અડધા (15) કરો, તેમાંથી લંબાઈ (10) બાદ કરો, એટલે પહોળાઈ મળે (5)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તમારા પંજાની છાપનું ક્ષેત્રફળ અંદાજિત કયા એકમમાં મપાય? <br> A. ચો.મીટર <br> B. ચો.કિમી <br> C. ચો.સેમી <br> D. મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજો નાનો હોય, એટલે સેમીનો જ ઉપયોગ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "4 ચોરસ ભેગા મળીને કેવા આકાર બનાવી શકે? <br> A. લંબચોરસ <br> B. ચોરસ <br> C. L આકાર <br> D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસને અલગ અલગ રીતે ગોઠવીને ઘણા આકારો બનાવી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો ચોરસની બાજુ બમણી કરવામાં આવે, તો ક્ષેત્રફળ કેટલા ગણું થાય? <br> A. 2 ગણું <br> B. 4 ગણું <br> C. 8 ગણું <br> D. સમાન રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 4 ગણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ 1 હોય તો ક્ષેત્રફળ 1, બાજુ 2 હોય તો ક્ષેત્રફળ 4 (2×2). એટલે 4 ગણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક ત્રિકોણ 2 ચો.સેમી ક્ષેત્રફળ ધરાવતા લંબચોરસનો અડધો ભાગ છે, તો ત્રિકોણનું ક્ષેત્રફળ? <br> A. 2 ચો.સેમી <br> B. 0.5 ચો.સેમી <br> C. 1 ચો.સેમી <br> D. 4 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 1 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ના અડધા 1 થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચોરસ ટાઇલની બાજુ 10 સેમી છે, તો તેનું ક્ષેત્રફળ કેટલું? <br> A. 100 ચો.સેમી <br> B. 40 ચો.સેમી <br> C. 10 ચો.સેમી <br> D. 20 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 100 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 × 10 = 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ક્ષેત્રફળ શોધવા માટે ખાના પદ્ધતિમાં કયા ખાનાને ગણવામાં આવે છે? <br> A. માત્ર આખા <br> B. આખા અને અડધાથી વધુ <br> C. માત્ર અડધા <br> D. આપેલ તમામ (યોગ્ય ગણતરી મુજબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ (યોગ્ય ગણતરી મુજબ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા + (અડધા/2) + અડધાથી વધુ = કુલ ક્ષેત્રફળ!</p></div>"
+    }
+  ]
+}
