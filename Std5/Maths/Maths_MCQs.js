@@ -306,3 +306,161 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આકાર અને ખૂણા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે આકૃતિની બધી બાજુઓ એકબીજા સાથે જોડાયેલી હોય અને ક્યાંયથી ખુલ્લી ન હોય, તેને કેવો આકાર કહેવાય?\n(A) ખુલ્લો આકાર\n(B) બંધ આકાર\n(C) લાંબો આકાર\n(D) ગોળ આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બંધ આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પેન્સિલ ઉપાડ્યા વગર દોરેલી આકૃતિ શરૂઆતના બિંદુએ પાછી આવે, તો તે 'બંધ' આકાર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ષટ્કોણને કુલ કેટલી બાજુઓ હોય છે?\n(A) 4\n(B) 5\n(C) 6\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ષ' એટલે 'છ' (6). ષટ્કોણ એટલે 6 ખૂણા અને 6 બાજુઓ ધરાવતો આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અંગ્રેજી અક્ષર 'L' જેવો આકાર કયો ખૂણો દર્શાવે છે?\n(A) કાટકોણથી નાનો ખૂણો\n(B) કાટકોણથી મોટો ખૂણો\n(C) કાટકોણ\n(D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 'L' ફોર 'L-shape' એટલે હંમેશા 90 અંશનો 'કાટકોણ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાટકોણનું માપ કેટલા અંશ (Degree) હોય છે?\n(A) 45°\n(B) 90°\n(C) 180°\n(D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટકોણ એટલે ગણિતનો 'રાઈટ એન્ગલ' (Right Angle), જે હંમેશા ફિક્સ 90° નો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાટકોણથી નાના ખૂણાને શું કહેવામાં આવે છે?\n(A) ગુરુકોણ\n(B) લઘુકોણ\n(C) કાટકોણ\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લઘુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે 'નાનું'. જે 90° થી નાનું હોય તે લઘુકોણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઘડિયાળમાં બરાબર 3 વાગ્યે બે કાંટા વચ્ચે કયો ખૂણો બને છે?\n(A) કાટકોણથી નાનો\n(B) કાટકોણ\n(C) કાટકોણથી મોટો\n(D) શૂન્ય ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળમાં 3 વાગ્યે અને 9 વાગ્યે બંને કાંટા પર્ફેક્ટ 'L' આકાર બનાવે, એટલે કે કાટકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાંચ દિવાસળીઓની મદદથી બનાવેલ બંધ આકારને શું કહેવાય?\n(A) ચોરસ\n(B) લંબચોરસ\n(C) પંચકોણ\n(D) ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પંચકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 દિવાસળી = 5 બાજુઓ = 'પંચ'કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક ખૂણો 120° નો છે, તો તે ખૂણાનો પ્રકાર જણાવો.\n(A) કાટકોણ\n(B) કાટકોણથી નાનો\n(C) કાટકોણથી મોટો (ગુરુકોણ)\n(D) શૂન્ય ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણથી મોટો (ગુરુકોણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 120 એ 90 કરતા મોટા છે. 'ગુરુ' એટલે 'મોટું', તેથી તે ગુરુકોણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાટકોણના અડધા ભાગનું માપ કેટલા અંશ હોય?\n(A) 90°\n(B) 45°\n(C) 30°\n(D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 45°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટકોણ = 90. અડધું એટલે 90 ÷ 2 = 45.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કયા આકારને દબાવવાથી તેના ખૂણામાં કોઈ ફેરફાર થતો નથી (તે મજબૂત રહે છે)?\n(A) ચોરસ\n(B) પંચકોણ\n(C) ત્રિકોણ\n(D) ષટ્કોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ સૌથી મજબૂત આકાર છે, એટલે જ પુલ (Bridges) અને ટાવરમાં ત્રિકોણનો ઉપયોગ થાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાટકોણનો ત્રીજો ભાગ એટલે કેટલા અંશ?\n(A) 45°\n(B) 30°\n(C) 20°\n(D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 30°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજો ભાગ એટલે 90 ને 3 વડે ભાગો. 90 ÷ 3 = 30.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઘડિયાળમાં 2 વાગ્યે બે કાંટા વચ્ચે કયો ખૂણો બનશે?\n(A) કાટકોણ\n(B) કાટકોણથી મોટો\n(C) કાટકોણથી નાનો\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 વાગ્યે કાટકોણ બને, તો 3 થી ઓછા સમય (જેમ કે 1 કે 2 વાગ્યે) કાટકોણથી નાનો જ ખૂણો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અંગ્રેજી અક્ષર 'Z' માં કયો ખૂણો જોવા મળે છે?\n(A) કાટકોણથી નાનો\n(B) કાટકોણ\n(C) કાટકોણથી મોટો\n(D) શૂન્ય ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Z' અને 'N' માં ખૂણાઓ સાંકડા (તીક્ષ્ણ) હોય છે, જે કાટકોણથી નાના હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કેરમ બોર્ડના ચારેય ખૂણા કેવા પ્રકારના ખૂણા હોય છે?\n(A) લઘુકોણ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) લંબગોળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ ચોરસ કે લંબચોરસ વસ્તુના ચારેય ખૂણા હંમેશા કાટકોણ (90°) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઘડિયાળમાં 8 વાગ્યે બે કાંટા વચ્ચે કયો ખૂણો બને છે?\n(A) કાટકોણથી નાનો\n(B) કાટકોણથી મોટો\n(C) કાટકોણ\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણથી મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 વાગ્યે કાંટા વચ્ચેનું અંતર 4 કલાકનું છે (8-12), જે 90° થી વધુ પહોળું દેખાય છે, તેથી ગુરુકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખૂણો માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?\n(A) ફૂટપટ્ટી\n(B) પરિકર\n(C) કોણમાપક\n(D) રબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોણમાપક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણ એટલે ખૂણો, અને માપક એટલે માપનાર સાધન. તેથી 'કોણમાપક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાટકોણના બમણા (બે ગણા) માપને શું કહેવાય?\n(A) 180°\n(B) 90°\n(C) 45°\n(D) 360°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટકોણ = 90. બમણા એટલે 90 × 2 = 180.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેનામાંથી કયા અંગ્રેજી શબ્દમાં સૌથી વધુ કાટકોણ જોવા મળશે?\n(A) SINDU\n(B) HINDS\n(C) MATHS\n(D) E",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) E</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર 'E' માં કુલ 4 કાટકોણ બને છે. (પુસ્તક મુજબ 'HINTS' જેવો શબ્દ ચેક કરવો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "યોગા કરતી વખતે જ્યારે આપણે સીધા સૂઈને પગ 90 અંશે ઊંચા કરીએ, ત્યારે કયો ખૂણો બને?\n(A) લઘુકોણ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ '90 અંશ' લખ્યું છે, અને 90 અંશ એટલે કાટકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ત્રિકોણને કુલ કેટલા ખૂણા હોય છે?\n(A) 2\n(B) 3\n(C) 4\n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિ' એટલે 'ત્રણ'. ત્રિકોણ એટલે ત્રણ ખૂણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચિપ્સ કે આઈસ્ક્રીમના કોનનો ખૂણો કેવો હોય છે?\n(A) કાટકોણથી નાનો\n(B) કાટકોણ\n(C) કાટકોણથી મોટો\n(D) ગોળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસ્ક્રીમ કોન નીચેથી સાંકડો હોય છે, સાંકડો ખૂણો એટલે લઘુકોણ (કાટકોણથી નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો બે દિવાલ વચ્ચેનો ખૂણો 'L' આકારનો હોય, તો તેનું માપ કેટલું હશે?\n(A) 45°\n(B) 60°\n(C) 90°\n(D) 120°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂમની બે દિવાલ કે બારીના ખૂણા હંમેશા કાટખૂણે એટલે કે 90° એ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખુલ્લી રાખેલી કાતરના બે પાંખિયા વચ્ચે કયો ખૂણો બને છે?\n(A) કાટકોણથી નાનો\n(B) કાટકોણ\n(C) કાટકોણથી મોટો\n(D) શૂન્ય ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય રીતે કાતરનો ખૂણો સાંકડો (V જેવો) હોય છે, જે લઘુકોણ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "10 વાગ્યે ઘડિયાળના કાંટા વચ્ચે કયો ખૂણો હશે?\n(A) કાટકોણથી મોટો\n(B) કાટકોણથી નાનો\n(C) કાટકોણ\n(D) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 વાગ્યે નાનો કાંટો 10 પર અને મોટો 12 પર હોય, તેમની વચ્ચે માત્ર 2 કલાકનું અંતર છે, જે નાનો ખૂણો બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાટકોણના 3 ગણા એટલે કેટલા અંશ?\n(A) 180°\n(B) 270°\n(C) 360°\n(D) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 270°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 × 3 = 270. ઘડિયાળના 9 ના ટેબલ જેવું જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચોરસમાં કેટલા ખૂણા હોય છે?\n(A) 3\n(B) 4\n(C) 5\n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ = 'ચો' એટલે ચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બગીચામાં લપસણીનો ખૂણો જમીન સાથે કેવો હોવો જોઈએ જેથી તે સુરક્ષિત રહે?\n(A) ખૂબ મોટો\n(B) કાટકોણથી નાનો\n(C) ખૂબ નાનો\n(D) કાટકોણથી મોટો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) કાટકોણથી મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો મોટો હોય તો લપસણી ઓછી ઢાળવાળી રહે અને પડવાની બીક ઓછી લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અષ્ટકોણને કુલ કેટલી બાજુઓ હોય છે?\n(A) 6\n(B) 7\n(C) 8\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અષ્ટ' એટલે સંસ્કૃતમાં '8'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પુસ્તકના ખૂણા કેવા પ્રકારના હોય છે?\n(A) કાટકોણથી નાના\n(B) કાટકોણથી મોટા\n(C) કાટકોણ\n(D) વર્તુળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક લંબચોરસ હોય, અને લંબચોરસના ખૂણા હંમેશા કાટકોણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ખૂણા માપવાનો એકમ કયો છે?\n(A) સેન્ટીમીટર\n(B) કિલોગ્રામ\n(C) અંશ (Degree)\n(D) લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અંશ (Degree)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણાને માપવા માટે ઉપર નાનું મીંડું (°) કરાય છે, જેને 'અંશ' કહેવાય.</p></div>"
+    }
+  ]
+}
