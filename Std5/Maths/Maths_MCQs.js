@@ -2191,3 +2191,211 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સ્માર્ટ ચાર્ટ્સ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટેલી માર્ક (આવૃત્તિ ચિહ્ન) માં '5' ને દર્શાવવા માટે નીચેનામાંથી કઈ રીત સાચી છે? (પાઠ્યપુસ્તક મુજબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એક ચોરસ બનાવી તેમાં એક આડી લીટી દોરવી. </p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 4 લીટીથી ચોરસ બનાવો અને 5 મી લીટીથી તેને જોડી દો એટલે '5' નો બંડલ તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો એક ઊભી લીટી '|' એટલે 1 પ્રાણી હોય, તો 3 પ્રાણીઓ માટે કેટલા ટેલી માર્ક થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3 લીટીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યા એટલી લીટીઓ, પણ 5 એ ચોરસ પૂર્ણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક ચાર્ટમાં 4 ચોરસ ટેલી માર્ક (દરેક 5 ના) અને 2 છૂટી લીટીઓ છે, તો કુલ સંખ્યા કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 22</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ચોરસ × 5 = 20, અને 20 + 2 છૂટા = 22.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચપાટી આલેખ (પાઈ ચાર્ટ) માં અડધો ભાગ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 50% અથવા કુલ સંખ્યાના અડધા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળના બે સરખા ભાગ એટલે 1/2 અથવા અડધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો વર્તુળ આલેખમાં ચોથો ભાગ (1/4) બાળકોને દૂધ ભાવતું હોય અને કુલ બાળકો 20 હોય, તો કેટલા બાળકોને દૂધ ભાવતું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોથો ભાગ એટલે સંખ્યાને 4 વડે ભાગો. 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રસ્તા પરથી પસાર થતી ગાડીઓની સંખ્યા ગણવા માટે કયા આલેખનો ઉપયોગ વધુ સરળ રહે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ટેલી માર્ક (આવૃત્તિ ચિહ્ન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એક-એક કરીને ગણતરી કરવાની હોય ત્યારે લીટી (ટેલી માર્ક) કરવી સૌથી સહેલી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લંબ આલેખમાં સ્તંભની ઊંચાઈ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આપેલી વિગતની સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો થાંભલો (સ્તંભ) ઊંચો, તેની સંખ્યા મોટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક વર્ગમાં 32 બાળકો છે. તેમાંથી અડધા બાળકોને ક્રિકેટ ગમે છે, તો કેટલા બાળકોને ક્રિકેટ ગમે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું એટલે 2 વડે ભાગાકાર. 32 ÷ 2 = 16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો 10 પ્રાણીઓ માટે ટેલી માર્ક કરવા હોય, તો કેટલા ચોરસ બૉક્સ બનશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 બૉક્સ = 5, તો 2 બૉક્સ = 10!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઈ ચાર્ટમાં જો આખું વર્તુળ 100 બાળકો દર્શાવે, તો અડધું વર્તુળ કેટલા બાળકો દર્શાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું 100 હોય તો અડધું 50 જ હોય ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયો આલેખ 'ચપાટી આલેખ' તરીકે પણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વર્તુળ આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ ચપાટી જેવો આલેખ એટલે ચપાટી આલેખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો 1 ચોરસ ટેલી માર્ક = 5 ગાયો હોય, તો 25 ગાયો માટે કેટલા ટેલી માર્ક જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 ÷ 5 = 5. પાંચ-પાંચ ના પાંચ જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તાપમાન દર્શાવવા માટે સામાન્ય રીતે કયા આલેખનો ઉપયોગ થાય છે જે ઊભી પટ્ટીઓ જેવો દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લંબ આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચી નીચી પટ્ટીઓ એટલે લંબ આલેખ (Bar Graph).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચપાટી આલેખમાં જો 1/4 ભાગ ચા પીનારાનો છે, તો બાકીનો 3/4 ભાગ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચા ન પીનારા લોકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 1 માંથી 1/4 જાય તો 3/4 વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્માર્ટ ચાર્ટ્સનો મુખ્ય ઉપયોગ શો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) માહિતીને સરળતાથી સમજવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર્ટ એટલે માહિતીનું ચિત્ર, જે જલ્દી સમજાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો '||' બે લીટીઓ એટલે 2 સાયકલ હોય, તો 10 સાયકલ માટે કેટલી લીટીઓ થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 માટે 1 લીટી તો 10 માટે 10 લીટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક લંબ આલેખમાં સોમવારે 10 મીમી અને મંગળવારે 20 મીમી વરસાદ પડ્યો છે, તો કયા દિવસે બમણો વરસાદ પડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મંગળવારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ના ડબલ 20 થાય, માટે મંગળવાર સાચો જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો 1 ટેલી માર્ક બૉક્સ = 5 પ્રાણી હોય, તો 3 બૉક્સ અને 3 લીટીઓ કેટલી સંખ્યા દર્શાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (3 × 5) + 3 = 15 + 3 = 18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચપાટી આલેખમાં જો 40 બાળકોમાંથી 10 બાળકોને ગણિત ગમે છે, તો આલેખમાં કેટલો ભાગ રોકાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોથો ભાગ (1/4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 એ 40 નો ચોથો ભાગ છે (40 ÷ 10 = 4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બાળકોને મનપસંદ ફળ પૂછવામાં આવ્યા. 12 ને કેરી અને 6 ને સફરજન ગમે છે. સફરજન કરતા કેરી કેટલા ગણા બાળકોને ગમે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે ગણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 × 2 = 12, એટલે કે બમણું અથવા બે ગણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લંબ આલેખમાં બે સ્તંભો વચ્ચેની જગ્યા કેવી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) એકસરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખ ચોખ્ખો દેખાય તે માટે જગ્યા હંમેશા સમાન હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો 15 બાળકોને આઈસ્ક્રીમ ભાવે છે અને તેને ટેલી માર્ક માં દર્શાવવા હોય તો કેટલા બૉક્સ (5 ના) જોઈશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 + 5 + 5 = 15. એટલે 3 પૂરા બૉક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચપાટી આલેખમાં 'પા' (ચોથો) ભાગ એટલે કેટલા ટકા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના 4 ભાગ કરો તો 25 મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "માહિતીના એકત્રીકરણને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ડેટા (Data)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ વિગત ભેગી કરો તેને ગણિતમાં ડેટા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો એક વર્તુળમાં 1/2 ભાગ છોકરીઓ અને 1/2 ભાગ છોકરાઓ છે, તો બંનેની સંખ્યા કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું-અડધું એટલે હંમેશા સરખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ટેલી માર્કની મદદથી શું ગણવું સૌથી સહેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આવૃત્તિ (Frequency)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ વસ્તુ કેટલી વાર આવી તે ગણવા માટે ટેલી માર્ક બેસ્ટ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એક ચાર્ટમાં 7 પ્રાણીઓ માટે કેટલા ટેલી માર્ક થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 1 પાંચનું બૉક્સ અને 2 છૂટી લીટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 + 2 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "લંબ આલેખમાં 'Y' અક્ષ પર શું દર્શાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સંખ્યા/માપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભી લીટી (Y) પર હંમેશા આંકડા (Numbers) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો 100 બાળકોમાંથી 75 બાળકો રમવા જાય છે, તો પાઈ ચાર્ટમાં કયો ભાગ રમનારા બાળકોનો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3/4 ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 75 એ 100 નો ત્રીજો-ચોથો ભાગ (પોણો ભાગ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કઈ માહિતી માટે ચાર્ટ બનાવવો ઉપયોગી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ફક્ત એક જ વ્યક્તિનું નામ લખવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર્ટ હંમેશા સરખામણી કરવા માટે વપરાય, એકલી વિગત માટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો આવૃત્તિ ચિહ્ન '|_|' (3 બાજુ) 3 દર્શાવે, તો 4 માટે શું બનશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોરસ (4 બાજુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકની રીત મુજબ 4 લીટીથી ચોરસ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ચપાટી આલેખમાં 1/4 ભાગ એટલે કેટલા ડિગ્રી (ખૂણો) થાય? (વધારાની જાણકારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90 ડિગ્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળના ચાર સરખા ભાગ એટલે કાટખૂણો (90°)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો આલેખમાં એક સેમી = 5 કિમી હોય, તો 4 સેમી લાંબો સ્તંભ કેટલા કિમી દર્શાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 20 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 × 5 = 20. ગુણાકાર કરો જવાબ હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સૌથી વધુ પસંદગીની વસ્તુ ચાર્ટમાં કેવી રીતે દેખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સૌથી મોટો સ્તંભ અથવા સૌથી મોટો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વધારે લોકપ્રિય હોય તે ચાર્ટમાં સૌથી વધુ જગ્યા રોકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો 12 ટેલી માર્ક હોય, તો તેને 5 ના જૂથમાં કેવી રીતે વહેંચાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2 જૂથ અને 2 છૂટી લીટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 = (5+5) + 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પાઈ ચાર્ટમાં 3/4 ભાગ કલર કરેલો છે, તો કેટલા ટકા ભાગ ખાલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% માંથી 75% (3/4) જાય તો 25% વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "માહિતીને ચિત્ર દ્વારા દર્શાવવાની રીતને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ચિત્ર આલેખ (Pictograph)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર એટલે ચિત્ર આલેખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક વર્ગમાં 40 વિદ્યાર્થીઓ છે. પાઈ ચાર્ટમાં બતાવ્યું છે કે ચોથો ભાગ પ્રવાસમાં જવા માંગે છે. તો કેટલા વિદ્યાર્થી પ્રવાસમાં નહીં જાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે 10 જાય, તો 40 - 10 = 30 બાકી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો આલેખમાં 1 સેમી = 10 ગુણ હોય, તો 50 ગુણ માટે કેટલા સેમીનો સ્તંભ દોરવો પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 ÷ 10 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સ્માર્ટ ચાર્ટ શીખવાનો ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઝડપી અને ચોક્કસ નિર્ણય લેવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોઈને જ ખબર પડી જાય કે શું વધારે છે અને શું ઓછું!</p></div>"
+    }
+  ]
+}
