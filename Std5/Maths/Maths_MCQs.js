@@ -1725,3 +1725,311 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દસમો અને સોમો ભાગ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "૧ સેન્ટિમીટરના ૧૦ સરખા ભાગમાંના એક ભાગને શું કહેવાય? \n A) ૧ મીટર \n B) ૧ મિલીમીટર \n C) ૧ કિલોમીટર \n D) ૧૦ સેન્ટીમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧ મિલીમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફૂટપટ્ટી પર ૧ સેમી ની વચ્ચે જે ૧૦ નાના કાપા હોય છે, તેને 'મિલીમીટર' (mm) કહેવાય. યાદ રાખો: ૧ સેમી = ૧૦ મીમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "૦.૫ સેન્ટીમીટર એટલે કેટલા મિલીમીટર? \n A) ૫૦ મીમી \n B) ૦.૫ મીમી \n C) ૫ મીમી \n D) ૫૦૦ મીમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૫ મીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેમી માંથી મીમી માં જવા માટે સંખ્યાને ૧૦ વડે ગુણો. ૦.૫ × ૧૦ = ૫.૦ એટલે કે ૫ મીમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "૧ રૂપિયો એટલે કેટલા પૈસા? \n A) ૧૦ પૈસા \n B) ૧૦૦ પૈસા \n C) ૫૦ પૈસા \n D) ૧૦૦૦ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧૦૦ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૂપિયાને પૈસામાં ફેરવવા હંમેશા પાછળ બે મીંડા (૧૦૦ વડે ગુણાકાર) લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "૭૫ પૈસાને રૂપિયામાં કેવી રીતે લખાય? \n A) ૭.૫ રૂપિયા \n B) ૭૫.૦ રૂપિયા \n C) ૦.૭૫ રૂપિયા \n D) ૦.૦૭૫ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૦.૭૫ રૂપિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૈસાને રૂપિયામાં ફેરવવા ડાબી બાજુથી ૨ અંક પછી દશાંશ ચિહ્ન (Point) મૂકવું. (૭૫/૧૦૦ = ૦.૭૫)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "૩ મિલીમીટરને સેન્ટીમીટરમાં શું લખાય? \n A) ૩.૦ સેમી \n B) ૦.૩ સેમી \n C) ૦.૦૩ સેમી \n D) ૩૦ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૩ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મીમી થી સેમી માં આવવા માટે ૧૦ વડે ભાગાકાર કરો. એટલે કે ૧ અંક પછી પોઈન્ટ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "૧૦/૧૦૦ ને દશાંશ સ્વરૂપમાં લખો. \n A) ૧.૦ \n B) ૦.૦૧ \n C) ૦.૧ \n D) ૧૦.૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૦.૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦/૧૦૦ માંથી એક એક મીંડું ઉડી જાય તો ૧/૧૦ વધે, એટલે કે ૦.૧.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "૪૫ સેન્ટીમીટરને મીટરમાં ફેરવો. \n A) ૪.૫ મીટર \n B) ૦.૪૫ મીટર \n C) ૪૫૦ મીટર \n D) ૦.૦૪૫ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૪૫ મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ મીટર = ૧૦૦ સેમી. તેથી સેમી ને ૧૦૦ વડે ભાગતા બે અંક પછી પોઈન્ટ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "૦.૦૯ ને શું વંચાય? \n A) નવ દશાંશ \n B) નવ સોમાંશ \n C) નેવું સોમાંશ \n D) નવ હજારાંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) નવ સોમાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી બે અંક હોય તો તેને 'સોમાંશ' કહેવાય અને પોઈન્ટ પછી એક અંક હોય તો 'દશાંશ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કઈ સંખ્યા સૌથી મોટી છે? \n A) ૦.૧ \n B) ૦.૦૧ \n C) ૦.૧૧ \n D) ૦.૦૯",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૦.૧૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખામણી કરવા માટે પોઈન્ટ પછીના અંકો સમાન કરો: ૦.૧૦, ૦.૦૧, ૦.૧૧, ૦.૦૯. હવે સ્પષ્ટ છે કે ૧૧ સૌથી મોટા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "૧૫ સેમી ૫ મીમી ને દશાંશ સંખ્યામાં કેવી રીતે લખાય? \n A) ૧.૫૫ સેમી \n B) ૧૫૫ સેમી \n C) ૧૫.૫ સેમી \n D) ૦.૧૫૫ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૧૫.૫ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેમી પછી પોઈન્ટ મૂકીને મીમી લખી નાખવા. (૧૫ સેમી + ૦.૫ સેમી = ૧૫.૫ સેમી)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "૩/૧૦૦ ને દશાંશ સંખ્યામાં કેવી રીતે લખશો? \n A) ૦.૩ \n B) ૦.૦૩ \n C) ૩.૦૦ \n D) ૦.૦૦૩",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૦૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં બે મીંડા (૧૦૦) હોય, તો ઉપરની સંખ્યામાં ડાબી બાજુથી ગણીને બે અંક પછી પોઈન્ટ મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "૨૫ પૈસા એ ૧ રૂપિયાનો કેટલામો ભાગ છે? \n A) ૧/૨ ભાગ \n B) ૧/૧૦ ભાગ \n C) ૧/૪ ભાગ \n D) ૧/૫ ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૧/૪ ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૨૫ + ૨૫ + ૨૫ + ૨૫ = ૧૦૦ થાય. એટલે કે ૨૫ પૈસાના ચાર સિક્કા ભેગા કરો ત્યારે ૧ રૂપિયો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દિનેશની ઊંચાઈ ૨ મીટર ૪ સેમી છે. તો તેને મીટરમાં કેવી રીતે લખાય? \n A) ૨.૪ મીટર \n B) ૨.૦૪ મીટર \n C) ૨૪૦ મીટર \n D) ૦.૨૪ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૨.૦૪ મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાવધાન! ૪ સેમી એટલે ૪/૧૦૦ મીટર થાય, તેથી ૦.૦૪ આવે. ૨ + ૦.૦૪ = ૨.૦૪ મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "૧૨.૩૫ માં '૩' કયા સ્થાન પર છે? \n A) દશક \n B) એકમ \n C) દશાંશ \n D) સોમાંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) દશાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછીનો તરત જ પહેલો અંક 'દશાંશ' કહેવાય અને બીજો અંક 'સોમાંશ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક અગરબત્તીની લંબાઈ ૧૧ સેમી ૭ મીમી છે, તો તેને દશાંશ સ્વરૂપમાં લખો. \n A) ૧.૧૭ સેમી \n B) ૧૧.૭ સેમી \n C) ૦.૧૧૭ સેમી \n D) ૧૧૭ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧૧.૭ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ સેમી = ૧૦ મીમી, તેથી ૭ મીમી = ૦.૭ સેમી. કુલ ૧૧ + ૦.૭ = ૧૧.૭ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "૦.૫૦ અને ૦.૫ માંથી કઈ સંખ્યા નાની છે? \n A) ૦.૫૦ \n B) ૦.૫ \n C) બંને સરખી છે \n D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) બંને સરખી છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ સંખ્યામાં પોઈન્ટ પછી છેલ્લા મીંડાની કોઈ કિંમત હોતી નથી. ૦.૫ = ૦.૫૦ = ૦.૫૦૦ બધું સરખું જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "૧ મીટરનો ૧૦૦ મો ભાગ એટલે શું? \n A) ૧ સેમી \n B) ૧ મીમી \n C) ૧૦ સેમી \n D) ૧ કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ૧ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦૦ સેમી ભેગા થાય ત્યારે ૧ મીટર બને, એટલે ૧ સેમી એ ૧ મીટરનો ૧૦૦મો ભાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો એક મીણબત્તીની લંબાઈ ૨.૮ સેમી હોય, તો મિલીમીટરમાં કેટલી કહેવાય? \n A) ૦.૨૮ મીમી \n B) ૨૮૦ મીમી \n C) ૨૮ મીમી \n D) ૨.૮ મીમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૨૮ મીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેમી માંથી મીમી માં જવા પોઈન્ટને એક ડગલું જમણી બાજુ ખસેડો. ૨.૮ → ૨૮.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શ્રીનગરનું તાપમાન ૮.૧ °C છે અને જયપુરનું તાપમાન ૨૩.૨ °C છે. તો બંનેના તાપમાનમાં કેટલો તફાવત છે? \n A) ૧૫.૧ °C \n B) ૩૧.૩ °C \n C) ૧૫.૨ °C \n D) ૧૪.૧ °C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ૧૫.૧ °C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તફાવત એટલે બાદબાકી. ૨૩.૨ - ૮.૧ = ૧૫.૧. પોઈન્ટ નીચે પોઈન્ટ રાખીને જ બાદબાકી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "૫૦૦ પૈસા એટલે કેટલા રૂપિયા? \n A) ૫૦ રૂપિયા \n B) ૦.૫ રૂપિયા \n C) ૫ રૂપિયા \n D) ૫૦૦ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૫ રૂપિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૈસા માંથી રૂપિયામાં આવવા પાછળના બે મીંડા કાઢી નાખો. ૫૦૦ માંથી બે મીંડા જાય એટલે ૫ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "૭/૧૦ ને શબ્દોમાં શું કહેવાય? \n A) સાત સોમાંશ \n B) સાત દશાંશ \n C) સિત્તેર સોમાંશ \n D) સાત મિલીમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સાત દશાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં ૧૦ હોય તો 'દશાંશ' બોલાય, છેદમાં ૧૦૦ હોય તો 'સોમાંશ' બોલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "૨.૦૫ રૂપિયા એટલે કેટલા પૈસા? \n A) ૨૫ પૈસા \n B) ૨૦૫ પૈસા \n C) ૨૦.૫ પૈસા \n D) ૫ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૨૦૫ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૂપિયામાંથી પૈસામાં જવા પોઈન્ટ કાઢી નાખો (કારણ કે ૧૦૦ વડે ગુણાકાર થાય છે). ૨.૦૫ → ૨૦૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "૧ મીટરના ૧૦ સરખા ભાગમાંના એક ભાગને શું કહેવાય? \n A) ૧ સેમી \n B) ૧૦ સેમી \n C) ૧ મીમી \n D) ૦.૦૧ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧૦ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦૦ સેમી / ૧૦ ભાગ = ૧૦ સેમી. તેને ૧ દશાંશ મીટર પણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "૦.૭ અને ૦.૦૭ માંથી મોટી સંખ્યા કઈ છે? \n A) ૦.૦૭ \n B) ૦.૭ \n C) બંને સમાન છે \n D) ૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૦.૭ એટલે ૭૦ પૈસા જેવું અને ૦.૦૭ એટલે ૭ પૈસા જેવું. તો ૭૦ પૈસા મોટા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેનામાંથી કયું ૦.૨ ને સમાન છે? \n A) ૨/૧૦૦ \n B) ૨૦/૧૦ \n C) ૨/૧૦ \n D) ૨૦/૧૦૦૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૨/૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી એક અંક હોય તો છેદમાં ૧૦ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "૧૦૦ પૈસાના ૦.૫૦ ભાગ એટલે કેટલા પૈસા? \n A) ૫ પૈસા \n B) ૫૦ પૈસા \n C) ૧૦ પૈસા \n D) ૫૦૦ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૫૦ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૦.૫૦ એટલે અડધો ભાગ. ૧૦૦ ના અડધા ૫૦ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "૮ મીમી = _____ સેમી. \n A) ૮.૦ \n B) ૦.૮ \n C) ૦.૦૮ \n D) ૮૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ અંકની સંખ્યા મીમીમાં હોય તો તેને સેમીમાં ફેરવવા ૦. (Point) લગાવી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "૦.૬૫ ને અપૂર્ણાંક સ્વરૂપમાં લખો. \n A) ૬૫/૧૦ \n B) ૬/૫ \n C) ૬૫/૧૦૦ \n D) ૧૦૦/૬૫",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૬૫/૧૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી જેટલા અંક હોય, એકડાની પાછળ તેટલા મીંડા છેદમાં આવે. (અહીં ૨ અંક છે તો ૧૦૦)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો એક દીવાસળીની લંબાઈ ૪ સેમી હોય, તો ૧૦ દીવાસળીની કુલ લંબાઈ કેટલી થાય? \n A) ૪૦૦ સેમી \n B) ૪૦ સેમી \n C) ૪ મીમી \n D) ૦.૪ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૪૦ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાદો ગુણાકાર: ૪ સેમી × ૧૦ = ૪૦ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "૬ મીટર ૮૦ સેમી ને મીટરમાં શું લખાય? \n A) ૬૮.૦ મીટર \n B) ૬.૦૮ મીટર \n C) ૬.૮૦ મીટર \n D) ૦.૬૮ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૬.૮૦ મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મીટર એ પૂર્ણાંક છે અને સેમી એ દશાંશ ભાગ. તેથી ૬.૮૦ મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "૦.૧૨ + ૦.૦૮ = ? \n A) ૦.૨૦ \n B) ૦.૧૦ \n C) ૦.૦૨ \n D) ૧.૨૮",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ૦.૨૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૨ પૈસા + ૮ પૈસા = ૨૦ પૈસા, એટલે કે ૦.૨૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "૧ સેમી નો ૧/૧૦ ભાગ એટલે કેટલા મીમી? \n A) ૧૦ મીમી \n B) ૧ મીમી \n C) ૦.૧ મીમી \n D) ૧૦૦ મીમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧ મીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ સેમી = ૧૦ મીમી. તો ૧૦ મીમી નો ૧૦ મો ભાગ એટલે ૧ મીમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "નીચેનામાંથી કઈ જોડી સાચી છે? \n A) ૨૫ પૈસા = ૦.૫ રૂપિયા \n B) ૫૦ પૈસા = ૦.૫ રૂપિયા \n C) ૭૫ પૈસા = ૭.૫ રૂપિયા \n D) ૧૦ પૈસા = ૦.૦૧ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૫૦ પૈસા = ૦.૫ રૂપિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૫૦ પૈસા એટલે અડધો રૂપિયો. ૧૦૦ ના અડધા ૫૦ અને ૧ ના અડધા ૦.૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "૯૯ પૈસા એટલે કેટલા રૂપિયા? \n A) ૯.૯ રૂપિયા \n B) ૦.૯૯ રૂપિયા \n C) ૯૯.૦ રૂપિયા \n D) ૦.૦૯૯ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૯૯ રૂપિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૯૯/૧૦૦ = ૦.૯૯. હમેશા યાદ રાખો: પૈસા < ૧૦૦ હોય તો જવાબ ૦. થી શરૂ થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ફૂટપટ્ટી પર ૧ સેમી અને ૨ સેમી વચ્ચે કેટલા કાપા હોય છે? \n A) ૫ \n B) ૧૦ \n C) ૮ \n D) ૧૨",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ ૧૦ કાપા એટલે જ ૧૦ મિલીમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "૨.૫ સેમી લાંબી પેન્સિલ અને ૩.૨ સેમી લાંબી પેન છે. બંનેની કુલ લંબાઈ કેટલી? \n A) ૫.૭ સેમી \n B) ૫.૦ સેમી \n C) ૦.૭ સેમી \n D) ૬.૭ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ૫.૭ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૨.૫ + ૩.૨ = ૫.૭. પોઈન્ટ પહેલાંના અને પોઈન્ટ પછીના અંકોનો સરવાળો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "૦.૦૫ ને અપૂર્ણાંકમાં શું લખાય? \n A) ૫/૧૦ \n B) ૫/૧૦૦ \n C) ૫૦/૧૦૦ \n D) ૧/૫",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૫/૧૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી બે આંકડા હોય તો છેદમાં ૧૦૦ આવે. ૦.૦૫ = ૫/૧૦૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક ખીલીની લંબાઈ ૩ સેમી અને ૯ મીમી છે. તેને શું લખાય? \n A) ૩૯ સેમી \n B) ૦.૩૯ સેમી \n C) ૩.૯ સેમી \n D) ૩.૦૯ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૩.૯ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મીમી ને સેમી માં ફેરવવા તેને પોઈન્ટ પછી મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "૧ મીટર ૫ સેમી ને મીટરમાં લખો. \n A) ૧.૫ મીટર \n B) ૧.૦૫ મીટર \n C) ૧૫.૦ મીટર \n D) ૦.૧૫ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧.૦૫ મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ મીટર = ૧૦૦ સેમી. ૫ સેમી એટલે ૦.૦૫ મીટર. તેથી ૧.૦૫ મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "૭૦ પૈસા એટલે ૧ રૂપિયાનો કેટલામો ભાગ? \n A) ૭/૧૦૦ ભાગ \n B) ૭/૧૦ ભાગ \n C) ૭૦ ભાગ \n D) ૦.૦૭ ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૭/૧૦ ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૭૦/૧૦૦ માંથી મીંડું ઉડાડતા ૭/૧૦ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "૦.૩ + ૦.૦૩ = ? \n A) ૦.૦૬ \n B) ૦.૩૩ \n C) ૩.૩ \n D) ૦.૬",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૩૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૦.૩૦ + ૦.૦૩ = ૦.૩૩. હંમેશા અંકોની સંખ્યા સમાન કરી સરવાળો કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "૧.૫૦ રૂપિયા એટલે કેટલા પૈસા? \n A) ૧૫ પૈસા \n B) ૧૫૦ પૈસા \n C) ૧.૫ પૈસા \n D) ૫૦ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧૫૦ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ રૂપિયો (૧૦૦ પૈસા) + ૫૦ પૈસા = ૧૫૦ પૈસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "નીચેનામાંથી કઈ સંખ્યા ૦.૪ અને ૦.૫ ની વચ્ચે આવે છે? \n A) ૦.૩૫ \n B) ૦.૪૫ \n C) ૦.૫૫ \n D) ૦.૬",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૪૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેને ૪૦ અને ૫૦ તરીકે જુઓ. ૪૦ અને ૫૦ ની વચ્ચે ૪૫ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "૧ મિલીમીટર એ ૧ સેન્ટિમીટરનો કેટલામો ભાગ છે? \n A) ૧૦ મો ભાગ \n B) ૧૦૦ મો ભાગ \n C) ૫ મો ભાગ \n D) ૨૦ મો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ૧૦ મો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ સેમી = ૧૦ મીમી. તેથી ૧ મીમી એ ૧૦મો ભાગ (૧/૧૦) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "૦.૧૦ અને ૦.૧ માં શું તફાવત છે? \n A) ૦.૧ મોટું છે \n B) ૦.૧૦ મોટું છે \n C) બંને સમાન છે \n D) એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) બંને સમાન છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ સંખ્યામાં પાછળ ગમે તેટલા મીંડા લગાવો કિંમત બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "૧૦૦ સેમી = ______ મીટર. \n A) ૧૦ \n B) ૧ \n C) ૦.૧ \n D) ૧૦૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ તો પાયાનો નિયમ છે! ૧ મીટર એટલે ૧૦૦ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "બેંગલુરુનું તાપમાન ૩૫.૮ °C છે. જો તે ૩ °C ઘટે તો કેટલું થાય? \n A) ૩૮.૮ °C \n B) ૩૨.૮ °C \n C) ૩૫.૫ °C \n D) ૩.૮ °C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૩૨.૮ °C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘટવું એટલે બાદબાકી. ૩૫.૮ - ૩.૦ = ૩૨.૮.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "૧/૨ રૂપિયો એટલે કેટલા પૈસા? \n A) ૨૦ પૈસા \n B) ૫૦ પૈસા \n C) ૫ પૈસા \n D) ૨ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૫૦ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ રૂપિયો = ૧૦૦ પૈસા. ૧/૨ એટલે અડધા. ૧૦૦ ના અડધા ૫૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "૦.૦૧ મીટર એટલે કેટલા સેમી? \n A) ૧૦ સેમી \n B) ૧ સેમી \n C) ૧૦૦ સેમી \n D) ૦.૧ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦૦ મો ભાગ એટલે ૧ સેમી. ૦.૦૧ એટલે ૧/૧૦૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "૮.૫ સેમી માં '૮' શું દર્શાવે છે? \n A) મિલીમીટર \n B) સેન્ટિમીટર \n C) મીટર \n D) કિલોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સેન્ટિમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પહેલાંની આખી સંખ્યા મુખ્ય એકમ (સેમી) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "૪/૧૦૦ ને દશાંશ સંખ્યામાં લખો. \n A) ૦.૪ \n B) ૦.૦૪ \n C) ૪.૦૦ \n D) ૦.૦૦૪",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૦.૦૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે મીંડા છેદમાં હોય તો બે અંક પછી પોઈન્ટ. ૪ ની આગળ એક મીંડું મૂકીને પોઈન્ટ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "૦.૬૦ રૂપિયાને પૈસામાં ફેરવો. \n A) ૬ પૈસા \n B) ૬૦ પૈસા \n C) ૬૦૦ પૈસા \n D) ૦.૬ પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૬૦ પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૦.૬૦ × ૧૦૦ = ૬૦ પૈસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સૌથી નાની સંખ્યા કઈ છે? \n A) ૦.૧ \n B) ૦.૧૧ \n C) ૦.૦૧ \n D) ૦.૨",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૦.૦૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી તરત મોટું મીંડું હોય તે સંખ્યા નાની ગણાય (જો પૂર્ણાંક ૦ હોય તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "૨૦ મીમી = ______ સેમી. \n A) ૦.૨ \n B) ૨.૦ \n C) ૨૦૦ \n D) ૦.૦૨",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૨.૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦ મીમી = ૧ સેમી, તો ૨૦ મીમી = ૨ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "૫.૭૫ રૂપિયામાં ૭૫ શું દર્શાવે છે? \n A) રૂપિયા \n B) પૈસા \n C) મીટર \n D) પૈસાનો દસમો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૂપિયાના પોઈન્ટ પછીના બે અંકો હંમેશા પૈસા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "૧/૧૦૦ ને શબ્દોમાં શું લખાય? \n A) એક દશાંશ \n B) એક સોમાંશ \n C) દસ સોમાંશ \n D) એક હજારાંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) એક સોમાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં ૧૦૦ એટલે સોમાંશ. છેદમાં ૧૦ એટલે દશાંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "૦.૯ મીટર = ______ સેમી. \n A) ૯ સેમી \n B) ૯૦ સેમી \n C) ૦.૦૯ સેમી \n D) ૯૦૦ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૯૦ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મીટર ને ૧૦૦ વડે ગુણો. ૦.૯ × ૧૦૦ = ૯૦. (એક મીંડું પોઈન્ટ દૂર કરવામાં વપરાઈ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "૩.૪ સેમી ને મિલીમીટરમાં ફેરવો. \n A) ૦.૩૪ મીમી \n B) ૩૪૦ મીમી \n C) ૩૪ મીમી \n D) ૩.૪ મીમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૩૪ મીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૩ સેમી (૩૦ મીમી) + ૪ મીમી = ૩૪ મીમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "૧ રૂપિયો અને ૫ પૈસાને દશાંશમાં કેવી રીતે લખાય? \n A) ૧.૫ રૂપિયા \n B) ૧.૦૫ રૂપિયા \n C) ૧૫.૦ રૂપિયા \n D) ૧.૦૦૫ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ૧.૦૫ રૂપિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાવધાન! ૫ પૈસા એટલે ૦.૦૫ રૂપિયા થાય. ૧ + ૦.૦૫ = ૧.૦૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "દશાંશ સંખ્યા ૦.૮ માં ૮ ની સ્થાનકિંમત કેટલી? \n A) ૮ \n B) ૮૦ \n C) ૮/૧૦ \n D) ૮/૧૦૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ૮/૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ સ્થાન પર રહેલા અંકની છેદમાં હંમેશા ૧૦ આવે.</p></div>"
+    }
+  ]
+}
