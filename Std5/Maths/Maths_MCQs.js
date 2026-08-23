@@ -1409,3 +1409,161 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "નકશા આલેખન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નકશા પર 1 સેમી = 10 કિમી પ્રમાણમાપ આપેલ છે. જો બે શહેર વચ્ચેનું અંતર નકશા પર 5 સેમી હોય, તો વાસ્તવિક અંતર કેટલું થાય? \n(A) 5 કિમી \n(B) 15 કિમી \n(C) 50 કિમી \n(D) 500 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 50 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશાના અંતરને પ્રમાણમાપની સંખ્યા સાથે ગુણી નાખો. 5 × 10 = 50 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નકશામાં સામાન્ય રીતે 'ઉત્તર' દિશા કઈ બાજુ દર્શાવવામાં આવે છે? \n(A) નીચેની તરફ \n(B) ઉપરની તરફ \n(C) જમણી તરફ \n(D) ડાબી તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉપરની તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'ઉ' એટલે 'ઉપર' અને 'ઉ' એટલે 'ઉત્તર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઇન્ડિયા ગેટની આસપાસનો જે રસ્તો ષટ્કોણ આકાર બનાવે છે, તેને શું કહેવામાં આવે છે? \n(A) સેન્ટ્રલ હેક્ઝાગન \n(B) રાજપથ \n(C) જનપથ \n(D) વિજય ચોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સેન્ટ્રલ હેક્ઝાગન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 બાજુવાળો આકાર એટલે 'હેક્ઝાગન' (ષટ્કોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો નકશા પરનું અંતર 1 સેમી હોય અને જમીન પરનું અંતર 200 મીટર હોય, તો 4 સેમી નકશા પરનું અંતર જમીન પર કેટલું થશે? \n(A) 400 મીટર \n(B) 600 મીટર \n(C) 800 મીટર \n(D) 1000 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 800 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 = 200, તો 4 = 4 × 200 = 800 મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નકશામાં દક્ષિણ દિશા કઈ તરફ હોય છે? \n(A) ઉપર \n(B) નીચે \n(C) ડાબે \n(D) જમણે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરની બરાબર વિરુદ્ધ દિશા એટલે દક્ષિણ (નીચેની તરફ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો આપણે 1 સેમીના જાળીવાળા કાગળ પર દોરેલા ચિત્રને 2 સેમીના જાળીવાળા કાગળ પર દોરીએ, તો ચિત્રનું કદ કેવું થશે? \n(A) અડધું થશે \n(B) બમણું (મોટું) થશે \n(C) સરખું જ રહેશે \n(D) નાનું થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બમણું (મોટું) થશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનાની સાઈઝ વધે તો ચિત્રની સાઈઝ પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લાલ કિલ્લાના નકશામાં 'મીના બજાર' કયા દરવાજાની નજીક આવેલું છે? \n(A) કાશ્મીરી ગેટ \n(B) દિલ્હી ગેટ \n(C) લાહોરી ગેટ \n(D) અજમેરી ગેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાહોરી ગેટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લામાં પ્રવેશતા જ લાહોરી ગેટ પછી તરત જ મીના બજાર આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો નકશાનું પ્રમાણમાપ 2 સેમી = 1 કિમી હોય, તો 10 સેમી અંતર એટલે કેટલા કિમી? \n(A) 2 કિમી \n(B) 5 કિમી \n(C) 10 કિમી \n(D) 20 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ને 2 વડે ભાગતા (10 ÷ 2 = 5) જવાબ મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રાજપથની બંને બાજુએ શું આવેલું છે? \n(A) નદી \n(B) ગાર્ડન (બગીચો) \n(C) પર્વત \n(D) સમુદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગાર્ડન (બગીચો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્ડિયા ગેટના નકશામાં રાજપથની આજુબાજુ લીલોતરી એટલે કે બગીચાઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતના નકશામાં ગુજરાત કઈ દિશામાં આવેલું છે? \n(A) પૂર્વ \n(B) પશ્ચિમ \n(C) ઉત્તર \n(D) દક્ષિણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુએ (પશ્ચિમ) હંમેશા આપણું ગરવું ગુજરાત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ષટ્કોણ આકારમાં કુલ કેટલા ખૂણા હોય છે? \n(A) 4 \n(B) 5 \n(C) 6 \n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ષટ્કોણ એટલે 'ષટ' (છ) બાજુ અને છ ખૂણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રમાણમાપ 1 સેમી = 100 કિમી છે. જો બે રાજ્યો વચ્ચેનું અંતર 700 કિમી હોય, તો નકશા પર તે કેટલા સેમી બતાવશે? \n(A) 1 સેમી \n(B) 7 સેમી \n(C) 70 સેમી \n(D) 10 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 700 ÷ 100 = 7. શૂન્ય ઉડાડી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારતના નકશામાં સૌથી ઉત્તરે કયું રાજ્ય/કેન્દ્રશાસિત પ્રદેશ આવેલું છે? \n(A) કેરળ \n(B) તમિલનાડુ \n(C) લદ્દાખ / જમ્મુ-કાશ્મીર \n(D) ગુજરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લદ્દાખ / જમ્મુ-કાશ્મીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતનું માથું એટલે ઉત્તર દિશા, જ્યાં કાશ્મીર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો નકશામાં પ્રમાણમાપ 1/2 સેમી (0.5 સેમી) = 1 કિમી હોય, તો 4 કિમી માટે કેટલા સેમી દોરવા પડે? \n(A) 1 સેમી \n(B) 2 સેમી \n(C) 4 સેમી \n(D) 8 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિમી માટે અડધો (0.5) સેમી, તો 4 કિમી માટે 4 ના અડધા એટલે 2 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારતના નકશામાં દક્ષિણ બાજુએ કયો મહાસાગર આવેલો છે? \n(A) અરબી સમુદ્ર \n(B) બંગાળની ખાડી \n(C) હિંદ મહાસાગર \n(D) પેસિફિક મહાસાગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હિંદ મહાસાગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિંદુસ્તાનની નીચે 'હિંદ' મહાસાગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચોરસ જાળી પર બનાવેલ ચિત્રને અડધા સેમી (0.5 સેમી) ની જાળીમાંથી 1 સેમી ની જાળી પર દોરવામાં આવે તો? \n(A) ચિત્ર મોટું થશે \n(B) ચિત્ર નાનું થશે \n(C) ચિત્રનું કદ સરખું રહેશે \n(D) કાંઈ કહી શકાય નહિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ચિત્ર મોટું થશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5 થી 1 એટલે કે જાળી ડબલ થઈ, તો ચિત્ર પણ મોટું જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રાષ્ટ્રપતિ ભવનથી ઇન્ડિયા ગેટ જતી વખતે કયો રસ્તો આવે છે? \n(A) જનપથ \n(B) રાજપથ \n(C) તિલક માર્ગ \n(D) કસ્તુરબા ગાંધી માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાજપથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિ ભવન અને ઇન્ડિયા ગેટને જોડતો મુખ્ય રસ્તો 'રાજપથ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો નકશામાં 1 સેમી = 5 કિમી હોય, તો 25 કિમી માટે કેટલા સેમી લેવા પડે? \n(A) 2 સેમી \n(B) 5 સેમી \n(C) 10 સેમી \n(D) 15 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 ÷ 5 = 5. ઘડિયો બોલો અને જવાબ મેળવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દિલ્હીથી જયપુર કઈ દિશામાં આવેલું છે? (ભારતના નકશા મુજબ) \n(A) ઉત્તર \n(B) પૂર્વ \n(C) દક્ષિણ-પશ્ચિમ \n(D) દક્ષિણ-પૂર્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દક્ષિણ-પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજસ્થાન (જયપુર) દિલ્હીથી નીચે અને ડાબી બાજુએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ષટ્કોણની બધી બાજુઓ કેવી હોય છે? \n(A) સરખી \n(B) જુદી-જુદી \n(C) માત્ર બે જ સરખી \n(D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત ષટ્કોણમાં બધી બાજુઓ હંમેશા સમાન હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નકશામાં જમણી બાજુ કઈ દિશા દર્શાવે છે? \n(A) ઉત્તર \n(B) દક્ષિણ \n(C) પૂર્વ \n(D) પશ્ચિમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પુ (P-PU) -> પશ્ચિમ-ડાબે, પૂર્વ-જમણે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો પ્રમાણમાપ 1 સેમી = 1 કિમી હોય, તો 3 કિમી અંતર માટે કેટલા મિમી (mm) દોરવા પડે? \n(A) 3 મિમી \n(B) 30 મિમી \n(C) 300 મિમી \n(D) 10 મિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 30 મિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સેમી = 10 મિમી, તો 3 સેમી = 30 મિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નકશામાં અંતર માપવા માટે કોનો ઉપયોગ કરવામાં આવે છે? \n(A) વજનકાંટો \n(B) ફૂટપટ્ટી (Scale) \n(C) ઘડિયાળ \n(D) થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફૂટપટ્ટી (Scale)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટીમીટર માપવા માટે સ્કેલ જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નકશામાં બે શહેરો વચ્ચેનું અંતર 10 સેમી છે. જો 1 સેમી = 20 કિમી હોય, તો વાસ્તવિક અંતર કેટલું? \n(A) 100 કિમી \n(B) 200 કિમી \n(C) 20 કિમી \n(D) 10 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 200 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 × 20 = 200. પાછળ શૂન્ય લગાવી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દિલ્હીના લાલ કિલ્લામાં 'નક્કરખાના' પછી કઈ ઈમારત આવે છે? \n(A) દિવાન-એ-આમ \n(B) દિવાન-એ-ખાસ \n(C) મોતી મસ્જિદ \n(D) હમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દિવાન-એ-આમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નક્કરખાનામાં નગારા વાગતા અને પછી રાજા 'આમ' જનતાને મળવા આવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પશ્ચિમ બંગાળ ભારતની કઈ દિશામાં આવેલું છે? \n(A) પશ્ચિમ \n(B) પૂર્વ \n(C) ઉત્તર \n(D) દક્ષિણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ પશ્ચિમ બંગાળ છે પણ તે ભારતના પૂર્વ ભાગમાં છે. ભૂલ ન કરતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો નકશામાં પ્રમાણમાપ 1 સેમી = 50 કિમી હોય, તો 200 કિમી માટે કેટલા સેમીની લીટી દોરવી જોઈએ? \n(A) 2 સેમી \n(B) 4 સેમી \n(C) 5 સેમી \n(D) 10 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 200 ÷ 50 = 4. (50, 100, 150, 200).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઇન્ડિયા ગેટ કયા શહેરમાં આવેલો છે? \n(A) મુંબઈ \n(B) ચેન્નાઈ \n(C) દિલ્હી \n(D) કોલકાતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દિલ્હી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેટવે ઓફ ઇન્ડિયા મુંબઈમાં અને ઇન્ડિયા ગેટ દિલ્હીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નકશામાં વાંકીચૂંકી રેખા શું દર્શાવે છે? \n(A) રેલવે માર્ગ \n(B) નદી \n(C) પર્વત \n(D) કાચો રસ્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હંમેશા વાંકુંચૂંકું વહે, એટલે નદીની સંજ્ઞા વાંકીચૂંકી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ચિત્રને 2 સેમીની જાળીમાંથી 1/2 સેમી (0.5 સેમી) ની જાળી પર દોરતા તે કેવું દેખાશે? \n(A) મોટું \n(B) નાનું \n(C) સરખું \n(D) લાંબુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ખાનામાંથી નાના ખાનામાં જઈએ તો ચિત્ર નાનું થઈ જાય.</p></div>"
+    }
+  ]
+}
