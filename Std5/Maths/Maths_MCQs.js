@@ -1221,3 +1221,191 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "તમે પેટર્ન (ભાત) જોઈ શકો છો?",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો કોઈ આકૃતિને '1/4' (પા) ભાગમાં ફેરવવામાં આવે, તો તે કેટલા અંશના ખૂણે ફરે છે?",
+      "options": "A) 180° \nB) 90° \nC) 45° \nD) 360°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (90°) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળમાં 12 થી 3 વાગ્યા સુધીનો કાંટો ફરે એટલે 1/4 ભાગ કહેવાય, જે 90° નો ખૂણો બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કયો અંગ્રેજી અક્ષર અડધો આંટો (1/2 turn) ફેરવતા બદલાતો નથી?",
+      "options": "A) A \nB) M \nC) H \nD) P",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (H) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H, I, N, O, S, X, Z એવા અક્ષરો છે જે ઊંધા કરવા છતાં સરખા દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંખ્યા 121 ને શું કહેવામાં આવે છે?",
+      "options": "A) વિશિષ્ટ સંખ્યા (પેલિન્ડ્રોમ) \nB) માત્ર એકી સંખ્યા \nC) બેકી સંખ્યા \nD) ઋણ સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (વિશિષ્ટ સંખ્યા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંખ્યાને આગળથી વાંચો કે પાછળથી, તે સરખી જ રહે તેને વિશિષ્ટ સંખ્યા (Palindrome) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચોરસને કેટલા ભાગમાં ફેરવતા તે તેના જેવો જ દેખાશે?",
+      "options": "A) માત્ર 1/2 \nB) માત્ર 1/4 \nC) 1/4 અને 1/2 બંને \nD) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (1/4 અને 1/2 બંને) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની ચારેય બાજુ સરખી હોય તેને 1/4 ફેરવો તો પણ તે મૂળ જેવું જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો એક પેટર્ન 45° ના ખૂણે ફરે છે, તો તેને આખા આંટાનો કેટલામો ભાગ ફેરવી કહેવાય?",
+      "options": "A) 1/2 \nB) 1/4 \nC) 1/8 \nD) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (1/8) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 360° ને 45° વડે ભાગો (360 ÷ 45 = 8), એટલે કે 1/8 ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જાદુઈ ષટ્કોણમાં, બે વર્તુળની સંખ્યાનો ગુણાકાર ક્યાં લખવામાં આવે છે?",
+      "options": "A) બીજા વર્તુળમાં \nB) તેમની વચ્ચેના ચોરસમાં \nC) ષટ્કોણની બહાર \nD) કેન્દ્રમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (તેમની વચ્ચેના ચોરસમાં) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ × વર્તુળ = વચ્ચેનું ખાનું (ચોરસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ક્રમિક ત્રણ સંખ્યાઓ 1+2+3 નો સરવાળો 6 છે. તો 2+3+4 નો સરવાળો કેટલો થાય?",
+      "options": "A) 7 \nB) 8 \nC) 9 \nD) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (9) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ક્રમિક સંખ્યાઓ વધે ત્યારે સરવાળો પણ જેટલી સંખ્યાનો સમૂહ હોય તેટલો વધે (અહીં 3 વધશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કેલેન્ડરના મેજિકમાં 3x3 ના ખાનામાં વચ્ચેની સંખ્યા 10 હોય, તો નવેય સંખ્યાનો સરવાળો કેટલો થાય?",
+      "options": "A) 30 \nB) 60 \nC) 90 \nD) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (90) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નાની સંખ્યામાં 8 ઉમેરો અથવા વચ્ચેની સંખ્યાને 9 વડે ગુણો (10 × 9 = 90).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંખ્યા 48 ને ઉલટાવતા કઈ સંખ્યા બને?",
+      "options": "A) 84 \nB) 44 \nC) 88 \nD) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (84) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકોની અદલાબદલી કરવી એટલે કે એકમનો અંક દશકમાં અને દશકનો એકમમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કયો આકાર 1/3 ફેરવતા તેના જેવો જ દેખાશે?",
+      "options": "A) ચોરસ \nB) લંબચોરસ \nC) સમબાજુ ત્રિકોણ \nD) વર્તુળ નહીં પણ લંબગોળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (સમબાજુ ત્રિકોણ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના 3 સરખા પાંખિયા હોય (જેમ કે પંખો કે સમબાજુ ત્રિકોણ) તેને 1/3 ફેરવતા તે બદલાતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સંખ્યા પેટર્ન પૂર્ણ કરો: 1, 3, 6, 10, ...",
+      "options": "A) 12 \nB) 14 \nC) 15 \nD) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (15) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: +2, +3, +4 હવે +5 ઉમેરો. (10 + 5 = 15). આને ત્રિકોણીય સંખ્યાઓ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "1 થી 10 સુધીની બધી જ સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": "A) 45 \nB) 50 \nC) 55 \nD) 60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (55) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સરવાળો યાદ રાખી લો, 1-10 નો સરવાળો 55, 11-20 નો 155, 21-30 નો 255 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અંગ્રેજી શબ્દ 'NOON' ને 1/2 આંટો ફેરવતા કેવો વંચાશે?",
+      "options": "A) MOON \nB) NOON \nC) ONON \nD) NOOO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (NOON) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N, O અક્ષરો અડધા ફેરવતા સરખા જ રહે છે, માટે NOON પણ સરખું જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો પેટર્ન 1/4 ના નિયમ મુજબ ચાલે છે: ↑, →, ↓, તો હવે શું આવશે?",
+      "options": "A) ↑ \nB) ↓ \nC) ← \nD) →",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (←) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર, જમણે, નીચે, તો હવે ડાબે જ આવે! (ઘડિયાળની દિશામાં 90°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બેકી સંખ્યામાં 2 ઉમેરતા કઈ સંખ્યા મળે?",
+      "options": "A) એકી \nB) બેકી \nC) શૂન્ય \nD) વિશિષ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (બેકી) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી + બેકી = હંમેશા બેકી જ મળે. (દા.ત. 4 + 2 = 6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કઈ સંખ્યા 'વિશિષ્ટ સંખ્યા' નથી?",
+      "options": "A) 121 \nB) 343 \nC) 123 \nD) 55",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (123) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 123 ને ઉલટાવતા 321 થાય, જે મૂળ સંખ્યા જેવી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ષટ્કોણની આકૃતિમાં કેટલા ખૂણા હોય છે?",
+      "options": "A) 4 \nB) 5 \nC) 6 \nD) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (6) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ષટ્' એટલે સંસ્કૃતમાં '6'. તેથી ષટ્કોણમાં 6 બાજુ અને 6 ખૂણા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેનામાંથી કઈ આકૃતિ 1/6 ફેરવતા મૂળ આકૃતિ જેવી દેખાશે?",
+      "options": "A) પાંચ પાંખિયાવાળો પંખો \nB) છ પાંખિયાવાળો તારો \nC) ચોરસ \nD) ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (છ પાંખિયાવાળો તારો) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા પાંખિયા સરખા હોય, તેટલામાં ભાગે (1/n) ફેરવતા તે બદલાતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "11 x 11 = 121, 111 x 111 = 12321, તો 1111 x 1111 = ?",
+      "options": "A) 1234321 \nB) 123454321 \nC) 123321 \nD) 1221",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (1234321) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા '1' હોય ત્યાં સુધી એકડા લખો અને પછી ઉતરતા ક્રમમાં લખો. (4 એકડા છે તો 1234 પછી 321).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "99 ને 1/2 ફેરવતા તે કેવો દેખાશે?",
+      "options": "A) 99 \nB) 66 \nC) 69 \nD) 96",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (66) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ને ઊંધો કરો તો 6 બને, માટે 99 નો 66 થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો 24 + 19 + 37 = 37 + 24 + ____",
+      "options": "A) 19 \nB) 24 \nC) 37 \nD) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (19) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરાબરની નિશાનીની બંને બાજુ સંખ્યાઓ સમાન હોવી જોઈએ. જે સંખ્યા ડાબી બાજુ છે પણ જમણી બાજુ નથી, તે જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એકી સંખ્યા + એકી સંખ્યા = ?",
+      "options": "A) એકી સંખ્યા \nB) બેકી સંખ્યા \nC) વિશિષ્ટ સંખ્યા \nD) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (બેકી સંખ્યા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ બે એકી સંખ્યા લો, જેમ કે 3 + 5 = 8. જવાબ હંમેશા બેકી જ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્વસ્તિક (સાથિયો) ના ચિહ્નને 1/4 ફેરવતા તે કેવો દેખાશે?",
+      "options": "A) બદલાઈ જશે \nB) તેના જેવો જ દેખાશે \nC) ઉલટો દેખાશે \nD) આડો દેખાશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (તેના જેવો જ દેખાશે) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથિયાની ચારેય બાજુ સમાન રીતે વળેલી હોવાથી તે 1/4 (90°) એ સમાન જ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "2, 4, 8, 16, ... પેટર્ન માં હવે પછીની સંખ્યા કઈ?",
+      "options": "A) 20 \nB) 24 \nC) 32 \nD) 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (32) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક સંખ્યા તેના કરતા બમણી (ડબલ) થાય છે. 16 ના ડબલ 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ષટ્કોણના બે વર્તુળોમાં 7 અને 8 હોય, તો તેમની વચ્ચેના ચોરસમાં શું આવશે?",
+      "options": "A) 15 \nB) 56 \nC) 1 \nD) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (56) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ-બાજુના બે વર્તુળનો ગુણાકાર એટલે વચ્ચેનો ચોરસ (7 × 8 = 56).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઘડિયાળમાં મિનિટ કાંટો 12 પરથી 6 પર આવે તો તેને કેટલો આંટો ફર્યો કહેવાય?",
+      "options": "A) 1/4 \nB) 1/2 \nC) 3/4 \nD) આખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ B (1/2) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 6 એટલે અડધું વર્તુળ, અને અડધું એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "808 એ કેવી સંખ્યા છે?",
+      "options": "A) વિશિષ્ટ સંખ્યા \nB) એકી સંખ્યા \nC) અવિભાજ્ય સંખ્યા \nD) આપેલ પૈકી એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (વિશિષ્ટ સંખ્યા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 808 ને ઉલટાવો તો પણ 808 જ રહે, માટે તે વિશિષ્ટ (Palindrome) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પેટર્ન પૂર્ણ કરો: 5, 10, 20, 40, ...",
+      "options": "A) 60 \nB) 50 \nC) 80 \nD) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (80) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા બમણી થઈ રહી છે (5x2=10, 10x2=20, 20x2=40, તો 40x2=80).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નીચેનામાંથી કયા અંકોનો સમૂહ વિશિષ્ટ સંખ્યા બનાવશે? (28 ને ઉલટાવીને સરવાળો કરતા)",
+      "options": "A) 110 \nB) 100 \nC) 121 \nD) 111",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ C (121) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 28 + 82 = 110 (વિશિષ્ટ નથી). ફરી કરો: 110 + 011 = 121 (વિશિષ્ટ છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વર્તુળને કેટલો આંટો ફેરવતા તે તેના જેવું જ દેખાય?",
+      "options": "A) ગમે તેટલો \nB) માત્ર 1/2 \nC) માત્ર 1/4 \nD) માત્ર આખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ A (ગમે તેટલો) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ એવી આકૃતિ છે જેને ગમે તે ખૂણે ફેરવો, તે ક્યારેય બદલાતું નથી.</p></div>"
+    }
+  ]
+}
