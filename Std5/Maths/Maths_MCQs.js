@@ -2399,3 +2399,161 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગુણાકાર અને ભાગાકારની રીતો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો એક દિવસના 250 રૂપિયા કમાણી હોય, તો 30 દિવસની કુલ કમાણી કેટલી થાય? \n (A) 7000 \n (B) 7500 \n (C) 6500 \n (D) 8000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7500 (250 × 30 = 7500)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્યવાળા ગુણાકારમાં પહેલા અંકોનો ગુણાકાર કરો (25 × 3 = 75) અને પાછળ જેટલા શૂન્ય હોય તેટલા મૂકી દો (00). જવાબ 7500!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "65 × 31 નો ગુણાકાર કરવા માટે 'બેલાની રીત' મુજબ 65 ને કઈ બે સંખ્યાઓ સાથે ગુણવા પડે? \n (A) 30 અને 1 \n (B) 20 અને 11 \n (C) 60 અને 5 \n (D) 31 અને 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 30 અને 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નીચેની સંખ્યા (31) ના ભાગ પાડો. 31 = 30 + 1. એટલે 65 ને પહેલા 1 સાથે અને પછી 30 સાથે ગુણવાના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક હાથીનું બચ્ચું રોજના 12 લિટર દૂધ પીએ છે, તો તે 1 વર્ષમાં (365 દિવસ) કેટલા લિટર દૂધ પીશે? \n (A) 4300 \n (B) 4380 \n (C) 4400 \n (D) 4280",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4380</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 365 × 12 કરવા માટે 365 × 10 = 3650 અને 365 × 2 = 730 કરો. 3650 + 730 = 4380.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો એક ગ્લાસમાં 250 મિલી દૂધ આવતું હોય, તો 8 ગ્લાસમાં કુલ કેટલા લિટર દૂધ થાય? \n (A) 1 લિટર \n (B) 2 લિટર \n (C) 3 લિટર \n (D) 4 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2 લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 250 × 4 એટલે 1 લિટર (1000 મિલી). તો 8 ગ્લાસ એટલે તેનાથી બમણું, એટલે કે 2 લિટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "450 ÷ 5 નો ભાગાકાર કરવાથી શું જવાબ મળે? \n (A) 80 \n (B) 95 \n (C) 90 \n (D) 70",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 45 ÷ 5 = 9 થાય, પાછળ વધેલું શૂન્ય લગાડી દો એટલે 90.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક બગીચામાં 432 ગુલાબના છોડ છે. દરેક હારમાં 18 છોડ હોય, તો કુલ કેટલી હાર હશે? \n (A) 24 \n (B) 22 \n (C) 26 \n (D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાગાકાર કરો 432 ÷ 18. જો છેલ્લો અંક જોઈએ તો 8 ને કઈ સંખ્યા સાથે ગુણવાથી છેલ્લે 2 આવે? 8 × 4 = 32. એટલે જવાબમાં છેલ્લો અંક 4 આવવાની શક્યતા વધુ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો 1 વર્ષમાં 365 દિવસ હોય, તો 10 વર્ષમાં કુલ કેટલા દિવસો થાય? \n (A) 3650 \n (B) 3600 \n (C) 3065 \n (D) 36500",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3650</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ પણ સંખ્યાને 10 વડે ગુણવા માટે તેની પાછળ ફક્ત એક શૂન્ય લગાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભાગાકારમાં જે સંખ્યાને ભાગવામાં આવે છે તેને શું કહેવાય? \n (A) ભાજક \n (B) ભાજ્ય \n (C) ભાગફળ \n (D) શેષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે 'ભોગ' બને છે (જે કપાય છે/વહેંચાય છે) તે 'ભાજ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "840 ÷ 12 = ? \n (A) 60 \n (B) 80 \n (C) 70 \n (D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 70</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 નો ઘડિયો બોલો. 12 × 7 = 84. પાછળ શૂન્ય લગાડો એટલે 70.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક ડઝન કેળાની કિંમત 60 રૂપિયા હોય, તો 15 ડઝન કેળાની કિંમત કેટલી? \n (A) 800 \n (B) 900 \n (C) 750 \n (D) 850",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 900</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 15 × 6 = 90. પાછળ એક શૂન્ય મૂકી દો. જવાબ 900.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "976 ÷ 16 માં ભાગફળ શું મળશે? \n (A) 60 \n (B) 51 \n (C) 61 \n (D) 56",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 61</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 16 × 6 = 96. એટલે 97 માંથી 96 જાય તો 1 વધે, ઉપરથી 6 ઉતારો એટલે 16 થાય. 16 એકા 16. જવાબ 61.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો એક કીડી એક દિવસમાં 15 ડગલાં ચાલે, તો ફેબ્રુઆરી મહિનામાં (સામાન્ય વર્ષ) તે કુલ કેટલા ડગલાં ચાલશે? \n (A) 420 \n (B) 435 \n (C) 450 \n (D) 300",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 420</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફેબ્રુઆરીના 28 દિવસ હોય. 28 × 15 કરવા માટે 28 × 10 = 280 અને તેના અડધા 140 ઉમેરો. 280 + 140 = 420.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "350 × 100 = ? \n (A) 3500 \n (B) 35000 \n (C) 350000 \n (D) 350",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 35000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100 વડે ગુણવા એટલે સંખ્યાની પાછળ બે શૂન્ય વધારવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક ખેડૂત રોજના 9 લિટર દૂધ વેચે છે. જૂન મહિનામાં તેણે કુલ કેટલું દૂધ વેચ્યું હશે? \n (A) 270 લિટર \n (B) 280 લિટર \n (C) 300 લિટર \n (D) 310 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 270 લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા યાદ કરો જૂન મહિનામાં કેટલા દિવસ હોય? 30 દિવસ. 30 × 9 = 270!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "76 × 13 = (76 × 10) + (76 × ___) \n (A) 1 \n (B) 13 \n (C) 3 \n (D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 13 ના ભાગ પાડો તો 10 + 3 થાય. 10 સાથે ગુણાકાર આપેલો છે, તો બાકી 3 રહ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કઈ સંખ્યાને 15 વડે ભાગતા જવાબ 10 મળે અને શેષ 0 વધે? \n (A) 15 \n (B) 100 \n (C) 150 \n (D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 150</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાજ્ય શોધવા માટે ભાજક અને ભાગફળનો ગુણાકાર કરો (15 × 10 = 150).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો 1 લીટર તેલની કિંમત 140 રૂપિયા હોય, તો 5 લીટર તેલની કિંમત કેટલી થાય? \n (A) 600 \n (B) 700 \n (C) 800 \n (D) 750",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 700</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 14 × 5 = 70. પાછળ શૂન્ય લગાડો એટલે 700.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "888 ÷ 8 = ? \n (A) 11 \n (B) 111 \n (C) 101 \n (D) 121",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 111</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખા અંકો હોય ત્યારે ભાગાકાર ખૂબ સરળ બને છે. 8/8=1, 8/8=1, 8/8=1. જવાબ 111!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એક ખોખામાં 24 સફરજન સમાય છે. તો 120 સફરજન ભરવા કેટલા ખોખા જોઈશે? \n (A) 4 \n (B) 5 \n (C) 6 \n (D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 24 પંજા 120 થાય. જો 24 નો ઘડિયો ન આવડે તો 24 × 10 = 240, તેના અડધા 120 એટલે કે 5 ખોખા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક માળી 458 સફરજનના ઝાડ ખરીદે છે. તે દરેક હારમાં 15 ઝાડ રોપવા માંગે છે. તો કેટલી હાર પૂરેપૂરી ભરાશે અને કેટલા ઝાડ બાકી વધશે? \n (A) 30 હાર, 8 ઝાડ વધશે \n (B) 30 હાર, 5 ઝાડ વધશે \n (C) 20 હાર, 8 ઝાડ વધશે \n (D) 40 હાર, 8 ઝાડ વધશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 30 હાર, 8 ઝાડ વધશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 15 × 3 = 45, એટલે 15 × 30 = 450. કુલ 458 છે, તો 458 - 450 = 8 શેષ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો કોઈ સંખ્યાને 0 સાથે ગુણવામાં આવે તો જવાબ શું આવે? \n (A) તે જ સંખ્યા \n (B) 1 \n (C) 0 \n (D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય એવો ડન (Don) છે કે તેની સાથે જે ભટકાય એ શૂન્ય થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "576 ÷ 12 નો ઉકેલ શોધો. \n (A) 44 \n (B) 48 \n (C) 52 \n (D) 46",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 48</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 × 4 = 48. 57 માંથી 48 જાય તો 9 વધે. ઉપરથી 6 ઉતારો એટલે 96. 12 × 8 = 96. જવાબ 48.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "64 × 42 માં એકમના અંક નો ગુણાકાર શું થશે? \n (A) 8 \n (B) 4 \n (C) 6 \n (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખા ગુણાકારની જરૂર નથી, ફક્ત છેલ્લા અંકો 4 અને 2 નો ગુણાકાર કરો. 4 × 2 = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એક વર્ષમાં કેટલા અઠવાડિયા હોય છે? (આશરે) \n (A) 48 \n (B) 50 \n (C) 52 \n (D) 54",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 52</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 365 ને 7 વડે ભાગતા 52 ભાગફળ મળે છે. યાદ જ રાખી લો: 1 વર્ષ = 52 અઠવાડિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો ભાજક 10 હોય, ભાગફળ 15 હોય અને શેષ 3 હોય, તો ભાજ્ય સંખ્યા કઈ હશે? \n (A) 150 \n (B) 153 \n (C) 135 \n (D) 105",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 153</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્ર યાદ રાખો: ભાજ્ય = (ભાજક × ભાગફળ) + શેષ. (10 × 15) + 3 = 150 + 3 = 153.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "900 ÷ 100 = ? \n (A) 90 \n (B) 9 \n (C) 9000 \n (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે શૂન્યવાળી સંખ્યા વડે ભાગાકાર કરવાનો હોય, ત્યારે જેટલા શૂન્ય ભાજકમાં હોય તેટલા ભાજ્ય માંથી ઉડાડી દેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એક ટેબલની કિંમત 1200 રૂપિયા છે, તો આવા 4 ટેબલની કિંમત કેટલી? \n (A) 4800 \n (B) 4400 \n (C) 5000 \n (D) 4600",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4800</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 × 4 = 48. પાછળ બે શૂન્ય લગાડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "32 × 11 = ? \n (A) 342 \n (B) 352 \n (C) 362 \n (D) 332",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 352</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 11 સાથે ગુણાકારની શાનદાર ટ્રીક - જે બે અંકો છે (3 અને 2) તેનો સરવાળો કરી વચ્ચે મૂકી દો. 3+2=5. જવાબ 352!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો 18 ગુણ્યા 4 એટલે 72, તો 18 ગુણ્યા 40 એટલે કેટલા? \n (A) 72 \n (B) 720 \n (C) 180 \n (D) 400",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 720</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એક શૂન્ય વધે તો જવાબમાં પણ પાછળ એક શૂન્ય વધી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "600 ને કઈ સંખ્યા વડે ભાગતા જવાબ 20 મળે? \n (A) 20 \n (B) 30 \n (C) 10 \n (D) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 600 ÷ 20 કરો. શૂન્ય-શૂન્ય ઉડી ગયા, 60 / 2 = 30.</p></div>"
+    }
+  ]
+}
