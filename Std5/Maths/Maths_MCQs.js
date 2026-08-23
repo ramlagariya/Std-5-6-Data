@@ -2557,3 +2557,311 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું મોટું? કેટલું ભારે?",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈ વસ્તુ કેટલી જગ્યા રોકે છે, તે માપને શું કહેવામાં આવે છે?",
+      "options": "A) લંબાઈ, B) પરિમિતિ, C) ક્ષેત્રફળ, D) કદ (ઘનફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) કદ (ઘનફળ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જેટલી 'જગ્યા' રોકે તેને તેનું 'કદ' કહેવાય. યાદ રાખો: જગ્યા = કદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઘનફળ માપવાનો પ્રમાણભૂત એકમ કયો છે?",
+      "options": "A) ચોરસ સેમી, B) ઘન સેમી, C) સેમી, D) મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં 'ચોરસ' આવે અને ઘનફળ (કદ) માં 'ઘન' આવે. 3 પરિમાણ એટલે ઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમઘનનું ઘનફળ શોધવાનું સૂત્ર કયું છે?",
+      "options": "A) લંબાઈ + લંબાઈ + લંબાઈ, B) લંબાઈ × પહોળાઈ, C) લંબાઈ × લંબાઈ × લંબાઈ, D) 4 × લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) લંબાઈ × લંબાઈ × લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે 'લ-લ-લ' (ત્રણ વાર લંબાઈનો ગુણાકાર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબઘનનું ઘનફળ શોધવાનું સાચું સૂત્ર કયું છે?",
+      "options": "A) લંબાઈ × પહોળાઈ, B) લંબાઈ × પહોળાઈ × ઊંચાઈ, C) લંબાઈ + પહોળાઈ + ઊંચાઈ, D) 2 × (લંબાઈ + પહોળાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) લંબાઈ × પહોળાઈ × ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબઘન એટલે 'લ-પ-ઊ' નો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 સેમી બાજુવાળા સમઘનનું ઘનફળ કેટલું થાય?",
+      "options": "A) 1 ઘન સેમી, B) 3 ઘન સેમી, C) 1 ચોરસ સેમી, D) 0 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 1 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 × 1 × 1 = 1 જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક દિવાસળીના ખોખાનું કદ આશરે કેટલા લખોટી જેટલું હોઈ શકે?",
+      "options": "A) 100 લખોટી, B) 1 લખોટી, C) 10 લખોટી, D) 500 લખોટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10 લખોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદાજ લગાવો! દિવાસળીનું ખોખું નાનું હોય, તેમાં 100 લખોટી ન સમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો એક લખોટી 5 મિલી પાણી ખસેડે, તો 10 લખોટી કેટલા મિલી પાણી ખસેડશે?",
+      "options": "A) 5 મિલી, B) 15 મિલી, C) 50 મિલી, D) 10 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 50 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા × મિલી = 10 × 5 = 50 મિલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક કંપાસ પેટીનું કદ અંદાજે કેટલા સમઘન (1 સેમી બાજુવાળા) જેટલું હોઈ શકે?",
+      "options": "A) 10, B) 100, C) 1000, D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપાસ પેટીની લંબાઈ (15), પહોળાઈ (7) અને ઊંચાઈ (1) નો અંદાજિત ગુણાકાર 100 ની નજીક આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "2 સેમી બાજુવાળા સમઘનનું ઘનફળ કેટલું થાય?",
+      "options": "A) 4 ઘન સેમી, B) 6 ઘન સેમી, C) 8 ઘન સેમી, D) 16 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 8 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 2 × 2 = 8. (ઘન એટલે ત્રણ વાર ગુણાકાર)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જેની લંબાઈ 5 સેમી, પહોળાઈ 3 સેમી અને ઊંચાઈ 2 સેમી હોય તેવા લંબઘનનું ઘનફળ શોધો.",
+      "options": "A) 10 ઘન સેમી, B) 30 ઘન સેમી, C) 15 ઘન સેમી, D) 25 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 30 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 × 3 × 2 = 30. બસ, ત્રણેય માપનો ગુણાકાર કરી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "1 લિટર એટલે કેટલા મિલીલીટર?",
+      "options": "A) 100 મિલી, B) 10 મિલી, C) 1000 મિલી, D) 500 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1000 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કિલો' કે 'લિટર' આવે ત્યારે 1000 યાદ રાખવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એક કાચના ગ્લાસમાં પાણી ભરેલું છે. તેમાં પથ્થર નાખતા પાણીનું સ્તર શું થશે?",
+      "options": "A) ઘટશે, B) વધશે, C) તેટલું જ રહેશે, D) શૂન્ય થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) વધશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પોતાની જગ્યા રોકશે, એટલે પાણીને ઉપર ધકેલશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "10 સેમી લંબાઈ ધરાવતા સમઘનનું ઘનફળ કેટલું?",
+      "options": "A) 100 ઘન સેમી, B) 30 ઘન સેમી, C) 1000 ઘન સેમી, D) 1000 ચોરસ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1000 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 × 10 × 10 = 1 ની પાછળ 3 મીંડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો એક ખોખામાં 1 સેમીના 24 સમઘન સમાઈ શકે, તો ખોખાનું ઘનફળ કેટલું કહેવાય?",
+      "options": "A) 1 ઘન સેમી, B) 12 ઘન સેમી, C) 24 ઘન સેમી, D) 48 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 24 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા સમઘન સમાય, તેટલું જ તેનું ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કઈ વસ્તુનું કદ સૌથી વધારે હશે?",
+      "options": "A) લખોટી, B) રબર, C) ફૂટબોલ, D) દિવાસળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ફૂટબોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાવમાં મોટું, તે જગ્યા પણ વધારે રોકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એક રબરનું કદ આશરે 2 ઘન સેમી છે, તો આવા 10 રબરનું કદ કેટલું થાય?",
+      "options": "A) 2 ઘન સેમી, B) 12 ઘન સેમી, C) 20 ઘન સેમી, D) 5 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 20 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 10 = 20 ઘન સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "3 સેમી લંબાઈવાળા 2 સમઘન એકસાથે મૂકતા બનતા લંબઘનનું કુલ કદ કેટલું?",
+      "options": "A) 27 ઘન સેમી, B) 54 ઘન સેમી, C) 9 ઘન સેમી, D) 18 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 54 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક સમઘન = 3x3x3 = 27. બે સમઘન = 27 + 27 = 54!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક ગ્લાસમાં 200 મિલી પાણી છે. તેમાં સિક્કા નાખતા પાણી 250 મિલી પર પહોંચે છે, તો સિક્કાનું કદ કેટલું?",
+      "options": "A) 450 મિલી, B) 200 મિલી, C) 50 મિલી, D) 250 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 50 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું સ્તર - જૂનું સ્તર = વસ્તુનું કદ. (250 - 200 = 50)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઘનફળ શોધવા માટે નીચેનામાંથી કઈ વિગત જરૂરી નથી?",
+      "options": "A) લંબાઈ, B) પહોળાઈ, C) ઊંચાઈ, D) રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) રંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ માપવા માટે માપ જોઈએ, રંગથી કોઈ ફરક ન પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક પેટીની લંબાઈ 4 સેમી, પહોળાઈ 2 સેમી અને ઊંચાઈ 1 સેમી છે. તેમાં 1 સેમીના કેટલા સમઘન સમાશે?",
+      "options": "A) 7, B) 8, C) 6, D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 × 2 × 1 = 8. જેટલું ઘનફળ તેટલા સમઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "4 સેમી બાજુવાળા સમઘનનું ઘનફળ કેટલું?",
+      "options": "A) 12 ઘન સેમી, B) 16 ઘન સેમી, C) 64 ઘન સેમી, D) 32 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 64 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 × 4 × 4 = 64. (4 નો ઘન 64 થાય!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક પાણીની ટાંકી 2 મીટર લાંબી, 1 મીટર પહોળી અને 1 મીટર ઊંચી છે. તેનું કદ કેટલા ઘન મીટર થાય?",
+      "options": "A) 2 ઘન મીટર, B) 4 ઘન મીટર, C) 1 ઘન મીટર, D) 3 ઘન મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 2 ઘન મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 1 × 1 = 2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયા આકારને લંબાઈ, પહોળાઈ અને ઊંચાઈ ત્રણેય સમાન હોય છે?",
+      "options": "A) લંબઘન, B) નળાકાર, C) સમઘન, D) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સરખું. જેમાં બધું સરખું તે સમઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો 1 ઘન સેમી = 1 મિલી હોય, તો 500 ઘન સેમી એટલે કેટલા મિલી?",
+      "options": "A) 50 મિલી, B) 5 મિલી, C) 500 મિલી, D) 1000 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 500 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1:1 નો સંબંધ છે, એટલે જે આંકડો ઘન સેમીમાં હોય એ જ મિલીમાં આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક ઈંટની લંબાઈ 20 સેમી, પહોળાઈ 10 સેમી અને ઊંચાઈ 5 સેમી છે. ઈંટનું ઘનફળ કેટલું?",
+      "options": "A) 100 ઘન સેમી, B) 500 ઘન સેમી, C) 1000 ઘન સેમી, D) 2000 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1000 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 × 10 × 5 = 1000. પેલા 2 × 1 × 5 = 10 કરો અને પછી પાછળ બે મીંડા લગાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગણિત ગમ્મતનું પાઠ્યપુસ્તક આશરે કેટલા સમઘન (1 સેમી) જેટલી જગ્યા રોકે?",
+      "options": "A) 10, B) 50, C) 500, D) 5000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તકની લંબાઈ (25) × પહોળાઈ (20) × ઊંચાઈ (1) = 500 ઘન સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો 5 રૂપિયાના 10 સિક્કા 10 મિલી પાણી વધારે છે, તો 1 સિક્કો કેટલું પાણી વધારશે?",
+      "options": "A) 10 મિલી, B) 1 મિલી, C) 5 મિલી, D) 0.5 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 1 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 મિલી ÷ 10 સિક્કા = 1 મિલી પ્રતિ સિક્કો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ક્ષેત્રફળનો એકમ ચોરસ સેમી છે, તો ઘનફળનો એકમ કયો?",
+      "options": "A) સેમી, B) ચોરસ મીટર, C) ઘન સેમી, D) લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ = ઘનફળ = ઘન એકમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક સમઘન ખોખાની બાજુ 6 સેમી છે, તો તેનું ઘનફળ કેટલું?",
+      "options": "A) 36 ઘન સેમી, B) 216 ઘન સેમી, C) 18 ઘન સેમી, D) 126 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 216 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 × 6 × 6 = 216. (6 નો ઘન 216 થાય!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "30 મિલી પાણીથી ભરેલા માપક ગ્લાસમાં પથ્થર નાખતા પાણી 45 મિલી થાય છે. પથ્થરનું કદ કેટલું?",
+      "options": "A) 75 મિલી, B) 10 મિલી, C) 15 મિલી, D) 30 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 15 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકી કરો: 45 - 30 = 15!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કયા વાસણમાં સૌથી વધુ પાણી સમાશે?",
+      "options": "A) કપ, B) ચમચી, C) ડોલ, D) ગ્લાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ડોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું કદ મોટું તેમાં સમાવેશ શક્તિ (ક્ષમતા) વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "1 સેમીના 1000 સમઘનથી બનતા મોટા સમઘનની બાજુનું માપ કેટલું હશે?",
+      "options": "A) 100 સેમી, B) 10 સેમી, C) 1 સેમી, D) 1000 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોનો ત્રણ વાર ગુણાકાર 1000 થાય? 10 × 10 × 10 = 1000!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "લંબઘન ખોખામાં લંબાઈ 10 સેમી, પહોળાઈ 5 સેમી અને ઊંચાઈ 2 સેમી છે. તેમાં 2 સેમી બાજુવાળા કેટલા સમઘન સમાશે?",
+      "options": "A) 100, B) 50, C) 12.5 (લગભગ 12), D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) લગભગ 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખાનું કદ (100) ÷ સમઘનનું કદ (8) = 12.5. એટલે આખા 12 સમઘન સમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વસ્તુના વજન માટે કયો એકમ વપરાય છે?",
+      "options": "A) લિટર, B) મીટર, C) કિલોગ્રામ, D) સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) કિલોગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન એટલે ગ્રામ કે કિલોગ્રામ. કદ એટલે લિટર કે ઘન સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "એક ખોખામાં 1 સેમીના 60 સમઘન સમાય છે. જો તેની લંબાઈ 5 સેમી અને પહોળાઈ 4 સેમી હોય, તો ઊંચાઈ કેટલી હશે?",
+      "options": "A) 2 સેમી, B) 3 સેમી, C) 4 સેમી, D) 5 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 3 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 × 4 = 20. હવે 20 ને કેટલા વડે ગુણીએ તો 60 થાય? 20 × 3 = 60!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કોનું વજન સૌથી વધુ હશે?",
+      "options": "A) 1 કિલો રૂ, B) 1 કિલો લોખંડ, C) 1 કિલો સફરજન, D) બધાનું સરખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) બધાનું સરખું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્યાન રાખો! ત્રણેય '1 કિલો' જ છે, એટલે વજન સરખું જ હોય. માત્ર કદ અલગ હશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નીચેનામાંથી કઈ વસ્તુનું કદ સૌથી ઓછું છે?",
+      "options": "A) લખોટી, B) લીંબુ, C) તરબૂચ, D) બટાકું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) લખોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાવમાં સૌથી નાનું, તેનું કદ સૌથી ઓછું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "1 સેમી બાજુવાળા સમઘનનું વજન 1 ગ્રામ હોય, તો 10 સેમી બાજુવાળા સમઘનનું વજન કેટલું થાય?",
+      "options": "A) 10 ગ્રામ, B) 100 ગ્રામ, C) 1000 ગ્રામ (1 કિલો), D) 1 ગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1000 ગ્રામ (1 કિલો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 સેમી સમઘનનું કદ 1000 ઘન સેમી થાય, એટલે વજન 1000 ગ્રામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "64 ઘન સેમી કદ ધરાવતા સમઘનની બાજુ કેટલી હશે?",
+      "options": "A) 8 સેમી, B) 4 સેમી, C) 16 સેમી, D) 2 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 4 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક કરો: 4 × 4 × 4 = 64. એટલે બાજુ 4 સેમી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "5 મિલીની એક ચમચી પાણી, તો 1 લિટરની બોટલ ભરવા કેટલી ચમચી પાણી જોઈએ?",
+      "options": "A) 100, B) 200, C) 500, D) 1000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લિટર = 1000 મિલી. 1000 ÷ 5 = 200 ચમચી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "એક ખોખાનું માપ 10 સેમી x 10 સેમી x 10 સેમી છે. તો તેનું ઘનફળ કેટલું?",
+      "options": "A) 30 ઘન સેમી, B) 100 ઘન સેમી, C) 1000 ઘન સેમી, D) 10000 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1000 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 x 10 x 10 = 1000. મીંડા ગણી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દરેક બાજુ 1 સેમી હોય તેવા 12 સમઘન માંથી બનતા લંબઘનનું કદ કેટલું?",
+      "options": "A) 1 ઘન સેમી, B) 12 ઘન સેમી, C) 6 ઘન સેમી, D) 24 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 12 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 ટુકડા ભેગા કરો તો કદ 12 જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો 1 લિટર પાણીનું વજન 1 કિલોગ્રામ હોય, તો 500 મિલી પાણીનું વજન કેટલું?",
+      "options": "A) 500 ગ્રામ, B) 1 કિલો, C) 250 ગ્રામ, D) 50 ગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 500 ગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો લિટર એટલે અડધો કિલો (500 ગ્રામ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કોનું કદ વધુ છે? (i) 2 સેમી બાજુવાળો સમઘન (ii) 2 સેમી x 2 સેમી x 1 સેમી નો લંબઘન",
+      "options": "A) સમઘન, B) લંબઘન, C) બંને સરખા, D) કહી શકાય નહિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન = 2x2x2=8. લંબઘન = 2x2x1=4. 8 > 4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઘનફળ માપવા માટે કયા ત્રણ માપનો ગુણાકાર કરવામાં આવે છે?",
+      "options": "A) લંબાઈ, લંબાઈ, લંબાઈ, B) લંબાઈ, પહોળાઈ, ઊંચાઈ, C) ત્રિજ્યા, વ્યાસ, ઊંચાઈ, D) પરિમિતિ, ક્ષેત્રફળ, લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) લંબાઈ, પહોળાઈ, ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D વસ્તુમાં 3 માપ હોય: લ-પ-ઊ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો એક ગ્લાસમાં 5 લખોટી નાખતા પાણી 10 મિલી વધે છે, તો 15 લખોટી નાખતા કેટલું વધશે?",
+      "options": "A) 20 મિલી, B) 30 મિલી, C) 15 મિલી, D) 50 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 30 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લખોટી ત્રણ ગણી થઈ (5x3=15), તો પાણી પણ ત્રણ ગણું વધે (10x3=30)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "1 ઘન મીટર એટલે કેટલા ઘન સેમી?",
+      "options": "A) 100, B) 1000, C) 10,00,000, D) 10,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10,00,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 x 100 x 100 = 10 લાખ. મીંડા ખાસ ગણવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એક લંબઘન ડબ્બામાં 5 સેમી લંબાઈના 2 સ્તર છે, દરેક સ્તરમાં 4 સમઘન છે. ડબ્બાનું કદ કેટલું?",
+      "options": "A) 8 ઘન સેમી, B) 10 ઘન સેમી, C) 40 ઘન સેમી, D) 20 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 40 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ (5) x સ્તર (2) x પહોળાઈ (4) = 40!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કદ માપવા માટેનું સાધન કયું છે?",
+      "options": "A) ત્રાજવું, B) ફૂટપટ્ટી, C) માપક ગ્લાસ, D) થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) માપક ગ્લાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી કે નાની વસ્તુનું કદ 'માપક ગ્લાસ' થી મપાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જો એક સમઘનનું ઘનફળ 27 ઘન સેમી હોય, તો તેની બાજુની લંબાઈ કેટલી?",
+      "options": "A) 9 સેમી, B) 3 સેમી, C) 27 સેમી, D) 7 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 3 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક કરો: 3 x 3 x 3 = 27. એટલે જવાબ 3 આવે!</p></div>"
+    }
+  ]
+}
