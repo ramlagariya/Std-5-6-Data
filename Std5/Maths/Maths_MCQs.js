@@ -1567,3 +1567,161 @@ var Std5_Maths_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખાં અને રેખાચિત્ર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમઘન (Cube) ને કુલ કેટલી સપાટીઓ (faces) હોય છે?\n(A) 4\n(B) 6\n(C) 8\n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તમારા રૂમને એક સમઘન માનો - 4 દીવાલો + 1 છત + 1 ભોંયતળિયું = કુલ 6 સપાટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કયો આકાર વાળવાથી સમઘન (Cube) બનશે?\n(A) પાંચ ચોરસવાળી આકૃતિ\n(B) છ લંબચોરસવાળી આકૃતિ\n(C) છ ચોરસવાળી ચોક્કસ આકૃતિ (Net)\n(D) ત્રણ ત્રિકોણવાળી આકૃતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છ ચોરસવાળી ચોક્કસ આકૃતિ (Net)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમઘન માટે '6 ચોરસ' હોવા અનિવાર્ય છે. જો 6 થી ઓછા હોય તો ખોખું બંધ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાસા (Dice) પરની સામસામેની સપાટી પરના અંકોનો સરવાળો હંમેશા કેટલો થાય છે?\n(A) 5\n(B) 6\n(C) 7\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લુડો રમતી વખતે યાદ રાખો: 1 ની સામે 6, 2 ની સામે 5 અને 3 ની સામે 4 હોય છે. બધાનો સરવાળો 7 જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નકશામાં બારી અને બારણાંની જગ્યા દર્શાવવા માટે કયા નકશાનો ઉપયોગ થાય છે?\n(A) ઊંડું રેખાચિત્ર\n(B) ભોંયતળિયાનો નકશો (Floor Map)\n(C) સ્તંભ આલેખ\n(D) પાય ચાર્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભોંયતળિયાનો નકશો (Floor Map)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભોંય' એટલે જમીન પર કઈ વસ્તુ ક્યાં આવશે તેનું માપ એટલે ભોંયતળિયાનો નકશો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કપાયેલા નળાકાર (Cylinder) ને ખોલતા તે કેવો આકાર ધારણ કરે છે?\n(A) વર્તુળ\n(B) ત્રિકોણ\n(C) લંબચોરસ\n(D) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાગળને ગોળ વાળીને નળાકાર બનાવો અને પછી ખોલો, તે લંબચોરસ જ બનશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઘરનું 'ઊંડું રેખાચિત્ર' (Deep Drawing) શું બતાવે છે?\n(A) ઘરની લંબાઈ\n(B) ઘરની પહોળાઈ\n(C) ઘર કેવું દેખાશે તેની વાસ્તવિક સમજ (3D)\n(D) માત્ર ઘરના બારણાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘર કેવું દેખાશે તેની વાસ્તવિક સમજ (3D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊંડું એટલે 3D (લંબાઈ, પહોળાઈ અને ઊંચાઈ ત્રણેય દેખાય તે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમઘનને કેટલી કિનારીઓ (Edges) હોય છે?\n(A) 6\n(B) 8\n(C) 12\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિનારી એટલે ધાર. ઉપરની 4 + નીચેની 4 + ઉભી 4 = 12!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક ખુલ્લા ખોખા (Open Box) ને કેટલી સપાટીઓ હોય છે?\n(A) 6\n(B) 5\n(C) 4\n(D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખુલ્લું ખોખું એટલે ઉપરનું ઢાંકણું નથી, તેથી 6 માંથી 1 બાદ કરતા 5 સપાટી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કયો આકાર શંકુ (Cone) ને ખોલવાથી બની શકે?\n(A) અર્ધવર્તુળ અથવા વર્તુળનો ભાગ\n(B) ચોરસ\n(C) લંબચોરસ\n(D) ષટ્કોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અર્ધવર્તુળ અથવા વર્તુળનો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઈસ્ક્રીમ કોન કે બર્થડે કેપને યાદ કરો, તેનો ઘેરાવો વળાંકવાળો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમઘન ખોખાને કેટલા ખૂણા (Vertices) હોય છે?\n(A) 4\n(B) 6\n(C) 8\n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપરના 4 ખૂણા અને નીચેના 4 ખૂણા = કુલ 8 ખૂણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો એક પાસા પર ઉપર 3 હોય, તો તેની બરાબર નીચે કયો અંક હશે?\n(A) 4\n(B) 3\n(C) 5\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામસામેનો સરવાળો 7 થવો જોઈએ. 7 - 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મીઠાઈનું ખોખું બનાવવા માટે કયા આકારના કાગળનો ઉપયોગ થાય છે?\n(A) માત્ર ગોળ\n(B) નેટ (રેખાકૃતિ)\n(C) માત્ર ત્રિકોણ\n(D) દોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નેટ (રેખાકૃતિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ 3D વસ્તુ બનાવવા માટે પેલા તેનું 2D માળખું જોઈએ જેને 'નેટ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કિનારી પરથી જોતા પુલ (Bridge) કેવો દેખાશે?\n(A) લંબચોરસ પટ્ટી જેવો\n(B) ગોળ\n(C) ચોરસ\n(D) ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લંબચોરસ પટ્ટી જેવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુલ લાંબો હોય છે, તેથી બાજુએથી તે પટ્ટી જેવો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દીવાસળીના ખોખાનો આકાર કેવો હોય છે?\n(A) સમઘન\n(B) લંબઘન\n(C) શંકુ\n(D) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની લંબાઈ, પહોળાઈ અને ઊંચાઈ સરખી ન હોય તે લંબઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નળાકાર આકારનું ઉદાહરણ નીચેનામાંથી કયું છે?\n(A) પાસો\n(B) પાણીની પાઈપ\n(C) આઈસ્ક્રીમ કોન\n(D) પુસ્તક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણીની પાઈપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નળાકાર એટલે જેનો ઉપર-નીચેનો ભાગ ગોળ અને લંબાઈ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભોંયતળિયાના નકશામાં બારી માટે કઈ નિશાની વપરાય છે?\n(A) વર્તુળ\n(B) દીવાલમાં ખાંચો અથવા નાનો લંબચોરસ\n(C) મોટો એરો\n(D) ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દીવાલમાં ખાંચો અથવા નાનો લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નકશામાં બારીને દીવાલની વચ્ચે જગ્યા છોડીને બતાવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો તમે પેન્સિલ છોલ્યા વગરની જુઓ, તો તેનો આકાર કેવો હોય છે?\n(A) ગોળાકાર\n(B) નળાકાર (અથવા ષટ્કોણીય નળાકાર)\n(C) શંકુ\n(D) લંબચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નળાકાર (અથવા ષટ્કોણીય નળાકાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેન્સિલ લાંબી અને છેડે ગોળ હોય છે, એટલે તે નળાકારનો જ પ્રકાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઈંટનો આકાર કેવો હોય છે?\n(A) સમઘન\n(B) લંબઘન\n(C) શંકુ\n(D) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈંટની લંબાઈ તેની પહોળાઈ કરતા વધુ હોય છે, માટે તે લંબઘન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કયો આકાર દ્વિ-પરિમાણીય (2D) છે?\n(A) સમઘન\n(B) લંબઘન\n(C) ચોરસ\n(D) ગોળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2D આકારો કાગળ પર દોરી શકાય અને તેને ઊંચાઈ હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમઘન બનાવવા માટે વપરાતા ચોરસના જોડાણને શું કહેવાય?\n(A) પિરામિડ\n(B) નેટ (Net)\n(C) ખૂણો\n(D) ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નેટ (Net)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાળી જેવી રચના કે જેને વાળવાથી ખોખું બને તેને 'નેટ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો એક પાસા પર સામેની બાજુએ 2 હોય, તો પાછળની બાજુએ કયો અંક હશે?\n(A) 5\n(B) 4\n(C) 3\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો 7 કરવા માટે: 7 - 2 = 5!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પિરામિડનો પાયો (Base) કેવો હોઈ શકે છે?\n(A) માત્ર ગોળ\n(B) ચોરસ અથવા ત્રિકોણ\n(C) માત્ર લંબચોરસ\n(D) રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોરસ અથવા ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈજિપ્તના પિરામિડ યાદ કરો, તેનો નીચેનો ભાગ ચોરસ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમઘનની બધી જ સપાટીઓ કેવી હોય છે?\n(A) લંબચોરસ\n(B) ચોરસ\n(C) વર્તુળ\n(D) અસમભુજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમ' એટલે સરખું અને 'ઘન' એટલે સમઘન, જેમાં બધી બાજુ સરખી (ચોરસ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઉપરથી જોતા રેલ્વે લાઈનના પાટા કેવા દેખાય છે?\n(A) એકબીજાને છેદતા\n(B) સમાંતર રેખાઓ જેવા\n(C) વર્તુળ જેવા\n(D) ત્રિકોણ જેવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાંતર રેખાઓ જેવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપરથી બધું સપાટ દેખાય, એટલે બે સીધી લીટીઓ જેવું લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લંબઘન ખોખાને વાળવા માટે કેટલી સપાટીની જરૂર પડે?\n(A) 4\n(B) 5\n(C) 6\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબઘન હોય કે સમઘન, બંધ ખોખા માટે 6 સપાટી જોઈએ જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નીચેનામાંથી કયો આકાર ત્રિ-પરિમાણીય (3D) નથી?\n(A) પાસો\n(B) પુસ્તક\n(C) ત્રિકોણ\n(D) દડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણ માત્ર કાગળ પર દોરાય, તેને હાથમાં પકડી ન શકાય (જો તે કાગળનો ટુકડો ના હોય તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એક લંબચોરસ કાગળને તેની લંબાઈની આસપાસ વાળતા કયો આકાર બનશે?\n(A) શંકુ\n(B) ગોળો\n(C) નળાકાર\n(D) સમઘન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાગળને રોલ કરો, જે આકાર બને તે નળાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નકશામાં દરવાજા ક્યાં બતાવવામાં આવે છે?\n(A) છત પર\n(B) દીવાલની વચ્ચે\n(C) ઘરની બહાર\n(D) કોઈ પણ ખૂણે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દીવાલની વચ્ચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભોંયતળિયાના નકશામાં જ્યાંથી અંદર જવાય ત્યાં દરવાજો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ટ્રીપીયમ (Trapezium) જેવા આકારવાળા ચિત્રને બાજુએથી જોતા તે કેવું દેખાય?\n(A) ઊંચું\n(B) નીચું\n(C) ત્રાસું\n(D) સીધું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ત્રાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર્વત કે પુલને બાજુએથી જોતા તે ઢાળ જેવો એટલે કે ત્રાસો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કઈ વસ્તુનું ઊંડું રેખાચિત્ર સૌથી વધુ વાસ્તવિક લાગે?\n(A) ઘરનું મોડેલ\n(B) સીધી લીટી\n(C) ટપકું\n(D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઘરનું મોડેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ચિત્રમાં લંબાઈ, પહોળાઈ અને ઊંડાઈ દેખાય તે જ સૌથી સાચું લાગે.</p></div>"
+    }
+  ]
+}
