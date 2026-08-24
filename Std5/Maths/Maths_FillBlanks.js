@@ -1030,3 +1030,161 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "તે સરખું દેખાય છે?",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચિત્રના બે સમાન ભાગ કરતી રેખાને ________ રેખા કહેવાય છે. (સમાંતર, સંમિતિ, આડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે રેખા ચિત્રને 'અરીસા' જેવી બે સરખી નકલમાં વહેંચે તેને સંમિતિની રેખા (Mirror Line) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અંગ્રેજી મૂળાક્ષર 'H' ને અડધો આંટો ફેરવતા તે ________ જેવો જ દેખાય છે. (I, H, Z)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોપડી ઉંધી કરીને જુઓ, જો અક્ષર એવો ને એવો જ લાગે, તો તે અડધા આંટામાં સમાન છે તેમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચોરસને ________ આંટો ફેરવતા તે પહેલા જેવો જ દેખાય છે. (1/4, 1/3, 1/6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની ચારેય બાજુ સરખી હોય છે, એટલે તેને 90 ડિગ્રી (પાવ આંટો) ફેરવો તો પણ તે બદલાતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમબાજુ ત્રિકોણને ________ આંટો ફેરવતા તે ફરીથી મૂળ સ્થિતિ જેવો જ દેખાય છે. (1/2, 1/3, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણને 3 ખૂણા હોય, એટલે તેને 1/3 આંટો ફેરવતા તે સરખો જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લંબચોરસને ________ આંટો ફેરવતા તે પહેલા જેવો દેખાશે. (1/4, 1/2, 1/3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસને પાવ (1/4) ફેરવો તો તે ઉભો થઈ જાય, પણ અડધો (1/2) ફેરવો તો ફરી પાછો આડો અને મૂળ જેવો થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અંગ્રેજી મૂળાક્ષર 'S' ને અડધો આંટો ફેરવતા તે ________ દેખાય છે. (S, Z, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> S</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' ને ઉંધો કરો તો પણ તે 'S' જ રહે છે. આને 'અર્ધ ભ્રમણ સંમિતિ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અંક '8' ને અડધો આંટો ફેરવતા તે ________ દેખાય છે. (0, 8, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0, 1 અને 8 એવા અંકો છે જે અડધો આંટો ફેરવતા બદલાતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વર્તુળને કેટલામો આંટો ફેરવતા તે હંમેશા સરખું જ દેખાય છે? (કોઈપણ, માત્ર 1/2, માત્ર 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ વસ્તુને ગમે તેટલી ફેરવો, તે બધી બાજુથી સરખી જ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નિયમિત ષટ્કોણને ________ આંટો ફેરવતા તે બિલકુલ પહેલા જેવો જ દેખાય છે. (1/3, 1/6, 1/5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી બાજુઓ સરખી, તેટલામાં ભાગનો આંટો ફેરવતા આકાર સરખો જ રહે. (ષટ્કોણ = 6 બાજુ, એટલે 1/6 આંટો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયો અક્ષર અરીસામાં જોતા ઉંધો (બાજુઓ ઉલટાયેલી) દેખાશે? (A, M, P)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અક્ષરની વચ્ચે ઉભી લીટી દોરવાથી બે સરખા ભાગ ન થાય, તે અરીસામાં ઉંધો જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો એક આકારને 1/4 આંટો ફેરવવો હોય, તો તેને ________ ના ખૂણે ફેરવવો પડે. (90°, 180°, 60°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ચક્ર 360° નું હોય. 360 ÷ 4 = 90°. એટલે 1/4 એટલે કાટખૂણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પંખાના 3 પાંખિયા હોય, તો તેને ________ આંટો ફેરવતા તે પહેલા જેવો જ લાગે. (1/2, 1/3, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પાંખિયા એટલે 1/3 આંટો, 4 પાંખિયા એટલે 1/4 આંટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અંગ્રેજી શબ્દ 'NOON' ને અડધો આંટો ફેરવતા તે ________ વંચાશે. (NOON, MOON, NOOИ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> NOON</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N અને O બંને અડધો આંટો ફેરવતા સમાન રહે છે, તેથી આખો શબ્દ પણ સમાન રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આપેલ આકૃતિમાં સંમિતિની રેખા આકૃતિને ________ ભાગમાં વહેંચે છે. (ત્રણ, બે સરખા, અસમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સરખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમિતિ એટલે જ 'સરખાપણું'. એટલે હંમેશા બે એકદમ સમાન ભાગ જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અંગ્રેજી મૂળાક્ષર 'Z' ને 1/4 આંટો ફેરવતા તે ________ જેવો લાગે છે. (Z, N, S)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z ને 90 ડિગ્રી ફેરવો એટલે તેની ઉભી અને આડી રેખાઓ બદલાઈને N જેવો આકાર બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પતંગિયાના ચિત્રમાં ________ સંમિતિ જોવા મળે છે. (ઉભી, આડી, ત્રાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉભી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગિયાને વચ્ચેથી ઉભો કાપો તો જ ડાબી અને જમણી બાજુની પાંખો સરખી દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અડધો આંટો એટલે ________ ડિગ્રીનું ભ્રમણ. (90, 180, 360)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 180</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ગોળ 360, તો અડધું ગોળ 180!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અંગ્રેજી મૂળાક્ષર 'O' ને અડધો આંટો ફેરવતા તે ________ જેવો દેખાય છે. (C, D, O)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O એ વર્તુળ જેવો છે, તેને ગમે તેટલો ફેરવો તે O જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા અંકને અડધો આંટો ફેરવતા તે બદલાઈ જાય છે? (8, 0, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ને ઉંધો (180°) કરો તો તે 6 જેવો દેખાવા લાગે છે, એટલે તે બદલાઈ ગયો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જે આકૃતિને 1/3 આંટો ફેરવતા તે મૂળ આકૃતિ જેવી જ દેખાય, તો તેને ________ ખૂણે ફેરવી કહેવાય. (120°, 90°, 60°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 120°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ને 3 વડે ભાગતા 120 મળે. (360 ÷ 3 = 120).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અરીસામાં 'M' અક્ષર જોતા તે ________ જેવો દેખાય છે. (W, M, N)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> M</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M' માં ઉભી સંમિતિ છે, એટલે અરીસામાં તે બદલાતો નથી. (નોંધ: પાણીમાં તે W દેખાય, પણ અરીસામાં M જ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કયો અક્ષર અડધો આંટો ફેરવતા પણ બદલાતો નથી? (X, K, L)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H, I, N, O, S, X, Z - આ અક્ષરો અડધો આંટો ફેરવતા સરખા જ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એક ચોરસને 1/2 આંટો ફેરવતા તે ________ દેખાય છે. (લંબચોરસ, ચોરસ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કોઈ આકાર 1/4 માં સરખો હોય, તો તે 1/2 માં પણ ફરજિયાત સરખો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયો અંક અરીસામાં જોતા તેના જેવો જ દેખાશે? (5, 8, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 ની ડાબી અને જમણી બાજુ એકદમ સરખી છે, તેથી તે અરીસામાં પણ સરખો દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નિયમિત પંચકોણને ________ આંટો ફેરવતા તે પહેલા જેવો દેખાય છે. (1/2, 1/4, 1/5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચકોણ એટલે 5 બાજુ, એટલે 1/5 આંટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અક્ષર 'I' ને 1/4 આંટો ફેરવતા તે ________ જેવો લાગે છે. (I, આડો '-', T)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આડો '-'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભી પેન્સિલને 90 ડિગ્રી ફેરવો તો તે આડી થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ચિત્રને પૂરેપૂરું એક વાર ફેરવતા (360°) તે ________ દેખાય છે. (ઉંધુ, મૂળ સ્થિતિ જેવું જ, અલગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ સ્થિતિ જેવું જ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરેપૂરો એક આંટો એટલે જેવી વસ્તુ હતી એવી જ પાછી આવી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અક્ષર 'N' ને 1/2 આંટો ફેરવતા તે ________ દેખાશે. (Z, N, M)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N ને ઉંધો કરીને જુઓ, તે N જ વંચાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "6 પાંખિયાવાળા ફૂલને ________ આંટો ફેરવતા તે સમાન દેખાય છે. (1/3, 1/6, આપેલ બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 પાંખિયા હોય તો 1/6 માં પણ સરખું દેખાય અને 1/3 (જે 2/6 છે) માં પણ સરખું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "તૂટક રેખા જ્યારે આકારના બે સરખા ભાગ કરે ત્યારે તેને ________ નું પ્રતિબિંબ કહી શકાય. (અરીસા, પાણી, પડછાયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જે દેખાય તેને 'Mirror Image' કહેવાય, જે એકદમ સપ્રમાણ હોય છે.</p></div>"
+    }
+  ]
+}
