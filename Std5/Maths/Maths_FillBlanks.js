@@ -1496,3 +1496,161 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "તમે પેટર્ન (ભાત) જોઈ શકો છો?",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો કોઈ આકૃતિને ૧/૪ ફેરવવામાં આવે, તો તે આકૃતિ આખું ચક્ર પૂર્ણ કરવા માટે કુલ ......... વખત ફેરવવી પડે. (૨, ૩, ૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧/૪ એટલે ચોથો ભાગ, તો આખું કરવા માટે ૪ ભાગ જોઈએ. (૪ x ૧/૪ = ૧)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અક્ષર 'H' ને ૧/૨ ફેરવતા તે ......... જેવો જ દેખાય છે. (H, I, N)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અક્ષરો ઉપર-નીચેથી સમાન હોય તેને ૧/૨ (અડધું) ફેરવતા તે મૂળ જેવા જ દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "૧ થી ૧૦ સુધીની સંખ્યાઓનો સરવાળો ......... થાય છે. (૪૫, ૫૦, ૫૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ થી ૧૦ નો સરવાળો હંમેશા ૫૫ થાય. (ટ્રીક: ૫ લખી તેની બાજુમાં ૫ મૂકી દેવા)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "૧૧ થી ૨૦ સુધીની સંખ્યાઓનો સરવાળો ......... થાય છે. (૧૫૫, ૨૫૫, ૧૪૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૫૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક ૧૦ સંખ્યાનો સરવાળો કરવા માટે પાંચમી સંખ્યાની પાછળ '૫' લગાડી દેવો. અહીં ૧૫ ની પાછળ ૫ એટલે ૧૫૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અક્ષર 'N' ને ૧/૪ ફેરવતા તે ......... જેવો દેખાશે. (N, Z, M)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Z</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'N' ને ૯૦ અંશ ફેરવો એટલે તે આડો થઈ જશે, જે 'Z' જેવો દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "૧૨૧ એ એક ......... સંખ્યા છે કારણ કે તેને આગળ કે પાછળથી વાંચતા તે સમાન રહે છે. (સામાન્ય, વિશિષ્ટ, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશિષ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલીન્ડ્રોમ (Palindrome) એટલે કે જે ઉલટું વાંચતા પણ એ જ આવે તેને વિશિષ્ટ સંખ્યા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જાદુઈ ષટ્કોણમાં, બે વર્તુળમાં આપેલી સંખ્યાઓનો ......... તેની વચ્ચેના ચોરસમાં મળે છે. (સરવાળો, ગુણાકાર, બાદબાકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુણાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના નિયમ મુજબ: વર્તુળ x વર્તુળ = ચોરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો ૨૧ થી ૩૦ નો સરવાળો ૨૫૫ થતો હોય, તો ૩૧ થી ૪૦ નો સરવાળો ......... થાય. (૩૪૫, ૩૫૫, ૪૫૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૫૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચમી સંખ્યા ૩૫ છે, તેની પાછળ ૫ મૂકો એટલે ૩૫૫!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "૧૧૧ x ૧૧૧ = ......... (૧૨૧, ૧૨૩૨૧, ૧૧૧૧૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૨૩૨૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વખત '૧' હોય ત્યાં સુધી એકડા લખી ઉતરતા ક્રમમાં જવું. (૩ વખત ૧ છે તો ૧-૨-૩-૨-૧)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કોઈ આકૃતિને ૩/૪ ફેરવવી એટલે તેને ......... વખત ૧/૪ ફેરવવી. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩/૪ = ૧/૪ + ૧/૪ + ૧/૪. એટલે કે ૩ વખત પા ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો ગુપ્ત સંદેશમાં A માટે 1 અને B માટે 2 હોય, તો 'CAT' માટે ......... સંખ્યાઓ આવશે. (3, 1, 10 / 3, 1, 20 / 1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3, 1, 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી મૂળાક્ષરનો ક્રમ યાદ રાખો. C=3, A=1, T=20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જાદુઈ ચોરસમાં દરેક હાર (રો) અને સ્તંભ (કોલમ) નો સરવાળો ......... હોય છે. (અલગ અલગ, શૂન્ય, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાદુઈ' એટલે જ બધી બાજુથી સરખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંખ્યા ૪૮ ને ઉલટાવતા નવી સંખ્યા ......... મળે. (૪૮, ૮૪, ૪૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમનો અંક દશકમાં અને દશકનો અંક એકમમાં લાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "૧, ૩, ૫, ૭, ......... આ પેટર્નમાં હવે પછીની સંખ્યા કઈ આવશે? (૮, ૯, ૧૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એકી સંખ્યાની પેટર્ન છે. દરેક સંખ્યામાં ૨ ઉમેરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઘડિયાળના કાંટાને ૧૨ થી ૩ પર આવવા માટે ......... ફેરવવો પડે. (૧/૪, ૧/૨, ૩/૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧/૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૨ થી ૩ એ ચોથો ભાગ એટલે કે ૧/૪ ફેરફાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કયો અંગ્રેજી અક્ષર અડધો (૧/૨) ફેરવતા બદલાતો નથી? (P, S, L)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> S</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S, H, I, O, N, X, Z - આ અક્ષરો અડધા આંટામાં સમાન દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કેલેન્ડરના ૩x૩ ના ચોરસ ખાનામાં રહેલી કુલ ૯ સંખ્યાઓનો સરવાળો કરવા માટે સૌથી નાની સંખ્યામાં ૪ ઉમેરી તેને ......... વડે ગુણવા પડે. (૭, ૮, ૯)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યની સંખ્યા શોધો અને તેને ૯ વડે ગુણી દો અથવા (નાની સંખ્યા + ૪) x ૯.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "૧૨ x ૨ + ૩ = ૨૭, ૧૨ x ૩ + ૩ = ૩૯, તો ૧૨ x ૪ + ૩ = ......... (૪૯, ૫૧, ૬૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૨ x ૪ = ૪૮ અને ૪૮ + ૩ = ૫૧. પેટર્ન મુજબ ૧૨ ઉમેરાતા જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ષટ્કોણની પેટર્નમાં જો બે વર્તુળમાં ૭ અને ૯ હોય, તો તેમની વચ્ચેના ચોરસમાં ......... આવશે. (૧૬, ૬૩, ૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૭ x ૯ = ૬૩. ગુણાકાર યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોઈપણ એકી સંખ્યામાં ૧ ઉમેરતા તે ......... સંખ્યા બની જાય છે. (એકી, બેકી, વિશિષ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ + ૧ = ૪. એકી + ૧ = હંમેશા બેકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પેટર્ન પૂર્ણ કરો: ૫, ૧૦, ૨૦, ૪૦, ......... (૫૦, ૬૦, ૮૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક સંખ્યા તેના કરતા બમણી (ડબલ) થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ચોરસને ૧/૨ ફેરવતા તે ......... જેવો દેખાય છે. (લંબચોરસ, ચોરસ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની બધી બાજુ સરખી હોય છે, માટે તેને ગમે તેટલું (૧/૪ કે ૧/૨) ફેરવો તે મૂળ જેવો જ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "૯, ૧૮, ૨૭, ૩૬, ......... પેટર્નમાં પછીની સંખ્યા કઈ? (૪૦, ૪૫, ૫૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ૯ નો ઘડિયો છે. ૯ x ૫ = ૪૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિશિષ્ટ સંખ્યા બનાવવા માટે ૨૮ માં તેના અંકો ઉલટાવીને ઉમેરતા (૨૮+૮૨) ......... મળે છે. (૧૦૦, ૧૧૦, ૧૦૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૮ + ૮૨ = ૧૧૦. જો હજુ વિશિષ્ટ ન બને તો ફરી સરવાળો કરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઘડિયાળના કાંટામાં ૩ થી ૯ પર પહોંચવા માટે કાંટાને ......... આંટો ફરવો પડે. (૧/૪, ૧/૨, ૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧/૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ થી ૯ એટલે બરાબર સામેની બાજુ, એટલે કે અડધો આંટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "૧, ૨, ૩, ૪, ૫, ૬, ૭, ૮, ૯, ૧૦ નો સરવાળો ૫૫ છે, તો ૧૦૧ થી ૧૧૦ નો સરવાળો ......... થશે. (૧૦૫૫, ૫૫૫, ૧૧૫૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૫૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૫ એ પાંચમી સંખ્યા છે, પાછળ ૫ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો મધ્યની સંખ્યા ૨૫ હોય તેવા ૩x૩ જાદુઈ ચોરસનો કુલ સરવાળો ......... થાય. (૫૦, ૭૫, ૨૨૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩x૩ ચોરસમાં મધ્યની હારનો સરવાળો મધ્યની સંખ્યા x ૩ જેટલો હોય છે. (નોંધ: પ્રશ્ન મુજબ જો હાર પૂછી હોય તો ૭૫, કુલ પૂછ્યું હોય તો મધ્ય x ૯)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો એક પેટર્ન ૪૫ અંશના ખૂણે ફરે છે, તો આઠમી વખત તે ......... સ્થાને પાછી આવશે. (મૂળ, અડધા, નવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૫ અંશ એટલે ૧/૮ ભાગ. ૮ વખત ફેરવતા ૮/૮ = ૧ આખું ચક્ર પૂરું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંખ્યા '૬૯' ને અડધી (૧/૨) ફેરવતા તે ......... જેવી દેખાય છે. (૬૯, ૯૬, ૬૬)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૬ ને ઉલટાવો તો ૯ બને અને ૯ ને ઉલટાવો તો ૬ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પેટર્ન પૂર્ણ કરો: ૮૦, ૭૦, ૬૦, ......... (૪૦, ૫૦, ૩૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક વખતે ૧૦ બાદ થાય છે. ઉતરતો ક્રમ છે.</p></div>"
+    }
+  ]
+}
