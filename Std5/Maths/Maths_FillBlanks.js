@@ -822,3 +822,211 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભાગ અને પૂર્ણ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈ એક આખી વસ્તુના બે સરખા ભાગ કરીએ, તો દરેક ભાગને તે વસ્તુનો ........... કહેવાય. (પા, અડધો, પોણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ વસ્તુને બે (2) વડે ભાગવામાં આવે, ત્યારે તે 'અડધો' ભાગ જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતના રાષ્ટ્રધ્વજમાં સૌથી ઉપરનો પટ્ટો ........... રંગનો હોય છે. (લીલા, સફેદ, કેસરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેસરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાષ્ટ્રધ્વજના ત્રણ સરખા ભાગ છે, જેમાં 'કેસરી' રંગ સૌથી ઉપર (1/3 ભાગ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રાષ્ટ્રધ્વજના સફેદ ભાગમાં આવેલ ચક્રને ........... કહેવામાં આવે છે. (ધર્મચક્ર, અશોકચક્ર, વિજયચક્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશોકચક્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફેદ પટ્ટો વચમાં છે અને તેમાં વાદળી રંગનું 'અશોકચક્ર' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "1 રૂપિયો એટલે ........... પૈસા. (50, 100, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૂપિયાને પૈસામાં ફેરવવા હંમેશા 100 વડે ગુણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "50 પૈસા એ 1 રૂપિયાનો ........... ભાગ છે. (અડધો, ચોથો, ત્રીજો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 50 એ 100 ના અડધા છે, એટલે કે 1/2 ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "25 પૈસા એ 1 રૂપિયાનો ........... ભાગ છે. (1/2, 1/3, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 25 ચોક 100 થાય, તેથી તે ચોથો ભાગ એટલે કે 1/4 કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક લંબચોરસના છ સરખા ભાગ કરીએ, તો દરેક ભાગ આખા લંબચોરસનો ........... ભાગ ગણાય. (1/2, 1/6, 6/1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલા કુલ ભાગ કર્યા હોય તે છેદમાં આવે. અહીં 6 ભાગ છે એટલે 1/6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અપૂર્ણાંક 3/4 માં '3' ને ........... કહેવાય. (છેદ, અંશ, પૂર્ણાંક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંશ હંમેશા ઉપર (આકાશમાં) અને છેદ હંમેશા નીચે (જમીન પર) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અપૂર્ણાંક 5/8 માં '8' ને ........... કહેવાય. (છેદ, અંશ, મિશ્ર સંખ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદ એટલે 'છેલ્લે' અથવા 'નીચે' રહેલો અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "1 કલાકનો 1/2 ભાગ એટલે ........... મિનિટ. (20, 30, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 કલાક = 60 મિનિટ. 60 ના અડધા (1/2) કરો એટલે 30 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "1 કલાકનો 1/4 ભાગ એટલે ........... મિનિટ. (15, 30, 45)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 60 ને 4 વડે ભાગો (60 ÷ 4 = 15). 15 મિનિટ એટલે પા કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો એક ચોકલેટના 12 ટુકડા હોય, તો તેનો 1/3 ભાગ એટલે ........... ટુકડા. (3, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 ના ત્રણ સરખા ભાગ કરો: 12 ÷ 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો 1 કિલો બટાટાની કિંમત ₹20 હોય, તો 1/2 કિલો બટાટાની કિંમત ₹........... થાય. (10, 5, 40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અડધો કિલો એટલે કિંમતના પણ અડધા કરવા. 20 ના અડધા 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક દિવસના ........... કલાક હોય છે. (12, 24, 60)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખું વર્તુળ દિવસ-રાતનું 24 કલાકનું બનેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દિવસનો 1/3 ભાગ ઊંઘવામાં વિતાવો, તો તમે ........... કલાક ઊંઘ્યા કહેવાય. (6, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 24 કલાક ÷ 3 = 8 કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો 1 કિલો ટામેટાની કિંમત ₹40 હોય, તો 1/4 કિલો ટામેટાની કિંમત ₹........... થાય. (10, 20, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/4 ભાગ એટલે ચોથો ભાગ. 40 ÷ 4 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "3/4 કિલોગ્રામ એટલે ........... ગ્રામ. (250, 500, 750)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 750</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 કિલો = 1000 ગ્રામ. તેનો 3/4 ભાગ એટલે 250 × 3 = 750 ગ્રામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોઈપણ વસ્તુના 4 સરખા ભાગમાંથી 3 ભાગ લઈએ તેને ........... કહેવાય. (પા, અડધો, પોણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3/4 ને ગુજરાતીમાં 'પોણો' ભાગ કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "1 મીટરનો 1/2 ભાગ એટલે ........... સેમી. (25, 50, 75)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 મીટર = 100 સેમી. 100 ના અડધા 50 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બે અડધા (1/2 + 1/2) ભેગા મળીને ........... આખી વસ્તુ બનાવે. (1, 2, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અડધું + અડધું = આખું (1). જેમ કે બે અડધા સફરજન મળે તો એક આખું સફરજન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "1 લિટર દૂધનો 1/4 ભાગ એટલે ........... મિલી. (250, 500, 750)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 250</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 લિટર = 1000 મિલી. 1000 ÷ 4 = 250 મિલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો એક રાણી ફાળો (કેક) ના 4 સરખા ટુકડા કરે, તો દરેક ટુકડો ........... ભાગ કહેવાય. (1/2, 1/3, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ ટુકડાની સંખ્યા હંમેશા છેદમાં લખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અપૂર્ણાંક 2/6 એ ........... ના સમાન છે. (1/3, 1/2, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંશ અને છેદને 2 વડે ભાગતા: 2÷2=1 અને 6÷2=3, એટલે કે 1/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "8 ખાનાવાળા લંબચોરસમાં 4 ખાનામાં રંગ પૂર્યો હોય, તો ........... ભાગમાં રંગ પૂર્યો કહેવાય. (1/4, 1/2, 1/8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4 એ 8 ના અડધા છે, તેથી 4/8 = 1/2 ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો 1 કિલો ડુંગળીનો ભાવ ₹16 હોય, તો 2 કિલો ડુંગળીનો ભાવ ₹........... થાય. (8, 32, 24)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 કિલોના 16, તો 2 કિલોના 16 × 2 = 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વર્તુળના ચાર સરખા ભાગમાંના બે ભાગ એટલે ........... વર્તુળ. (આખું, અડધું, પા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2/4 એટલે કે 1/2, જે અડધું સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રૂપિયા 10 ના 1/2 ભાગ એટલે ........... રૂપિયા. (2, 5, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ સંખ્યાનો 1/2 ભાગ એટલે તેના અડધા કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો 1 લીંબુ ₹2 નું મળે, તો ₹10 માં ........... લીંબુ મળે. (5, 20, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ રૂપિયા ÷ એક વસ્તુની કિંમત = 10 ÷ 2 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પૈસાને રૂપિયામાં ફેરવવા માટે તેને ........... વડે ભાગવા પડે. (10, 50, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 રૂપિયો = 100 પૈસા, તેથી નાનો એકમ મોટામાં ફેરવતી વખતે 100 થી ભાગાકાર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કિર્તી પાસે ₹20 છે. તે 1/4 ભાગના પૈસા ખર્ચે છે, તો તેણે ........... રૂપિયા ખર્ચ્યા હશે. (5, 10, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 20 નો 1/4 ભાગ એટલે 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અપૂર્ણાંક 4/4 એટલે ........... થાય. (0, 1, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે અંશ અને છેદ સમાન હોય, ત્યારે તેની કિંમત હંમેશા 1 (પૂર્ણ) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "15 ના 1/3 ભાગ ........... થાય. (3, 5, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 15 ને 3 વડે ભાગતા (15 ÷ 3 = 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો કોઈ પટ્ટીના 10 સરખા ભાગ હોય અને 2 ભાગમાં લાલ રંગ હોય, તો લાલ રંગનો ભાગ ........... કહેવાય. (1/10, 2/10, 1/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2/10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પસંદ કરેલા ભાગ ઉપર અને કુલ ભાગ નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "અડધાનું અડધું એટલે ........... ભાગ. (પા, પોણો, આખું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/2 ના ફરી 1/2 કરો એટલે 1/4 થાય, જેને 'પા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "60 મિનિટનો 3/4 ભાગ એટલે ........... મિનિટ. (15, 30, 45)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 45</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/4 એટલે 15 મિનિટ, તો 3/4 એટલે 15 × 3 = 45 મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "2/5 માં 2 એ ........... છે. (અંશ, છેદ, મિશ્ર સંખ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપરનો અંક = અંશ, નીચેનો અંક = છેદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અડધો પ્લસ પા (1/2 + 1/4) ભાગ એટલે ........... ભાગ. (1/2, 3/4, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અડધું (2/4) + પા (1/4) = 3/4 (પોણો) ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "શાળાનું મેદાન 20 મીટર લાંબું છે. તેનો 1/5 ભાગ બગીચો છે. તો બગીચો ........... મીટર લાંબો હશે. (4, 5, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 20 ÷ 5 = 4 મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "3/3 સફરજન એટલે ........... સફરજન. (0, 3, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદ જેટલા જ ભાગ અંશમાં હોય એટલે તે વસ્તુ 'આખી' એટલે કે 1 કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "એક દિવસના 1/2 ભાગના કલાક ........... થાય. (12, 6, 24)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિવસના કુલ 24 કલાક, તેના અડધા (1/2) એટલે 12 કલાક.</p></div>"
+    }
+  ]
+}
