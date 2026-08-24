@@ -1188,3 +1188,311 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "તું મારો ગુણક, હું તારો અવયવ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દરેક સંખ્યાનો નાનામાં નાનો અવયવ ________ છે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1' એ ગણિતનો 'રાજા' અવયવ છે, જે દરેક સંખ્યાના ઘડિયામાં સૌથી પહેલા આવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંખ્યા પોતે પોતાનો સૌથી ________ અવયવ છે. (નાનો, મોટો, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો અવયવ તે સંખ્યાથી મોટો ક્યારેય ન હોઈ શકે, એટલે સંખ્યા પોતે જ લાસ્ટ સ્ટેશન (સૌથી મોટો) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "7 ના પ્રથમ ત્રણ ગુણક 7, 14 અને ________ છે. (15, 21, 28)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 21</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે બીજું કંઈ નહીં પણ તે સંખ્યાનો આખો ઘડિયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "12 ના અવયવોમાં ________ નો સમાવેશ થતો નથી. (3, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંખ્યાના ઘડિયામાં 12 ન આવે, તે 12 નો અવયવ ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યા 2 અને 3 નો સૌથી નાનો સામાન્ય ગુણક ________ છે. (5, 6, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 x 3 = 6. જ્યારે બે ક્રમિક સંખ્યા હોય ત્યારે તેમનો ગુણાકાર જ લઘુત્તમ સામાન્ય ગુણક બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જે સંખ્યાને માત્ર બે જ અવયવ (1 અને સંખ્યા પોતે) હોય તેને ________ સંખ્યા કહેવાય. (વિભાજ્ય, અવિભાજ્ય, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવિભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવિભાજ્ય એટલે 'જેના ટુકડા (ભાગ) ન પડે' તેવા જક્કી નંબરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "15 અને 20 નો સૌથી મોટો સામાન્ય અવયવ ________ છે. (1, 5, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવો મોટામાં મોટો ઘડિયો શોધો જેમાં 15 અને 20 બંને આવતા હોય. (5 નો ઘડિયો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "10 નો ચોથો ગુણક ________ છે. (14, 4, 40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે ગુણાકાર. 10 x 4 = 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બધી બેકી સંખ્યાઓ ________ ના ગુણક હોય છે. (2, 3, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી સંખ્યાની જોડી બનાવવા માટે હંમેશા 2 ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જે સંખ્યાનો એકમનો અંક 0 હોય તે હંમેશા ________ નો ગુણક હોય. (3, 7, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે લાડવો (0) દેખાય એટલે સમજી જવું કે આ 10 ના પરિવારનો સભ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "1 થી 100 માં 9 ના ગુણક આવતા હોય તેવી સંખ્યાઓ ________ છે. (9, 10, 11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 x 11 = 99. એટલે કુલ 11 સંખ્યાઓ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "18 ના અવયવોની કુલ સંખ્યા ________ છે. (3, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1, 2, 3, 6, 9, 18 - આ છ સંખ્યાઓ 18 ને પૂરેપૂરી ભાગી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દરેક સંખ્યાના ગુણકોની સંખ્યા ________ હોય છે. (પરિમિત, અસંખ્ય, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસંખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ મર્યાદિત હોય પણ ગુણક (ઘડિયો) તો ગમે ત્યાં સુધી લંબાવી શકાય, જેમ કે આકાશમાં તારા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "4 અને 5 બંનેનો સામાન્ય ગુણક ________ છે. (10, 15, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 અને 5 ના ઘડિયામાં આવતી પહેલી કોમન સંખ્યા 20 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અવયવ વૃક્ષ (Factor Tree) માં છેલ્લે મળતી બધી સંખ્યાઓ ________ હોય છે. (વિભાજ્ય, અવિભાજ્ય, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવિભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં સુધી અવિભાજ્ય સંખ્યા ન આવે ત્યાં સુધી ઝાડની ડાળીઓ વધતી જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "1 એ ________ સંખ્યા છે. (વિભાજ્ય, અવિભાજ્ય, વિશિષ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશિષ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 એ બહુ વીઆઈપી (VIP) છે, તે કોઈ પણ ટીમમાં નથી આવતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સૌથી નાની અવિભાજ્ય સંખ્યા ________ છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 2 એ એકમાત્ર બેકી સંખ્યા છે જે અવિભાજ્ય પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "30 નો સૌથી નાનો અવયવ કયો છે? (1, 2, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખ બંધ કરીને '1' લખી શકાય કારણ કે તે દરેકનો નાનો અવયવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "8, 16, 24, 32... એ ________ ના ગુણક છે. (4, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખેઆખો 8 નો ઘડિયો ચાલે છે, એટલે 8 ના જ ગુણક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "25 ના અવયવો ________ છે. (1, 5, 25; 1, 25; 5, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1, 5, 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પચીસ માત્ર 1, 5 અને 25 ના ઘડિયામાં જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "12 અને 18 નો સૌથી મોટો સામાન્ય અવયવ ________ છે. (2, 3, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 એક એવો મોટો નંબર છે જેના ઘડિયામાં 12 (6x2) અને 18 (6x3) બંને આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંખ્યા 13 એ ________ સંખ્યા છે. (વિભાજ્ય, અવિભાજ્ય, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવિભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 13 ના ભાગ પાડો તો માત્ર 1 અને 13 જ મળે, બીજું કાંઈ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "40 એ ________ નો ગુણક છે. (6, 8, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 પંચા 40 (8 x 5 = 40), એટલે 8 ના ઘડિયામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "24 ના બધા અવયવોમાં સૌથી મોટો અવયવ ________ છે. (1, 12, 24)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જોતા પોતે જ સૌથી મોટા દેખાઈએ, એમ સંખ્યા પોતે જ પોતાનો મોટો અવયવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "5 અને 10 ના પ્રથમ બે સામાન્ય ગુણકો 10 અને ________ છે. (15, 20, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 નો ઘડિયો બોલો જે 5 ના ઘડિયામાં પણ આવતો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જે સંખ્યાના બેથી વધુ અવયવો હોય તેને ________ સંખ્યા કહેવાય. (વિભાજ્ય, અવિભાજ્ય, એકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભાજ્ય એટલે જેના ઘણા બધા મિત્રો (અવયવો) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "16 નું અવયવ વૃક્ષ બનાવતા 2 અને ________ ની જોડી બને. (4, 8, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ને કેટલા વડે ગુણીએ તો 16 આવે? (2 x 8 = 16).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નવ (9) એ ________ નો અવયવ છે. (18, 20, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ના ઘડિયામાં જે સંખ્યા આવે, 9 તેનો અવયવ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "3 ના ગુણક માં ________ નો સમાવેશ થતો નથી. (9, 12, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ના ઘડિયામાં 14 ક્યારેય આવતા નથી (3, 6, 9, 12, 15...).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બેકી અવિભાજ્ય સંખ્યા માત્ર ________ છે. (2, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા ગણિતમાં '2' એકલી જ એવી બેકી સંખ્યા છે જે અવિભાજ્ય પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "21 ના અવયવોની સંખ્યા ________ છે. (2, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 21 ના અવયવ: 1, 3, 7, 21. કુલ 4 થયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "4 ના ગુણકોમાં 4, 8, 12, 16 અને ________ આવે. (18, 20, 22)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકે ચોકે 16 અને ચાર પંચા 20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કોઈપણ સંખ્યાનો અવયવ તે સંખ્યા જેટલો અથવા તેનાથી ________ હોય છે. (મોટો, નાનો, બમણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અવયવ' એટલે નાના ટુકડા, એટલે તે હંમેશા નાના અથવા સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કોઈપણ સંખ્યાનો ગુણક તે સંખ્યા જેટલો અથવા તેનાથી ________ હોય છે. (મોટો, નાનો, અડધો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુણક' એટલે ગુણાકાર થઈને વધતી સંખ્યા, જે હંમેશા મોટી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "15 નો નાનામાં નાનો ગુણક ________ છે. (1, 15, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો પહેલો ગુણક સંખ્યા પોતે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "3 અને 4 નો પ્રથમ સામાન્ય ગુણક ________ છે. (7, 12, 16)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 x 4 = 12. આ બંનેના ઘડિયામાં આવતી પહેલી સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અવયવ વૃક્ષમાં 10 ના બે ભાગ 2 અને ________ છે. (4, 5, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 x 5 = 10. એટલે બીજી ડાળી પર 5 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "20 અને 30 નો સૌથી મોટો સામાન્ય અવયવ ________ છે. (5, 10, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના છેડે '0' છે, એટલે 10 વડે તો ભાગી જ શકાય અને તે જ મોટો સામાન્ય અવયવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "17 એ ________ સંખ્યા છે. (વિભાજ્ય, અવિભાજ્ય, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવિભાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 17 કોઈના પણ ટેબલમાં (ઘડિયામાં) આવતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "45 એ ________ નો ગુણક છે. (6, 8, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 પંચા 45, એટલે 9 તેનો ગુણક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સંખ્યા 1 ના અવયવોની સંખ્યા ________ છે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 નો અવયવ માત્ર 1 પોતે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સૌથી નાની વિભાજ્ય સંખ્યા ________ છે. (2, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 વિશિષ્ટ છે, 2 અને 3 અવિભાજ્ય છે, એટલે વારો આવ્યો 4 નો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "14 ના અવયવો કયા છે? (1, 2, 7, 14; 1, 14; 2, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1, 2, 7, 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 જે ઘડિયામાં આવે તે બધા અવયવ: 1x14 અને 2x7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "બેકી સંખ્યાનો અવયવ હંમેશા ________ હોય જ. (2, 3, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી એટલે 2 ના પરિવારના સભ્યો, એટલે 2 તો હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "6 ના પ્રથમ પાંચ ગુણકોનો સરવાળો ________ થાય. (60, 90, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 90</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 + 12 + 18 + 24 + 30 = 90. ઘડિયો બોલીને સરવાળો કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "11 ના ગુણકોમાં ________ નથી. (22, 33, 40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 ના ઘડિયામાં બંને અંક સરખા આવે (11, 22, 33...), 40 માં નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "24 અને 36 નો સામાન્ય અવયવ ________ નથી. (6, 12, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ના ઘડિયામાં છેલ્લે 0 જોઈએ, જે 24 કે 36 માં નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "100 નો સૌથી મોટો અવયવ ________ છે. (10, 50, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા પોતે જ પોતાનો અલ્ટીમેટ મોટો અવયવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સંખ્યા 2 અને 5 નો લઘુત્તમ સામાન્ય ગુણક (LCM) ________ છે. (7, 10, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 x 5 = 10. જ્યારે અવિભાજ્ય હોય ત્યારે ગુણાકાર જ લ.સા.અ. થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "12 ના કુલ અવયવો ________ છે. (4, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1, 2, 3, 4, 6, 12 - ગણી લો, ટોટલ 6 થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "60 નું અવયવ વૃક્ષ બનાવતા 6 અને ________ ની જોડી બને. (10, 20, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 x 10 = 60. આ તો મોઢે જ આવડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "30 અને 45 બંને ________ ના ગુણક છે. (10, 15, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 એકા 15, 15 દુ 30, 15 તેરી 45. 15 ના ઘડિયાના જાદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "8 ના ગુણકો ________ છે. (અવધિબદ્ધ, અસંખ્ય, માત્ર પાંચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસંખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે એવી ટ્રેન જેનું કોઈ સ્ટેશન જ નથી, ચાલ્યા જ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "1 થી 20 માં કુલ ________ અવિભાજ્ય સંખ્યાઓ છે. (5, 8, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2, 3, 5, 7, 11, 13, 17, 19 - આ આઠ અનોખી સંખ્યાઓ યાદ રાખી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "14 અને 21 નો સૌથી મોટો સામાન્ય અવયવ ________ છે. (2, 3, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 દુ 14 અને 7 તેરી 21. 7 એ બંનેના ઘડિયાનો સેતુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "9 ના ગુણક માં ________ નો સમાવેશ થાય છે. (15, 27, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 27</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 x 3 = 27. ઘડિયા બોલો જવાબ મેળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "20 નો અવયવ ________ નથી. (4, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 ના ઘડિયામાં 18 પછી સીધા 24 આવે, 20 આવતા જ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જે સંખ્યાનો એકમનો અંક 0 અથવા 5 હોય તે ________ નો ગુણક હોય. (2, 3, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 નો ઘડિયો યાદ કરો - 5, 10, 15, 20... છેલ્લે હંમેશા 5 કે 0 જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "દરેક સંખ્યાનો મોટામાં મોટો અવયવ ________ છે. (1, સંખ્યા પોતે, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંખ્યા પોતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ સંખ્યાને પોતાનાથી મોટી સંખ્યા વડે પૂરેપૂરી ભાગી શકાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "8 અને 12 નો સૌથી નાનો સામાન્ય ગુણક ________ છે. (16, 24, 48)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 નો ઘડિયો: 8, 16, 24... અને 12 નો ઘડિયો: 12, 24... બંનેમાં પહેલી સમાન સંખ્યા 24 છે.</p></div>"
+    }
+  ]
+}
