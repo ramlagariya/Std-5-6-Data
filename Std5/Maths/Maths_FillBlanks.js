@@ -1812,3 +1812,161 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખાં અને રેખા-ચિત્ર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમઘનને કુલ ____ સપાટીઓ (બાજુઓ) હોય છે. (૪, ૬, ૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાને યાદ કરો! પાસા પર ૧ થી ૬ અંક હોય છે, એટલે કે તેને ૬ બાજુઓ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાસાની સામસામેની બાજુઓ પરના અંકોનો સરવાળો હંમેશા ____ થાય છે. (૫, ૬, ૭)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાતડો યાદ રાખો' - જો ઉપર ૧ હોય તો નીચે ૬ જ હોય (૧+૬=૭).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમઘનની દરેક સપાટી ____ આકારની હોય છે. (લંબચોરસ, ચોરસ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે 'સરખા' ઘન. જેની બધી બાજુઓ ચોરસની જેમ સરખી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો પાસાની ઉપરની સપાટી પર ૨ અંક હોય, તો તેની વિરુદ્ધ (નીચેની) સપાટી પર ____ અંક હશે. (૪, ૫, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૭ માંથી આપેલ અંક બાદ કરો. ૭ - ૨ = ૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નકશામાં ઘરની ઊંચાઈ દર્શાવવા માટે ____ ચિત્રનો ઉપયોગ થાય છે. (નકશો, રેખાચિત્ર, ઊંડું ચિત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંડું ચિત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ચિત્રમાં લંબાઈ, પહોળાઈ અને ઊંચાઈ ત્રણેય દેખાય તેને 'ઊંડું ચિત્ર' (Deep Drawing) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખુલ્લા ખોખાને કુલ ____ સપાટીઓ હોય છે. (૪, ૫, ૬)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ખોખું ૬ બાજુનું, ઢાંકણું નીકળી જાય તો ૬ - ૧ = ૫ બાજુ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઈંડા જેવી વસ્તુનું ઊંડું ચિત્ર બનાવવા માટે ____ આકારની મદદ લેવી પડે. (લંબગોળ, ગોળ, ચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જેવો આકાર ધરાવતી હોય તેવું જ ચિત્ર બને. ઈંડું = લંબગોળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શંકુ આકારની ટોપી બનાવવા માટે ____ આકારનો ઉપયોગ થાય છે. (ત્રિકોણ, વર્તુળનો ભાગ, ચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળનો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્થ-ડે કેપને ખોલશો તો તે પંખાના પાંખિયા અથવા વર્તુળના કપાયેલા ભાગ જેવી દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઘરની ફ્લોરિંગ (તળિયા) ની ડિઝાઈન દર્શાવવા માટે ____ નો ઉપયોગ થાય છે. (નકશો, ઊંડું ચિત્ર, ફોટોગ્રાફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરથી જોઈએ ત્યારે જે દેખાય તેને ફ્લોર મેપ અથવા નકશો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લંબઘન ખોખાને ____ ખૂણાઓ હોય છે. (૪, ૬, ૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારા કંપાસ બોક્સના ખૂણા ગણો. ૪ ઉપર અને ૪ નીચે, કુલ ૮!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ત્રણ-પરિમાણીય (3D) આકારમાં ____ દેખાતી નથી. (લંબાઈ, પહોળાઈ, કિંમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિંમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D માં લંબાઈ, પહોળાઈ અને ઊંચાઈ હોય, પણ ચિત્ર જોઈને કિંમત ન જાણી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નળાકાર પાઈપનું તળિયું ____ આકારનું હોય છે. (ચોરસ, લંબચોરસ, વર્તુળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીના ગ્લાસ કે પાઈપના મોઢાને જુઓ, તે હંમેશા ગોળ (વર્તુળ) હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો પાસાની સામેની બાજુએ ૪ હોય, તો તેની પાછળની બાજુએ ____ અંક હશે. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાનો નિયમ: અંક + સામેનો અંક = ૭. તેથી ૭ - ૪ = ૩.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચોકનું બોક્સ સામાન્ય રીતે ____ આકારનું હોય છે. (શંકુ, લંબઘન, ગોલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગના ખોખા લંબચોરસ સપાટી ધરાવતા હોવાથી લંબઘન કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખુલ્લું નળાકાર ખોખું બનાવવા માટે લંબચોરસ કાગળ અને ____ વર્તુળની જરૂર પડે. (૦, ૧, ૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુલ્લું' એટલે એક બાજુથી ખુલ્લું, એટલે માત્ર તળિયા માટે ૧ વર્તુળ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બંધ નળાકાર બનાવવા માટે ____ વર્તુળની જરૂર પડે. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ ડબ્બામાં ઉપર અને નીચે એમ બે ઢાંકણા (વર્તુળ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નકશામાં બારી-બારણાં દર્શાવવા માટે વપરાતા રેખાચિત્રને ____ નકશો કહેવાય. (દ્વિ-પરિમાણીય, ત્રિ-પરિમાણીય, ચાર-પરિમાણીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિ-પરિમાણીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો કાગળ પર હોય, જેમાં ઊંચાઈ દેખાતી નથી, એટલે તે 2D (દ્વિ-પરિમાણીય) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમઘન ખોખાને ખોલતા મળતી આકૃતિને તેનું ____ કહેવાય. (ચિત્ર, નેટ/જાળી, ફોટો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેટ/જાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ ખોખાને કાપીને સપાટ કરી દો, એટલે તેની 'નેટ' તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મીઠાઈના ખોખાનો આકાર મોટેભાગે ____ જેવો હોય છે. (સમઘન, લંબઘન, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાઈનું ખોખું લાંબુ હોય છે, એટલે તેને લંબઘન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાસા પરના સામસામેના અંકો ૬ અને ____ હોઈ શકે નહીં. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૬ ની સામે હંમેશા ૧ જ હોય કારણકે ૬+૧=૭ થાય. તેથી ૨ ક્યારેય સામે ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઘરના નકશામાં બારી માટે કઈ સંજ્ઞા વપરાય છે? (સીધી લીટી, બે લીટી વચ્ચે ખાલી જગ્યા, ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે લીટી વચ્ચે ખાલી જગ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં દીવાલ આખી હોય, પણ બારીની જગ્યાએ દીવાલ કાપેલી બતાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમઘનની કુલ ધાર (edges) ____ હોય છે. (૮, ૧૦, ૧૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪ ઉપરની લીટી, ૪ નીચેની અને ૪ ઉભી લીટી. ૪+૪+૪=૧૨.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આઈસ્ક્રીમનો કોન ____ આકારનો હોય છે. (નળાકાર, શંકુ, ગોલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોન' એટલે 'શંકુ'. જે નીચેથી અણીદાર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો આપણે કોઈ ઘરને બરાબર ઉપરથી જોઈએ, તો તેને ____ કહેવાય. (ફ્લોર મેપ, ઊંડું ચિત્ર, બાજુનો દેખાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્લોર મેપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરથી (Top View) જે દેખાય તે હંમેશા નકશો કે ફ્લોર મેપ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પુસ્તકનો આકાર સામાન્ય રીતે ____ હોય છે. (ચોરસ, લંબઘન, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તકને જાડાઈ (ઊંચાઈ) હોય છે અને તે લંબચોરસ દેખાય છે, એટલે લંબઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દડા (Ball) નું ઊંડું ચિત્ર દોરવા માટે ____ નો ઉપયોગ થાય છે. (ચોરસ, વર્તુળ, લંબચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડો ગોળ હોય, એટલે તેને વર્તુળ દોરીને છાયાપ્રકાશથી 3D બનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાસા પર '૫' ની વિરુદ્ધ બાજુએ કયો અંક હોય? (૨, ૧, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ માં કેટલા ઉમેરીએ તો ૭ થાય? ૨ ઉમેરો, એટલે ૭!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કયો આકાર વાળીને સમઘન બનાવી શકાય? (૫ ચોરસની જાળી, ૬ ચોરસની જાળી, ૪ ચોરસની જાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬ ચોરસની જાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘનની ૬ બાજુ હોય, એટલે જાળીમાં પણ ફરજિયાત ૬ ચોરસ હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કેલેન્ડરના પાનાને વાળવાથી કયો આકાર બની શકે? (ગોલક, નળાકાર, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળને ગોળ વાળો એટલે તે પાઈપ જેવો (નળાકાર) બની જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઘન પદાર્થ કેટલી દિશામાં લંબાઈ ધરાવે છે? (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન પદાર્થ એટલે 3D. જેમાં લંબાઈ, પહોળાઈ અને ઊંચાઈ એમ ૩ માપ હોય.</p></div>"
+    }
+  ]
+}
