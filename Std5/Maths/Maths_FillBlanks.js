@@ -2436,3 +2436,136 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સ્માર્ટ ચાર્ટ્સ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માહિતીને ટૂંકમાં અને સચોટ રીતે દર્શાવવા માટે વપરાતા ચિન્હોને ________ ચિન્હો કહે છે. (આવૃત્તિ, આંકડાકીય, રેખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરીને સરળ બનાવવા માટે જે લીટા કે બોક્સ બનાવીએ તેને 'આવૃત્તિ ચિન્હ' (Tally Marks) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આવૃત્તિ ચિન્હમાં એક ઊભી લીટી '|' એ ________ સંખ્યા દર્શાવે છે. (1, 2, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લીટી = 1 સંખ્યા, જેટલી લીટી એટલી સંખ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આવૃત્તિ ચિન્હમાં આખું બોક્સ અને વચ્ચે એક ત્રાંસી લીટી (ચોરસમાં એક લીટી) કુલ ________ સંખ્યા દર્શાવે છે. (4, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 દીવાલ + 1 છત (ત્રાંસી લીટી) = 5 નું પેકેટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો એક બોક્સ 5 દર્શાવતું હોય, તો આવા 3 બોક્સ ________ સંખ્યા દર્શાવશે. (10, 15, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 નો ઘડિયો બોલો: 5 x 3 = 15!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વર્તુળ આલેખનું બીજું નામ ________ ચાર્ટ છે. (ચપાટી, લાડુ, રોટલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચપાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ ગોળ હોય અને મમ્મીની રોટલી (ચપાટી) પણ ગોળ હોય, એટલે 'ચપાટી ચાર્ટ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો ચપાટી ચાર્ટમાં અડધો ભાગ દૂધ પીતા બાળકોનો હોય, તો બાકીનો ________ ભાગ દૂધ ન પીતા બાળકોનો હોય. (1/4, 1/2, 3/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી રોટલીમાંથી અડધી જાય તો અડધી જ વધે (1/2 + 1/2 = 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કુલ 20 બાળકોમાંથી 1/4 ભાગના બાળકોને આઈસ્ક્રીમ ભાવે છે, તો ________ બાળકોને આઈસ્ક્રીમ ભાવતો હશે. (5, 10, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે ચોથો ભાગ. 20 ને 4 વડે ભાગો: 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લંબ આલેખમાં જે સ્તંભની ઊંચાઈ સૌથી વધુ હોય, તે ________ કિંમત દર્શાવે છે. (ન્યૂનતમ, મહત્તમ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઊંચો એ મોટો! સૌથી ઊંચો થાંભલો = સૌથી મોટી સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "છોડની ઊંચાઈમાં થતો ફેરફાર દર્શાવવા માટે ________ આલેખ વધુ ઉપયોગી છે. (વૃદ્ધિ, વર્તુળ, ચપાટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધવું એટલે 'વૃદ્ધિ'. સમય સાથે વધતી વસ્તુ માટે વૃદ્ધિ આલેખ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો આવૃત્તિ ચિન્હમાં 2 આખા બોક્સ અને 3 લીટી હોય તો તે ________ સંખ્યા દર્શાવે છે. (10, 13, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (2 બોક્સ x 5) + 3 લીટી = 10 + 3 = 13!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચપાટી ચાર્ટમાં કુલ ભાગના ચોથા ભાગને અપૂર્ણાંકમાં ________ લખાય. (1/2, 1/3, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોથો ભાગ એટલે છેદમાં 4 આવે. (પા ભાગ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પરિવારના સભ્યોની વંશાવલી દર્શાવવા માટે ________ નો ઉપયોગ થાય છે. (ફેમિલી ટ્રી, સ્તંભ આલેખ, આવૃત્તિ ચિન્હ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેમિલી ટ્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના સભ્યોને ઝાડની ડાળીઓ જેમ દર્શાવતા ચાર્ટને 'ફેમિલી ટ્રી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો સ્કેલ માપ 1 સેમી = 5 એકમ હોય, તો 4 સેમી લાંબો સ્તંભ ________ એકમ દર્શાવે છે. (9, 20, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર કરો: 4 સેમી x 5 એકમ = 20 એકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આવૃત્તિ ચિન્હમાં 24 સંખ્યા દર્શાવવા માટે ________ આખા બોક્સ અને 4 લીટીની જરૂર પડશે. (3, 4, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 24 ÷ 5 કરો. 5 ચોક 20, એટલે 4 આખા બોક્સ અને 4 લીટી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચપાટી ચાર્ટમાં 3/4 ભાગ એટલે ________ ભાગ કહેવાય. (અડધો, પોણો, પા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે પા, 2/4 (1/2) એટલે અડધો અને 3/4 એટલે પોણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો 100 બાળકોમાંથી 50 બાળકોને ગણિત ગમે છે, તો ચપાટી ચાર્ટમાં આ ભાગ ________ દર્શાવશે. (અડધો, ચોથો, આખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના અડધા 50 થાય, એટલે અડધું સર્કલ ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રસ્તા પરથી પસાર થતી સાયકલની સંખ્યા ગણવા માટે કયું ચિન્હ સરળ રહેશે? (વર્તુળ, આવૃત્તિ ચિન્હ, ગુણાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિ ચિન્હ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એક પછી એક વસ્તુ આવતી હોય ત્યારે લીટા (આવૃત્તિ ચિન્હ) કરવા સૌથી સહેલા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્તંભ આલેખમાં બે સ્તંભ વચ્ચેની જગ્યા હંમેશા ________ હોવી જોઈએ. (અલગ અલગ, એકસરખી, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકસરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખ ચોખ્ખો દેખાય તે માટે સ્તંભ વચ્ચેની જગ્યા સરખી રાખવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો 40 વિદ્યાર્થીઓમાંથી 10 વિદ્યાર્થીઓ ગેરહાજર હોય, તો હાજર વિદ્યાર્થીઓનો ભાગ ________ થાય. (1/4, 3/4, 1/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 40 માંથી 10 જાય એટલે 30 હાજર. 30/40 = 3/4 (પોણો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આવૃત્તિ ચિન્હમાં 7 દર્શાવવા માટે 1 આખું બોક્સ અને ________ લીટી કરવી પડે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 (બોક્સ) + 2 (લીટી) = 7!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તાપમાન દર્શાવવા માટે વપરાતો આલેખ કયો છે? (સ્તંભ આલેખ, આવૃત્તિ કોષ્ટક, ચાર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્તંભ આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવીમાં સમાચાર વખતે પણ જુદા જુદા શહેરોનું તાપમાન થાંભલા (સ્તંભ) વડે બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સ્માર્ટ ચાર્ટ્સ આપણને માહિતીનું ________ કરવામાં મદદ કરે છે. (સરળ વિશ્લેષણ, ગુણાકાર, સરવાળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરળ વિશ્લેષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર્ટ જોઈએ એટલે તરત ખબર પડી જાય કે કોણ વધારે છે અને કોણ ઓછું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો ચપાટી ચાર્ટમાં 8 બાળકો રમે છે અને તે 1/4 ભાગ દર્શાવે છે, તો કુલ બાળકો ________ હશે. (16, 24, 32)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોથો ભાગ 8 હોય, તો આખો ભાગ શોધવા 4 સાથે ગુણો: 8 x 4 = 32!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વૃદ્ધિ આલેખમાં રેખા ઉપર તરફ જતી હોય તો તે ________ સૂચવે છે. (ઘટાડો, વધારો, સ્થિરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીડી ઉપર ચઢીએ તો ઊંચાઈ વધે, તેમ આલેખ ઉપર જાય તો સંખ્યા વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આવૃત્તિ ચિન્હમાં '|||' આ ત્રણ લીટી કઈ સંખ્યા દર્શાવે છે? (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા લીટા, એટલા બેટા! (3 લીટા = 3 સંખ્યા)</p></div>"
+    }
+  ]
+}
