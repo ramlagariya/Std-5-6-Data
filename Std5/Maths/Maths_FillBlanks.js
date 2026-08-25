@@ -1970,3 +1970,211 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દસમો અને સોમો ભાગ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "1 સેમી ના 10 સરખા ભાગમાંના એક ભાગને 1 ______ કહેવાય. (મીમી, મીટર, કિમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂટપટ્ટી પર બે સેમી વચ્ચેના 10 નાના કાપા એટલે મીમી (મિલીમીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "2 મીમી ને સેમીમાં દર્શાવવા માટે ______ લખાય. (0.2 સેમી, 2.0 સેમી, 0.02 સેમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.2 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીમીને 10 વડે ભાગો, એટલે એક અંક પછી દશાંશ ચિહ્ન મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "1 રૂપિયો = ______ પૈસા. (10, 100, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયો મોટો ભાઈ, પૈસા નાનો ભાઈ. 1 મોટા ભાઈ બરાબર 100 નાના ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "75 પૈસાને રૂપિયામાં ______ લખાય. (₹ 0.75, ₹ 7.5, ₹ 75)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ₹ 0.75</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસાને રૂપિયામાં ફેરવવા બે અંક પહેલાં ટપકું (દશાંશ) મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 મીટર = ______ સેમી. (10, 100, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટર એટલે 100 સેમીની લાંબી દોરી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "45 સેમી ને મીટરમાં ______ લખાય. (0.45 મીટર, 4.5 મીટર, 0.045 મીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.45 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમીથી મીટર એટલે બે ડગલાં ડાબી બાજુ ખસવું ( / 100 ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "0.1 એટલે 1 નો ______ ભાગ. (દસમો, સોમો, હજારમો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસમો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી એક અંક એટલે છેદમાં 10 (દસમો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "0.01 એટલે 1 નો ______ ભાગ. (દસમો, સોમો, હજારમો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોમો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે અંક એટલે છેદમાં 100 (સોમો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દસ રૂપિયાની એક નોટની લંબાઈ માપવા માટે કયો એકમ અનુકૂળ છે? (કિમી, સેમી, લીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુઓ માપવા હંમેશા સેમી અને મીમી વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "3 મીમી = ______ સેમી. (0.3, 3.0, 0.03)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 મીમી = 1 સેમી, તેથી 3 મીમી = 3/10 = 0.3 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "5 પૈસા એ 1 રૂપિયાનો ______ ભાગ છે. (5/100, 5/10, 5/1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5/100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 100 પૈસામાંથી 5 પૈસા એટલે 5/100 ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "0.50 અને 0.5 બંનેની કિંમત ______ છે. (સરખી, અલગ, અડધી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સંખ્યામાં છેલ્લા શૂન્યની કોઈ કિંમત હોતી નથી. 0.5 = 0.50 = 0.500.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "15.05 ને શબ્દોમાં 'પંદર પૂર્ણાંક પાંચ ______' વંચાય. (દશાંશ, શતાંશ, સહસ્ત્રાંશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શતાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે અંક હોય તો છેલ્લે 'શતાંશ' બોલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "82/100 ને દશાંશ સંખ્યામાં ______ રીતે લખાય. (0.82, 8.2, 0.082)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.82</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં બે મીંડા (100) હોય તો ઉપર બે અંક પછી ડાબી બાજુ પોઈન્ટ મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શ્રીનગરનું તાપમાન 8.1 °C અને મુંબઈનું તાપમાન 25.5 °C હોય, તો મુંબઈ ______ છે. (ઠંડુ, ગરમ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ તાપમાનનો આંકડો મોટો, તેમ ગરમી વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "₹ 1/10 એટલે કેટલા પૈસા? (10 પૈસા, 1 પૈસો, 100 પૈસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પૈસાના 10 ભાગ કરો એટલે 100 ÷ 10 = 10 પૈસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક દિવાસળીની લંબાઈ 4.5 સેમી છે, તો તેને મીમીમાં ______ કહેવાય. (45, 450, 4.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 45</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમીમાંથી મીમીમાં જવા પોઈન્ટને એક ડગલું જમણી બાજુ ખસેડો (x 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "10.5 સેમી એટલે ______ સેમી અને 5 મીમી. (10, 1, 105)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટની ડાબી બાજુ આખો સેમી અને જમણી બાજુ મીમી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "9/100 ને દશાંશમાં લખતા ______ મળે. (0.09, 0.9, 9.00)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.09</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં બે મીંડા છે પણ ઉપર એક જ અંક 9 છે, માટે આગળ એક મીંડું મૂકી પોઈન્ટ કરો (0.09).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "0.7 અને 0.07 માંથી મોટી સંખ્યા ______ છે. (0.7, 0.07, બંને સરખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્ન પછી તરત મોટો અંક હોય તે સંખ્યા મોટી (0.70 > 0.07).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તાપમાન માપવા માટે ______ એકમ વપરાય છે. (સેલ્સિયસ, ગ્રામ, મીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેલ્સિયસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચારમાં હંમેશા 'ડિગ્રી સેલ્સિયસ' (°C) બોલાય છે તે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "₹ 0.05 એટલે ______ પૈસા. (5, 50, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે અંક એટલે તે સીધા પૈસા ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "2 મીટર 45 સેમી = ______ મીટર. (2.45, 24.5, 0.245)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2.45</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટર આખા, સેમી પોઈન્ટ પછી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એક કેળાની કિંમત ₹ 2.50 હોય તો 2 કેળાની કિંમત ₹ ______ થાય. (5.00, 4.50, 2.75)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5.00</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઢી રૂપિયા + અઢી રૂપિયા = પાંચ રૂપિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "0.4 ને અપૂર્ણાંકમાં ______ લખાય. (4/10, 4/100, 10/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4/10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ કાઢો, છેદમાં 10 મૂકો (કેમ કે પોઈન્ટ પછી 1 અંક છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "3.50 માં 5 ની સ્થાનકિંમત ______ છે. (5 દશાંશ, 5 શતાંશ, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 દશાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી તરત પહેલો અંક 'દશાંશ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "₹ 99 અને 9 પૈસાને દશાંશમાં ______ લખાય. (99.09, 99.9, 9.99)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 99.09</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 પૈસા એટલે 09 લખવા પડે, એકલો 9 લખો તો 90 પૈસા થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "0.1 સેમી = ______ મીમી. (1, 10, 0.01)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1 સેમી એટલે સેમીનો દસમો ભાગ, જે 1 મીમી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પૈસાને રૂપિયામાં ફેરવવા માટે સંખ્યાને ______ વડે ભાગવી પડે. (10, 100, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનામાંથી મોટામાં જવું હોય તો ભાગાકાર (1 રૂપિયો = 100 પૈસા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સૌથી ઓછું તાપમાન કઈ ઋતુમાં હોય છે? (શિયાળો, ઉનાળો, ચોમાસું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિયાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડી લાગે ત્યારે તાપમાન નીચે જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "6.75 માં '7' કયા સ્થાન પર છે? (દશાંશ, શતાંશ, દશક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દશાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી તરત આવતો અંક 'દશાંશ' ના ઘરે રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "₹ 1/4 એટલે કેટલા પૈસા? (25 પૈસા, 50 પૈસા, 75 પૈસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25 પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના ચાર ભાગ કરો: 100 ÷ 4 = 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "8 મીમી ને સેમીમાં ______ લખાય. (0.8 સેમી, 8.0 સેમી, 0.08 સેમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.8 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીમી એટલે પોઈન્ટ પછીનો પહેલો અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "0.3 + 0.4 = ______. (0.7, 7.0, 0.07)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય સરવાળો કરો: 3+4=7, પછી પોઈન્ટ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "રૂપિયા 10.50 માં 'શૂન્ય' ની સ્થાનકિંમત ______ ના સ્થાનમાં છે. (શતાંશ, દશાંશ, એકમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શતાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બીજા ક્રમે આવતો અંક 'શતાંશ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "7.5 સેમી લંબાઈની પેન્સિલમાંથી 2.5 સેમી વપરાઈ ગઈ, તો ______ સેમી બાકી રહે. (5.0, 10.0, 4.0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5.0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7.5 માંથી 2.5 બાદ કરો, પોઈન્ટની નીચે પોઈન્ટ રાખીને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અડધો રૂપિયો એટલે ______ પૈસા. (50, 25, 75)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના અડધા 50 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "15 મીમી = ______ સેમી. (1.5, 0.15, 15.0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 મીમી = 1 સેમી, વધારાના 5 મીમી એટલે પોઈન્ટ 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પા ભાગનો રૂપિયો એટલે ______ પૈસા. (25, 50, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પા એટલે ચોથો ભાગ. 100 ના 4 ભાગ એટલે 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પોઈન્ટ પછીના પ્રથમ સ્થાનને ______ કહેવાય છે. (દશાંશ, શતાંશ, હજારમો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દશાંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ એટલે 10 નો ભાગ (1st Place after decimal).</p></div>"
+    }
+  ]
+}
