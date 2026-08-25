@@ -1654,3 +1654,161 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "નકશા આલેખન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નકશામાં હંમેશા ઉપરની તરફ ........ દિશા દર્શાવવામાં આવે છે. (દક્ષિણ, ઉત્તર, પૂર્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં 'ઉ' થી 'ઉપર' અને 'ઉ' થી 'ઉત્તર' યાદ રાખવું. હંમેશા ઉપર ઉત્તર દિશા જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો નકશા પરનું પ્રમાણમાપ 1 સેમી = 1 કિમી હોય, તો 5 સેમી બરાબર ........ કિમી થાય. (50, 5, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ 1:1 હોય ત્યારે સેમી અને કિમીના આંકડા સરખા જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઇન્ડિયા ગેટ ........ શહેરમાં આવેલો છે. (ગાંધીનગર, દિલ્હી, મુંબઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણી રાજધાની દિલ્હીમાં જ દેશનો ગેટ (ઇન્ડિયા ગેટ) હોય એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દક્ષિણ દિશાની બિલકુલ સામેની દિશા ........ છે. (પશ્ચિમ, પૂર્વ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર-દક્ષિણ અને પૂર્વ-પશ્ચિમ હંમેશા એકબીજાના વિરોધી (સામે) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નકશામાં બે સ્થાનો વચ્ચેનું વાસ્તવિક અંતર શોધવા માટે ........ ઉપયોગી છે. (રંગ, પ્રમાણમાપ, ચિત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણમાપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ફૂટપટ્ટીથી માપવા માટે 'પ્રમાણમાપ' જ માપદંડ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પૂર્વ દિશાની બિલકુલ સામેની દિશા ........ છે. (ઉત્તર, પશ્ચિમ, દક્ષિણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ ઉગે એ પૂર્વ અને આથમે એ પશ્ચિમ, જે હંમેશા સામસામે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દિલ્હીના નકશામાં રાજપથના એક છેડે ઇન્ડિયા ગેટ છે, તો બીજા છેડે ........ છે. (લાલ કિલ્લો, રાષ્ટ્રપતિ ભવન, કુતુબ મિનાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રપતિ ભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજપથ એટલે રાજા (રાષ્ટ્રપતિ) ના મહેલ તરફ જતો રસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો નકશામાં 1 સેમી = 100 કિમી હોય, તો 400 કિમી અંતર માટે ........ સેમી દોરવું પડે. (4, 40, 400)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 400 / 100 = 4. જેટલા 'સો' એટલા સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નકશામાં જે જગ્યાએ રસ્તાઓ ભેગા થાય છે તેને ........ કહે છે. (ખૂણો, ચોક, રેખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારેય રસ્તા ભેગા થાય એટલે 'ચોક' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મધ્યસ્થ ષડ્કોણ (Central Hexagon) ને કુલ ........ બાજુઓ હોય છે. (4, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ષડ' એટલે 6. ષડ્કોણ એટલે છ ખૂણા અને છ બાજુ વાળી આકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો નકશાને 1/2 સેમીના ગ્રીડમાંથી 1 સેમીના ગ્રીડ પર મોટો કરવામાં આવે, તો તેનું ક્ષેત્રફળ ........ ગણું થશે. (2, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ બમણી થાય તો ક્ષેત્રફળ 2 x 2 = 4 ગણું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નકશામાં પ્રમાણમાપ 1 સેમી = 2 કિમી હોય, તો 10 કિમી માટે ........ સેમી લાંબી લીટી દોરવી પડે. (20, 5, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ને 2 વડે ભાગી નાખો (10/2 = 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારતના નકશામાં ગુજરાત રાજ્ય ........ દિશામાં આવેલું છે. (પૂર્વ, ઉત્તર, પશ્ચિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત ભારતના પશ્ચિમ કિનારે આવેલું રાજ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો કોઈ નકશા પર પ્રમાણમાપ નથી, તો આપણે બે સ્થળો વચ્ચેનું ચોક્કસ ........ જાણી શકતા નથી. (નામ, અંતર, દિશા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કેલ (માપપટ્ટી) વગર અંતર માપી શકાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હિમાચલ પ્રદેશ ભારતની ........ દિશામાં આવેલું રાજ્ય છે. (દક્ષિણ, ઉત્તર, પશ્ચિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાલય પર્વત ઉત્તરમાં છે, એટલે હિમાચલ પણ ઉત્તરમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લાલ કિલ્લાની નકશામાં મીના બજાર ........ ની નજીક છે. (લાહોરી ગેટ, ઇન્ડિયા ગેટ, રાજપથ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાહોરી ગેટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લામાં પ્રવેશતા જ લાહોરી ગેટ આવે અને ત્યાં જ મીના બજાર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નકશામાં 1 સેમી = 5 કિમી હોય, તો 3 સેમી બરાબર ........ કિમી થાય. (8, 15, 53)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ગુણ્યા 5 = 15. ઘડિયો યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તામિલનાડુ ભારતની ........ દિશામાં આવેલું છે. (ઉત્તર, પૂર્વ, દક્ષિણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં સૌથી નીચે (દક્ષિણે) તામિલનાડુ અને કન્યાકુમારી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નકશામાં 'સ્કેલ' (Scale) એટલે શું? (ચિત્ર, પ્રમાણમાપ, નકશાનું નામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણમાપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજીમાં સ્કેલ એટલે ફૂટપટ્ટી અથવા માપ, એટલે કે પ્રમાણમાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે આપણે કોઈ વસ્તુને ઉપરથી જોઈએ છીએ ત્યારે તે દ્રશ્યને ........ વ્યુ કહેવાય છે. (સાઈડ, ફ્રન્ટ, એરિયલ/ટોપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિયલ/ટોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલિકોપ્ટરમાંથી જોઈએ ત્યારે બધું ઉપરથી (Top) દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઇન્ડિયા ગેટની આસપાસનો જે રસ્તો 6 બાજુઓ ધરાવે છે તેને ........ કહેવાય. (ષડ્કોણ, પંચકોણ, ચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ષડ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 બાજુ એટલે ષડ્કોણ (Hexagon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દિલ્હીથી રાજસ્થાન જવા માટે ........ દિશામાં જવું પડે. (પૂર્વ, દક્ષિણ-પશ્ચિમ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ-પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં દિલ્હીની નીચે અને ડાબી બાજુ રાજસ્થાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નકશામાં વાદળી રંગ સામાન્ય રીતે ........ દર્શાવવા માટે વપરાય છે. (જંગલ, પાણી, પર્વત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્ર અને નદીનું પાણી વાદળી (Blue) દેખાય એટલે વાદળી રંગ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો 1 સેમી ગ્રીડ પર દોરેલું ચિત્ર 2 સેમી ગ્રીડ પર ફરીથી દોરવામાં આવે, તો ચિત્ર ........ દેખાશે. (નાનું, મોટું, સરખું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનું મોટું તો ચિત્ર પણ મોટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા રાજ્યની એક પણ બાજુ દરિયો નથી? (ગુજરાત, મધ્યપ્રદેશ, મહારાષ્ટ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યપ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યપ્રદેશ ભારતના 'મધ્ય' (વચ્ચે) માં છે, એટલે તેને દરિયો ન અડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પશ્ચિમ બંગાળ ભારતની ........ દિશામાં છે. (પશ્ચિમ, પૂર્વ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ પશ્ચિમ બંગાળ છે પણ તે ભારતની પૂર્વ (East) દિશામાં આવેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નકશામાં જો અંતર 2 સેમી હોય અને પ્રમાણમાપ 1 સેમી = 50 કિમી હોય, તો વાસ્તવિક અંતર ........ કિમી થાય. (50, 100, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 x 50 = 100 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાષ્ટ્રપતિ ભવનથી ઇન્ડિયા ગેટ જતી વખતે કયો માર્ગ વચ્ચે આવે છે? (જનપથ, વિજય ચોક, તિલક માર્ગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજય ચોક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિ ભવનથી નીકળતા જ પહેલા 'વિજય ચોક' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નકશામાં લાલ કિલ્લાની પશ્ચિમ દિશામાં કયું સ્થળ છે? (યમુના નદી, મીના બજાર, મોતી મસ્જિદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોતી મસ્જિદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો ધ્યાનથી જુઓ, મોતી મસ્જિદ ડાબી (પશ્ચિમ) બાજુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "1 સેમી = 10 કિમી પ્રમાણમાપ મુજબ, 1.5 સેમી એટલે ........ કિમી. (15, 10.5, 150)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1.5 ને 10 સાથે ગુણતા દશાંશ ચિહ્ન નીકળી જાય, એટલે 15.</p></div>"
+    }
+  ]
+}
