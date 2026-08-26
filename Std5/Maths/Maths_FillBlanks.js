@@ -2877,3 +2877,211 @@ var Std5_Maths_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું મોટું? કેટલું ભારે?",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈપણ વસ્તુએ રોકેલી જગ્યાને તે વસ્તુનું ........ કહેવાય છે. (પરિમિતિ, ક્ષેત્રફળ, ઘનફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જગ્યા રોકે એટલે 'ઘનફળ' અને સપાટી રોકે એટલે 'ક્ષેત્રફળ'. યાદ રાખવું: જગ્યા = ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "૧ સેમી બાજુવાળા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનફળ = લંબાઈ × લંબાઈ × લંબાઈ. એટલે કે ૧ × ૧ × ૧ = ૧.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જેની લંબાઈ, પહોળાઈ અને ઊંચાઈ સમાન હોય તેને ........ કહેવાય છે. (લંબઘન, નળાકાર, સમઘન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સમાન અને 'ઘન' એટલે ત્રણ પરિમાણ. બધું સરખું એટલે સમઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબઘનનું ઘનફળ શોધવાનું સૂત્ર લંબાઈ × પહોળાઈ × ........ છે. (ત્રિજ્યા, ઊંચાઈ, પરિમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબઘનમાં ત્રણ 'બા' યાદ રાખવા: લંબાઈ, પહોળાઈ અને ઊંચાઈ (LBH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાણીથી ભરેલા ગ્લાસમાં પથ્થર નાખતા પાણીનું સ્તર ........ જશે. (નીચે, ઉપર, ત્યાં જ રહેશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર જગ્યા રોકશે, એટલે પાણીને ખસવું પડશે અને તે ઉપર આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "૨ સેમી બાજુવાળા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૪, ૬, ૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨ × ૨ × ૨ = ૮. (બે નો ઘન ૮ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક દિવાસળીના ખોખાનું કદ આશરે ........ લખોટીઓ જેટલું હોઈ શકે. (૨, ૧૦, ૫૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના અંદાજ મુજબ, ૧ દિવાસળીનું ખોખું આશરે ૧૦ લખોટીઓ જેટલી જગ્યા રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘનફળનો એકમ ........ છે. (સેમી, ચોરસ સેમી, ઘન સેમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ હોય તો સેમી, ક્ષેત્રફળ હોય તો ચોરસ સેમી અને ઘનફળ હોય તો 'ઘન' સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "૫ રૂપિયાના ૯ સિક્કાનું વજન ૮૧ ગ્રામ હોય, તો ૧ સિક્કાનું વજન ........ ગ્રામ થાય. (૯, ૧૦, ૧૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૮૧ ÷ ૯ = ૯. નવ નવ ૮૧!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "૧ લિટર બરાબર ........ મિલીલિટર થાય. (૧૦, ૧૦૦, ૧૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિટર મોટો ભાઈ અને મિલી નાનો ભાઈ. મોટા ભાઈ પાસે ૧૦૦૦ ગણું વધારે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો એક રબરનું કદ ૨ મિલી હોય, તો ૧૦ રબરનું કદ ........ મિલી થાય. (૧૦, ૧૨, ૨૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨ × ૧૦ = ૨૦ મિલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "૩ સેમી બાજુવાળા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૯, ૨૭, ૧૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ × ૩ × ૩ = ૨૭. (૩ નો ૩ વાર ગુણાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એક લંબઘન પેટીની લંબાઈ ૫ સેમી, પહોળાઈ ૪ સેમી અને ઊંચાઈ ૩ સેમી છે, તો તેનું ઘનફળ ........ ઘન સેમી થાય. (૧૨, ૬૦, ૨૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ × ૪ × ૩ = ૬૦ (૫ ચોક ૨૦, ૨૦ તરી ૬૦).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારે વસ્તુ પાણીમાં નાખતા તે પાણીમાં ........ જશે. (તરી, ડૂબી, અદ્રશ્ય થઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું વજન વધારે અને ઘનતા વધારે તે પાણીના તળિયે બેસી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "૧ કિલોગ્રામ બરાબર ........ ગ્રામ. (૧૦૦, ૫૦૦, ૧૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલો એટલે જ ૧૦૦૦ થાય. ગમે ત્યાં કિલો આવે એટલે ૧૦૦૦ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એક લખોટી ૫ મિલી પાણી ઊંચું લાવે છે, તો ૬ લખોટી કેટલું પાણી ઊંચું લાવશે? (૨૫ મિલી, ૩૦ મિલી, ૧૧ મિલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૦ મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ મિલી × ૬ લખોટી = ૩૦ મિલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "૪ સેમી લંબાઈ, ૨ સેમી પહોળાઈ અને ૧ સેમી ઊંચાઈ ધરાવતા લંબઘનનું ઘનફળ ........ ઘન સેમી થાય. (૭, ૮, ૪૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪ × ૨ × ૧ = ૮ ઘન સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક હાથીનું વજન આશરે ૫૦૦૦ કિગ્રા છે, તો આવા ૨ હાથીનું વજન ........ કિગ્રા થાય. (૭૦૦૦, ૧૦૦૦૦, ૫૦૦૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫૦૦૦ ના ડબલ એટલે ૧૦,૦૦૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વજન કરવા માટે ........ વપરાય છે. (ફૂટપટ્ટી, ત્રાજવું, ઘડિયાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રાજવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ માટે માપપટ્ટી અને વજન માટે ત્રાજવું કે વજનકાંટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દૂધનું માપન ........ એકમમાં થાય છે. (ગ્રામ, લિટર, સેમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી વસ્તુ હંમેશા લિટર કે મિલીલીટરમાં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "૫ સેમી લંબાઈ ધરાવતા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૨૫, ૧૫, ૧૨૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૨૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ × ૫ × ૫ = ૧૨૫. (પાયો પાયો ૨૫ અને ૨૫ પંચા ૧૨૫).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તમારી ગણિત ગમ્મતની ચોપડી આશરે ........ લખોટીઓ જેટલી જગ્યા રોકશે. (૫, ૨૫, ૫૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના અંદાજ મુજબ ચોપડીનું કદ ૨૫-૩૦ લખોટીઓ જેટલું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એક કિલોગ્રામ સોનું અને એક કિલોગ્રામ રૂ માંથી ........ નું ઘનફળ (કદ) વધારે હશે. (સોનું, રૂ, બંનેનું સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન સરખું છે, પણ રૂ પોચું હોવાથી જગ્યા વધારે રોકે એટલે તેનું ઘનફળ વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો ૧ સિક્કાનું વજન ૬ ગ્રામ હોય, તો ૧૦૦૦ સિક્કાનું વજન ........ કિગ્રા થાય. (૬, ૬૦, ૬૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૬ × ૧૦૦૦ = ૬૦૦૦ ગ્રામ. ૬૦૦૦ ગ્રામ એટલે ૬ કિગ્રા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "૧૦ સેમી બાજુવાળા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૧૦૦, ૩૦, ૧૦00)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦ × ૧૦ × ૧૦ = ૧૦૦૦. એક પાછળ ત્રણ મીંડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લંબાઈ, પહોળાઈ અને ઊંચાઈ એ ત્રણેયનો ગુણાકાર એટલે ........ (ક્ષેત્રફળ, ઘનફળ, પરિમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ માપનો ગુણાકાર = ઘનફળ, ૨ માપનો ગુણાકાર = ક્ષેત્રફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જે વસ્તુનું કદ વધારે હોય તે પાણીમાં ........ પાણી ખસેડશે. (ઓછું, વધારે, બિલકુલ નહિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી મોટી વસ્તુ, તેટલી વધારે જગ્યા રોકે અને તેટલું વધારે પાણી ખસેડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "દિવાસળીના ૮ ખોખાથી બનેલા સ્ટેજનું કદ ........ ખોખા જેટલું કહેવાય. (૧, ૪, ૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ખોખા વાપરો એટલું જ કદ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "૫૦૦ મિલી + ૫૦૦ મિલી = ........ લિટર. (૧, ૨, ૧૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો લિટર + અડધો લિટર = ૧ આખો લિટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "૬ સેમી લંબાઈ, ૩ સેમી પહોળાઈ અને ૨ સેમી ઊંચાઈ ધરાવતી પેટીનું ઘનફળ ........ ઘન સેમી થાય. (૧૧, ૩૬, ૨૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૬ × ૩ × ૨ = ૩૬. (૬ તરી ૧૮, ૧૮ દુ ૩૬).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પાણીના ગ્લાસમાં ૫ સિક્કા નાખતા પાણીનું સ્તર ૨ મિલી વધે છે, તો ૧૦ સિક્કા નાખતા ........ મિલી વધશે. (૨, ૪, ૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કા બમણા થયા (૫ ના ૧૦), તો પાણી પણ બમણું વધે (૨ ના ૪)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "૧ ઘન સેમી જગ્યા રોકતા પાણીનું વજન આશરે ........ ગ્રામ હોય છે. (૧, ૧૦, ૧૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ પાણી માટે ૧ ઘન સેમી = ૧ મિલી = ૧ ગ્રામ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "તમારા કંપાસ બોક્સનું ઘનફળ માપવા માટે એકમ ........ લેવો વધુ યોગ્ય છે. (મીટર, કિમી, સેમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુ માટે સેમી, મોટી વસ્તુ (રૂમ) માટે મીટર વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "૪ સેમી બાજુવાળા સમઘનનું ઘનફળ ........ ઘન સેમી થાય. (૧૬, ૬૪, ૧૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪ × ૪ × ૪ = ૬૪. (ચોકે ચોકે ૧૬, ૧૬ ચોક ૬૪).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "એક કાચના પ્યાલામાં ૫૦ મિલી પાણી છે. તેમાં પથ્થર નાખતા પાણી ૮૦ મિલી પર પહોંચે છે, તો પથ્થરનું કદ ........ મિલી કહેવાય. (૫૦, ૮૦, ૩૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું સ્તર - જૂનું સ્તર = વસ્તુનું કદ. ૮૦ - ૫૦ = ૩૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જે લંબઘનની લંબાઈ ૨ સેમી, પહોળાઈ ૨ સેમી અને ઊંચાઈ ૨ સેમી હોય તેને ........ પણ કહેવાય. (લંબચોરસ, સમઘન, વર્તુળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે L, B અને H ત્રણેય સરખા હોય, ત્યારે તે સમઘન બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "૨૦૦૦ ગ્રામ બરાબર ........ કિગ્રા. (૨, ૨૦, ૨૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લા ૩ મીંડા કાઢી નાખો એટલે કિગ્રા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક લખોટીનું કદ ૩ મિલી છે, તો ૨૭ મિલી પાણી ખસેડવા ........ લખોટીઓ જોઈએ. (૭, ૮, ૯)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૭ ÷ ૩ = ૯. ૩ ના ઘડિયામાં ૨૭ ક્યારે આવે? ૩ નવા ૨૭!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ખાલી બોટલ કરતા પાણીથી ભરેલી બોટલનું વજન ........ હોય છે. (ઓછું, વધારે, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું પોતાનું વજન હોય છે, જે બોટલમાં ઉમેરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "લંબઘનનું ઘનફળ શોધવા કુલ ........ પરિમાણનો ગુણાકાર કરવો પડે. (૧, ૨, ૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ, પહોળાઈ અને ઊંચાઈ એમ ૩ વસ્તુ જોઈએ.</p></div>"
+    }
+  ]
+}
