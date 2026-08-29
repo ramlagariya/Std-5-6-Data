@@ -1038,3 +1038,136 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "તૂ મારો ગુણક, હું તારો અવયવ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંખ્યા 5 એ 25 નો અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કોઈ સંખ્યા વડે આપેલી સંખ્યાને નિઃશેષ ભાગી શકાય, તો તે તેનો અવયવ કહેવાય. અહીં 25 ÷ 5 = 5 થાય, એટલે કે શેષ 0 વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંખ્યા 1 એ દરેક સંખ્યાનો અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1' એ યુનિવર્સલ અવયવ છે. દુનિયાની કોઈપણ સંખ્યાને 1 વડે ભાગી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "8 એ 4 નો ગુણક (અવયવી) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે ઘડિયો. 4 ના ઘડિયામાં 8 આવે છે (4 × 2 = 8), તેથી તે ગુણક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોઈપણ સંખ્યાનો નાનામાં નાનો અવયવ તે સંખ્યા પોતે જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કોઈપણ સંખ્યાનો નાનામાં નાનો અવયવ હંમેશા 1 હોય છે, જ્યારે મોટામાં મોટો અવયવ સંખ્યા પોતે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવની શરૂઆત હંમેશા 1 થી થાય અને અંત સંખ્યા પોતે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "6 ના પ્રથમ ત્રણ ગુણક 6, 12 અને 18 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે સંખ્યાનો ઘડિયો બોલવો. 6 એકા 6, 6 દુ 12, 6 તેરી 18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "15 એ 3 અને 5 બંનેનો સામાન્ય ગુણક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સંખ્યા બંનેના ઘડિયામાં આવતી હોય, તો તેને સામાન્ય ગુણક કહેવાય. 3 × 5 = 15 અને 5 × 3 = 15.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યાના અવયવો અસંખ્ય (અનંત) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: સંખ્યાના અવયવો મર્યાદિત (ગણી શકાય તેટલા) હોય છે, જ્યારે ગુણક (અવયવી) અસંખ્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અવયવ' એટલે ટુકડા, જે મર્યાદિત હોય. 'ગુણક' એટલે ઘડિયો, જે અનંત સુધી ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "10 એ 5 નો અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 10 એ 5 નો ગુણક છે, અવયવ નથી. અવયવ હંમેશા સંખ્યા જેવડો અથવા તેનાથી નાનો હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ ક્યારેય સંખ્યા કરતા મોટો ન હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "2 એ 12, 14 અને 16 નો સામાન્ય અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ બેકી સંખ્યાઓનો એક અવયવ 2 હંમેશા હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "7 નો સૌથી નાનો ગુણક 1 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કોઈપણ સંખ્યાનો સૌથી નાનો ગુણક (અવયવી) સંખ્યા પોતે (અહીં 7) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે ઘડિયો, ઘડિયાની શરૂઆત સંખ્યા પોતે જ કરે (દા.ત. 7 એકા 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "2 અને 3 નો સૌથી નાનો સામાન્ય ગુણક 6 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 અને 3 ના ઘડિયામાં આવતી સૌથી પહેલી સરખી સંખ્યા 6 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જે સંખ્યાના માત્ર બે જ અવયવ હોય તેને અવિભાજ્ય સંખ્યા કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો કોઈના ઘડિયામાં ભાગ ન ચાલે (માત્ર 1 અને પોતે), તે અવિભાજ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંખ્યા 12 ના કુલ 6 અવયવો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 ના અવયવો: 1, 2, 3, 4, 6, 12. ગણો તો કુલ 6 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "4 અને 6 ના સામાન્ય ગુણકોમાં 12, 24, 36 નો સમાવેશ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 અને 6 નો લ.સા.અ. 12 છે, એટલે 12 ના ઘડિયાની બધી સંખ્યાઓ સામાન્ય ગુણક બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અવયવ વૃક્ષ (Factor Tree) માં છેલ્લે બધી અવિભાજ્ય સંખ્યાઓ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડની ડાળીઓ ત્યાં સુધી વધે જ્યાં સુધી અવિભાજ્ય સંખ્યા ન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "18 એ 9 નો અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 18 એ 9 કરતા મોટી સંખ્યા છે, તેથી તે અવયવ ન હોઈ શકે. 18 એ 9 નો ગુણક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ હંમેશા નાનો અથવા સરખો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "9 અને 15 નો સૌથી મોટો સામાન્ય અવયવ 3 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ના અવયવ: 1, 3, 9. 15 ના અવયવ: 1, 3, 5, 15. બંનેમાં મોટામાં મોટો સરખો અંક 3 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "25 ના બધા જ અવયવો એકી સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 ના અવયવો 1, 5 અને 25 છે, જે ત્રણેય એકી સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શૂન્ય એ દરેક સંખ્યાનો ગુણક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ગુણકની ગણતરીમાં આપણે સામાન્ય રીતે પ્રાકૃતિક સંખ્યાઓ (1, 2, 3...) સાથે ગુણાકાર કરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણ મુજબ ગુણકની શરૂઆત સંખ્યા પોતે (સંખ્યા × 1) થી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "40 ના અવયવોમાં 4 અને 10 નો સમાવેશ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 × 10 = 40 થાય, એટલે બંને તેના અવયવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દરેક સંખ્યા પોતે પોતાનો અવયવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાને પોતાની જાત વડે ભાગતા શેષ 0 જ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "5 ના ગુણકો અસંખ્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયો ક્યારેય પૂરો ન થાય, તમે ગમે તેટલી મોટી સંખ્યા સાથે ગુણી શકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બેકી સંખ્યાનો અવયવ હંમેશા બેકી સંખ્યા જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: દા.ત. 6 બેકી સંખ્યા છે, પણ તેનો અવયવ 3 એ એકી સંખ્યા છે. 1 તો દરેકનો અવયવ છે જ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવમાં એકી-બેકી બંને હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સંખ્યા 20 નો મોટામાં મોટો અવયવ 10 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કોઈપણ સંખ્યાનો મોટામાં મોટો અવયવ સંખ્યા પોતે (અહીં 20) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવની યાદીમાં છેલ્લી સંખ્યા હંમેશા તે પોતે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંખ્યા 100 એ 25 નો ગુણક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 ચોક 100, એટલે કે 25 ના ઘડિયામાં 100 આવે છે.</p></div>"
+    }
+  ]
+}
