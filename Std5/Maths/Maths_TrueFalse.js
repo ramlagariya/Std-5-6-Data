@@ -1587,3 +1587,161 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખા અને રેખાચિત્ર",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દરેક ખોખા સમઘન જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ખોખા લંબઘન, નળાકાર કે અન્ય આકારના પણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, જેની બધી બાજુ સરખી એ જ સમઘન, બાકી બધા ખોખા અલગ હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમઘનને કુલ 6 સપાટી (ફલક) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમતનો પાસો યાદ કરો, તેના પર 1 થી 6 અંક હોય છે એટલે કે 6 સપાટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘરનો નકશો (Floor Map) ઘરની ઊંચાઈ દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> નકશો માત્ર લંબાઈ, પહોળાઈ અને બારી-બારણાંની જગ્યા દર્શાવે છે, ઊંચાઈ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એટલે 'ઉપરથી જોયેલું દ્રશ્ય', જેમાં ઊંચાઈ ક્યારેય ન દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગહન ચિત્ર (Deep Drawing) વસ્તુની લંબાઈ, પહોળાઈ અને ઊંચાઈ ત્રણેય દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગહન ચિત્ર એટલે 3D ચિત્ર, જે આપણને વસ્તુ વાસ્તવમાં કેવી દેખાશે તે સમજાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "છ ચોરસ ધરાવતી દરેક આકૃતિને વાળવાથી સમઘન બનાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> છ ચોરસ હોવા છતાં તેની ગોઠવણી યોગ્ય હોવી જોઈએ, તો જ સમઘન બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' કે 'Z' આકારની ચોક્કસ જાળી જ સમઘન બનાવે, ગમે તેમ ગોઠવેલા 6 ચોરસ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખુલ્લા ખોખાને પાંચ સપાટી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 6 સપાટી - 1 (ઢાંકણું) = 5 સપાટી એટલે ખુલ્લું ખોખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નળાકારની જાળીમાં (Net) એક લંબચોરસ અને બે વર્તુળ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવડરના ડબ્બાને ખોલો તો વચ્ચે લંબચોરસ કાગળ અને ઉપર-નીચે ગોળ ઢાંકણા નીકળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શંકુ આકારની જાળીમાં બે ચોરસ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> શંકુની જાળીમાં એક વર્તુળ અને એક વૃત્તાંશ (સેક્ટર) જેવો આકાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસ્ક્રીમનો કોન યાદ કરો, તેમાં ક્યાંય ખૂણાવાળો ચોરસ ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમઘન બનાવવા માટે વપરાતી જાળીને 'નેટ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ 3D વસ્તુ બનાવવા માટે કાગળ પર જે 2D નકશો બનાવાય તેને 'Net' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તારલાની ટોપી (શંકુ) બનાવવા માટે લંબચોરસ કાગળ જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> શંકુ માટે વર્તુળનો ભાગ જોઈએ, લંબચોરસથી નળાકાર બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ વસ્તુ વાળવી હોય તો ગોળ કાપવું પડે, લંબચોરસ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પાસામાં સામસામેની સપાટીના અંકોનો સરવાળો 7 થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેજિક નંબર 7! જો ઉપર 1 હોય તો નીચે 6 જ હોય (1+6=7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઘરના નકશામાં બારી માટે એક ખાસ નિશાની વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં દરેક વસ્તુ માટે સંજ્ઞા (Symbol) હોય છે જેથી નકશો વાંચી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ત્રિકોણનો ઉપયોગ કરીને સમઘન બનાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> સમઘન બનાવવા માટે માત્ર અને માત્ર ચોરસની જ જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'સમ' + 'ઘન' (બધી બાજુ સરખી) છે, જે ત્રિકોણથી ન બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લંબચોરસ કાગળને ગોળ વાળવાથી નળાકાર બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારી નોટબુકના પેજને ગોળ વાળી જુઓ, તે પાઇપ જેવો નળાકાર બનશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો પાસાની ઉપરની બાજુ 3 હોય, તો તેની નીચેની બાજુ 4 હશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br><strong>કારણ:</strong> કારણ કે 3 + 4 = 7 (પાસાનો નિયમ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 માંથી ઉપરનો અંક બાદ કરો, એટલે નીચેનો અંક મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દીવાસળીના ખોખાનો આકાર સમઘન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> દીવાસળીનું ખોખું લંબઘન આકારનું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે લંબાઈ-પહોળાઈ-ઊંચાઈ ત્રણેય એકદમ સરખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દરેક જાળી (Net) માંથી ખોખું બનાવી જ શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> જો જાળીની ગોઠવણી ખોટી હોય, તો તેને વાળવાથી ખોખું ન બની શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખું બનાવવા માટે બાજુઓ એકબીજાને અથડાવી ન જોઈએ અને ઢંકાવી જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમઘનને કુલ 12 ધાર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાર એટલે કિનારી. 4 ઉપર, 4 નીચે અને 4 ઉભી = કુલ 12!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઈંટનું ગહન ચિત્ર (Deep Drawing) લંબચોરસ જેવું દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br><strong>કારણ:</strong> ઈંટ લંબઘન છે, તેથી તેના ગહન ચિત્રમાં તેની સપાટીઓ લંબચોરસ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગહન ચિત્ર એટલે આપણે જે આંખે જોઈએ છીએ તેવું જ ત્રિ-પરિમાણીય ચિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નકશામાં બારી કઈ દિશામાં છે તે જાણી શકાતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> નકશો હંમેશા દિશાઓ અને ચોક્કસ સ્થાન સાથે બનેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો જ એ માટે હોય છે કે આપણે બધી વસ્તુનું સાચું સ્થાન જાણી શકીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બંધ ખોખાને 6 બાજુઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારે બાજુ + ઉપર + નીચે = 6 બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પિરામિડ બનાવવા માટે માત્ર ચોરસ જ જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> પિરામિડ બનાવવા માટે ત્રિકોણની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇજિપ્તના પિરામિડ યાદ કરો, ઉપરથી અણીવાળા અને ત્રિકોણ જેવા હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો નકશામાં બારી ડાબી બાજુ હોય, તો ગહન ચિત્રમાં પણ તે ડાબી બાજુ જ દેખાવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એ પાયો છે, ગહન ચિત્ર એ તેના પરથી બનેલી ઇમારત છે, સ્થાન ન બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નળાકારમાં એક પણ ખૂણો હોતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસનો બાટલો કે પાણીની પાઇપ યાદ કરો, તેમાં ક્યાંય ધારદાર ખૂણો ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમઘનની બધી જ સપાટીઓ ચોરસ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે 'ચોરસનો મોટો ભાઈ' જે 3D માં છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દરેક ચિત્ર જે 2D માં છે તેને ગહન ચિત્ર કહી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ગહન ચિત્ર 2D કાગળ પર દોરાય છે પણ તે 3D વસ્તુનો આભાસ કરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય ચિત્ર ફ્લેટ હોય, ગહન ચિત્રમાં ઉંડાઈ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાસાની પાછળની બાજુ જો 2 હોય, તો આગળની બાજુ 5 હશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br><strong>કારણ:</strong> કારણ કે 2 + 5 = 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ classes યાદ કરો - સામસામેનો સરવાળો હંમેશા 7!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વસ્તુને ઉપરથી જોતા તે વાસ્તવિક જેવી જ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ઉપરથી જોતા વસ્તુનો આકાર બદલાયેલો લાગે છે (માત્ર ઉપરની સપાટી દેખાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપને ઉપરથી જુઓ તો માત્ર વર્તુળ દેખાશે, હેન્ડલ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક ખોખાની નેટમાં 4 ચોરસ હોય તો તેમાંથી બંધ સમઘન બની શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> બંધ સમઘન માટે 6 ચોરસની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ચોરસથી માત્ર ચારે બાજુ બને, ઉપર-નીચે ખુલ્લું રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમઘનને 8 શિરોબિંદુ (ખૂણા) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ખૂણા ઉપરના અને 4 ખૂણા નીચેના = કુલ 8 શિરોબિંદુ.</p></div>"
+    }
+  ]
+}
