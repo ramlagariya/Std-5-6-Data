@@ -1279,3 +1279,311 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "નકશા આલેખન",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નકશામાં દર્શાવેલ અંતર અને વાસ્તવિક જમીન પરના અંતર વચ્ચેના સંબંધને 'પ્રમાણમાપ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એ વાસ્તવિકતાનું નાનું સ્વરૂપ છે, અને તેને માપવા માટે વપરાતા માપને 'પ્રમાણમાપ' (Scale) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો નકશા પર 1 સેમી = 10 કિમી હોય, તો 2 સેમી એટલે 20 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપમાં જેટલા સેમી વધે, તેટલા જ ગણું વાસ્તવિક અંતર વધે. (1x2 = 2 સેમી, તો 10x2 = 20 કિમી)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નકશામાં ઉત્તર દિશા હંમેશા નીચેની બાજુ દર્શાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશામાં ઉત્તર દિશા હંમેશા ઉપરની બાજુ (Top) દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' થી ઉત્તર અને 'ઉ' થી ઉપર! આ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઇન્ડિયા ગેટ અને રાષ્ટ્રપતિ ભવનની વચ્ચે 'રાજપથ' આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હીના નકશામાં રાષ્ટ્રપતિ ભવનથી ઇન્ડિયા ગેટ સુધીનો સીધો રસ્તો એટલે જ રાજપથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લાલ કિલ્લાના નકશામાં લાહોરી ગેટ એ મુખ્ય પ્રવેશદ્વાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લામાં એન્ટ્રી લેવી હોય તો 'લાહોરી ગેટ' થી જ જવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો આપણે 1 સેમીના ચોરસવાળી જાળી પર બનાવેલા ચિત્રને 2 સેમીની જાળી પર બનાવીએ, તો ચિત્રનું કદ નાનું થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જાળીનું માપ વધારતા ચિત્રનું કદ મોટું થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનું મોટું તો ચિત્ર મોટું, ખાનું નાનું તો ચિત્ર નાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નકશામાં જમણી બાજુ હંમેશા પશ્ચિમ દિશા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશામાં જમણી બાજુ હંમેશા પૂર્વ (East) દિશા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ દિશા (સૂર્ય ઉગે) એ આપણા જમણા હાથે હોય જો આપણે ઉત્તર તરફ મોઢું રાખીને ઉભા હોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હેપ્ટાગોન (સપ્તકોણ) આકારના રસ્તાની બધી બાજુઓ સમાન હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ બહુકોણ (Polygon) જો નિયમિત (Regular) હોય, તો તેની બધી બાજુ સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દિલ્હીના નકશામાં ઇન્ડિયા ગેટની સૌથી નજીક 'વિજય ચોક' આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: વિજય ચોક રાષ્ટ્રપતિ ભવનની નજીક છે, ઇન્ડિયા ગેટની નજીક ચિલ્ડ્રન્સ પાર્ક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ક્રમ યાદ રાખો: રાષ્ટ્રપતિ ભવન -> વિજય ચોક -> રાજપથ -> ઇન્ડિયા ગેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 1 સેમી = 200 કિમી હોય, તો 5 સેમી = 1000 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર કરો: 5 x 200 = 1000 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લાલ કિલ્લાની અંદર મીના બજાર આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાહોરી ગેટથી અંદર જતાં જ લાઈનમાં દુકાનો આવે તેને મીના બજાર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દક્ષિણ દિશાની વિરુદ્ધ દિશા ઉત્તર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર-દક્ષિણ અને પૂર્વ-પશ્ચિમ હંમેશા એકબીજાની સામે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો નકશામાં 1 સેમીની જાળીને બદલે 1/2 સેમીની જાળી લેવામાં આવે, તો ચિત્ર ચાર ગણું મોટું થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જાળીનું માપ અડધું (1/2) કરવાથી ચિત્ર નાનું થાય છે, મોટું નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળી (Grid) નું માપ ઘટે તો ચિત્ર પણ ઘટે (નાનું થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લાલ કિલ્લાના નકશામાં યમુના નદી કિલ્લાની ઉત્તર-પૂર્વ દિશામાં વહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલ્લાની પાછળના ભાગે એટલે કે નકશાની ઉપરની તરફ નદી વહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નકશામાં હંમેશા વાસ્તવિક અંતર દર્શાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશામાં વાસ્તવિક અંતરને 'પ્રમાણમાપ' મુજબ નાનું કરીને દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો નકશો વાસ્તવિક કદનો હોય, તો નકશો જ પૃથ્વી જેવડો મોટો થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રાજપથની બંને બાજુએ ખુલ્લા મેદાન આવેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરેડ જોવા માટે લોકો આ મેદાનમાં જ બેસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો નકશામાં 1 સેમી = 5 કિમી હોય, તો 4 સેમી બરાબર 20 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 x 5 = 20 કિમી. સીધો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લાલ કિલ્લામાં મોતી મસ્જિદ ઔરંગઝેબે બંધાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશાના પ્રકરણમાં ઐતિહાસિક સ્થળોની માહિતી પણ મહત્વની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નકશામાં પશ્ચિમ દિશા હંમેશા ડાબી બાજુ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો જમણે પૂર્વ હોય, તો ડાબે પશ્ચિમ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચિલ્ડ્રન્સ પાર્ક એ ઇન્ડિયા ગેટની પૂર્વ દિશામાં આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ઇન્ડિયા ગેટની જમણી બાજુ (પૂર્વ) જોશો તો બગીચો દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો પ્રમાણમાપ 2 સેમી = 1 કિમી હોય, તો 1 સેમી એટલે 500 મીટર થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિમી = 1000 મીટર. તો 1000 / 2 = 500 મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નકશામાં માપન માટે ફૂટપટ્ટીનો ઉપયોગ થઈ શકતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશામાં અંતર માપવા માટે ફૂટપટ્ટીનો જ ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં નકશો શીખવો હોય તો સ્કેલ (ફૂટપટ્ટી) તો જોઈએ જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઇન્ડિયા ગેટ હેક્ઝાગોન (ષટ્કોણ) ના મધ્યમાં આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં જુઓ, ઇન્ડિયા ગેટની ફરતે 6 રસ્તાઓ મળીને ષટ્કોણ બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો નકશામાં અંતર 10 સેમી હોય અને પ્રમાણમાપ 1 સેમી = 50 કિમી હોય, તો વાસ્તવિક અંતર 500 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 x 50 = 500. ગણિત બહુ સરળ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લાલ કિલ્લામાં 'દીવાન-એ-ખાસ' એ સામાન્ય જનતા માટે હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 'દીવાન-એ-ખાસ' રાજાના ખાસ મહેમાનો માટે હતો, 'દીવાન-એ-આમ' સામાન્ય જનતા માટે હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાસ' એટલે VIP માટે અને 'આમ' એટલે આમ જનતા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નકશામાં જે તે સ્થળને ઉપરથી જોતા કેવું દેખાય તે રીતે દર્શાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એટલે 'બર્ડ્સ આઈ વ્યુ' (ઉપરથી દેખાતો નજારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો આપણે જાળીના ચોરસની બાજુ બમણી કરીએ, તો ક્ષેત્રફળ 4 ગણું થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ 2 ગણી, તો ક્ષેત્રફળ 2 x 2 = 4 ગણું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભારતના નકશામાં ગુજરાત રાજ્ય પશ્ચિમ દિશામાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશાની ડાબી બાજુએ દરિયા કિનારે આપણું ગુજરાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રેલવે લાઇનને નકશામાં સીધી લીટીથી દર્શાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: રેલવે લાઇન માટે નકશામાં ચોક્કસ પ્રકારના 'રૂઢ સંજ્ઞા' (ટ્રેક જેવા ચિહ્ન) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલવેના પાટા જેવા કાળા-સફેદ કાપાવાળી લાઇન યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રંગમહેલ એ લાલ કિલ્લાની અંદર આવેલી એક ઇમારત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લામાં ડાબી બાજુએ છેલ્લે રંગમહેલ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો નકશાનું પ્રમાણમાપ 1 સેમી = 1000 મીટર હોય, તો 1 સેમી એટલે 1 કિમી કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 મીટર = 1 કિમી. આ પાયાનું જ્ઞાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કન્યાકુમારી એ ભારતના નકશામાં સૌથી ઉત્તર દિશામાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: કન્યાકુમારી ભારતના નકશામાં સૌથી દક્ષિણ (નીચે) દિશામાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાશ્મીર ઉપર (ઉત્તર), કન્યાકુમારી નીચે (દક્ષિણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "નકશામાં પ્રમાણમાપ લેવાથી મોટી જગ્યાને નાના કાગળ પર દર્શાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ એ 'ઝૂમ આઉટ' કરવા જેવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નેશનલ સ્ટેડિયમ ઇન્ડિયા ગેટની ઉત્તર દિશામાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નેશનલ સ્ટેડિયમ ઇન્ડિયા ગેટની દક્ષિણ દિશામાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ઇન્ડિયા ગેટની નીચે તરફ જુઓ, ત્યાં સ્ટેડિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ષટ્કોણ આકારને 8 બાજુઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ષટ્કોણ (Hexagon) ને 6 બાજુઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ષટ' એટલે છ. ષટકોણ = 6 બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો 1 સેમી = 5 કિમી હોય, તો 10 કિમી બરાબર 2 સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 / 5 = 2. ભાગાકાર કરીને સેમી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નકશામાં એક શહેરથી બીજા શહેર વચ્ચેનું અંતર હંમેશા કિલોમીટરમાં જ મપાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશા પર અંતર સેન્ટીમીટરમાં મપાય છે, પરંતુ તેને વાસ્તવિકતામાં કિલોમીટરમાં ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળ પર 'સેમી' અને જમીન પર 'કિમી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "દક્ષિણ દિશા તરફ મોઢું રાખીને ઉભા હોઈએ તો પૂર્વ દિશા ડાબી બાજુએ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા ચક્ર યાદ કરો: ઉત્તરની સામે દક્ષિણ, પૂર્વની સામે પશ્ચિમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "નકશામાં ડુંગરો દર્શાવવા માટે ભૂરા રંગનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ભૂરો રંગ પાણી (નદી, સમુદ્ર) દર્શાવવા વપરાય છે, ડુંગરો માટે કથ્થઈ રંગ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લુ એટલે વોટર, બ્રાઉન એટલે માઉન્ટેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "લાલ કિલ્લામાં નગારખાના એટલે કે જ્યાં ઢોલ વગાડીને રાજાનો સંદેશો સંભળાવવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નગારા' પરથી 'નગારખાના' યાદ રાખવું સહેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "જો નકશામાં 1 સેમી = 400 કિમી હોય, તો અડધો (0.5) સેમી એટલે 200 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સેમીનું અડધું એટલે 400 ના અડધા = 200.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "રાજપથ પર ચાલતા રાષ્ટ્રપતિ ભવનથી ઇન્ડિયા ગેટ તરફ જઈએ તો પૂર્વ દિશામાં જઈ રહ્યા છીએ તેમ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં રાષ્ટ્રપતિ ભવન પશ્ચિમમાં અને ઇન્ડિયા ગેટ પૂર્વમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "નકશામાં બે બિંદુઓ વચ્ચેનું સીધું અંતર ફૂટપટ્ટીથી માપી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂટપટ્ટી એ નકશાનું સૌથી મહત્વનું સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જો નકશામાં જાળીના ચોરસનું માપ અડધું કરવામાં આવે, તો ચિત્ર પણ અડધું થઈ જશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળીનું કદ અને ચિત્રનું કદ સીધા સંબંધમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "લાલ કિલ્લાની નકશામાં હમ્મામ એ દીવાન-એ-ખાસની ડાબી બાજુએ આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ઉપરના છેડે હમ્મામ, મોતી મસ્જિદ વગેરે ક્રમમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ભારતનો નકશો હંમેશા પૂર્વ દિશા ઉપર રાખીને દોરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ભારતનો કે કોઈપણ નકશો હંમેશા ઉત્તર દિશા ઉપર રાખીને દોરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા ગમે તે હોય, નકશામાં 'ટોપ' એટલે 'નોર્થ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો વાસ્તવિક અંતર 50 કિમી હોય અને પ્રમાણમાપ 1 સેમી = 5 કિમી હોય, તો નકશામાં 10 સેમીની લીટી દોરવી પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 / 5 = 10 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "પરેડના રસ્તામાં સુભાષ માર્ગ એ લાલ કિલ્લાની નજીકનો રસ્તો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરેડ છેલ્લે સુભાષ માર્ગ થઈને લાલ કિલ્લામાં પ્રવેશે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "નકશામાં કોઈ રસ્તો વાંકોચૂંકો હોય તો તેને દોરીની મદદથી માપી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂટપટ્ટી વાંકી ન વળે, પણ દોરી રસ્તા મુજબ વળી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જો નકશામાં 1 સેમી = 100 કિમી હોય, તો 250 કિમી માટે 2.5 સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 250 / 100 = 2.5 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઇન્ડિયા ગેટની ચારે બાજુએ રસ્તાઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે એક મોટું સર્કલ (ગોળ) જેવું જંકશન છે જ્યાં 6 રસ્તા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "નકશામાં પ્રમાણમાપ હંમેશા ખૂણામાં લખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ વગર નકશો અધૂરો ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ષટ્કોણ આકારના નકશામાં જો ખૂણાઓ સમાન ન હોય તો પણ તેને ષટ્કોણ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેવો આકાર હોય, જો 6 બાજુ હોય તો તે ષટ્કોણ જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "નકશામાં રાજપથની લંબાઈ ગમે તેટલી હોઈ શકે, પ્રમાણમાપની જરૂર નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નકશામાં દરેક વસ્તુ ચોક્કસ પ્રમાણમાપ મુજબ જ દોરવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ ન હોય તો નકશો માત્ર ચિત્ર બની જાય, નકશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જો 1 સેમી = 2 કિમી હોય, તો 7 સેમી બરાબર 14 કિમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 x 2 = 14 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નકશામાં વાસ્તવિક અંતર ઘટાડવા માટે આપણે ભાગાકારનો ઉપયોગ કરીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિમી માંથી સેમીમાં આવવા માટે પ્રમાણમાપ વડે ભાગાકાર કરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "દિલ્હીના નકશામાં યમુના નદી લાલ કિલ્લાની પશ્ચિમ દિશામાં છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: યમુના નદી લાલ કિલ્લાની પૂર્વ દિશામાં (પાછળના ભાગમાં) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો ધ્યાનથી જુઓ, જમણી બાજુ બ્લુ લાઇન એટલે યમુના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "માનચિત્ર (નકશો) એ પૃથ્વીના કોઈ ભાગનું સમતલ સપાટી પરનું આલેખન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એ પૃથ્વીનું કાગળ પરનું પ્રતિરૂપ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો 1 સેમી = 1 કિમી હોય, તો 1000 મીટર એટલે 1 સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 મીટર = 1 કિમી. એકમ બદલાય તો પણ કિંમત સરખી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "નકશામાં ઉપરના ભાગે 'ઉ' લખેલું હોય તેનો અર્થ ઉત્તર દિશા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં દિશા સૂચવવા માટે 'ઉ' (N) નો સંકેત વપરાય છે.</p></div>"
+    }
+  ]
+}
