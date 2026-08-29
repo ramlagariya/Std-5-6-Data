@@ -1171,3 +1171,111 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "તમે પેટર્ન જોઈ શકો છો?",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈ આકૃતિને 1/4 ફેરવવી એટલે તેને 90 અંશના ખૂણે ફેરવવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. </p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળમાં 12 થી 3 વાગે એટલે 1/4 ભાગ કહેવાય, જે 90° નો ખૂણો બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો કોઈ આકૃતિને અડધી (1/2) ફેરવવામાં આવે, તો તે હંમેશા ઉંધી જ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે જો આકૃતિ ઉપર અને નીચેથી સમાન હોય (દા.ત. 'H' અથવા 'O'), તો તે અડધી ફેરવ્યા પછી પણ મૂળ આકૃતિ જેવી જ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો આંટો એટલે માથું નીચે અને પગ ઉપર, પણ જો બંને સરખા હોય તો કોઈ ફેર ન પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જાદુઈ ષટ્કોણમાં, બે વર્તુળોમાં આપેલી સંખ્યાઓનો ગુણાકાર તેની વચ્ચેના ચોરસ ખાનામાં મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ-બાજુના બે ગોળ = વચ્ચેનો ચોરસ (ગુણાકારનો જાદુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સંખ્યા 121 એ એક વિશિષ્ટ સંખ્યા (Palindromic Number) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કારણ કે તેને આગળથી કે પાછળથી વાંચતા તે સમાન રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જુઓ કે ઉંઘેથી વાંચો, જો સંખ્યા ન બદલાય તો તે 'સ્પેશિયલ' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 થી 10 સંખ્યાઓનો સરવાળો 50 થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 1 થી 10 નો સાચો સરવાળો 55 થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી સંખ્યા 10 ના અડધા 5 અને તેની બાજુમાં ફરીથી 5 મૂકી દો એટલે જવાબ 55!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આકૃતિને 1/8 ફેરવવી એટલે તેને 45 અંશના ખૂણે ફેરવવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ને 8 વડે ભાગતા 45 મળે. અડધાનું અડધું એટલે 90, અને તેનું પણ અડધું એટલે 45!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કેલેન્ડરમાં કોઈ પણ 3x3 ના ચોરસ ખાનાની તમામ 9 સંખ્યાઓનો સરવાળો શોધવા માટે સૌથી મોટી સંખ્યાને 9 વડે ગુણવી પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સરવાળો શોધવા માટે 'મધ્યમાં' રહેલી સંખ્યાને 9 વડે ગુણવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટરની સંખ્યા પકડો અને 9 સાથે ગુણો, આખું ખાનું ગણવાની જરૂર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો 11 x 11 = 121 હોય, તો 111 x 111 = 12321 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. આ એક સંખ્યાની પેટર્ન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા એકડા હોય ત્યાં સુધી એકડા-બગડા લખો અને પછી ઉતરતા ક્રમમાં જાઓ (1-2-3-2-1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જાદુઈ ચોરસમાં દરેક હાર (row) અને દરેક સ્તંભ (column) નો સરવાળો અલગ-અલગ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જાદુઈ ચોરસમાં આડી, ઉભી અને ત્રાંસી બધી જ લાઈનોનો સરવાળો હંમેશા સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુ એટલે જ સમાનતા! બધી બાજુથી એક જ જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અંગ્રેજી મૂળાક્ષર 'N' ને અડધો આંટો (1/2 turn) ફેરવતા તે 'N' જેવો જ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોપડી ઉંધી કરીને જુઓ, જો અક્ષર ન બદલાય તો 1/2 ટર્ન ઓકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કોઈ પણ સંખ્યાને 100 વડે ગુણીને તેમાં તે જ સંખ્યા ઉમેરવાથી તે સંખ્યા વિશિષ્ટ બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વિશિષ્ટ સંખ્યા બનાવવા માટે સંખ્યાને ઉલટાવીને તેમાં મૂળ સંખ્યા ઉમેરવાની પ્રક્રિયા કરવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા + ઉંધી સંખ્યા = વિશિષ્ટ સંખ્યા (ક્યારેક એકથી વધુ વાર કરવું પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ક્રમિક 10 સંખ્યાઓના સરવાળાની પેટર્નમાં, જવાબમાં હંમેશા છેલ્લો અંક 5 આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જેમ કે 1-10 નો 55, 11-20 નો 155, 21-30 નો 255.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચમી સંખ્યાની પાછળ 5 લગાડો એટલે 10 ક્રમિક સંખ્યાનો સરવાળો તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઘડિયાળના કાંટામાં 12 થી 6 સુધીનો ફેરફાર એ 1/2 આંટો કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળના બે સરખા ભાગ એટલે અડધો આંટો (180°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "9 x 1 + 2 = 11, 9 x 12 + 3 = 111; આ પેટર્ન મુજબ આગળનું પદ 9 x 123 + 4 = 1111 થશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા અંક ઉમેરો એટલા એકડા જવાબમાં આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બિંદુ (Dot) વાળી પેટર્નમાં જો બિંદુ ઉપર હોય અને 1/4 ફેરવવામાં આવે તો બિંદુ નીચે જશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 1/4 ફેરવવાથી બિંદુ જમણી બાજુ (અથવા ડાબી બાજુ) જશે, નીચે જવા માટે 1/2 આંટો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે પાવ ભાગ, 1/2 એટલે અડધો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "48 + 84 = 132, જે એક વિશિષ્ટ સંખ્યા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 132 ને ઉંધી વાંચતા 231 થાય છે, તેથી તે વિશિષ્ટ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ-પાછળ સમાન હોય તો જ વિશિષ્ટ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્વસ્તિક (સાથિયો) ને 1/4 આંટો ફેરવતા તે પહેલા જેવો જ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તેની ચારેય બાજુઓ સમાન રચના ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આકૃતિ ચારેય દિશામાં સરખી હોય તેને 90° (1/4) ફેરવો તો પણ તે જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો આપણે 28 ને ઉલટાવીએ તો 82 મળે, અને 28 + 82 = 110. શું 110 વિશિષ્ટ સંખ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 110 ને ઉલટાવતા 011 મળે છે, માટે તે વિશિષ્ટ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય આગળ આવે તો સંખ્યા બદલાઈ જાય, એટલે તે વિશિષ્ટ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ત્રિકોણને 1/3 ફેરવતા તે મૂળ સ્થિતિમાં પાછો આવે છે (જો તે સમબાજુ હોય).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણને 3 ખૂણા હોય, એટલે 1/3 ફેરવવાથી તે સરખો જ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પેટર્ન: 1, 3, 6, 10... માં હવે પછીની સંખ્યા 15 આવશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અહીં +2, +3, +4 અને હવે +5 ઉમેરાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો પણ પેટર્નમાં છે: 2, 3, 4, 5... ઉમેરતા જાઓ!</p></div>"
+    }
+  ]
+}
