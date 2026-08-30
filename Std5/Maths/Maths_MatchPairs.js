@@ -596,3 +596,61 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "તમે પેટર્ન (ભાત) જોઈ શકો છો?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (આકૃતિના ભ્રમણના અંશ)\nવિભાગ A:\n(1) 1/4 ફેરવવું\n(2) 1/2 ફેરવવું\n(3) 1/8 ફેરવવું\n\nવિભાગ B:\n(A) 45°\n(B) 90°\n(C) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખો - ઘડિયાળના 12 થી 3 એટલે 1/4 ભાગ (90°), 12 થી 6 એટલે અડધો ભાગ (180°) અને અડધાનું પણ અડધું એટલે 1/8 ભાગ (45°)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (જાદુઈ ષટ્કોણનો નિયમ)\nવિભાગ A:\n(1) બે ગોળનો ગુણાકાર\n(2) ષટ્કોણની બાજુઓ\n(3) જાદુઈ ષટ્કોણમાં કુલ ખાના\n\nવિભાગ B:\n(A) 6 બાજુઓ\n(B) 12 (6 ગોળ + 6 ચોરસ)\n(C) વચ્ચેના ચોરસની સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ-બાજુના 'ગોળ' નો કરો ગુણાકાર, 'ચોરસ' માં મળશે જવાબનો અંબાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (સંખ્યાઓની પેટર્ન - સરવાળો)\nવિભાગ A:\n(1) 1 થી 10 નો સરવાળો\n(2) 11 થી 20 નો સરવાળો\n(3) 21 થી 30 નો સરવાળો\n\nવિભાગ B:\n(A) 155\n(B) 255\n(C) 55",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાં 55 યાદ રાખો, પછી જેમ લાઈન બદલાય તેમ આગળ 1, 2, 3 મુકતા જાવ (55, 155, 255...).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (વિશિષ્ટ સંખ્યાઓ - પેલિન્ડ્રોમ)\nવિભાગ A:\n(1) 121\n(2) 676\n(3) 484\n\nવિભાગ B:\n(A) 484 ને ઉલટાવતા મળતી સંખ્યા\n(B) 121 ને ઉલટાવતા મળતી સંખ્યા\n(C) 676 ને ઉલટાવતા મળતી સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગળથી વાંચો કે પાછળથી' - સંખ્યા એની એ જ રહે તેને વિશિષ્ટ સંખ્યા કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (ગુણાકારની પેટર્ન)\nવિભાગ A:\n(1) 11 × 11\n(2) 111 × 111\n(3) 1111 × 1111\n\nવિભાગ B:\n(A) 1234321\n(B) 121\n(C) 12321",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા એકડા (1) હોય ત્યાં સુધી એકડા લખો અને પછી ઉતરતા ક્રમમાં લખો (3 એકડા હોય તો 123 પછી 21).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (જાદુઈ ચોરસ - 3x3)\nવિભાગ A:\n(1) કુલ ખાનાની સંખ્યા\n(2) દરેક હરોળનો સરવાળો\n(3) મધ્યમાં રહેલી સંખ્યા (જો સરવાળો 150 હોય તો)\n\nવિભાગ B:\n(A) 50\n(B) 9\n(C) સમાન રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યની સંખ્યા શોધવા માટે કુલ સરવાળાને 3 વડે ભાગી નાખવા (150 ÷ 3 = 50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (ભ્રમણ અને દિશા)\nવિભાગ A:\n(1) અડધો આંટો\n(2) પા ભાગનો આંટો\n(3) પોણો આંટો\n\nવિભાગ B:\n(A) 3/4 ભાગ\n(B) 1/2 ભાગ\n(C) 1/4 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલીના ટુકડા યાદ કરો! અડધી રોટલી એટલે 1/2, ચોથો ભાગ એટલે 1/4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (સંખ્યાની અદલાબદલી)\nવિભાગ A:\n(1) 24 + 19 + 37\n(2) 215 + 120 + 600\n(3) 48 + 98\n\nવિભાગ B:\n(A) 600 + 215 + 120\n(B) 98 + 48\n(C) 37 + 24 + 19",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળામાં ક્રમ બદલાય તો પણ જવાબ બદલાતો નથી, આને ક્રમનો ગુણધર્મ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (ગુપ્ત સંદેશ/કોડ લેંગ્વેજ)\nવિભાગ A:\n(1) A માટે 1, B માટે 2 હોય તો C માટે...\n(2) Z માટે 26 હોય તો Y માટે...\n(3) HOT ને કોડમાં લખવા...\n\nવિભાગ B:\n(A) 25\n(B) 8, 15, 20\n(C) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABC લખી તેની નીચે 1, 2, 3 નંબર આપી દો એટલે કોઈ પણ ગુપ્ત સંદેશ ઉકેલાઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: (સ્માર્ટ સરવાળો)\nવિભાગ A:\n(1) 1 થી 100 નો સરવાળો\n(2) 1 + 3 + 5 (ક્રમિક એકી સંખ્યા)\n(3) 2 + 4 + 6 (ક્રમિક બેકી સંખ્યા)\n\nવિભાગ B:\n(A) 12\n(B) 5050\n(C) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યાનો સરવાળો એટલે જેટલી સંખ્યા હોય તેનો વર્ગ (અહીં 3 સંખ્યા છે તો 3x3=9)!</p></div>"
+    }
+  ]
+}
