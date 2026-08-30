@@ -380,3 +380,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "તે સરખું દેખાય છે?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ચોરસ (2) લંબચોરસ<br>વિભાગ 'B': (A) અડધો ફેરવતા તે જ દેખાય (B) ૧/૪ ફેરવતા તે જ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ બધી બાજુથી સરખો એટલે ૧/૪ માં પણ સરખો દેખાય, પણ લંબચોરસને મૂળ જેવો જોવા અડધો (૧/૨) ફેરવવો પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) અંગ્રેજી અક્ષર 'H' (2) અંગ્રેજી અક્ષર 'M'<br>વિભાગ 'B': (A) દર્પણમાં જોતા ઊંધો દેખાય (B) અડધો આંટો ફેરવતા તેવો જ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર 'H' ને ૧/૨ ફેરવો તો પણ 'H' જ રહે, પણ 'M' ને ૧/૨ ફેરવતા તે 'W' જેવો દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ૧/૪ ફેરવવું (2) ૧/૨ ફેરવવું<br>વિભાગ 'B': (A) ૧૮૦ ડિગ્રીનો ખૂણો (B) ૯૦ ડિગ્રીનો ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ચક્ર ૩૬૦નું હોય. ચોથો ભાગ એટલે ૩૬૦/૪ = ૯૦ અને અડધો ભાગ એટલે ૩૬૦/૨ = ૧૮૦!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ત્રિકોણ (સમબાજુ) (2) વર્તુળ<br>વિભાગ 'B': (A) ગમે તેટલું ફેરવતા તેવું જ દેખાય (B) ૧/૩ ફેરવતા તેવું જ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણને ૩ પાંખિયાના પંખાની જેમ યાદ રાખો, ૧/૩ ફેરવો એટલે તે જ દેખાય. વર્તુળ તો 'રાજા' છે, ગમે તેમ ફેરવો સરખું જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) અંક '8' (2) અંક '0'<br>વિભાગ 'B': (A) અડધો આંટો ફેરવતા બદલાતો નથી (B) અડધો આંટો ફેરવતા તેવો જ રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A) [બંને સમાન ગુણધર્મ ધરાવે છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '0' અને '8' એવા અંકો છે જેને માથે પગ અને પગે માથું કરો (અડધો આંટો) તો પણ તે જ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ષટ્કોણ (2) પંચકોણ<br>વિભાગ 'B': (A) ૧/૫ ફેરવતા તે જ દેખાય (B) ૧/૬ ફેરવતા તે જ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ખૂણા એટલો ભાગ! ૫ ખૂણા (પંચકોણ) તો ૧/૫, ૬ ખૂણા (ષટ્કોણ) તો ૧/૬!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) અંગ્રેજી અક્ષર 'N' (2) અંગ્રેજી અક્ષર 'S'<br>વિભાગ 'B': (A) ૧/૨ આંટામાં મૂળ જેવો દેખાય (B) ૧/૨ આંટામાં મૂળ જેવો દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'N', 'S', 'Z', 'H', 'I', 'O', 'X' - આ સાત અક્ષરો અડધા આંટામાં એના એ જ રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) પંખાની ૩ પાંખ (2) પંખાની ૪ પાંખ<br>વિભાગ 'B': (A) ૧/૪ આંટો ફેરવતા મૂળ સ્થિતિ (B) ૧/૩ આંટો ફેરવતા મૂળ સ્થિતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખિયા ગણો! ૩ પાંખ તો ૧/૩, ૪ પાંખ તો ૧/૪!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) દર્પણમાં જોવું (2) અડધો આંટો<br>વિભાગ 'B': (A) ૧૮૦ ડિગ્રી ફેરવવું (B) સંમિતિ તપાસવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દર્પણ એટલે ડાબું-જમણું સરખું (સંમિતિ) અને અડધો આંટો એટલે વસ્તુને ઊંધી કરી દેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) અંક '11' (2) અંક '88'<br>વિભાગ 'B': (A) ૧/૨ આંટામાં ૧૧ જ દેખાય (B) ૧/૨ આંટામાં ૮૮ જ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અંકો (૧, ૦, ૮) અડધા આંટામાં નથી બદલાતા, તેનાથી બનતી સંખ્યા પણ નથી બદલાતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ત્રિકોણનો ૧/૩ આંટો (2) ચોરસનો ૧/૪ આંટો<br>વિભાગ 'B': (A) ૧૨૦ ડિગ્રી (B) ૯૦ ડિગ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૬૦ ને છેદમાં મૂકો! ૩૬૦/૩ = ૧૨૦ અને ૩૬૦/૪ = ૯૦!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) 'Z' અક્ષર (2) 'E' અક્ષર<br>વિભાગ 'B': (A) અડધો આંટો ફેરવતા તે જ રહે (B) અડધો આંટો ફેરવતા બદલાઈ જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Z' ને ઊંધો કરો તો પણ 'Z' લાગે, પણ 'E' ને ઊંધો કરો તો તે ત્રણ લીટા ડાબી બાજુ આવી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) પતંગિયાની પાંખ (2) પાંદડું<br>વિભાગ 'B': (A) સંમિત આકાર (B) સંમિત હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતમાં પતંગિયું એકદમ પરફેક્ટ સંમિત છે, વચ્ચેથી ભાગ કરો તો બંને બાજુ સરખી દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) સ્વાસ્તિક (સાથિયો) (2) વતાકાર (+)<br>વિભાગ 'B': (A) ૧/૪ ફેરવતા સરખો દેખાય (B) ૧/૪ ફેરવતા સરખો દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાસ્તિક અને પ્લસ (+) બંને એવા આકાર છે જે ૯૦ ડિગ્રી (૧/૪) ફેરવતા મૂળ જેવા જ દેખાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ષટ્કોણનો ૧/૬ આંટો (2) આખો આંટો<br>વિભાગ 'B': (A) ૬૦ ડિગ્રી (B) ૩૬૦ ડિગ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૬૦/૬ = ૬૦ ડિગ્રી! આખું વર્તુળ હંમેશા ૩૬૦ ડિગ્રીનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) હૃદય આકાર (2) તારા આકાર (૫ પાંખ)<br>વિભાગ 'B': (A) ૧/૫ ફેરવતા સરખો દેખાય (B) દર્પણમાં અડધો ભાગ સરખો દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયને વચ્ચેથી ઊભી લીટી કરો તો જ સરખું દેખાય, તારાને તેના ખૂણા મુજબ ફેરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) ગુણાકાર (x) (2) માઈનસ (-)<br>વિભાગ 'B': (A) ૧/૨ ફેરવતા સરખો દેખાય (B) ૧/૪ ફેરવતા સરખો દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર (x) એ ચોરસ જેવો છે એટલે ૧/૪, પણ માઈનસ (-) લંબચોરસ જેવો છે એટલે ૧/૨!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) સંમિત રેખા (2) ટપકાં વાળી રેખા<br>વિભાગ 'B': (A) દર્પણ રાખવાની જગ્યા (B) આકારના બે સરખા ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપકાં વાળી રેખા પર અરીસો મૂકો એટલે ખબર પડે કે ચિત્ર પૂરું થાય છે કે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) 808 (2) 101<br>વિભાગ 'B': (A) અડધો આંટો ફેરવતા 101 જ રહે (B) અડધો આંટો ફેરવતા 808 જ રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ જાદુઈ સંખ્યાઓ છે! ગમે તેટલી મહેનત કરો, અડધા આંટા પછી એની એ જ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'A': (1) અંગ્રેજી અક્ષર 'O' (2) અંગ્રેજી અક્ષર 'I'<br>વિભાગ 'B': (A) ૧/૪ ફેરવતા પણ સરખો દેખાય (B) ૧/૨ ફેરવતા સરખો દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'O' એ ગોળ છે એટલે બધે સરખો, 'I' ને મૂળ જેવો કરવા ૧૮૦ ડિગ્રી ફેરવવો પડે!</p></div>"
+    }
+  ]
+}
