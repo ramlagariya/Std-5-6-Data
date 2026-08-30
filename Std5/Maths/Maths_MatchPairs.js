@@ -488,3 +488,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "તું મારો ગુણક, હું તારો અવયવ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 7 ના ગુણક (બ) 1, 2, 3, 4, 6, 12 <br> (અ) 12 ના અવયવ (બ) 7, 14, 21, 28",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 7 ના ગુણક -> 7, 14, 21, 28 <br>2. 12 ના અવયવ -> 1, 2, 3, 4, 6, 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે સંખ્યાનો ઘડિયો બોલવો અને અવયવ એટલે જે સંખ્યા વડે ભાગાકાર થઈ શકે તે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 4 અને 6 નો સૌથી નાનો સામાન્ય ગુણક (બ) 1 <br> (અ) દરેક સંખ્યાનો સૌથી નાનો અવયવ (બ) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 4 અને 6 નો સૌથી નાનો સામાન્ય ગુણક -> 12 <br>2. દરેક સંખ્યાનો સૌથી નાનો અવયવ -> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1' એ દરેક સંખ્યાનો અવયવ છે જ! અને સૌથી નાના ગુણક માટે બંને ઘડિયામાં આવતી પહેલી સરખી સંખ્યા જોવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 15 ના અવયવો (બ) 30, 60, 90 <br> (અ) 30 ના ગુણકો (બ) 1, 3, 5, 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 15 ના અવયવો -> 1, 3, 5, 15 <br>2. 30 ના ગુણકો -> 30, 60, 90</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ હંમેશા સંખ્યા જેટલા અથવા તેનાથી નાના હોય, જ્યારે ગુણક સંખ્યા જેટલા અથવા તેનાથી મોટા હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 8 નો ચોથો ગુણક (બ) 32 <br> (અ) 18 નો સૌથી મોટો અવયવ (બ) 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 8 નો ચોથો ગુણક -> 32 <br>2. 18 નો સૌથી મોટો અવયવ -> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો સૌથી મોટો અવયવ એ સંખ્યા પોતે જ હોય છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 2 અને 3 નો સામાન્ય ગુણક (બ) 1, 2 <br> (અ) 4 અને 10 નો સામાન્ય અવયવ (બ) 6, 12, 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 2 અને 3 નો સામાન્ય ગુણક -> 6, 12, 18 <br>2. 4 અને 10 નો સામાન્ય અવયવ -> 1, 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય એટલે જે બંનેના લિસ્ટમાં હોય તે શોધો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 10 ના અવયવોની સંખ્યા (બ) 4 <br> (અ) 13 નો બીજો ગુણક (બ) 26",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 10 ના અવયવોની સંખ્યા -> 4 (1, 2, 5, 10) <br>2. 13 નો બીજો ગુણક -> 26</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 કોના ઘડિયામાં આવે? 1, 2, 5, 10. કુલ 4 સંખ્યા થઈ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 25 અને 35 નો સામાન્ય અવયવ (બ) 5 <br> (અ) 5 અને 10 નો સૌથી નાનો સામાન્ય ગુણક (બ) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 25 અને 35 નો સામાન્ય અવયવ -> 5 <br>2. 5 અને 10 નો સૌથી નાનો સામાન્ય ગુણક -> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો એક સંખ્યા બીજી સંખ્યાનો ગુણક હોય, તો મોટી સંખ્યા જ લ.સા.અ. (નાનો સામાન્ય ગુણક) બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 24 ના અવયવો (બ) 1, 2, 3, 4, 6, 8, 12, 24 <br> (અ) 9 ના પ્રથમ ત્રણ ગુણક (બ) 9, 18, 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 24 ના અવયવો -> 1, 2, 3, 4, 6, 8, 12, 24 <br>2. 9 ના પ્રથમ ત્રણ ગુણક -> 9, 18, 27</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 24 માટે ચેક કરો: 1x24, 2x12, 3x8, 4x6. આ બધી જોડીઓ અવયવ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 20 ના અવયવમાં ન હોય તેવી સંખ્યા (બ) 3 <br> (અ) 6 ના ગુણક માં હોય તેવી સંખ્યા (બ) 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 20 ના અવયવમાં ન હોય -> 3 <br>2. 6 ના ગુણક માં હોય -> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 ને 3 વડે ભાગી શકાય નહીં, એટલે તે અવયવ નથી. 6 ના ઘડિયામાં 18 આવે એટલે તે ગુણક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) અવયવ વૃક્ષ (Factor Tree) માં 12 ના ભાગ (બ) 2 x 6 <br> (અ) 16 અને 20 નો સૌથી મોટો સામાન્ય અવયવ (બ) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 12 ના ભાગ -> 2 x 6 <br>2. 16 અને 20 નો સૌથી મોટો સામાન્ય અવયવ -> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટો સામાન્ય અવયવ શોધવા માટે બંને સંખ્યાઓ કયા મોટા ઘડિયામાં સાથે આવે છે તે જુઓ (અહીં 4 ના ઘડિયામાં). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 11 નો 10મો ગુણક (બ) 110 <br> (અ) 21 નો સૌથી નાનો અવયવ (બ) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 11 નો 10મો ગુણક -> 110 <br>2. 21 નો સૌથી નાનો અવયવ -> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો 'મો' ગુણક એટલે તે સંખ્યા સાથે ગુણાકાર. 11 x 10 = 110. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 15 અને 20 નો સૌથી નાનો સામાન્ય ગુણક (બ) 60 <br> (અ) 15 અને 20 નો સૌથી મોટો સામાન્ય અવયવ (બ) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સૌથી નાનો સામાન્ય ગુણક -> 60 <br>2. સૌથી મોટો સામાન્ય અવયવ -> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 અને 20 ના ઘડિયામાં પહેલી આવતી સરખી સંખ્યા 60 છે. બંને 5 ના ઘડિયામાં આવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) સંખ્યા 47 (બ) માત્ર બે જ અવયવ (1 અને 47) <br> (અ) સંખ્યા 10 (બ) ચાર અવયવ (1, 2, 5, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સંખ્યા 47 -> માત્ર બે જ અવયવ <br>2. સંખ્યા 10 -> ચાર અવયવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંખ્યા બીજા કોઈ ઘડિયામાં ન આવે તેના માત્ર 2 જ અવયવ હોય (અવિભાજ્ય સંખ્યા). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 50 નો અડધો ભાગ એ તેનો અવયવ છે? (બ) હા, 25 <br> (અ) 7 નો ગુણક 15 હોય? (બ) ના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 50 નો અડધો ભાગ -> હા, 25 <br>2. 7 નો ગુણક 15 હોય? -> ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો શેષ 0 વધે તો જ તે અવયવ કે ગુણક સંબંધ ધરાવે. 15 ને 7 વડે ભાગતા શેષ વધે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 1 થી 10 વચ્ચે 2 ના ગુણક (બ) 2, 4, 6, 8, 10 <br> (અ) 1 થી 10 વચ્ચે 5 ના ગુણક (બ) 5, 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 2 ના ગુણક -> 2, 4, 6, 8, 10 <br>2. 5 ના ગુણક -> 5, 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણક એટલે આપેલી સંખ્યાનો ઘડિયો બોલીને મર્યાદા સુધી લખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 18 નો અવયવ 9 (બ) 9 x 2 = 18 <br> (અ) 18 નો અવયવ 6 (બ) 6 x 3 = 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 18 નો અવયવ 9 -> 9 x 2 = 18 <br>2. 18 નો અવયવ 6 -> 6 x 3 = 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવની જોડી બનાવતા શીખો, તે હંમેશા ગુણાકાર દ્વારા ચેક કરી શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 100 નો સૌથી મોટો અવયવ (બ) 100 <br> (અ) 100 નો સૌથી નાનો અવયવ (બ) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સૌથી મોટો અવયવ -> 100 <br>2. સૌથી નાનો અવયવ -> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યા માટે આ નિયમ પાકો કરી લો: નાનો અવયવ 1 અને મોટો સંખ્યા પોતે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 3, 6, 9, 12... (બ) 3 ના ગુણક <br> (અ) 1, 3, 9 (બ) 9 ના અવયવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 3, 6, 9, 12... -> 3 ના ગુણક <br>2. 1, 3, 9 -> 9 ના અવયવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો લિસ્ટ અનંત (...) હોય તો તે ગુણક હોય અને જો લિસ્ટ પૂરું થઈ જતું હોય તો તે અવયવ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 4 ના ગુણક (લાલ વર્તુળ) (બ) 4, 8, 12, 16 <br> (અ) 6 ના ગુણક (વાદળી વર્તુળ) (બ) 6, 12, 18, 24",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 4 ના ગુણક -> 4, 8, 12, 16 <br>2. 6 ના ગુણક -> 6, 12, 18, 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેન આકૃતિમાં વચ્ચેનો ભાગ (જાંબલી) સામાન્ય ગુણક માટે વપરાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (અ) 20 ના અવયવની જોડી (બ) 4 x 5 <br> (અ) 30 ના અવયવની જોડી (બ) 6 x 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 20 ના અવયવની જોડી -> 4 x 5 <br>2. 30 ના અવયવની જોડી -> 6 x 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સંખ્યાનો ગુણાકાર જો મૂળ સંખ્યા જેટલો થાય, તો તે બંને તેના અવયવ છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
