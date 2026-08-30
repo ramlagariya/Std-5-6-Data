@@ -81,3 +81,86 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આકાર અને ખૂણા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> 1. 90° નો ખૂણો <br> 2. 90° થી ઓછો ખૂણો <br> 3. 90° થી વધુ ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણ <br> 2 - કાટકોણથી નાનો <br> 3 - કાટકોણથી મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી અક્ષર 'L' બને તો કાટકોણ, 'L' થી સાંકડો તો નાનો અને 'L' થી પહોળો તો મોટો ખૂણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઘડિયાળના સમય અને ખૂણાના પ્રકાર જોડો: <br> 1. 3:00 વાગ્યે <br> 2. 2:00 વાગ્યે <br> 3. 4:00 વાગ્યે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણ <br> 2 - કાટકોણથી નાનો <br> 3 - કાટકોણથી મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળમાં 3 કલાકનું અંતર એટલે 90° (કાટકોણ). 3 થી ઓછું અંતર હોય તો નાનો અને 3 થી વધુ હોય તો મોટો ખૂણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આકાર અને તેની બાજુઓની સંખ્યા જોડો: <br> 1. પંચકોણ <br> 2. ષટ્કોણ <br> 3. અષ્ટકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - 5 બાજુઓ <br> 2 - 6 બાજુઓ <br> 3 - 8 બાજુઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચ = 5, ષટ્ = 6, અષ્ટ = 8. નામમાં જ સંખ્યા છુપાયેલી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખૂણાના માપ અને તેના ભાગ જોડો: <br> 1. 90° નો અડધો ભાગ <br> 2. 90° નો ત્રીજો ભાગ <br> 3. 90° નો બમણો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - 45° <br> 2 - 30° <br> 3 - 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિત ગમ્મતમાં ભાગાકાર કરો: 90/2 = 45, 90/3 = 30, અને 90 x 2 = 180.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વસ્તુઓ અને તેમાં બનતા ખૂણા જોડો: <br> 1. પુસ્તકની ધાર <br> 2. આઈસ્ક્રીમ કોણની અણી <br> 3. ખુલ્લી રાખેલી કાતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણ <br> 2 - કાટકોણથી નાનો <br> 3 - કાટકોણથી મોટો (સામાન્ય રીતે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક હંમેશા 'L' આકારની ધાર ધરાવે છે, માટે તે કાટકોણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અંગ્રેજી મૂળાક્ષરો અને ખૂણાની સંખ્યા (કાટકોણ) જોડો: <br> 1. અક્ષર 'L' <br> 2. અક્ષર 'E' <br> 3. અક્ષર 'H'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - 1 કાટકોણ <br> 2 - 4 કાટકોણ <br> 3 - 4 કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર દોરીને જ્યાં 'L' આકાર બને તે ગણી લેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યોગાસન અને ખૂણા જોડો: <br> 1. સીધા ઉભા રહીને પગને અડવું <br> 2. જમીન પર બેસીને પગ પહોળા કરવા <br> 3. સીધા સુઈને પગ 90° એ ઊંચા કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણથી નાનો <br> 2 - કાટકોણથી મોટો <br> 3 - કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરના સાંધા પાસે કયો આકાર બને છે તે કલ્પના કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખૂણા માપવાના સાધનો અને ઉપયોગ જોડો: <br> 1. કોણમાપક <br> 2. વિભાજક (Divider) <br> 3. ફૂટપટ્ટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - ખૂણો માપવા <br> 2 - ખૂણો તપાસવા <br> 3 - લીટી દોરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોણ' એટલે ખૂણો અને 'માપક' એટલે માપનાર સાધન = કોણમાપક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નામ 'SUKHMAN' માં ખૂણાના પ્રકાર જોડો: <br> 1. અક્ષર 'S' ના વળાંક વગરના ખૂણા <br> 2. અક્ષર 'M' ના ખૂણા <br> 3. અક્ષર 'K' ના ખૂણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણ <br> 2 - કાટકોણથી નાના <br> 3 - કાટકોણથી નાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી રેખાથી બનેલા નામમાં ખૂણા ગણવા માટે પેન્સિલ ફેરવવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાગમાં સ્લાઇડ (લપસણી) ના ખૂણા જોડો: <br> 1. લાંબી લપસણીનો જમીન સાથેનો ખૂણો <br> 2. ટૂંકી લપસણીનો જમીન સાથેનો ખૂણો <br> 3. લપસણીના સીડીનો ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - નાનો ખૂણો (વધારે સુરક્ષિત) <br> 2 - મોટો ખૂણો <br> 3 - કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે લપસણી ઓછી ત્રાસી હોય તેનો ખૂણો નાનો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દિવાસળીની સંખ્યા અને આકાર જોડો: <br> 1. 3 દિવાસળી <br> 2. 4 દિવાસળી <br> 3. 6 દિવાસળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - ત્રિકોણ <br> 2 - ચોરસ <br> 3 - ષટ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી દિવાસળી એટલી બાજુઓ અને એટલા જ ખૂણા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઘડિયાળમાં મિનિટ કાંટાનું પરિભ્રમણ જોડો: <br> 1. 15 મિનિટમાં <br> 2. 30 મિનિટમાં <br> 3. 5 મિનિટમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણ <br> 2 - 180° (સીધી રેખા) <br> 3 - કાટકોણથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનિટ કાંટો 12 પરથી 3 પર આવે ત્યારે બરાબર 'L' આકાર બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આકારોમાં ફેરફાર અને મજબૂતી જોડો: <br> 1. ત્રિકોણ આકાર <br> 2. ચોરસ આકાર <br> 3. પંચકોણ આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - દબાવવાથી આકાર બદલાતો નથી <br> 2 - દબાવવાથી આકાર બદલાય છે <br> 3 - દબાવવાથી આકાર બદલાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ એ સૌથી મજબૂત આકાર છે, એટલે જ પુલ અને ટાવરમાં તેનો ઉપયોગ થાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખૂણાના માપ અને નામ જોડો: <br> 1. 10° <br> 2. 165° <br> 3. 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણથી નાનો <br> 2 - કાટકોણથી મોટો <br> 3 - કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 થી નાનું એટલે લઘુ, 90 એટલે કાટ અને 90 થી મોટું એટલે ગુરુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખૂણાની નિશાની અને અર્થ જોડો: <br> 1. ∟ <br> 2. < <br> 3. >",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - કાટકોણની નિશાની <br> 2 - થી નાનું (ખૂણો) <br> 3 - થી મોટું (ખૂણો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '∟' એ ચોરસ જેવો ખૂણો બતાવે છે જે હંમેશા 90° હોય.</p></div>"
+    }
+  ]
+}
