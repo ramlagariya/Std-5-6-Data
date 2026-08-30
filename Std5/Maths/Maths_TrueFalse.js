@@ -2527,3 +2527,161 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું મોટું? કેટલું ભારે?",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈપણ વસ્તુ જેટલી જગ્યા રોકે તેને તે વસ્તુનું ઘનફળ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગ્યા રોકે એટલે 'કદ' અથવા 'ઘનફળ'. (રોકેલી જગ્યા = ઘનફળ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઘનફળ માપવાનો એકમ ચોરસ સેમી (sq. cm) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઘનફળ માપવાનો એકમ 'ઘન સેમી' (cubic cm) છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં 'ચોરસ' આવે, ઘનફળમાં 'ઘન' (3 પરિમાણ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "1 સેમી બાજુ ધરાવતા સમઘનનું ઘનફળ 1 ઘન સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 x 1 x 1 = 1. બાજુ સમાન તો ઘનફળ પણ તેટલા જ ઘન એકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબઘનનું ઘનફળ શોધવાનું સૂત્ર 'લંબાઈ + પહોળાઈ + ઊંચાઈ' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સાચું સૂત્ર લંબાઈ × પહોળાઈ × ઊંચાઈ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનફળ એટલે ત્રણેય બાજુનો 'ગુણાકાર' (L × B × H).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાણીમાં કોઈ વસ્તુ નાખતા જો પાણીનું સ્તર ઉપર આવે, તો તે સ્તર વધવાનું કારણ વસ્તુનું કદ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જગ્યા રોકે એટલે પાણીને ખસવું પડે. (વધેલું પાણી = વસ્તુનું કદ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "1 લિટર પાણી એટલે 100 મિલી પાણી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: 1 લિટર = 1000 મિલી થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લિટર' માં 3 મીંડા આવે (1000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક લખોટીનું કદ અંદાજે 1 મિલી જેટલું હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની લખોટી આશરે 1 મિલી જેટલી જગ્યા રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો 5 રૂપિયાના સિક્કાનું વજન 9 ગ્રામ હોય, તો આવા 10 સિક્કાનું વજન 90 ગ્રામ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ગ્રામ × 10 સિક્કા = 90 ગ્રામ. સાદો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "6 સેમી લંબાઈ, 2 સેમી પહોળાઈ અને 1 સેમી ઊંચાઈ ધરાવતા બોક્સનું ઘનફળ 9 ઘન સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: 6 × 2 × 1 = 12 ઘન સેમી થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ, પહોળાઈ અને ઊંચાઈનો ગુણાકાર ચેક કરો (6 × 2 = 12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વજન માપવા માટે 'ત્રાજવું' વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન માટે ત્રાજવું કે વજનકાંટો જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એક લિટર પાણીનું વજન આશરે 1 કિલોગ્રામ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ પાણી માટે 1 લિટર = 1 કિલો (યાદ રાખવા જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો એક ગ્લાસમાં 200 મિલી પાણી સમાય, તો 5 ગ્લાસમાં 2 લિટર પાણી સમાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: 200 × 5 = 1000 મિલી = 1 લિટર થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 200 ના પંજા 1000 થાય (1 લિટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "2 કિલોગ્રામ બરાબર 2000 ગ્રામ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિલો = 1000 ગ્રામ, તો 2 કિલો = 2000 ગ્રામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક દિવાસળીના ખોખાનું કદ આશરે 10 થી 12 લખોટીઓ જેટલું હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના અંદાજ મુજબ દિવાસળીનું ખોખું 10-12 લખોટીની જગ્યા રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બે અલગ અલગ આકારની વસ્તુઓનું વજન ક્યારેય સરખું ન હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આકાર અલગ હોય પણ વજન સરખું હોઈ શકે, જેમ કે 1 કિલો રૂ અને 1 કિલો લોખંડ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકારને વજન સાથે સીધો સંબંધ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લંબઘન ટાંકીનું કદ શોધવા લંબાઈ, પહોળાઈ અને ઊંચાઈનો સરવાળો કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કદ (ઘનફળ) શોધવા હંમેશા ગુણાકાર થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો એટલે પરિમિતિ, ગુણાકાર એટલે ક્ષેત્રફળ કે ઘનફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો એક ઈંટ 10 લખોટી જેટલું પાણી ખસેડતી હોય, તો 5 ઈંટ 50 લખોટી જેટલું પાણી ખસેડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વસ્તુ વધે એટલું પાણી પણ વધુ ખસે (10 x 5 = 50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "500 ગ્રામના બે વજનિયાં મૂકવાથી 1 કિલોગ્રામ વજન થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 500 + 500 = 1000 ગ્રામ (1 કિલો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કદ માપવા માટે માત્ર માપપટ્ટીનો જ ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કદ માપવા માટે માપક ગ્લાસ, પાણીનું વિસ્થાપન કે સૂત્રોનો પણ ઉપયોગ થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ માટે ફૂટપટ્ટી, પ્રવાહીના કદ માટે માપક ગ્લાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભારે વસ્તુ હંમેશા વધુ જગ્યા રોકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લોખંડનો નાનો ટુકડો ભારે હોય પણ ઓછી જગ્યા રોકે, જ્યારે રૂનો મોટો ઢગલો હલકો હોય પણ વધુ જગ્યા રોકે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન અને કદ હંમેશા સમાન વધે એવું જરૂરી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમઘનની બધી બાજુઓ સમાન લંબાઈની હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સરખું, 'ઘન' એટલે ડબ્બો. બધી બાજુ સરખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો એક ખોખામાં 1 સેમી ના 24 સમઘન સમાય, તો તે ખોખાનું ઘનફળ 24 ઘન સેમી કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા 1 ઘન સેમીના બ્લોક, એટલું જ ઘનફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "7 કિલોગ્રામ અને 250 ગ્રામ એટલે કુલ 7250 ગ્રામ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7000 + 250 = 7250. સરળ સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ખાલી બોટલનું વજન તેમાં પાણી ભરેલી બોટલ કરતા વધારે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પાણી ભરેલી બોટલમાં બોટલ + પાણી બંનેનું વજન હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર કંઈક ભરો તો વજન વધે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "10 સેમી લંબાઈ, 10 સેમી પહોળાઈ અને 10 સેમી ઊંચાઈ ધરાવતા પાત્રમાં 1 લિટર પાણી સમાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 × 10 × 10 = 1000 ઘન સેમી = 1 લિટર (આ પાયાનો નિયમ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો 1 રૂપિયાના 100 સિક્કાનું વજન 485 ગ્રામ હોય, તો 200 સિક્કાનું વજન 970 ગ્રામ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કા બમણા તો વજન પણ બમણું (485 × 2 = 970).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વસ્તુને પાણીમાં નાખતા જો તે તરે, તો તે પાણી બિલકુલ ખસેડતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તરતી વસ્તુ પણ તેના ડૂબેલા ભાગ જેટલું પાણી ખસેડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં જે જાય એ પાણીને ખસેડે જ, ભલે તે તરે કે ડૂબે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "એક હાથીનું વજન આશરે 5000 કિલોગ્રામ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી ખૂબ જ ભારે હોય, તેનું વજન હજારો કિલોમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઘન સેમી ને ટૂંકમાં 'સેમી' લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઘન સેમી ને ટૂંકમાં 'ઘ.સેમી' અથવા cm³ લખાય, માત્ર 'સેમી' એ લંબાઈનો એકમ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ = સેમી, ક્ષેત્રફળ = ચો.સેમી, ઘનફળ = ઘ.સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો ગણિત ગમ્મતનું પુસ્તક 2 સેમી જાડું હોય, તો 10 પુસ્તકોની થપ્પી 20 સેમી ઊંચી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 સેમી × 10 પુસ્તકો = 20 સેમી.</p></div>"
+    }
+  ]
+}
