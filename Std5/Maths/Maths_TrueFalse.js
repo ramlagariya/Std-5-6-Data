@@ -2319,3 +2319,211 @@ var Std5_Maths_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગુણાકાર અને ભાગાકારની રીતો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈપણ સંખ્યાનો શૂન્ય (0) સાથે ગુણાકાર કરવાથી જવાબ તે સંખ્યા પોતે જ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કોઈપણ સંખ્યાનો શૂન્ય સાથે ગુણાકાર કરવાથી જવાબ હંમેશા '0' જ આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એ ગુણાકાર માટે 'હિરો' છે, જે તેની સાથે ટકરાય તેને શૂન્ય બનાવી દે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "15 × 100 = 1500 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10, 100 કે 1000 સાથે ગુણાકાર કરતી વખતે સંખ્યાની પાછળ તેટલા શૂન્ય લગાવી દેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભાગાકારમાં વધેલી સંખ્યાને 'શેષ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શેષ' એટલે 'વધેલું' – જે ભાગાકારના અંતે નીચે વધે તે શેષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો એક દિવસનો પગાર ₹200 હોય, તો એપ્રિલ મહિનાનો પગાર ₹6000 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (એપ્રિલમાં 30 દિવસ હોય, 30 × 200 = 6000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસોની સંખ્યા × એક દિવસનો પગાર = કુલ પગાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "720 ÷ 10 = 72 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 વડે ભાગતી વખતે એકમનો શૂન્ય ઉડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લીપ વર્ષમાં ફેબ્રુઆરી મહિનામાં 28 દિવસ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લીપ વર્ષમાં ફેબ્રુઆરી મહિનામાં 29 દિવસ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીપ વર્ષ એટલે 'એક દિવસ વધારે' (366 દિવસ), જે ફેબ્રુઆરીમાં 29 તરીકે ઉમેરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "80 × 50 = 400 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (8 × 5 = 40 અને બે શૂન્ય લાગે એટલે 4000 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા અંકોનો ગુણાકાર કરો (8 × 5 = 40) પછી બંને બાજુના કુલ શૂન્ય (00) પાછળ લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પુનરાવર્તી સરવાળો એટલે જ ગુણાકાર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 + 5 + 5 (ત્રણ વાર) = 5 × 3 = 15. સરવાળાનું ટૂંકું રૂપ એટલે ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોઈપણ સંખ્યાને 1 વડે ભાગતા જવાબ 1 જ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કોઈપણ સંખ્યાને 1 વડે ભાગતા જવાબ તે સંખ્યા પોતે જ આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 એ અરીસા જેવો છે, ભાગાકારમાં તે સંખ્યાને એમની એમ જ રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો એક ગાય એક દિવસમાં 15 લીટર દૂધ આપે, તો તે જૂન મહિનામાં 450 લીટર દૂધ આપશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (જૂનમાં 30 દિવસ હોય, 30 × 15 = 450)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 × 3 = 45 અને પાછળ શૂન્ય લગાવો એટલે 450.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભાજ્ય = (ભાજક × ભાગફળ) + શેષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારના જવાબની ચકાસણી કરવાનું આ 'માસ્ટર સૂત્ર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "125 × 4 = 600 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (125 × 4 = 500 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 × 4 = 400 અને 25 × 4 = 100. કુલ 400 + 100 = 500.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શેષ હંમેશા ભાજક કરતાં નાની જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો શેષ મોટી હોય, તો ભાગાકાર હજુ આગળ ચાલી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક ડઝન કેળાની કિંમત ₹60 હોય, તો 5 ડઝન કેળાની કિંમત ₹300 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (60 × 5 = 300)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 × 5 = 30 અને પાછળ એક શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "0 ને કોઈપણ સંખ્યા વડે ભાગતા જવાબ 0 જ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તમારી પાસે 0 ચોકલેટ હોય, તો ગમે તેટલા બાળકોને વહેંચો, બધાને 0 જ મળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "999 × 1 = 1000.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (999 × 1 = 999 જ થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સાથે ગુણાકાર એટલે 'સેમ ટુ સેમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો 1 કિલો ખાંડના ₹42 હોય, તો 10 કિલો ખાંડના ₹420 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 વડે ગુણાકાર એટલે સંખ્યાની પાછળ મીંડું મૂકી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભાગાકાર એ પુનરાવર્તી બાદબાકી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી સંખ્યામાંથી નાની સંખ્યા વારંવાર બાદ કરવી એટલે જ ભાગાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વર્ષ 2024 એ લીપ વર્ષ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ કે 2024 ને 4 વડે નિઃશેષ ભાગી શકાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ષના છેલ્લા બે અંકોને 4 વડે ભાગો, જો જવાબ નિઃશેષ હોય તો તે લીપ વર્ષ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "64 ÷ 8 = 7 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (8 × 8 = 64, તેથી જવાબ 8 આવે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયા મોઢે હોય તો ભાગાકાર ચપટી વગાડતા આવડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો એક બસમાં 50 મુસાફરો બેસી શકે, તો 12 બસમાં 600 મુસાફરો બેસી શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (12 × 50 = 600)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 × 5 = 60 અને છેલ્લે 50 નો એક શૂન્ય ઉમેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ભાગાકારમાં જેના વડે ભાગીએ છીએ તેને 'ભાજ્ય' કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જેના વડે ભાગીએ તેને 'ભાજક' કહેવાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાજક એટલે ભાગ કરનાર (Divisor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "1000 ÷ 100 = 10.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર-નીચેના સમાન શૂન્ય ઉડાડી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સામાન્ય વર્ષમાં કુલ 365 દિવસ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, લીપ વર્ષમાં એક દિવસ વધુ (366) અને સામાન્યમાં 365.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "55 × 11 = 605.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 સાથે ગુણાકાર એટલે સંખ્યાના બંને અંકોનો સરવાળો કરી વચ્ચે મૂકી દેવો (5+5=10 નો 0 અને વદી 1 આગળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો 1 મીટર કાપડના ₹100 હોય, તો 25 મીટર કાપડના ₹250 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (25 × 100 = ₹2500 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના બે શૂન્ય લગાડવાના ભૂલાય નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "88 ÷ 8 = 11.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સમાન અંકોને તે જ અંક વડે ભાગતા હંમેશા 11 જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગુણાકારમાં ક્રમ બદલવાથી જવાબ બદલાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગુણાકારમાં ક્રમ બદલવાથી જવાબ બદલાતો નથી. દા.ત. 2 × 3 = 6 અને 3 × 2 = 6)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર એ 'ભાઈબંધી' છે, ગમે તેમ બેસો જવાબ સરખો જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક મહિનામાં મહત્તમ 31 દિવસ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુઠ્ઠી વાળીને ટેકરા અને ખાડા ગણો, ટેકરા એટલે 31 દિવસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "400 ÷ 20 = 200 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (400 ÷ 20 = 20 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-એક શૂન્ય ઉડાડો, પછી 40 ના અડધા (2 વડે ભાગાકાર) 20 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક વર્ષમાં 52 અઠવાડિયા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 365 ને 7 વડે ભાગતા અંદાજે 52 જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "14 × 7 = 91.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (14 × 7 = 98 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયા પાકા કરો! 13 × 7 = 91 અને 14 × 7 = 98.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો ભાજક 5 હોય, તો શેષ 6 હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (શેષ હંમેશા ભાજક કરતા નાની જ હોય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાજક 'બોસ' છે, શેષ તેનાથી ક્યારેય મોટી ના હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક ડઝનમાં 12 નંગ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળા ખરીદતી વખતે આ ગુણાકાર હંમેશા કામ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "250 × 2 = 500.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 વડે ગુણાકાર એટલે તે સંખ્યાના બમણા કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ભાગાકારમાં જો શેષ 0 વધે, તો તેને નિઃશેષ ભાગાકાર કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિઃશેષ = 'નિઃ' (નથી) + 'શેષ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો એક પેનની કિંમત ₹5 હોય, તો ₹100 માં 25 પેન આવે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (100 ÷ 5 = 20 પેન આવે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ કિંમત ÷ એક વસ્તુની કિંમત = વસ્તુની સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "90 × 10 = 900.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યવાળી સંખ્યાનો ગુણાકાર એટલે મોજ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "366 દિવસ એટલે લીપ વર્ષ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દર 4 વર્ષે એક દિવસ વધારાનો આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ભાજ્ય એ હંમેશા ભાજક અને ભાગફળના ગુણાકાર જેટલું જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જો શેષ વધતી હોય, તો ભાજ્ય = (ભાજક × ભાગફળ) + શેષ થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેષને ભૂલશો નહિ, તે પણ ભાજ્યનો જ ભાગ છે!</p></div>"
+    }
+  ]
+}
