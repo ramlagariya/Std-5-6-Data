@@ -164,3 +164,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "કેટલા ચોરસ?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. આકૃતિની સપાટીએ રોકેલી જગ્યા <br>2. આકૃતિની બધી બાજુઓનો સરવાળો <br><br>વિભાગ 'બ':<br>A. પરિમિતિ <br>B. ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરની જગ્યા એટલે ક્ષેત્રફળ અને બહારની કિનારી એટલે પરિમિતિ (હદ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. 3 સેમી બાજુવાળો ચોરસ <br>2. 4 સેમી લંબાઈ અને 2 સેમી પહોળાઈનો લંબચોરસ <br><br>વિભાગ 'બ':<br>A. 8 ચોરસ સેમી ક્ષેત્રફળ <br>B. 9 ચોરસ સેમી ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ માટે ફક્ત લંબાઈ અને પહોળાઈનો ગુણાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. લંબચોરસની પરિમિતિ <br>2. ચોરસની પરિમિતિ <br><br>વિભાગ 'બ':<br>A. 4 × બાજુની લંબાઈ <br>B. 2 × (લંબાઈ + પહોળાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં 4 બાજુ સરખી એટલે 4 ગુણ્યા બાજુ, લંબચોરસમાં બે લંબાઈ અને બે પહોળાઈ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. 5 સેમી બાજુવાળો ચોરસ <br>2. 2 સેમી બાજુવાળો ચોરસ <br><br>વિભાગ 'બ':<br>A. 20 સેમી પરિમિતિ <br>B. 8 સેમી પરિમિતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે 4 વખત સરવાળો (5+5+5+5=20).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (ટિકિટનું માપ) ને વિભાગ 'બ' (ક્ષેત્રફળ) સાથે જોડો:<br>1. ટિકિટ A (6 ચોરસ લંબાઈ, 3 ચોરસ પહોળાઈ) <br>2. ટિકિટ B (4 ચોરસ લંબાઈ, 2 ચોરસ પહોળાઈ) <br><br>વિભાગ 'બ':<br>A. 8 ચોરસ સેમી <br>B. 18 ચોરસ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટિકિટ કેટલા ખાના રોકે છે તે ગણી લો! 6 × 3 = 18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. અડધા ખાના કરતા વધુ રોકેલી જગ્યા <br>2. બરાબર અડધા ખાના રોકેલી જગ્યા <br><br>વિભાગ 'બ':<br>A. 1/2 ચોરસ સેમી ગણવી <br>B. 1 આખું ચોરસ સેમી ગણવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધાથી વધુ હોય તો આખું માની લેવું, ગણિતમાં આ ઉદારતા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ચોરસ સેમી <br>2. સેમી <br><br>વિભાગ 'બ':<br>A. પરિમિતિનો એકમ <br>B. ક્ષેત્રફળનો એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં 'ચોરસ' શબ્દ હંમેશા આગળ લાગે (Square unit).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (ક્ષેત્રફળ) ને વિભાગ 'બ' (બાજુ) સાથે જોડો:<br>1. 16 ચોરસ સેમી ક્ષેત્રફળ ધરાવતો ચોરસ <br>2. 25 ચોરસ સેમી ક્ષેત્રફળ ધરાવતો ચોરસ <br><br>વિભાગ 'બ':<br>A. 5 સેમી બાજુ <br>B. 4 સેમી બાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઈ સંખ્યાને તે જ સંખ્યા સાથે ગુણવાથી જવાબ આવે તે વિચારો! 4×4=16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' (પરિમાણ) ને વિભાગ 'બ' (ક્ષેત્રફળ) સાથે જોડો:<br>1. લંબાઈ 10 સેમી, પહોળાઈ 2 સેમી <br>2. લંબાઈ 5 સેમી, પહોળાઈ 4 સેમી <br><br>વિભાગ 'બ':<br>A. 20 ચોરસ સેમી <br>B. 20 ચોરસ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B (બંનેના જવાબ સમાન છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર અલગ હોઈ શકે પણ ક્ષેત્રફળ સમાન હોઈ શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. 1 ચોરસ સેમીના 5 ખાનાથી બનતો આકાર <br>2. 1 ચોરસ સેમીના 12 ખાનાથી બનતો આકાર <br><br>વિભાગ 'બ':<br>A. 12 ચોરસ સેમી ક્ષેત્રફળ <br>B. 5 ચોરસ સેમી ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ખાના એટલું ક્ષેત્રફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ચોરસની બાજુ બમણી કરતા <br>2. લંબચોરસને અડધો કાપતા <br><br>વિભાગ 'બ':<br>A. ક્ષેત્રફળ અડધું થાય <br>B. ક્ષેત્રફળ ચાર ગણું થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બાજુ 2 થાય, તો ક્ષેત્રફળ 2×2=4 ગણું થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. 6 સેમી અને 1 સેમી બાજુનો લંબચોરસ <br>2. 3 સેમી અને 2 સેમી બાજુનો લંબચોરસ <br><br>વિભાગ 'બ':<br>A. પરિમિતિ 10 સેમી <br>B. પરિમિતિ 14 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (6+1)×2 = 14 અને (3+2)×2 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (પાઠ્યપુસ્તકની ટિકિટ) ને વિભાગ 'બ' સાથે જોડો:<br>1. સૌથી મોટી ટિકિટનું ક્ષેત્રફળ <br>2. સૌથી નાની ટિકિટનું ક્ષેત્રફળ <br><br>વિભાગ 'બ':<br>A. 4 ચોરસ સેમી <br>B. 18 ચોરસ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટિકિટ A સૌથી મોટી છે અને ટિકિટ E સૌથી નાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (આકૃતિ) ને વિભાગ 'બ' (પરિમિતિ) સાથે જોડો:<br>1. 4 સેમી બાજુવાળો ચોરસ <br>2. 6 સેમી બાજુવાળો ચોરસ <br><br>વિભાગ 'બ':<br>A. 24 સેમી <br>B. 16 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની પરિમિતિ = બાજુ × 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. લંબચોરસનું ક્ષેત્રફળ <br>2. ચોરસનું ક્ષેત્રફળ <br><br>વિભાગ 'બ':<br>A. લંબાઈ × લંબાઈ <br>B. લંબાઈ × પહોળાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસમાં બે અલગ માપ હોય, ચોરસમાં બધું સરખું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' (પરિમાણ) ને વિભાગ 'બ' (પરિમિતિ) સાથે જોડો:<br>1. લંબાઈ 8 સેમી, પહોળાઈ 2 સેમી <br>2. લંબાઈ 7 સેમી, પહોળાઈ 3 સેમી <br><br>વિભાગ 'બ':<br>A. 20 સેમી <br>B. 20 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો કરી ડબલ કરો! 8+2=10, 10 ના ડબલ 20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ત્રિકોણનું ક્ષેત્રફળ (જો તે લંબચોરસનો અડધો ભાગ હોય) <br>2. લંબચોરસનું ક્ષેત્રફળ <br><br>વિભાગ 'બ':<br>A. લંબાઈ × પહોળાઈ <br>B. 1/2 × લંબાઈ × પહોળાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસના બે સરખા ભાગ કરો એટલે ત્રિકોણ બને, એટલે ક્ષેત્રફળ પણ અડધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' (ગ્રીડના ખાના) ને વિભાગ 'બ' (ક્ષેત્રફળ) સાથે જોડો:<br>1. 4 આખા ખાના અને 2 અડધા ખાના <br>2. 2 આખા ખાના અને 4 અડધા ખાના <br><br>વિભાગ 'બ':<br>A. 4 ચોરસ સેમી <br>B. 5 ચોરસ સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 અડધા ખાના ભેગા થાય એટલે 1 આખું ખાનું બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' (આકાર) ને વિભાગ 'બ' (પરિમિતિ) સાથે જોડો:<br>1. 1 સેમી બાજુવાળો ચોરસ <br>2. 10 સેમી બાજુવાળો ચોરસ <br><br>વિભાગ 'બ':<br>A. 4 સેમી <br>B. 40 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુને 4 સાથે ગુણો એટલે ચોરસની હદ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પંજાનું ક્ષેત્રફળ શોધવા <br>2. ટિકિટનું ક્ષેત્રફળ શોધવા <br><br>વિભાગ 'બ':<br>A. ખાના ગણવા (ગ્રીડ પેપર) <br>B. લંબાઈ × પહોળાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનિયમિત આકાર માટે ખાના ગણવા પડે, નિયમિત માટે સૂત્ર વાપરવું!</p></div>"
+    }
+  ]
+}
