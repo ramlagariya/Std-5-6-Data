@@ -272,3 +272,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભાગ અને પૂર્ણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 1/2, (2) 1/4 \nવિભાગ B: (A) પા ભાગ, (B) અડધો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1/2' એટલે અડધું (Half) અને '1/4' એટલે ચોથો ભાગ એટલે કે 'પા' (Quarter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 3/4, (2) 1 \nવિભાગ B: (A) આખું (પૂર્ણ), (B) પોણો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '3/4' એટલે ત્રણ પા ભેગા મળીને 'પોણું' બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 50 પૈસા, (2) 25 પૈસા \nવિભાગ B: (A) 1/4 રૂપિયો, (B) 1/2 રૂપિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 રૂપિયો = 100 પૈસા. તેથી 50 પૈસા એ 100 ના અડધા (1/2) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 30 મિનિટ, (2) 15 મિનિટ \nવિભાગ B: (A) 1/4 કલાક, (B) 1/2 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 60 મિનિટનો કલાક હોય, માટે 30 મિનિટ એટલે અડધો (1/2) કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રાષ્ટ્રધ્વજનો કેસરી રંગ, (2) રાષ્ટ્રધ્વજનો લીલો રંગ \nવિભાગ B: (A) 1/3 ભાગ, (B) 1/3 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતના ધ્વજમાં 3 સમાન પટ્ટા છે, તેથી દરેક રંગ 1/3 ભાગ રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 500 ગ્રામ, (2) 250 ગ્રામ \nવિભાગ B: (A) 1/4 કિગ્રા, (B) 1/2 કિગ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિગ્રા = 1000 ગ્રામ. 1000 ના અડધા 500 (1/2) અને ચોથો ભાગ 250 (1/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 12 ના 1/2 ભાગ, (2) 12 ના 1/3 ભાગ \nવિભાગ B: (A) 4, (B) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર. 12 ÷ 2 = 6 અને 12 ÷ 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 2/4 ભાગ, (2) 4/8 ભાગ \nવિભાગ B: (A) 1/2 ભાગ, (B) 1/2 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સમપૂર્ણાંક છે. અંશ અને છેદ ઉડાડતા બંનેનો જવાબ 1/2 જ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 20 રૂપિયાનો 1/4 ભાગ, (2) 20 રૂપિયાનો 1/2 ભાગ \nવિભાગ B: (A) 10 રૂપિયા, (B) 5 રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 ને છેદ વડે ભાગો. 20 ÷ 4 = 5 અને 20 ÷ 2 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 1 મીટરનો 1/2 ભાગ, (2) 1 મીટરનો 1/4 ભાગ \nવિભાગ B: (A) 25 સેમી, (B) 50 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 100 સેમી. 100 ના અડધા 50 અને પા ભાગ 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 1/5 + 1/5, (2) 2/5 + 1/5 \nવિભાગ B: (A) 3/5, (B) 2/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદ સમાન હોય ત્યારે માત્ર અંશનો જ સરવાળો કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 16 ખાનામાંથી 4 રંગીન, (2) 16 ખાનામાંથી 8 રંગીન \nવિભાગ B: (A) 1/2 ભાગ, (B) 1/4 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4/16 = 1/4 અને 8/16 = 1/2. છેદ ઉડાડતા શીખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પોણો કલાક, (2) સવા કલાક \nવિભાગ B: (A) 1 પૂર્ણાંક 1/4 કલાક, (B) 3/4 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોણો એટલે 3/4 અને સવા એટલે 1 આખું અને બીજું 1/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 100 ના 1/10 ભાગ, (2) 100 ના 3/4 ભાગ \nવિભાગ B: (A) 75, (B) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ÷ 10 = 10. અને 100 ના 3/4 એટલે 25 × 3 = 75.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અડધાનું અડધું, (2) પા નું બમણું \nવિભાગ B: (A) 1/2, (B) 1/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 ના અડધા 1/4 થાય, અને બે 'પા' (1/4+1/4) ભેગા મળીને અડધું (1/2) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 60 ના 1/3, (2) 60 ના 1/4 \nવિભાગ B: (A) 15, (B) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયા બોલો! 20 તરી 60 અને 15 ચોક 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લાલ રંગના 3 ભાગ (કુલ 5 માંથી), (2) વાદળી રંગના 2 ભાગ (કુલ 5 માંથી) \nવિભાગ B: (A) 2/5, (B) 3/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ભાગ હંમેશા નીચે (છેદમાં) આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 75 પૈસા, (2) 100 પૈસા \nવિભાગ B: (A) 1 રૂપિયો, (B) 3/4 રૂપિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 પૈસાના 3 સિક્કા એટલે 75 પૈસા (3/4 ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 1 દિવસનો 1/3 ભાગ, (2) 1 દિવસનો 1/2 ભાગ \nવિભાગ B: (A) 12 કલાક, (B) 8 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 દિવસ = 24 કલાક. 24 ÷ 3 = 8 અને 24 ÷ 2 = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સફરજનના 4 સરખા ભાગમાંથી 1, (2) સફરજનના 2 સરખા ભાગમાંથી 1 \nવિભાગ B: (A) 1/2, (B) 1/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા કુલ ભાગ હોય તે છેદમાં મૂકો!</p></div>"
+    }
+  ]
+}
