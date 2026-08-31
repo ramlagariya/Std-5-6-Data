@@ -654,3 +654,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "નકશા આલેખન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: નકશા પરનું અંતર (જ્યારે પ્રમાણમાપ 1 સેમી = 1 કિમી હોય) <br> (1) 5 સેમી <br> (2) 10 સેમી <br><br> વિભાગ B: જમીન પરનું અંતર <br> (A) 10 કિમી <br> (B) 5 કિમી <br> (C) 1 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ 1 ના ગુણાંકમાં હોય, ત્યારે નકશાના અંકને સીધા પ્રમાણમાપ સાથે ગુણી નાખવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: સ્થળ <br> (1) લાલ કિલ્લો <br> (2) ઈન્ડિયા ગેટ <br><br> વિભાગ B: શહેર <br> (A) મુંબઈ <br> (B) દિલ્હી <br> (C) ગાંધિનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, પ્રકરણ 8 માં દિલ્હીના નકશાની મુખ્ય વાત છે, એટલે આ બંને ઐતિહાસિક સ્થળો દિલ્હીમાં જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: રસ્તો <br> (1) રાજપથ અને જનપથ વચ્ચેનો ખૂણો <br> (2) માનસિંહ રોડ અને અશોક રોડ વચ્ચેનો ખૂણો <br><br> વિભાગ B: ખૂણાનો પ્રકાર <br> (A) લઘુકોણ <br> (B) કાટકોણ <br> (C) ગુરુકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' આકાર બને ત્યાં કાટકોણ અને 'V' કરતા મોટો પહોળો આકાર બને ત્યાં ગુરુકોણ સમજવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: પ્રમાણમાપ (નકશા પર) <br> (1) 1 સેમી = 100 મીટર <br> (2) 2 સેમી = 1 કિમી <br><br> વિભાગ B: 4 સેમી બરાબર જમીન પર અંતર <br> (A) 2 કિમી <br> (B) 400 મીટર <br> (C) 800 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ માંડો: જો 2 સેમી = 1 કિમી, તો 4 સેમી (2 ના ડબલ) = 2 કિમી (1 ના ડબલ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: દિશા <br> (1) નકશામાં ઉપરની તરફ <br> (2) નકશામાં નીચેની તરફ <br><br> વિભાગ B: નામ <br> (A) પૂર્વ <br> (B) ઉત્તર <br> (C) દક્ષિણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' પરથી 'ઉપર' અને 'ઉ' પરથી 'ઉત્તર'. આ યાદ રાખશો એટલે દક્ષિણ આપોઆપ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: લાલ કિલ્લાના સ્થળો <br> (1) મીના બજાર <br> (2) નક્કર ખાના <br><br> વિભાગ B: વિશેષતા <br> (A) જ્યાં નગારા વગાડવામાં આવતા <br> (B) રાણીઓનો મહેલ <br> (C) ખરીદી માટેની હારમાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (C), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર એટલે 'ખરીદી' અને નક્કર એટલે નગારાનો 'ન' - આમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: નકશો મોટો કરવો <br> (1) 1 સેમી ની જાળી માંથી 2 સેમી ની જાળી <br> (2) 1 સેમી ની જાળી માંથી 1/2 સેમી ની જાળી <br><br> વિભાગ B: ક્ષેત્રફળમાં ફેરફાર <br> (A) નકશો નાનો થશે <br> (B) નકશો મોટો થશે <br> (C) નકશો તેટલો જ રહેશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળીનું માપ વધે તો ચિત્ર મોટું થાય, જાળીનું માપ ઘટે તો ચિત્ર નાનું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: રાજ્યના પાડોશી રાજ્યો <br> (1) ગુજરાતની પૂર્વમાં <br> (2) ગુજરાતની ઉત્તરમાં <br><br> વિભાગ B: રાજ્યનું નામ <br> (A) મધ્ય પ્રદેશ <br> (B) રાજસ્થાન <br> (C) મહારાષ્ટ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (A), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજસ્થાન રણ પ્રદેશ છે જે ઉપર (ઉત્તર) છે અને ભારતની મધ્યમાં મધ્યપ્રદેશ છે જે આપણી જમણી (પૂર્વ) બાજુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: અંતર શોધવું (પ્રમાણમાપ: 1 સેમી = 200 કિમી) <br> (1) 2 સેમી <br> (2) 3 સેમી <br><br> વિભાગ B: જમીન પર અંતર <br> (A) 400 કિમી <br> (B) 600 કિમી <br> (C) 200 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (A), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપેલી સંખ્યાને 2 વડે ગુણી પાછળ બે શૂન્ય લગાવો! (2x2=4 એટલે 400, 3x2=6 એટલે 600)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: આકાર અને રસ્તા <br> (1) સેન્ટ્રલ હેક્ઝાગોન <br> (2) રાજપથ <br><br> વિભાગ B: વર્ણન <br> (A) સીધો લાંબો રસ્તો <br> (B) છ બાજુઓ વાળો આકાર <br> (C) ગોળાકાર રસ્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેક્ઝાગોન એટલે ષટ્કોણ, જેને 6 બાજુઓ હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: દિશા ઓળખ <br> (1) નકશામાં જમણી બાજુ <br> (2) નકશામાં ડાબી બાજુ <br><br> વિભાગ B: નામ <br> (A) પશ્ચિમ <br> (B) પૂર્વ <br> (C) દક્ષિણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે નકશા સામે જોઈએ ત્યારે જમણો હાથ પૂર્વ તરફ અને ડાબો હાથ પશ્ચિમ (ગુજરાત બાજુ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: લાલ કિલ્લાના ખાસ મહેલ <br> (1) દીવાને આમ <br> (2) દીવાને ખાસ <br><br> વિભાગ B: હેતુ <br> (A) રાજા અને તેના ખાસ મહેમાનો માટે <br> (B) સામાન્ય જનતાને મળવા માટે <br> (C) માત્ર સૈનિકો માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આમ' એટલે આમ જનતા (સામાન્ય લોકો) અને 'ખાસ' એટલે VIP મહેમાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: જાળીનું માપ <br> (1) અડધા સેમી ની જાળી <br> (2) બે સેમી ની જાળી <br><br> વિભાગ B: ચિત્રનું કદ <br> (A) મોટું ચિત્ર <br> (B) નાનું ચિત્ર <br> (C) મૂળ કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું = નાનું, બમણું = મોટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: ભારતનો નકશો <br> (1) હિમાચલ પ્રદેશ <br> (2) કેરળ <br><br> વિભાગ B: સ્થાન <br> (A) દક્ષિણ દિશામાં <br> (B) પશ્ચિમ દિશામાં <br> (C) ઉત્તર દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (C), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાલય ઉપર (ઉત્તર) છે એટલે હિમાચલ ઉપર, અને કેરળ દરિયાકાંઠે નીચે (દક્ષિણ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: દરિયાકિનારો ધરાવતા રાજ્યો <br> (1) ગુજરાત <br> (2) મહારાષ્ટ્ર <br><br> વિભાગ B: બાજુ <br> (A) પૂર્વ બાજુનો દરિયો <br> (B) પશ્ચિમ બાજુનો દરિયો <br> (C) ઉત્તર બાજુનો દરિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની ડાબી બાજુ (અરબ સાગર) એ જ પશ્ચિમ કિનારો, જ્યાં આ બંને રાજ્યો આવેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: પ્રમાણમાપ 1 સેમી = 2 કિમી <br> (1) 4 કિમી જમીન પર <br> (2) 8 કિમી જમીન પર <br><br> વિભાગ B: નકશા પર અંતર <br> (A) 2 સેમી <br> (B) 4 સેમી <br> (C) 6 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (A), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન પરના અંતરને પ્રમાણમાપની સંખ્યા (2) વડે ભાગી નાખો એટલે નકશાનું માપ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: દિલ્હીથી મુસાફરી <br> (1) દિલ્હીથી જયપુર (રાજસ્થાન) <br> (2) દિલ્હીથી દેહરાદૂન (ઉત્તરાખંડ) <br><br> વિભાગ B: મુસાફરીની દિશા <br> (A) ઉત્તર તરફ <br> (B) પશ્ચિમ-દક્ષિણ તરફ <br> (C) પૂર્વ તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં દિલ્હીની સાપેક્ષમાં રાજસ્થાન ડાબી-નીચે (પશ્ચિમ-દક્ષિણ) છે અને ઉત્તરાખંડ ઉપર (ઉત્તર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: લાલ કિલ્લો અને નદી <br> (1) લાલ કિલ્લાની નજીકની નદી <br> (2) લાલ કિલ્લાનો પ્રવેશદ્વાર <br><br> વિભાગ B: નામ <br> (A) લાહોરી ગેટ <br> (B) યમુના <br> (C) ગંગા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હી યમુના નદીના કિનારે છે અને તેનો મુખ્ય દરવાજો 'લાહોર' તરફ હોવાથી તેને 'લાહોરી ગેટ' કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: નકશામાં કલર <br> (1) દરિયા માટે કયો રંગ <br> (2) જમીન/મેદાન માટે કયો રંગ <br><br> વિભાગ B: રંગ <br> (A) લીલો <br> (B) વાદળી <br> (C) કાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (B), (2) -> (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હંમેશા વાદળી રંગથી અને હરિયાળી જમીન લીલા રંગથી દર્શાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: પ્રમાણમાપ અને ગણતરી <br> (1) 1 સેમી = 5 કિમી, તો 3 સેમી = ? <br> (2) 1 સેમી = 10 કિમી, તો 0.5 સેમી = ? <br><br> વિભાગ B: અંતર <br> (A) 15 કિમી <br> (B) 5 કિમી <br> (C) 10 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -> (A), (2) -> (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5 એટલે અડધું, તો 10 ના અડધા 5 થાય!</p></div>"
+    }
+  ]
+}
