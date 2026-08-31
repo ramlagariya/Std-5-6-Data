@@ -762,3 +762,136 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખાં અને રેખા-ચિત્ર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘન (Cube)<br>વિભાગ 'બ': (A) 6 લંબચોરસ સપાટી, (B) 6 ચોરસ સપાટી, (C) 4 ત્રિકોણ સપાટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) 6 ચોરસ સપાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સમાન અને 'ઘન' એટલે 3D આકાર. જેની બધી જ સપાટી સમાન (ચોરસ) હોય તે સમઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) લંબઘન (Cuboid)<br>વિભાગ 'બ': (A) બધી બાજુ ગોળ, (B) 6 ચોરસ સપાટી, (C) 6 લંબચોરસ સપાટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) 6 લંબચોરસ સપાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબઘન ના નામમાં જ 'લંબ' (લંબચોરસ) છુપાયેલું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પાસો (Dice)<br>વિભાગ 'બ': (A) સામસામેની સપાટીનો સરવાળો 7, (B) સામસામેની સપાટીનો સરવાળો 10, (C) બધી સપાટી અલગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સામસામેની સપાટીનો સરવાળો 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાનો નિયમ 'લકી સેવન' (7) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) નળાકારની જાળી (Cylinder Net)<br>વિભાગ 'બ': (A) 1 લંબચોરસ અને 2 વર્તુળ, (B) 2 ત્રિકોણ, (C) માત્ર 1 વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) 1 લંબચોરસ અને 2 વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવડરના ડબ્બાને ખોલો તો વચ્ચે લંબચોરસ અને ઉપર-નીચે બે ઢાંકણ (ગોળ) મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) શંકુ (Cone)<br>વિભાગ 'બ': (A) આઈસ્ક્રીમ કોન જેવો આકાર, (B) ઈંટ જેવો આકાર, (C) દડા જેવો આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) આઈસ્ક્રીમ કોન જેવો આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકુ = કોન (Cone)! બર્થડે કેપ અથવા આઈસ્ક્રીમ કોન યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) દ્વિ-પરિમાણીય (2D) આકૃતિ<br>વિભાગ 'બ': (A) નકશો (Floor Map), (B) વાસ્તવિક ચિત્ર (Deep Drawing), (C) મોડેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) નકશો (Floor Map)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો કાગળ પર સપાટ હોય, એટલે તે 2D (લંબાઈ અને પહોળાઈ જ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ત્રિ-પરિમાણીય (3D) આકૃતિ<br>વિભાગ 'બ': (A) રેખા, (B) વાસ્તવિક ચિત્ર (Deep Drawing), (C) ચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) વાસ્તવિક ચિત્ર (Deep Drawing)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાસ્તવિક' એટલે જે ખરેખર કેવું દેખાય છે તે બતાવે (લંબાઈ, પહોળાઈ અને ઊંચાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ખુલ્લું ખોખું (5 સપાટી)<br>વિભાગ 'બ': (A) મીઠાઈનું બંધ ખોખું, (B) કચરાપેટી (ઢાંકણ વગરની), (C) પુસ્તક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) કચરાપેટી (ઢાંકણ વગરની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઉપરથી ખુલ્લું હોય, તો 6 માંથી 1 સપાટી ઓછી થઈ જાય (6-1 = 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘન બનાવવા માટેની જાળી<br>વિભાગ 'બ': (A) 5 ચોરસ, (B) 6 ચોરસ, (C) 4 ચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) 6 ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે પાસો, અને પાસા પર 1 થી 6 અંક હોય, એટલે 6 સપાટી જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ત્રિકોણીય પિરામિડની જાળી<br>વિભાગ 'બ': (A) 4 ત્રિકોણ, (B) 4 ચોરસ, (C) 2 વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) 4 ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિકોણીય' પિરામિડમાં પાયો અને બાજુઓ બધું જ ત્રિકોણ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ઘરનો નકશો (Map)<br>વિભાગ 'બ': (A) બારી-બારણાંનું સ્થાન દર્શાવે, (B) રૂમની ઊંચાઈ દર્શાવે, (C) ઘરનો રંગ દર્શાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) બારી-બારણાંનું સ્થાન દર્શાવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો હંમેશા કઈ વસ્તુ ક્યાં આવશે (Location) તે નક્કી કરવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પાસામાં 2 ની વિરુદ્ધ સપાટી<br>વિભાગ 'બ': (A) 3, (B) 5, (C) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો 7 થવો જોઈએ: 2 + 5 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પાસામાં 1 ની વિરુદ્ધ સપાટી<br>વિભાગ 'બ': (A) 6, (B) 5, (C) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 + 6 = 7. પાસામાં સૌથી મોટા અને સૌથી નાના અંક વિરુદ્ધ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પાસામાં 4 ની વિરુદ્ધ સપાટી<br>વિભાગ 'બ': (A) 1, (B) 2, (C) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 + 3 = 7. બસ સાત (7) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘન બનાવતી વખતે વધારાનો ભાગ<br>વિભાગ 'બ': (A) ધાર (Edge), (B) ફ્લેપ (જોડવા માટેની પટ્ટી), (C) ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ફ્લેપ (જોડવા માટેની પટ્ટી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુંદર લગાવવા માટે જે વધારાની પટ્ટી રાખીએ તેને 'Flap' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પુલનું વાસ્તવિક ચિત્ર<br>વિભાગ 'બ': (A) ઉપરથી કેવું દેખાય તે, (B) સાઈડમાંથી અને સામેથી કેવું દેખાય તે, (C) નીચેથી કેવું દેખાય તે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સાઈડમાંથી અને સામેથી કેવું દેખાય તે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક ચિત્ર હંમેશા વસ્તુની ઊંડાઈ અને દેખાવ (Perspective) સમજાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) નકશામાં 'D' સંકેત<br>વિભાગ 'બ': (A) બારી (Window), (B) બારણું (Door), (C) દીવાલ (Wall)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) બારણું (Door)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: D એટલે Door (બારણું) અને W એટલે Window (બારી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ચોરસના આકારને ગડી વાળીને શું બને?<br>વિભાગ 'બ': (A) સમઘન, (B) નળાકાર, (C) ગોલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની સપાટીઓ ભેગી કરો એટલે લુડો (Ludo) રમવાનો પાસો જ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) લંબચોરસ કાગળને ગોળ વાળતા શું બને?<br>વિભાગ 'બ': (A) શંકુ, (B) નળાકાર, (C) પિરામિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારા પાઠ્યપુસ્તકના પાનાને વાળી જુઓ, તે પાઇપ જેવો નળાકાર બનશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘનની કિનારીઓ (Edges)<br>વિભાગ 'બ': (A) 6, (B) 8, (C) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર 4 ધાર, નીચે 4 ધાર અને ઉભી 4 ધાર = કુલ 12!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘનના ખૂણાઓ (Corners)<br>વિભાગ 'બ': (A) 8, (B) 6, (C) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરના 4 ખૂણા અને નીચેના 4 ખૂણા યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) દિવાસળીના ખોખાનો આકાર<br>વિભાગ 'બ': (A) લંબઘન, (B) સમઘન, (C) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવાસળીનું ખોખું લાંબુ હોય છે, એટલે લંબઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ઈંટ (Brick) નો આકાર<br>વિભાગ 'બ': (A) લંબઘન, (B) ગોલક, (C) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈંટની લંબાઈ, પહોળાઈ અને ઊંચાઈ અલગ અલગ હોય (લંબઘન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પેન્સિલ (છોલ્યા વગરની) નો આકાર<br>વિભાગ 'બ': (A) નળાકાર, (B) શંકુ, (C) સમઘન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઇપ જેવો ગોળ આકાર એટલે નળાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) જોકરની ટોપીનો આકાર<br>વિભાગ 'બ': (A) શંકુ, (B) નળાકાર, (C) લંબઘન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) શંકુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરથી અણીદાર અને નીચેથી ગોળ = શંકુ (Cone)!</p></div>"
+    }
+  ]
+}
