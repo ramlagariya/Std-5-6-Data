@@ -1169,3 +1169,111 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગુણાકાર અને ભાગાકારની રીતો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) 65 × 31 <br> (2) 15 × 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 65 × 31 = 2015 <br> (2) 15 × 100 = 1500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ 10, 100 કે 1000 સાથે ગુણાકાર હોય ત્યારે સંખ્યાની પાછળ તેટલા શૂન્ય મૂકી દેવા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (ભાગાકાર) ને વિભાગ 'બ' (ફળ) સાથે જોડો: <br> (1) 450 ÷ 9 <br> (2) 120 ÷ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 450 ÷ 9 = 50 <br> (2) 120 ÷ 4 = 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યને ઘડીભર ભૂલી જાઓ, 45 ÷ 9 = 5 અને પછી શૂન્ય લગાડો એટલે 50! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (રોજની મજૂરી) ને વિભાગ 'બ' (કુલ કમાણી) સાથે જોડો: <br> (1) ₹165 પ્રતિ દિવસ (2 દિવસ માટે) <br> (2) ₹200 પ્રતિ દિવસ (5 દિવસ માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 165 × 2 = ₹330 <br> (2) 200 × 5 = ₹1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બમણા કરવા એટલે 2 સાથે ગુણવા અને અડધા કરવા એટલે 2 વડે ભાગવા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "યોગ્ય જોડકાં બનાવો (વર્ષના દિવસો): <br> (1) 1 સામાન્ય વર્ષના દિવસો <br> (2) જાન્યુઆરી માસના દિવસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 365 દિવસ <br> (2) 31 દિવસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથના પંજાના વેઢા પરથી મહિનાના દિવસો ગણો, ઊંચા ભાગે 31 દિવસ આવે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને 'બ' સાથે જોડો: <br> (1) 1 ડઝન કેળા <br> (2) 5 ડઝન કેળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 12 કેળા <br> (2) 60 કેળા (12 × 5 = 60)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો: 1 ડઝન એટલે હંમેશા 12 નંગ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ક્ષેત્રફળના આધારે જોડકાં જોડો: <br> (1) લંબાઈ 10 મી, પહોળાઈ 5 મી <br> (2) લંબાઈ 8 મી, પહોળાઈ 8 મી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 50 ચો.મી. <br> (2) 64 ચો.મી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે લંબાઈ અને પહોળાઈનો 'ગઠબંધન' એટલે કે ગુણાકાર! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દૂધના હિસાબ મુજબ જોડો: <br> (1) રોજનું 5 લિટર (30 દિવસ) <br> (2) રોજનું 2 લિટર (365 દિવસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 150 લિટર <br> (2) 730 લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 365 ના બમણા કરવા માટે 350+15 ધારીને ડબલ કરો, 700+30 = 730! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (સંખ્યા) ને વિભાગ 'બ' (10 વડે ભાગાકારની શેષ) સાથે જોડો: <br> (1) 158 <br> (2) 240",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) શેષ 8 <br> (2) શેષ 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે 10 વડે ભાગાકાર કરો, ત્યારે એકમનો અંક જ હંમેશા શેષ હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' (ગુણાકાર) ને વિભાગ 'બ' સાથે જોડો: <br> (1) 11 × 11 <br> (2) 12 × 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 121 <br> (2) 144</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 15 સુધીના વર્ગ મોઢે રાખો, ગણતરી સુપર ફાસ્ટ થશે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) સોહન રોજ 8 ગ્લાસ પાણી પીએ તો 1 મહિનામાં (30 દિવસ)... <br> (2) સોહન 1 દિવસમાં 8 ગ્લાસ તો 1 અઠવાડિયામાં...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 240 ગ્લાસ <br> (2) 56 ગ્લાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઠવાડિયું એટલે 7 દિવસ, 8 × 7 = 56! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' (વસ્તુની કિંમત) ને વિભાગ 'બ' સાથે જોડો: <br> (1) 1 પેન ₹5 ની, તો 20 પેન <br> (2) 1 પેન્સિલ ₹2 ની, તો 50 પેન્સિલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ₹100 <br> (2) ₹100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 પંચા 100 અને 50 દુ 100, બંનેનો જવાબ સરખો જ આવે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને 'બ' સાથે જોડો (પુનરાવર્તિત સરવાળો): <br> (1) 4 + 4 + 4 <br> (2) 10 + 10 + 10 + 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 3 × 4 = 12 <br> (2) 4 × 10 = 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર એ બીજું કંઈ નહીં પણ પુનરાવર્તિત સરવાળો જ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (ગણતરી) ને વિભાગ 'બ' સાથે જોડો: <br> (1) 99 × 1 <br> (2) 99 × 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 99 <br> (2) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સાથે જે ભટકાય એ શૂન્ય થઈ જાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) 1 કલાકની મિનિટ <br> (2) 1 મિનિટની સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 60 મિનિટ <br> (2) 60 સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમયમાં 60 નો આંકડો જાદુઈ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (ભાગાકાર) ને વિભાગ 'બ' સાથે જોડો: <br> (1) 100 ÷ 2 <br> (2) 100 ÷ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 50 <br> (2) 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 વડે ભાગવું એટલે અડધા કરવા, 4 વડે ભાગવું એટલે અડધા ના પણ અડધા કરવા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) 25 × 4 <br> (2) 25 × 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 100 <br> (2) 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 ના ચાર સિક્કા એટલે 100, આ યાદ રાખશો તો ગણતરી ફાસ્ટ થશે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખેતરના કામદારોના મજૂરી દર મુજબ જોડો: <br> (1) હરિયાણા - ₹135 (3 દિવસ) <br> (2) રાજસ્થાન - ₹73 (10 દિવસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ₹405 <br> (2) ₹730</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 સાથે ગુણાકારમાં માત્ર પાછળ એક શૂન્ય જ ઉમેરવાનું હોય છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' ને 'બ' સાથે જોડો (પુસ્તકની કિંમત): <br> (1) ₹500 માં ₹50 ના કેટલા પુસ્તકો આવે? <br> (2) ₹500 માં ₹100 ના કેટલા પુસ્તકો આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 10 પુસ્તકો <br> (2) 5 પુસ્તકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં ઉપર-નીચેના મીંડા ઉડાડી દો, એટલે ગણતરી સહેલી થઈ જશે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' ને 'બ' સાથે જોડો (હાથીના બચ્ચાનું દૂધ): <br> (1) 1 દિવસમાં 12 લિટર <br> (2) 2 દિવસમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) 12 લિટર <br> (2) 24 લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 નો ઘડિયો આવડે તો આ આખું પ્રકરણ તમારા ખિસ્સામાં! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' (શબ્દો) ને 'બ' (ક્રિયા) સાથે જોડો: <br> (1) કુલ કેટલા? <br> (2) દરેકને સરખે ભાગે વહેંચો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ગુણાકાર (જો એકનું આપ્યું હોય તો) <br> (2) ભાગાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વહેંચણી' એટલે 'ભાગાકાર' અને 'ભેગું કરવું' એટલે 'ગુણાકાર'. (NJ Classes)</p></div>"
+    }
+  ]
+}
