@@ -1277,3 +1277,86 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું મોટું? કેટલું ભારે?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સમઘનનું ઘનફળ <br>2. લંબઘનનું ઘનફળ <br>3. 1 લિટર <br>4. 1 ઘન સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બાજુ × બાજુ × બાજુ <br>2 - લંબાઈ × પહોળાઈ × ઊંચાઈ <br>3 - 1000 મિલી <br>4 - 1 સેમી બાજુવાળો સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘનફળ' એટલે 3 માપનો ગુણાકાર (3D), એટલે એકમમાં 'ઘન' લાગે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વસ્તુ અને તેના દ્વારા રોકાતી જગ્યાના અંદાજિત માપને જોડો:<br>1. રબર <br>2. કંપાસ પેટી <br>3. ગણિતનું પુસ્તક <br>4. લખોટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - આશરે 2 થી 3 ઘન સેમી <br>2 - આશરે 100 થી 200 ઘન સેમી <br>3 - આશરે 500 ઘન સેમી થી વધુ <br>4 - આશરે 1 થી 2 મિલી (પાણીમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જેટલી મોટી, તેટલી વધારે જગ્યા રોકે અને ઘનફળ વધે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માપ અને તેના ઘનફળને જોડો (લંબાઈ, પહોળાઈ, ઊંચાઈ):<br>1. 2 સેમી, 2 સેમી, 2 સેમી <br>2. 5 સેમી, 2 સેમી, 1 સેમી <br>3. 4 સેમી, 3 સેમી, 2 સેમી <br>4. 10 સેમી, 5 સેમી, 2 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 8 ઘન સેમી <br>2 - 10 ઘન સેમી <br>3 - 24 ઘન સેમી <br>4 - 100 ઘન સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપેલી ત્રણેય સંખ્યાનો સીધો ગુણાકાર કરો એટલે ઘનફળ મળી જશે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વજનના એકમો અને સંબંધો જોડો:<br>1. 1 કિલોગ્રામ <br>2. અડધો કિલોગ્રામ <br>3. 5 કિલોગ્રામ <br>4. 250 ગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 1000 ગ્રામ <br>2 - 500 ગ્રામ <br>3 - 5000 ગ્રામ <br>4 - પા કિલોગ્રામ (1/4 કિગ્રા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલોગ્રામ માંથી ગ્રામમાં જવા માટે સંખ્યા પાછળ ત્રણ 'મીંડા' (000) લગાવો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વસ્તુ અને તેના વજનના અંદાજને જોડો:<br>1. રૂ .5 નો સિક્કો <br>2. હાથીનું બચ્ચું (જન્મ સમયે) <br>3. એક સાકરનું પેકેટ <br>4. પ્લાસ્ટિકની ખાલી બોટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - આશરે 9 ગ્રામ <br>2 - આશરે 90 કિગ્રા <br>3 - 1 કિગ્રા (1000 ગ્રામ) <br>4 - આશરે 20-30 ગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુ ગ્રામમાં અને મોટી ભારે વસ્તુ કિલોગ્રામમાં હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમઘન અને લંબઘન ના ગુણધર્મો જોડો:<br>1. સમઘનની સપાટી <br>2. લંબઘનની સપાટી <br>3. સમઘનની ધાર <br>4. લંબઘનની ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ચોરસ <br>2 - લંબચોરસ <br>3 - 12 ધાર <br>4 - ત્રીજું પરિમાણ (H)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે પાસો (Dice), જેની બધી બાજુ સરખી હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાણીના સ્તર અને કદને જોડો:<br>1. 1 મિલી પાણી <br>2. 10 મિલી પાણી <br>3. 1 લિટર પાણી <br>4. 500 મિલી પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 1 ઘન સેમી જગ્યા રોકે <br>2 - 10 ઘન સેમી જગ્યા રોકે <br>3 - 1000 ઘન સેમી જગ્યા રોકે <br>4 - 500 ઘન સેમી જગ્યા રોકે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મિલી = 1 ઘન સેમી (cm³). આ ગણિતનો સુવર્ણ નિયમ યાદ રાખવો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લખોટીઓ અને પાણીના વધતા સ્તરને જોડો (અંદાજિત):<br>1. 5 લખોટી <br>2. 10 લખોટી <br>3. 20 લખોટી <br>4. 50 લખોટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 5 મિલી વધારો <br>2 - 10 મિલી વધારો <br>3 - 20 મિલી વધારો <br>4 - 50 મિલી વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકરણ મુજબ, એક લખોટી અંદાજે 1 મિલી પાણી ખસેડે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખોખાના માપ અને તેમાં સમાતા 1 સેમીના સમઘન જોડો:<br>1. 2×2×2 ખોખું <br>2. 3×2×1 ખોખું <br>3. 4×2×2 ખોખું <br>4. 5×4×2 ખોખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 8 સમઘન <br>2 - 6 સમઘન <br>3 - 16 સમઘન <br>4 - 40 સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખાનું ઘનફળ = તેમાં સમાતા 1 સેમી ના સમઘનની સંખ્યા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પરિમાણ અને તેમના એકમો જોડો:<br>1. લંબાઈ <br>2. ક્ષેત્રફળ <br>3. ઘનફળ <br>4. વજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - સેમી (cm) <br>2 - ચોરસ સેમી (sq.cm) <br>3 - ઘન સેમી (cubic cm) <br>4 - ગ્રામ (g)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1D = સેમી, 2D = ચોરસ, 3D = ઘન. બસ આટલું યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કિલોગ્રામ અને તેના ભાગ જોડો:<br>1. 1/2 કિગ્રા <br>2. 1/4 કિગ્રા <br>3. 3/4 કિગ્રા <br>4. 1/5 કિગ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 500 ગ્રામ <br>2 - 250 ગ્રામ <br>3 - 750 ગ્રામ <br>4 - 200 ગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 ને છેદમાં રહેલી સંખ્યા વડે ભાગી નાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વસ્તુઓ અને વજનના સંબંધો જોડો:<br>1. 10 સિક્કા (રૂ.5 ના) <br>2. 100 ગ્રામ <br>3. 2 કિગ્રા <br>4. 1000 મિલી પાણીનું વજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 90 ગ્રામ <br>2 - 0.1 કિગ્રા <br>3 - 2000 ગ્રામ <br>4 - આશરે 1 કિગ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ પાણી માટે 1 લિટર = 1 કિલોગ્રામ ગણી શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આકારો અને ઘનફળના સૂત્રો જોડો:<br>1. લંબચોરસનું ક્ષેત્રફળ <br>2. ચોરસનું ક્ષેત્રફળ <br>3. લંબઘનનું ઘનફળ <br>4. સમઘનનું ઘનફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - લંબાઈ × પહોળાઈ <br>2 - લંબાઈ × લંબાઈ <br>3 - લંબાઈ × પહોળાઈ × ઊંચાઈ <br>4 - લંબાઈ × લંબાઈ × લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં 2 માપનો ગુણાકાર, ઘનફળમાં 3 માપનો ગુણાકાર! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વજન અને તેના બમણા મૂલ્યને જોડો:<br>1. 250 ગ્રામ <br>2. 500 ગ્રામ <br>3. 1 કિગ્રા <br>4. 2000 ગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 500 ગ્રામ <br>2 - 1000 ગ્રામ (1 કિગ્રા) <br>3 - 2 કિગ્રા <br>4 - 4 કિગ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બમણું કરવું એટલે સંખ્યાને 2 વડે ગુણવી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાત્રની ક્ષમતા અને મિલી લિટરને જોડો:<br>1. 2 લિટર <br>2. 3.5 લિટર <br>3. 0.5 લિટર <br>4. 1/4 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 2000 મિલી <br>2 - 3500 મિલી <br>3 - 500 મિલી <br>4 - 250 મિલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિટરને 1000 વડે ગુણવાથી મિલી મળે. (NJ Classes)</p></div>"
+    }
+  ]
+}
