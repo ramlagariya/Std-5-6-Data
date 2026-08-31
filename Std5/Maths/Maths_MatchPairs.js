@@ -1086,3 +1086,86 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સ્માર્ટ ચાર્ટ્સ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 5 (2) 10 (3) 3 (4) 7 \nવિભાગ B: (a) ||| (b) 卌 (c) 卌 || (d) 卌 卌",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (d), (3) - (a), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ ચિહ્નમાં 4 ઊભી લીટી અને 1 આડી લીટી મળીને 5 બને છે. બસ, આ 5-5 ના બંડલ ગણતા જાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વર્તુળ આલેખ (ચપાટી આલેખ) ના ભાગ જોડો: \nવિભાગ A: (1) અડધો ભાગ (2) ચોથો ભાગ (3) આખો ભાગ (4) પોણો ભાગ \nવિભાગ B: (a) 1/4 (b) 1/2 (c) 1 (d) 3/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (c), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચપાટી આલેખમાં અડધો એટલે 50% (1/2) અને પા (ચોથો) એટલે 25% (1/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આલેખના પ્રકાર અને તેના નામ જોડો: \nવિભાગ A: (1) વર્તુળ આલેખ (2) સ્તંભ આલેખ (3) માહિતી નોંધવાની રીત (4) વંશવેલો \nવિભાગ B: (a) આવૃત્તિ ચિહ્ન (b) ફેમિલી ટ્રી (c) બાર ગ્રાફ (d) પાઈ ચાર્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (d), (2) - (c), (3) - (a), (4) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ હોય તો 'પાઈ/ચપાટી', થાંભલા જેવા હોય તો 'સ્તંભ' અને કુટુંબ માટે 'વંશવેલો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આવૃત્તિ ચિહ્નોની કુલ સંખ્યા ગણો: \nવિભાગ A: (1) 卌 卌 卌 (2) 卌 卌 | (3) 卌 |||| (4) 卌 卌 卌 卌 \nવિભાગ B: (a) 11 (b) 15 (c) 20 (d) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પેટી એટલે પાંચ. ઘડિયો બોલો: 5, 10, 15, 20... અને છૂટી લીટી ઉમેરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તાપમાનના આલેખ પરથી શહેર જોડો (કાલ્પનિક ડેટા): \nવિભાગ A: (1) સૌથી ગરમ શહેર (2) સૌથી ઠંડુ શહેર (3) મધ્યમ તાપમાન (4) તાપમાનનો તફાવત \nવિભાગ B: (a) શિમલા (b) જેસલમેર (c) બાદબાકી (d) અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખમાં જેનો સ્તંભ સૌથી ઊંચો તે સૌથી ગરમ, જે નીચો તે સૌથી ઠંડુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યામિનીના પ્રોજેક્ટ મુજબ પ્રાણીઓ અને સંખ્યા: \nવિભાગ A: (1) બિલાડી (2) કૂતરા (3) સસલા (4) ગાય \nવિભાગ B: (a) 24 (b) 32 (c) 10 (d) 22",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b), (3) - (c), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના ઉદાહરણમાં બિલાડી 24 અને કૂતરા સૌથી વધુ 32 હતા તે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચપાટી આલેખમાં બાળકોની સંખ્યા (કુલ 40 બાળકો): \nવિભાગ A: (1) દૂધ ભાવતું હોય (અડધા) (2) કોફી ભાવતી હોય (ચોથો ભાગ) (3) ચા ભાવતી હોય (ચોથો ભાગ) (4) કુલ બાળકો \nવિભાગ B: (a) 10 (b) 10 (c) 20 (d) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ સંખ્યાને 2 વડે ભાગતા 'અડધો' ભાગ મળે અને 4 વડે ભાગતા 'ચોથો' ભાગ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વૃક્ષની ઊંચાઈનો વૃદ્ધિ આલેખ (Growth Chart): \nવિભાગ A: (1) 0 દિવસ (2) 4 દિવસ (3) 12 દિવસ (4) સૌથી વધુ વૃદ્ધિનો સમય \nવિભાગ B: (a) 1.4 સેમી (b) 0 સેમી (c) 8 થી 12 દિવસ (d) 9.5 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં ઊંચાઈ 0 હોય. જેમ દિવસ વધે તેમ ઊંચાઈ વધે, પણ વચ્ચેના દિવસોમાં ઝડપ વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પરિવારના વંશવેલા (Family Tree) મુજબ પેઢી: \nવિભાગ A: (1) પ્રથમ પેઢી (2) દ્વિતીય પેઢી (3) તૃતીય પેઢી (4) ચતુર્થ પેઢી \nવિભાગ B: (a) માતા-પિતા (b) દાદા-દાદી (c) પરદાદા-પરદાદી (d) પોતે (બાળકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (b), (3) - (a), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી ઉપરથી ગણવાનું શરૂ કરો: પરદાદા -> દાદા -> પિતા -> તમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માહિતીના સ્ત્રોત અને સાધન: \nવિભાગ A: (1) ટીવી કાર્યક્રમ (2) ટ્રાફિક સિગ્નલ (3) વેચાણ (4) તાપમાન \nવિભાગ B: (a) વાહનોની સંખ્યા (b) લોકપ્રિયતા ચાર્ટ (c) થર્મોમીટર/આલેખ (d) બાર ગ્રાફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવી માહિતી તેવો ચાર્ટ! વાહન હોય તો રસ્તા પરની ગણતરી જોવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આવૃત્તિ ચિહ્ન અને સંખ્યાની જોડી: \nવિભાગ A: (1) 6 (2) 12 (3) 14 (4) 2 \nવિભાગ B: (a) 卌 卌 || (b) 卌 | (c) || (d) 卌 卌 ||||",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યા હોય એટલી લીટીઓ ગણવી, 5 મીએ પેટી બંધ કરવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાઈ ચાર્ટમાં ખૂણા અને ભાગ: \nવિભાગ A: (1) વર્તુળનો ચોથો ભાગ (2) વર્તુળનો અડધો ભાગ (3) વર્તુળનો 3/4 ભાગ (4) આખું વર્તુળ \nવિભાગ B: (a) 180 ડિગ્રી (b) 90 ડિગ્રી (c) 360 ડિગ્રી (d) 270 ડિગ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈ ચાર્ટ એ પિઝા જેવો છે. એક ટુકડો એટલે 90 ડિગ્રી (કાટખૂણો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વર્ગના બાળકોની પસંદગીના ફળ: \nવિભાગ A: (1) કેરી (20 બાળકો) (2) સફરજન (10 બાળકો) (3) કેળા (10 બાળકો) (4) કુલ બાળકો \nવિભાગ B: (a) 1/4 ભાગ (b) 1/2 ભાગ (c) 40 (d) 1/4 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (d), (4) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 40 ના અડધા 20 થાય (1/2), અને 40 નો ચોથો ભાગ 10 થાય (1/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પર્યાવરણના પ્રોજેક્ટમાં ગેરહાજર બાળકો: \nવિભાગ A: (1) સોમવાર (2) બુધવાર (3) શુક્રવાર (4) કુલ ગેરહાજર \nવિભાગ B: (a) સૌથી ઓછા (b) સૌથી વધુ (c) શૂન્ય (d) સરવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (c), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાજરી પત્રક (Attendance sheet) ના સ્તંભો જોઈને આસાનીથી જવાબ આપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માહિતી એકત્ર કરવાની પદ્ધતિઓ: \nવિભાગ A: (1) ટેલી માર્કસ (2) બાર ચાર્ટ (3) પાઈ ચાર્ટ (4) સ્માર્ટ ચાર્ટ \nવિભાગ B: (a) લીટીઓ દોરીને (b) સ્તંભ દોરીને (c) વર્તુળ દોરીને (d) માહિતીની ટૂંકી રજૂઆત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b), (3) - (c), (4) - (d)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર્ટના નામમાં જ તેનો આકાર છુપાયેલો છે!</p></div>"
+    }
+  ]
+}
