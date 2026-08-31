@@ -895,3 +895,86 @@ var Std5_Maths_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દસમો અને સોમો ભાગ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) 5 મિમી, (2) 10 મિમી, (3) 20 મિમી, (4) 1 મિમી<br>વિભાગ 'બ': (A) 1 સેમી, (B) 0.1 સેમી, (C) 0.5 સેમી, (D) 2 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C), (2) - (A), (3) - (D), (4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિમીને સેમીમાં ફેરવવા માટે સંખ્યાને 10 વડે ભાગો (અથવા જમણેથી એક અંક પછી દશાંશ ચિહ્ન મૂકો). જેમ કે 5 મિમી = 5/10 = 0.5 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ' (પૈસા): (1) 5 પૈસા, (2) 50 પૈસા, (3) 75 પૈસા, (4) 2 પૈસા<br>વિભાગ 'બ' (રૂપિયા): (A) ₹ 0.50, (B) ₹ 0.02, (C) ₹ 0.05, (D) ₹ 0.75",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C), (2) - (A), (3) - (D), (4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 રૂપિયો = 100 પૈસા. પૈસાને રૂપિયામાં ફેરવતી વખતે હંમેશા જમણેથી બે અંક પછી પોઈન્ટ મૂકો. 5 પૈસા હોય તો આગળ ઝીરો લગાવી '0.05' લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અપૂર્ણાંક અને દશાંશ સંખ્યાના જોડકાં જોડો:<br>વિભાગ 'અ': (1) 1/10, (2) 1/100, (3) 10/100, (4) 100/100<br>વિભાગ 'બ': (A) 0.01, (B) 0.1, (C) 1.0, (D) 0.10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં જેટલા શૂન્ય હોય, અંશમાં જમણી બાજુથી તેટલા અંક ખસીને પોઈન્ટ મૂકો. 1 શૂન્ય (10) = 1 અંક, 2 શૂન્ય (100) = 2 અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મીટર અને સેમીના જોડકાં જોડો:<br>વિભાગ 'અ': (1) 1 મીટર, (2) 0.5 મીટર, (3) 0.25 મીટર, (4) 0.1 મીટર<br>વિભાગ 'બ': (A) 50 સેમી, (B) 100 સેમી, (C) 10 સેમી, (D) 25 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટરને સેમીમાં ફેરવવા 100 વડે ગુણાકાર કરવો. 0.5 × 100 = 50 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિસ્તૃત સ્વરૂપ સાથે જોડો:<br>વિભાગ 'અ': (1) 15.5, (2) 1.55, (3) 15.05, (4) 0.15<br>વિભાગ 'બ': (A) 1 + 5/10 + 5/100, (B) 15 + 5/10, (C) 1/10 + 5/100, (D) 15 + 5/100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીનો પહેલો અંક 'દસમો ભાગ' (/10) અને બીજો અંક 'સોમો ભાગ' (/100) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમત સરખાવો:<br>વિભાગ 'અ': (1) 1/2 રૂપિયો, (2) 1/4 રૂપિયો, (3) 3/4 રૂપિયો, (4) 1/10 રૂપિયો<br>વિભાગ 'બ': (A) 25 પૈસા, (B) 50 પૈસા, (C) 10 પૈસા, (D) 75 પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પૈસાના અડધા 50, ચોથો ભાગ 25, અને ત્રણ ચતુર્થાંશ એટલે 75 પૈસા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લંબાઈનું માપન (અંદાજિત):<br>વિભાગ 'અ': (1) અળસિયાની લંબાઈ, (2) લેડી ફિંગર (ભીંડો), (3) નખની પહોળાઈ, (4) પેન્સિલ<br>વિભાગ 'બ': (A) 1 સેમી, (B) 15 સેમી, (C) 8 સેમી, (D) 10 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C), (2) - (D), (3) - (A), (4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક વસ્તુઓની કલ્પના કરો. નખ સૌથી નાનો (સેમીમાં) અને પેન્સિલ કે ભીંડો તેનાથી મોટા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તાપમાનના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ઠંડુ તાપમાન, (2) ગરમ તાપમાન, (3) મધ્યમ તાપમાન, (4) થીજી જતું પાણી<br>વિભાગ 'બ': (A) 45°C, (B) 0°C, (C) 10°C, (D) 25°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C), (2) - (A), (3) - (D), (4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન જેમ ઓછું તેમ ઠંડી વધારે, અને તાપમાન જેમ વધુ તેમ ગરમી વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચલણી સિક્કા અને કિંમત:<br>વિભાગ 'અ': (1) 50 પૈસાના 2 સિક્કા, (2) 25 પૈસાના 4 સિક્કા, (3) 10 પૈસાના 10 સિક્કા, (4) 5 પૈસાના 20 સિક્કા<br>વિભાગ 'બ': (A) ₹ 1, (B) ₹ 1, (C) ₹ 1, (D) ₹ 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (A), (2) - (B), (3) - (C), (4) - (D) [બધા જ ₹ 1 બરાબર છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કાની સંખ્યા અને કિંમતનો ગુણાકાર જો 100 પૈસા થાય, તો તે 1 રૂપિયો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દો અને અંકો:<br>વિભાગ 'અ': (1) સાત દશાંશ, (2) સાત શતાંશ, (3) સાત પૂર્ણાંક સાત દશાંશ, (4) સાત પૂર્ણાંક સાત શતાંશ<br>વિભાગ 'બ': (A) 7.07, (B) 0.7, (C) 0.07, (D) 7.7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (C), (3) - (D), (4) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ એટલે પોઈન્ટ પછી 1 અંક, શતાંશ એટલે પોઈન્ટ પછી 2 અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રૂપાંતર કરો:<br>વિભાગ 'અ': (1) 2.5 મીટર, (2) 2.5 સેમી, (3) 0.25 મીટર, (4) 0.02 મીટર<br>વિભાગ 'બ': (A) 25 મિમી, (B) 2 સેમી, (C) 250 સેમી, (D) 25 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C), (2) - (A), (3) - (D), (4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમોના સંબંધ યાદ રાખો: 1 મી = 100 સેમી, 1 સેમી = 10 મિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સરવાળાના જોડકાં:<br>વિભાગ 'અ': (1) 0.1 + 0.2, (2) 0.01 + 0.02, (3) 0.5 + 0.5, (4) 0.1 + 0.01<br>વિભાગ 'બ': (A) 0.03, (B) 0.3, (C) 0.11, (D) 1.0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશના સરવાળામાં પોઈન્ટની નીચે પોઈન્ટ રાખીને જ સરવાળો કરવો જેથી ભૂલ ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સૌથી મોટી સંખ્યા શોધો:<br>વિભાગ 'અ': (1) 0.1, 0.11, 0.01, (2) 5.5, 5.05, 0.55, (3) 2.1, 2.12, 2.02, (4) 0.9, 0.09, 0.99<br>વિભાગ 'બ': (A) 5.5, (B) 0.11, (C) 0.99, (D) 2.12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સંખ્યા સરખાવવા માટે પોઈન્ટ પછીના અંકોની સંખ્યા સમાન કરો (જરૂર પડે તો શૂન્ય મૂકો), પછી સરખામણી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દશાંશ અને અપૂર્ણાંક સંબંધ:<br>વિભાગ 'અ': (1) 3/100, (2) 30/100, (3) 3/10, (4) 300/100<br>વિભાગ 'બ': (A) 0.3, (B) 0.03, (C) 3, (D) 0.30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (D), (3) - (A), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.3 અને 0.30 બંને સમાન જ છે, કારણ કે પોઈન્ટ પછી છેલ્લે ગમે તેટલા શૂન્ય મૂકો કિંમત બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વ્યવહારુ કોયડા (રૂપિયા-પૈસા):<br>વિભાગ 'અ': (1) ₹ 2 અને 50 પૈસા, (2) ₹ 2 અને 5 પૈસા, (3) 250 પૈસા, (4) 205 પૈસા<br>વિભાગ 'બ': (A) ₹ 2.05, (B) ₹ 2.50, (C) ₹ 2.05, (D) ₹ 2.50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B), (2) - (A), (3) - (D), (4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયા અને પૈસાને જોડતી વખતે હંમેશા યાદ રાખો કે પૈસા માટે બે અંક ફાળવેલા છે (00 થી 99).</p></div>"
+    }
+  ]
+}
