@@ -2012,3 +2012,161 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખા અને રેખા-આકૃતિ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમઘન (Cube) ને કુલ કેટલી સપાટીઓ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘનને કુલ 6 સપાટીઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાને યાદ કરો! પાસા પર 1 થી 6 અંક હોય છે, એટલે સપાટી પણ 6 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લંબઘન ખોખાની બધી જ સપાટીઓનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘન ખોખાની બધી જ સપાટીઓનો આકાર 'લંબચોરસ' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે! 'લંબ'ઘન એટલે 'લંબ'ચોરસ સપાટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રમતનો પાસો (Dice) એ કયા પ્રકારનું ખોખું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રમતનો પાસો એ 'સમઘન' પ્રકારનું ખોખું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાની બધી બાજુ સરખી (સમ) હોય, એટલે તે 'સમ'ઘન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાસાની સામસામેની સપાટી પરના અંકોનો સરવાળો હંમેશા કેટલો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસાની સામસામેની સપાટી પરના અંકોનો સરવાળો હંમેશા 7 થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતડો (7) યાદ રાખવો! 1 ની સામે 6, 2 ની સામે 5 અને 3 ની સામે 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રેખા-આકૃતિ (Net) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોખાને ખોલતા જે સપાટ આકૃતિ મળે તેને તે ખોખાની રેખા-આકૃતિ અથવા જાળી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખું 'ખોલો' એટલે 'રેખા' દેખાય, એ જ રેખા-આકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નળાકાર (Cylinder) આકાર બનાવવા માટે કેવી રેખા-આકૃતિ જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળાકાર બનાવવા માટે એક લંબચોરસ અને બે વર્તુળની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવડરનો ડબ્બો યાદ કરો! વચ્ચે લંબચોરસ પતરું અને ઉપર-નીચે ગોળ ઢાંકણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘરનો 'નકશો' (Floor Map) શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશો ઘરમાં બારી, બારણાં અને રૂમ કઈ જગ્યાએ આવેલા છે તે દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એટલે ઉપરથી જોતા દેખાતી ઘરની 'જગ્યા'ની ગોઠવણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘરનું 'ગહન ચિત્ર' (Deep Drawing) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ચિત્રમાં ઘરની લંબાઈ, પહોળાઈ અને ઊંચાઈ (ત્રણેય પરિમાણ) દેખાય તેને ગહન ચિત્ર કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગહન' એટલે જે ઊંડાઈ બતાવે! ફોટો જેવું દેખાય તે ગહન ચિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મીઠાઈના ખોખાને ખોલતા તેનો આકાર કેવો દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠાઈના ખોખાને ખોલતા તે એક સપાટ પૂંઠું (રેખા-આકૃતિ) બની જાય છે જેમાં ગડીઓ પાડેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાઈ ખાઈને ખોખું તોડી નાખો એટલે જે મળે તે તેની નેટ (Net) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમઘન ખોખું બનાવવા માટે ઓછામાં ઓછા કેટલા ચોરસ જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન ખોખું બનાવવા માટે ઓછામાં ઓછા 6 ચોરસ જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 સપાટી = 6 ચોરસ. એક પણ ઓછો હોય તો ખોખું અધૂરું રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખુલ્લું ખોખું (Open Box) બનાવવા માટે કેટલા ચોરસની જરૂર પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લું ખોખું બનાવવા માટે 5 ચોરસની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 માંથી ઉપરનું ઢાંકણ કાઢી નાખો એટલે 5 બાકી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શંકુ (Cone) આકારના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. જોકરની ટોપી, 2. આઈસ્ક્રીમ કોન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્થડે ટોપી યાદ રાખો એટલે શંકુ યાદ આવી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કઈ આકૃતિને વાળવાથી ખોખું બનાવી શકાય નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે આકૃતિમાં 4 થી ઓછા ચોરસ હોય અથવા ચોરસની ગોઠવણી ખોટી હોય તેનાથી ખોખું ન બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધી બાજુઓ એકબીજાને ઢાંકી ન શકે, તો ખોખું ન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નકશામાં બારી માટે કઈ નિશાની વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં બારી માટે બે સમાંતર રેખાઓ વચ્ચે ખાલી જગ્યા જેવી વિશિષ્ટ નિશાની વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલમાં કાણું એટલે બારી, નકશામાં પણ તેવું જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નળાકારને કેટલી સપાટીઓ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ નળાકારને કુલ 3 સપાટીઓ હોય છે (1 વક્ર અને 2 વર્તુળાકાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ (Cell) યાદ કરો! ઉપર અને નીચે ગોળ સપાટી અને વચ્ચે વળેલી સપાટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દીવાસળીના ખોખાનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીવાસળીના ખોખાનો આકાર 'લંબઘન' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેની લંબાઈ વધારે હોય છે, એટલે તે લંબઘન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાંચ ચોરસમાંથી બનતા 'પેન્ટોમિનો' (Pentomino) માંથી શું ખુલ્લું ખોખું બની શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, પેન્ટોમિનોની અમુક ચોક્કસ ગોઠવણીથી ખુલ્લું ખોખું બનાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેન્ટા એટલે 5. 5 ચોરસ હોય તો ઢાંકણ વગરનું ખોખું બને જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શું ત્રિકોણમાંથી સમઘન બનાવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સમઘન બનાવવા માટે માત્ર ચોરસની જ જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન = ચોરસની દુનિયા! ત્યાં ત્રિકોણનું કામ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પિરામિડનો પાયો કેવો હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિરામિડનો પાયો ચોરસ, લંબચોરસ કે ત્રિકોણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે કોઈપણ બહુકોણ હોય પણ ઉપર બધું એક ટાંચ (શિરોબિંદુ) પર મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નકશા અને ગહન ચિત્રમાં મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશો દ્વિ-પરિમાણીય (2D) છે, જ્યારે ગહન ચિત્ર ત્રિ-પરિમાણીય (3D) જેવો ભાસ કરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એટલે 'પ્લાન' અને ગહન ચિત્ર એટલે 'દેખાવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કંપાસ પેટીનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંપાસ પેટીનો આકાર 'લંબઘન' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપાસ પેટી લાંબી હોય છે, એટલે લંબઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમઘનની બધી ધાર (Edges) ના માપ કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘનની બધી જ ધારના માપ સમાન (સરખા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સરખું. બધું જ સરખું હોય એ સમઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બંધ ખોખાને કુલ કેટલા ખૂણા (Vertices) હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ સમઘન કે લંબઘન ખોખાને કુલ 8 ખૂણા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરના 4 ખૂણા + નીચેના 4 ખૂણા = કુલ 8 ખૂણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ષટ્કોણ (Hexagon) પાયાવાળા પિરામિડની ઉપરની સપાટીઓ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ષટ્કોણ પિરામિડની ઉપરની સપાટીઓ 'ત્રિકોણાકાર' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ પિરામિડ હોય, તેની બાજુની સપાટીઓ હંમેશા ત્રિકોણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો પાસા પર ઉપર 3 હોય, તો તેની નીચેની સપાટી પર કયો અંક હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો ઉપર 3 હોય, તો તેની નીચે 4 અંક હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 માંથી 3 બાદ કરો એટલે જવાબ મળે 4 (3 + 4 = 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વર્તુળ આકારની રેખા-આકૃતિથી કયો આકાર બની શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળના ભાગ (સેક્ટર) માંથી 'શંકુ' આકાર બની શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ગોળ નહિ, પણ કાપેલું ગોળ વાળીને શંકુ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બ્રિજ (પુલ) ના ગહન ચિત્રમાં કયા કયા ભાગો દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્રિજના ગહન ચિત્રમાં તેની ઉપરનો ભાગ, બાજુનો ભાગ અને લંબાઈ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D ચિત્ર એટલે ગહન ચિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શું આપણે બધી રેખા-આકૃતિને વાળીને ખોખું બનાવી શકીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, માત્ર ચોક્કસ પ્રકારની રેખા-આકૃતિઓને વાળીને જ ખોખું બનાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બાજુઓ ઓવરલેપ થાય અથવા ખાલી રહે, તો ખોખું ન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઈંટોનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈંટોનો આકાર 'લંબઘન' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈંટ લંબચોરસ જેવી લાંબી હોય, એટલે લંબઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પિરામિડ અને શંકુમાં કયો ભાગ સમાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિરામિડ અને શંકુ બંનેમાં ઉપરના ભાગે એક અણીદાર શિરોબિંદુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેની ટોચ અણીદાર હોય છે.</p></div>"
+    }
+  ]
+}
