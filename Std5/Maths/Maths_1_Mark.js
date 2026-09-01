@@ -1596,3 +1596,211 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "તમે પેટર્ન જોઈ શકો છો?",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પેટર્ન (ભાત) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ ચિત્ર, આકાર કે સંખ્યા એક નિશ્ચિત નિયમ મુજબ વારંવાર પુનરાવર્તિત થાય, ત્યારે તેને પેટર્ન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટર્ન એટલે 'નિયમ મુજબનું પુનરાવર્તન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોઈ આકૃતિને ૧/૪ ફેરવવી એટલે કેટલા અંશના ખૂણે ફેરવવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ આકૃતિને ૧/૪ ફેરવવી એટલે તેને ૯૦ અંશના (કાટખૂણે) ખૂણે ફેરવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧/૪ ભાગ એટલે ઘડિયાળમાં ૧૨ થી ૩ વાગ્યા સુધીનું અંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોઈ આકૃતિને ૧/૨ ફેરવવી એટલે કેટલા અંશના ખૂણે ફેરવવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ આકૃતિને ૧/૨ ફેરવવી એટલે તેને ૧૮૦ અંશના ખૂણે (અડધો આંટો) ફેરવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧/૨ એટલે માથું નીચે અને પગ ઉપર (ઉલટું કરી દેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અંગ્રેજી અક્ષર 'H' ને ૧/૨ ફેરવતા તે કેવો દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ્રેજી અક્ષર 'H' ને ૧/૨ ફેરવતા તે મૂળ અક્ષર 'H' જેવો જ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અક્ષર ઉપર-નીચેથી સરખા હોય તે ૧/૨ ફેરવતા બદલાતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કયો અંક ૧/૨ ફેરવતા પણ બદલાતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦, ૧ અને ૮ ને ૧/૨ (અડધો આંટો) ફેરવતા તે બદલાતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો '૦૧૮' - આ ત્રણેય અડધા આંટે પણ સેમ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જાદુઈ ષટ્કોણમાં ખાના (ચોરસ) માં સંખ્યા કેવી રીતે મેળવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાદુઈ ષટ્કોણમાં તેની બાજુમાં આવેલા બે વર્તુળોના ગુણાકારથી ખાના (ચોરસ) ની સંખ્યા મેળવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ × વર્તુળ = ચોરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યા ૧૨૧ ની ખાસિયત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંખ્યા ૧૨૧ ને ડાબેથી જમણે કે જમણેથી ડાબે વાંચતા તે સમાન રહે છે, જેને 'વિશિષ્ટ સંખ્યા' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેને 'પેલિન્ડ્રોમ' (Palindrome) સંખ્યા પણ કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "૧ થી ૧૦ સુધીની સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ થી ૧૦ સુધીની સંખ્યાઓનો સરવાળો ૫૫ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ થી ૧૦ ની વચ્ચે ૫ આવે, તેની બાજુમાં ૫ મૂકી દો એટલે '૫૫'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "૧૧ થી ૨૦ સુધીની સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧ થી ૨૦ સુધીની સંખ્યાઓનો સરવાળો ૧૫૫ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૧ થી ૨૦ ની વચ્ચે ૧૫ આવે, બાજુમાં ૫ મૂકી દો એટલે '૧૫૫'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કેલેન્ડરના ૩x૩ ના ચોરસ ખાનાની તમામ ૯ સંખ્યાઓનો સરવાળો શોધવાની રીત કઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌથી વચ્ચેની સંખ્યાને ૯ વડે ગુણવાથી આખા ચોરસનો સરવાળો મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેની સંખ્યા × ૯ = કુલ સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રથમ બે એકી સંખ્યાઓનો સરવાળો (૧+૩) કેટલો થાય અને તે કોનો વર્ગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧+૩ = ૪ થાય, જે ૨ નો વર્ગ (૨x૨) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી એકી સંખ્યા હોય, તેનો તે જ સંખ્યા સાથે ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો ૨૪ + ૧૯ + ૩૭ = ૩૭ + ૨૪ + '?', તો '?' ની જગ્યાએ કઈ સંખ્યા આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> '?' ની જગ્યાએ ૧૯ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરાબરની બંને બાજુ સંખ્યાઓ સમાન હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કોઈ સંખ્યાને વિશિષ્ટ સંખ્યા બનાવવા માટેનો પ્રથમ નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલી સંખ્યાને ઉલટાવીને મૂળ સંખ્યામાં ઉમેરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા + ઉલટી સંખ્યા = નવી સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જાદુઈ ચોરસમાં દરેક હરોળ (લાઇન) ની સંખ્યાઓનો સરવાળો કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાદુઈ ચોરસમાં દરેક હરોળ, સ્તંભ અને વિકર્ણનો સરવાળો હંમેશા સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુઈ ચોરસ એટલે બધી બાજુથી એક જ જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કયો અંગ્રેજી શબ્દ આગળથી કે પાછળથી વાંચતા સરખો વંચાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'NOON', 'EYE', 'MADAM' કે 'LEVEL' જેવા શબ્દો આગળ-પાછળથી સરખા વંચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આને શબ્દોની વિશિષ્ટ પેટર્ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્મિત તેની પાસે રહેલા પત્તાને ૧/૨ ફેરવે છે, તો તે પત્તું કેવું દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧/૨ ફેરવતા પત્તું ઉલટું (માથું નીચે) દેખાશે, જો તે સંમિત ન હોય તો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચહેરાવાળું પત્તું હોય તો ૧/૨ આંટો તેને ઊંધું કરી દેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "૩/૪ આંટો એટલે કેટલા અંશનું પરિભ્રમણ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩/૪ આંટો એટલે ૨૭૦ અંશનું પરિભ્રમણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૯૦ × ૩ = ૨૭૦ અંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વર્તુળને કેટલો આંટો ફેરવતા તે તેના જેવું જ દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળને ગમે તેટલા આંટા (૧/૪, ૧/૨, ૧/૩) ફેરવતા તે હંમેશા તેના જેવું જ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ વસ્તુ ગમે તેમ ફેરવો, ગોળ જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો એક પેટર્ન ૪૫ અંશે ફરે છે, તો ૧/૪ આંટો પૂરો કરવા તેને કેટલી વાર ફેરવવી પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪૫ અંશ એટલે ૧/૮ આંટો, માટે ૧/૪ (૯૦ અંશ) કરવા તેને ૨ વાર ફેરવવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૫ + ૪૫ = ૯૦ અંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નિયમ: 'દરેક વખતે ૪૫ અંશ ફેરવો'. જો અત્યારે દિશા ઉત્તર હોય, તો ૩ સ્ટેપ પછી દિશા કઈ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર -> ઉત્તર-પૂર્વ -> પૂર્વ -> દક્ષિણ-પૂર્વ. દિશા દક્ષિણ-પૂર્વ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૫ અંશના ૩ સ્ટેપ એટલે ૧૩૫ અંશ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચોરસને ૧/૪ આંટો ફેરવતા તેના આકારમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસને ૧/૪ આંટો ફેરવતા તેના આકારમાં કોઈ ફેરફાર થતો નથી, તે મૂળ આકાર જેવો જ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની ચારેય બાજુ અને ખૂણા સમાન હોવાથી તે ૯૦ અંશે બદલાતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંખ્યા પેટર્ન પૂર્ણ કરો: ૫, ૧૦, ૧૫, ૨૦, ...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આગળની સંખ્યા ૨૫ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં ૫ નો ઘડિયો અથવા +૫ નો નિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગુજરાતી શબ્દ 'નમન' ની ખાસિયત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'નમન' શબ્દને આગળથી કે પાછળથી વાંચતા તે એકસમાન વંચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક ગુજરાતી પેલિન્ડ્રોમ શબ્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો ૬ + ૭ + ૮ = ૨૧ હોય, તો ૧૬ + ૧૭ + ૧૮ નો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૬ + ૧૭ + ૧૮ = ૫૧ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭ × ૩ = ૫૧ (વચ્ચેની સંખ્યા × ૩).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પેટર્ન પૂર્ણ કરો: ૧ × ૧ = ૧, ૧૧ × ૧૧ = ૧૨૧, ૧૧૧ × ૧૧૧ = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧૧ × ૧૧૧ = ૧૨૩૨૧.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા એકડા હોય ત્યાં સુધી એકડા લખી ઉતરતા ક્રમમાં જવું (૧૨૩-૨૧).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અંગ્રેજી અક્ષર 'S' ને ૧/૨ ફેરવતા તે કેવો દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'S' ને ૧/૨ ફેરવતા તે મૂળ 'S' જેવો જ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S ને ઉલટો કરો તો પણ S જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "૪ × ૪ ના જાદુઈ ચોરસમાં ૧ થી ૧૬ સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ થી ૧૬ સુધીની સંખ્યાઓનો કુલ સરવાળો ૧૩૬ થાય, અને દરેક હરોળનો ૩૪ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪x૪ ના ખાનામાં હરોળનો સરવાળો ૩૪ ફિક્સ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આપેલી પેટર્નનો નિયમ જણાવો: ૨, ૪, ૮, ૧૬, ૩૨...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક સંખ્યાને ૨ વડે ગુણવાથી (બમણી કરવાથી) પછીની સંખ્યા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમ = 'સંખ્યા × ૨'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિશિષ્ટ સંખ્યા બનાવો: ૨૮",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૮ + ૮૨ = ૧૧૦; ૧૧૦ + ૦૧૧ = ૧૨૧. તો ૨૮ માંથી બનતી વિશિષ્ટ સંખ્યા ૧૨૧ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં સુધી આગળ-પાછળથી સરખી ન થાય ત્યાં સુધી ઉલટાવીને ઉમેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "૧, ૩, ૫, ૭ આ ચાર એકી સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧+૩+૫+૭ = ૧૬.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪ સંખ્યા છે, એટલે ૪ × ૪ = ૧૬.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અડધો આંટો ફેરવતા 'M' અક્ષર કેવો દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'M' અક્ષરને ૧/૨ ફેરવતા તે 'W' જેવો દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M ઊંધો થાય તો W બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો તમે એકી સંખ્યામાં એકી સંખ્યા ઉમેરો, તો જવાબ શું આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે એકી સંખ્યાઓનો સરવાળો હંમેશા 'બેકી' સંખ્યા જ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ (એકી) + ૩ (એકી) = ૪ (બેકી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "૯ ના ઘડિયાની સંખ્યાઓના અંકોનો સરવાળો હંમેશા કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯ ના ઘડિયામાં આવતી સંખ્યાઓના અંકોનો સરવાળો હંમેશા ૯ જ થાય છે (જેમ કે ૧૮ = ૧+૮=૯).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૯ નો જાદુ = અંકોનો સરવાળો હંમેશા ૯!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "લંબચોરસને ૧/૪ ફેરવતા તે મૂળ જેવો દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, લંબચોરસને ૧/૪ ફેરવતા તે ઊભો થઈ જશે, તે મૂળ આકાર જેવો દેખાશે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસ ૧/૨ આંટે મૂળ જેવો દેખાય, ૧/૪ એ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સંખ્યાની પેટર્ન ઓળખો: ૧૦૦, ૯૦, ૮૦, ૭૦...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક વખતે સંખ્યામાંથી ૧૦ બાદ કરવામાં આવે છે. પછીની સંખ્યા ૬૦ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમ = '- ૧૦'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બે અંકની સૌથી મોટી વિશિષ્ટ સંખ્યા કઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે અંકની સૌથી મોટી વિશિષ્ટ સંખ્યા ૯૯ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશિષ્ટ સંખ્યા એટલે જે ઉલટી કરો તો પણ એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ત્રિકોણને ૧/૩ ફેરવવો એટલે કેટલા અંશ ફેરવવો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણને ૧/૩ ફેરવવો એટલે ૧૨૦ અંશના ખૂણે ફેરવવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૬૦ ÷ ૩ = ૧૨૦ અંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ષટ્કોણને કેટલામો આંટો ફેરવતા તે તેના જેવો જ દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત ષટ્કોણને ૧/૬ આંટો ફેરવતા તે તેના મૂળ આકાર જેવો જ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી બાજુ હોય તેટલામો આંટો (ષટ્કોણ એટલે ૧/૬).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પેટર્ન પૂર્ણ કરો: ૨, ૫, ૮, ૧૧...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક સંખ્યામાં ૩ ઉમેરવામાં આવે છે. પછીની સંખ્યા ૧૪ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨ + ૩ = ૫, ૫ + ૩ = ૮.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "શું ૮૦૮ એ વિશિષ્ટ સંખ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, ૮૦૮ ને ઉલટી વાંચતા પણ ૮૦૮ જ થાય છે, તેથી તે વિશિષ્ટ સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જોતા જે સંખ્યા ન બદલાય તે વિશિષ્ટ.</p></div>"
+    }
+  ]
+}
