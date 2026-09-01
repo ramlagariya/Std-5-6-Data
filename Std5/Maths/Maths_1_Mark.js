@@ -1804,3 +1804,211 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "નકશા આલેખન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નકશામાં સામાન્ય રીતે ઉત્તર દિશા કઈ તરફ દર્શાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં સામાન્ય રીતે ઉત્તર દિશા ઉપરની તરફ (ટોચ પર) દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' એટલે ઉપર અને 'ઉ' એટલે ઉત્તર. આ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નકશામાં બે સ્થાનો વચ્ચેનું વાસ્તવિક અંતર જાણવા માટે શેનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં બે સ્થાનો વચ્ચેનું વાસ્તવિક અંતર જાણવા માટે 'પ્રમાણમાપ' (Scale) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશાનું માપ એટલે પ્રમાણમાપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો નકશામાં 1 સેમી = 1 કિમી પ્રમાણમાપ હોય, તો 5 સેમી બરાબર કેટલા કિમી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 સેમી = 1 કિમી હોવાથી, 5 સેમી = 5 કિમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પણ સેમી હોય તેને પ્રમાણમાપ વડે ગુણી નાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રાષ્ટ્રપતિ ભવનથી ઈન્ડિયા ગેટ જતી વખતે કયો મુખ્ય માર્ગ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રપતિ ભવનથી ઈન્ડિયા ગેટ જતી વખતે 'રાજપથ' માર્ગ આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા (રાષ્ટ્રપતિ) નો પથ = રાજપથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિજય ચોકથી ઈન્ડિયા ગેટ તરફ જતાં કઈ દિશામાં જવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજય ચોકથી ઈન્ડિયા ગેટ તરફ જતાં પૂર્વ દિશામાં જવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં જમણી બાજુ હંમેશા પૂર્વ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઈન્ડિયા ગેટની સૌથી નજીક કયો માર્ગ આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ડિયા ગેટની સૌથી નજીક સી.એમ. રોડ (મૃત્યુજય માર્ગ) અથવા માનસિંહ રોડ આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ડિયા ગેટની આસપાસના ગોળાકાર રસ્તાઓ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નકશામાં લઘુકોણ એટલે કેવો ખૂણો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ખૂણાનું માપ 90 અંશથી ઓછું હોય તેને લઘુકોણ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે નાનો (90 થી નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દિલ્હીના નકશામાં લાલ કિલ્લાની પાસે કઈ નદી વહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ કિલ્લાની પાસે યમુના નદી વહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હી = યમુના નદીનું કિનારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો 2 સેમી = 1 કિમી હોય, તો નકશામાં 8 સેમી નું અંતર જમીન પર કેટલા કિમી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 સેમી = 1 કિમી, તેથી 8 સેમી = 8 ÷ 2 = 4 કિમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમીના અડધા કરી દેવા કારણ કે 2 સેમી એ 1 કિમી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લાલ કિલ્લાના પ્રવેશદ્વારને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ કિલ્લાના મુખ્ય પ્રવેશદ્વારને 'લાહોરી ગેટ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લા થી લાલ અને લા થી લાહોરી ગેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નકશામાં દક્ષિણ દિશા કઈ તરફ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં દક્ષિણ દિશા હંમેશા નીચેની તરફ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરની એકદમ વિરુદ્ધ એટલે દક્ષિણ (નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લાલ કિલ્લામાં 'મીના બજાર' ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાહોરી ગેટમાં પ્રવેશતા જ ડાબી બાજુએ હારબંધ નાની દુકાનોવાળા માર્ગને મીના બજાર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેટમાં એન્ટ્રી લેતા જ શોપિંગ (બજાર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નક્કરખાનામાં શું કરવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નક્કરખાનામાં ડ્રમ (નગારાં) વગાડીને રાજાનો સંદેશો સંભળાવવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નક્કરખાના = નગારાખાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દીવાન-એ-આમ કોના માટે હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીવાન-એ-આમમાં રાજા સામાન્ય પ્રજાને મળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આમ' એટલે સામાન્ય જનતા (Mango people).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દીવાન-એ-ખાસમાં કોને મળવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીવાન-એ-ખાસમાં રાજા તેમના મંત્રીઓ અને ખાસ મહેમાનોને મળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાસ' એટલે VIP લોકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નકશામાં બે રસ્તાઓ વચ્ચે બનતા કાટકોણનું માપ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે રસ્તાઓ વચ્ચે બનતા કાટકોણનું માપ 90 અંશ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' આકાર એટલે કાટકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો નકશો 2 સેમી જાળી પરથી 1 સેમી જાળી પર બનાવવામાં આવે, તો ચિત્રના કદમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિત્રનું કદ અડધું થઈ જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળી નાની તો ચિત્ર નાનું, જાળી મોટી તો ચિત્ર મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "માનસિંહ રોડ અને શાહજહાં રોડ વચ્ચે કયો ખૂણો બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનસિંહ રોડ અને શાહજહાં રોડ વચ્ચે ગુરુકોણ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહોળો ખૂણો = ગુરુકોણ (90 થી વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગુજરાતના નકશામાં અમદાવાદથી સુરત કઈ દિશામાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમદાવાદથી સુરત દક્ષિણ દિશામાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચેની તરફ જવું પડે એટલે દક્ષિણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નકશામાં પશ્ચિમ દિશા કઈ બાજુએ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં પશ્ચિમ દિશા ડાબી બાજુએ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વની સામે પશ્ચિમ (ડાબો હાથ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રમાણમાપ 1 સેમી = 100 મીટર હોય, તો 400 મીટર માટે કેટલા સેમી દોરવા પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 સેમી = 100 મીટર, તેથી 400 મીટર = 400 ÷ 100 = 4 સેમી દોરવા પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય ઉડાડી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જનપથ અને રાજપથ એકબીજાને કયા ખૂણે છેદે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જનપથ અને રાજપથ એકબીજાને કાટખૂણે (90 અંશે) છેદે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખ્ય રસ્તાઓ મોટાભાગે '+' આકારે એટલે કે કાટખૂણે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લાલ કિલ્લામાં રાજાનું નહાવાનું સ્થળ કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ કિલ્લામાં 'હમ્મામ' એ રાજાના નહાવાનું સ્થળ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હમ્મામ = બાથરૂમ (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નેશનલ સ્ટેડિયમ ઇન્ડિયા ગેટની કઈ દિશામાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેશનલ સ્ટેડિયમ ઇન્ડિયા ગેટની દક્ષિણ-પૂર્વ દિશામાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં ઈન્ડિયા ગેટની નીચે અને થોડું જમણી બાજુ જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કેન્દ્રીય સચિવાલય કયા માર્ગ પર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્રીય સચિવાલય રાજપથની શરૂઆતમાં વિજય ચોક પાસે આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સચિવાલય એટલે કામ કરવાનું મુખ્ય સ્થળ જે રાષ્ટ્રપતિ ભવન નજીક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિશાઓ કેટલી છે અને કઈ કઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્ય ચાર દિશાઓ છે: ઉત્તર, દક્ષિણ, પૂર્વ અને પશ્ચિમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉદપપ' - ઉ (ત્તર), દ (ક્ષિણ), પ (ૂર્વ), પ (શ્ચિમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શું નકશામાં સ્કેલ વગર અંતર માપી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સ્કેલ (પ્રમાણમાપ) વગર વાસ્તવિક અંતર માપી શકાતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો અધૂરો, સ્કેલ વગરનો પૂરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નકશામાં વાંકીચૂકી રેખા સામાન્ય રીતે શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં વાંકીચૂકી રેખા સામાન્ય રીતે નદી અથવા કાચો રસ્તો દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી ક્યારેય સીધી ન વહે, એટલે વાંકી રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો 1 સેમી = 5 કિમી હોય, તો 15 કિમી માટે કેટલા સેમી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 સેમી = 5 કિમી, તેથી 15 કિમી = 15 ÷ 5 = 3 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ કિમીને પ્રમાણમાપ વડે ભાગી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લાલ કિલ્લાની અંદર આવેલ 'રંગમહાલ' શા માટે જાણીતો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગમહાલ તેની સુંદરતા અને રાણીઓના નિવાસસ્થાન તરીકે જાણીતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ = સુંદરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પરિસરનો નકશો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણી આસપાસના મર્યાદિત વિસ્તારના ચોક્કસ માપ સાથેના રેખાંકનને પરિસરનો નકશો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર કે શાળાની આસપાસનો નકશો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નકશામાં રેલવે લાઈન કયા સંકેતથી દર્શાવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં રેલવે લાઈન કાળા રંગની જાડી પટ્ટી પર ટૂંકી આડી લીટીઓ (ટ્રેક જેવું) દ્વારા દર્શાવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલવેના પાટા યાદ કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "નકશામાં બ્લુ (વાદળી) રંગ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં વાદળી રંગ પાણી (નદી, સમુદ્ર, તળાવ) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનો રંગ વાદળી (Blue).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "દિલ્હીના નકશામાં ઇન્ડિયા ગેટ કયા આકારની અંદર આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્ડિયા ગેટ ષટ્કોણ (Hexagon) આકારના રસ્તાઓની વચ્ચે આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ષટ્કોણ એટલે 6 બાજુવાળો આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો 1 સેમી = 200 કિમી હોય, તો 1000 કિમી માટે નકશામાં કેટલા સેમી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000 ÷ 200 = 5 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 200 નો ઘડિયો બોલો, 1000 ક્યારે આવે? (200 x 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શું નકશામાં ઉત્તર અને દક્ષિણ દિશા એકબીજાની પાસ-પાસે હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ઉત્તર અને દક્ષિણ દિશા એકબીજાની વિરુદ્ધ દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામે-સામે = વિરુદ્ધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નકશામાં સ્કેલ માપ શા માટે અનિવાર્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે આખી પૃથ્વી કે મોટું શહેર કાગળ પર વાસ્તવિક કદમાં દોરી શકાતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી વસ્તુને નાની કરીને જોવા માટે સ્કેલ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નકશામાં લાલ રંગ સામાન્ય રીતે શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં લાલ રંગ મુખ્ય ઈમારતો અથવા ઐતિહાસિક સ્થળો દર્શાવવા વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લો - લાલ રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો નકશામાં બે શહેર વચ્ચેનું અંતર 4 સેમી હોય અને પ્રમાણમાપ 1 સેમી = 50 કિમી હોય, તો વાસ્તવિક અંતર કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 સેમી × 50 કિમી = 200 કિમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમી × પ્રમાણમાપ = સાચું અંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "રાજપથ પર પરેડ કયા દિવસે નીકળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજપથ પર 26મી જાન્યુઆરીએ (પ્રજાસત્તાક દિન) પરેડ નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની શાન એટલે 26મી જાન્યુઆરીની પરેડ.</p></div>"
+    }
+  ]
+}
