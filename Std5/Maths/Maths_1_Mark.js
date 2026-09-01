@@ -672,3 +672,311 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભાગ અને પૂર્ણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અપૂર્ણાંક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ એક વસ્તુ કે સમૂહના સરખા ભાગને 'અપૂર્ણાંક' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક = આખી વસ્તુનો નાનકડો ટુકડો (પણ બધા ટુકડા સરખા હોવા જોઈએ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અપૂર્ણાંકમાં ઉપરની સંખ્યાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપૂર્ણાંકમાં ઉપરની સંખ્યાને 'અંશ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી આકાશ અને 'અ' થી અંશ (આકાશ ઉપર હોય તેમ અંશ પણ ઉપર હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અપૂર્ણાંકમાં નીચેની સંખ્યાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપૂર્ણાંકમાં નીચેની સંખ્યાને 'છેદ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છ' થી જમીન પરનો છેડો (નીચે) એટલે છેદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો એક વર્તુળના 4 સરખા ભાગ કરીએ, તો દરેક ભાગને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક ભાગને ચોથો ભાગ અથવા 'એક ચતુર્થાંશ' (1/4) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ભાગ નીચે લખો અને જે ભાગની વાત હોય તે ઉપર લખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રૂપિયા 1 ના 50 પૈસા એ કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50 પૈસા એ 1 રૂપિયાનો અડધો ભાગ (1/2 ભાગ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ના અડધા 50 થાય, એટલે અડધો ભાગ (1/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૂપિયા 1 નો ચોથો ભાગ એટલે કેટલા પૈસા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂપિયા 1 નો ચોથો ભાગ એટલે 25 પૈસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ભાગ્યા 4 કરો એટલે જવાબ 25 મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અડધાનો અડધો ભાગ એટલે કેટલામો ભાગ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધાનો અડધો ભાગ એટલે ચોથો ભાગ (1/4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલીના અડધા કરો અને એના ફરી અડધા કરો તો 4 ટુકડા થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1 મીટરનો અડધો ભાગ એટલે કેટલા સેમી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મીટરનો અડધો ભાગ એટલે 50 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 100 સેમી, તેથી 100 ના અડધા 50.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "1 કિલોગ્રામનો ચોથો ભાગ એટલે કેટલા ગ્રામ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 કિલોગ્રામનો ચોથો ભાગ એટલે 250 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 ગ્રામ / 4 = 250 ગ્રામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "1 દિવસનો ત્રીજો ભાગ એટલે કેટલા કલાક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 દિવસનો ત્રીજો ભાગ એટલે 8 કલાક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 દિવસ = 24 કલાક, તેથી 24 ÷ 3 = 8 કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો 1 લિટર દૂધના 4 સરખા ભાગ કરીએ, તો દરેક ભાગમાં કેટલું દૂધ આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક ભાગમાં 250 મિલી દૂધ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લિટર = 1000 મિલી, તેથી 1000 ÷ 4 = 250.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એક ડઝન કેળાનો અડધો ભાગ એટલે કેટલા કેળા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ડઝન કેળાનો અડધો ભાગ એટલે 6 કેળા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ડઝન = 12 નંગ, 12 ના અડધા 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "3/4 ને શબ્દોમાં શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3/4 ને શબ્દોમાં 'ત્રણ ચતુર્થાંશ' અથવા 'પોણો ભાગ' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારમાંથી ત્રણ ભાગ એટલે પોણો ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો કોઈ આકૃતિના 5 ભાગમાંથી 2 ભાગમાં રંગ પૂરેલો હોય, તો તેને અપૂર્ણાંકમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને અપૂર્ણાંકમાં 2/5 લખાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગીન ભાગ ઉપર, કુલ ભાગ નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "60 મિનિટનો ચોથો ભાગ એટલે કેટલી મિનિટ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 60 મિનિટનો ચોથો ભાગ એટલે 15 મિનિટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળમાં 15 મિનિટ થાય ત્યારે તે આખું ચક્ર ચોથા ભાગનું પૂર્ણ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમઅપૂર્ણાંક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે અપૂર્ણાંકોની કિંમત સમાન હોય તેને સમઅપૂર્ણાંક કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 અને 2/4 બંનેની કિંમત અડધી જ થાય, તેથી તેઓ સમઅપૂર્ણાંક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો અંશ અને છેદ બંને સરખા હોય, તો તે અપૂર્ણાંકની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો અંશ અને છેદ સરખા હોય, તો તેની કિંમત 1 (આખી વસ્તુ) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5/5 = 1. પાંચમાંથી પાંચેય ભાગ લઈ લો તો આખી વસ્તુ મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "1/2 કિલોગ્રામ અને 1/4 કિલોગ્રામનો સરવાળો કેટલા ગ્રામ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 કિલો (500 ગ્રા) + 1/4 કિલો (250 ગ્રા) = 750 ગ્રામ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો + પા = પોણો (750 ગ્રામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બે અડધા (1/2 + 1/2) ભેગા મળીને શું બનાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે અડધા ભેગા મળીને એક આખી પૂર્ણ વસ્તુ (1) બનાવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અડધી રોટલી જોડો તો એક આખી રોટલી બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "20 રૂપિયાનો ચોથો ભાગ કેટલા રૂપિયા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20 રૂપિયાનો ચોથો ભાગ 5 રૂપિયા થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "4/8 એ કયા અપૂર્ણાંકનો સમઅપૂર્ણાંક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4/8 એ 1/2 નો સમઅપૂર્ણાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 ના અડધા 4 છે, એટલે આ પણ અડધો (1/2) જ ભાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "1/10 કિલોમીટર એટલે કેટલા મીટર?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/10 કિલોમીટર એટલે 100 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિમી = 1000 મીટર, તેથી 1000 ÷ 10 = 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એક લંબચોરસને 6 સરખા ભાગમાં વહેંચતા, દરેક ભાગને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક ભાગને 'છઠ્ઠો ભાગ' (1/6) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા કુલ ભાગ કર્યા હોય તેને છેદમાં મૂકવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "4 ચતુર્થાંશ મળીને શું બને?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 ચતુર્થાંશ મળીને એક આખી વસ્તુ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 + 1/4 + 1/4 + 1/4 = 4/4 = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો રામુ પાસે 20 ટામેટાં હોય અને તે 1/5 ભાગ તેના મિત્રને આપે, તો તેણે કેટલા ટામેટાં આપ્યા હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેણે 4 ટામેટાં આપ્યા હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 ને 5 વડે ભાગતા 4 મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "15 મિનિટ એ 1 કલાકનો કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15 મિનિટ એ 1 કલાકનો ચોથો ભાગ (1/4) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 × 4 = 60, એટલે ચોથો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બે ચતુર્થાંશ એટલે કેટલો ભાગ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ચતુર્થાંશ (2/4) એટલે અડધો (1/2) ભાગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ટુકડામાંથી 2 ટુકડા લો તો તે અડધા જ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અપૂર્ણાંક 5/12 માં છેદ કઈ સંખ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદ 12 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચેની સંખ્યા હંમેશા છેદ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક દિવસના 24 કલાકમાંથી તમે 8 કલાક ઊંઘો છો, તો તમે દિવસનો કેટલામો ભાગ ઊંઘમાં વિતાવો છો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તમે દિવસનો ત્રીજો ભાગ (1/3) ઊંઘમાં વિતાવો છો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8/24 = 1/3 (કારણ કે 8 × 3 = 24).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "100 રૂપિયાના 3/4 ભાગ એટલે કેટલા રૂપિયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100 રૂપિયાના 3/4 ભાગ એટલે 75 રૂપિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 નો ચોથો ભાગ 25, તો ત્રણ ભાગ એટલે 25 × 3 = 75.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો એક સફરજનના બે સરખા ભાગ કરીએ, તો દરેક ભાગને અંકમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક ભાગને અંકમાં 1/2 લખાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો એટલે હંમેશા 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રૂપિયા 1 નો 1/10 ભાગ એટલે કેટલા પૈસા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂપિયા 1 નો 1/10 ભાગ એટલે 10 પૈસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પૈસા ÷ 10 = 10 પૈસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "1/2 લીટરના કેટલા માપિયા ભરીએ તો 2 લીટર દૂધ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 લીટરના 4 માપિયા ભરીએ તો 2 લીટર દૂધ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લીટરમાં 2 અડધા, તો 2 લીટરમાં 4 અડધા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ભારતના રાષ્ટ્રધ્વજમાં કયા રંગનો પટ્ટો ઉપરથી ત્રીજા ભાગમાં (નીચે) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલા રંગનો પટ્ટો નીચેના ત્રીજા ભાગમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્વજના ત્રણ સરખા ભાગ છે: કેસરી (1/3), સફેદ (1/3), લીલો (1/3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "40 ના અડધાનો અડધો ભાગ કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40 ના અડધા (20) અને તેના અડધા 10 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધાનો અડધો એટલે ચોથો ભાગ (40 ÷ 4 = 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "અપૂર્ણાંક 7/10 ને શબ્દોમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત દશાંશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ બોલો અને પછી છેદ બોલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "6/6 ની કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6/6 ની કિંમત 1 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદ સમાન હોય તો જવાબ હંમેશા 'એકડો' (1) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પા ભાગ એટલે કેટલામો ભાગ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પા ભાગ એટલે ચોથો ભાગ (1/4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો: પા = 1/4, અડધો = 1/2, પોણો = 3/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો એક ચોકલેટના 10 ટુકડા હોય અને તમે 2 ટુકડા ખાઓ, તો તમે કેટલામો ભાગ ખાધો ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેં 2/10 અથવા 1/5 ભાગ ખાધો ગણાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાધેલા ટુકડા અંશમાં અને કુલ ટુકડા છેદમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "1 કલાકનો 1/2 ભાગ એટલે કેટલી મિનિટ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30 મિનિટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 60 મિનિટના અડધા 30 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "12 મિલીમીટર એ 1 સેન્ટીમીટરનો કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે 12/10 ભાગ છે (જે એક કરતા મોટો ભાગ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સેમી = 10 મીમી, તેથી છેદમાં 10 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "એક ત્રિકોણના 3 સરખા ભાગમાં એક ભાગમાં લાલ રંગ છે, તો લાલ રંગનો અપૂર્ણાંક લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ રંગનો અપૂર્ણાંક 1/3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગીન ભાગ = 1, કુલ ભાગ = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "500 ગ્રામ ને કિલોગ્રામના કયા અપૂર્ણાંક તરીકે ઓળખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 500 ગ્રામ એટલે 1/2 કિલોગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 ના અડધા 500 થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "1/4 + 1/4 નો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4 + 1/4 = 2/4 એટલે કે 1/2 (અડધો) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે પા ભાગ ભેગા થાય તો અડધો ભાગ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "30 ના 1/3 ભાગ કેટલા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30 ના 1/3 ભાગ 10 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 30 ને 3 વડે ભાગો, એટલે 10 મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો મીરાં 1 કલાકના 1/4 ભાગ સુધી રમે છે, તો તે કેટલી મિનિટ રમે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાં 15 મિનિટ રમે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 60 ÷ 4 = 15.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પોણો ભાગ એટલે અડધામાં કેટલામો ભાગ ઉમેરવો પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધા ભાગમાં પા (1/4) ભાગ ઉમેરવો પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 + 1/4 = 3/4 (પોણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એક ચોરસના 8 ભાગમાંથી 4 ભાગમાં રંગ કરેલો હોય, તો તે આકૃતિનો કેટલામો ભાગ રંગીન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકૃતિનો અડધો (1/2) ભાગ રંગીન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4/8 એટલે કે 8 ના અડધા 4, તેથી 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો 1 કિલો બટાકાની કિંમત 20 રૂપિયા હોય, તો 1/2 કિલો બટાકાની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 રૂપિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું વજન તો કિંમત પણ અડધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "રૂપિયા 1 ના 25 પૈસા એ કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોથો ભાગ (1/4) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 પૈસાના 4 સિક્કા ભેગા કરો ત્યારે 1 રૂપિયો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "75 મિલીમીટર ને સેન્ટીમીટરમાં અપૂર્ણાંક સ્વરૂપે કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 75/10 સેમી લખાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલીમીટર ને સેમી માં ફેરવવા 10 વડે ભાગવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "શૂન્ય સિવાયની કોઈપણ સંખ્યાના અંશ અને છેદ સમાન હોય તો તે શું દર્શાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે આખી વસ્તુ (એકમ/1) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10/10 એટલે આખેઆખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "3/4 કિલોગ્રામ એટલે કેટલા ગ્રામ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 750 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 250 (ચોથો ભાગ) × 3 = 750.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "1/2 અને 2/4 માંથી મોટું કોણ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને સમાન (સરખા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2/4 ને છેદ ઉડાડો તો 1/2 જ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એક ડઝનના ચોથા ભાગ એટલે કેટલી વસ્તુ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 વસ્તુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 ÷ 4 = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "2/3 માં અંશ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંશ 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર બેઠો તે અંશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "1/2 મીટર + 1/2 મીટર બરાબર કેટલા મીટર?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અડધા મીટરની પટ્ટી જોડો તો એક આખી મીટરની પટ્ટી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "45 મિનિટ એ કલાકનો કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 45 મિનિટ એ કલાકનો 3/4 ભાગ (પોણો ભાગ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 મિનિટના 3 ભાગ એટલે 45 મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "અપૂર્ણાંક 1/8 ને શબ્દોમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક અષ્ટમાંશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઠમો ભાગ એટલે અષ્ટમાંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "10 રૂપિયાનો સિક્કો એ 100 રૂપિયાનો કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસમો ભાગ (1/10) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ÷ 10 = 10, એટલે દસમો ભાગ.</p></div>"
+    }
+  ]
+}
