@@ -56,3 +56,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આકાર અને ખૂણા",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બંધ આકાર એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે આકાર બધી બાજુઓથી બંધ હોય અને તેની રેખાઓ ક્યાંયથી ખુલ્લી ન હોય તેને 'બંધ આકાર' કહેવાય છે. દા.ત. ત્રિકોણ, ચોરસ અને લંબચોરસ એ બંધ આકારો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આકારમાં અંદર જવાનો રસ્તો ન હોય (પેક હોય), તે બંધ આકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખૂણાના મુખ્ય ત્રણ પ્રકારો કયા છે? તેના માપ વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂણાના મુખ્ય ત્રણ પ્રકાર છે:<br>1. કાટકોણ: જેનું માપ 90° હોય.<br>2. કાટકોણથી નાનો (લઘુકોણ): જેનું માપ 90° થી ઓછું હોય.<br>3. કાટકોણથી મોટો (ગુરુકોણ): જેનું માપ 90° થી વધુ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી અક્ષર 'L' એટલે કાટકોણ (90°), L થી સાંકડો એ નાનો અને L થી પહોળો એ મોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘડિયાળમાં 3 વાગ્યે કયો ખૂણો બને છે? તેનું માપ કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળમાં જ્યારે 3 વાગે છે, ત્યારે મિનિટ કાંટો 12 પર અને કલાક કાંટો 3 પર હોય છે. આ સમયે બંને કાંટા વચ્ચે 'કાટકોણ' બને છે અને તેનું માપ 90° હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળના કાંટા વચ્ચે 15 મિનિટનું અંતર હોય ત્યારે હંમેશા કાટકોણ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો કાટકોણનું માપ 90° હોય, તો કાટકોણના અડધા ભાગનું માપ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાટકોણનું માપ = 90°<br>તેનો અડધો ભાગ = 90° ÷ 2 = 45°<br>આમ, કાટકોણના અડધા ભાગનું માપ 45° થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડધું' એટલે 2 વડે ભાગાકાર કરવો. 90 ના અડધા 45!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બ્રિજ (પુલ) અને ટાવરમાં ત્રિકોણ આકારનો ઉપયોગ કેમ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણ એક એવો મજબૂત આકાર છે જેને દબાવવાથી તેનો આકાર જલ્દી બદલાતો નથી. આથી બ્રિજ અને ટાવરને મજબૂતી આપવા માટે તેમાં ત્રિકોણ આકારનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ એટલે 'નો ચેન્જ' આકાર. તે દબાણ સામે ટકી રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "તમારા નામમાં રહેલા ખૂણા ઓળખો: અંગ્રેજીમાં 'H' અક્ષરમાં કેટલા કાટકોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ્રેજી અક્ષર 'H' માં કુલ 4 કાટકોણ (90°) આવેલા હોય છે. જ્યાં આડી લીટી બંને ઉભી લીટીઓને મળે છે ત્યાં આ ખૂણાઓ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H ના સાંધા ગણો, ઉપર 2 અને નીચે 2 'L' આકાર દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ષટ્કોણ આકારમાં કેટલી બાજુઓ અને કેટલા ખૂણા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ષટ્કોણ આકારમાં કુલ 6 બાજુઓ હોય છે અને તેમાં કુલ 6 ખૂણાઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ષટ્' એટલે 6. જેટલી બાજુઓ હોય એટલા જ ખૂણા હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘડિયાળમાં 2:00 વાગ્યે કયો ખૂણો બને છે: કાટકોણથી નાનો કે મોટો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળમાં 2:00 વાગ્યે મિનિટ કાંટો 12 પર અને કલાક કાંટો 2 પર હોય છે. આ બંને વચ્ચેનું અંતર 90° (કાટકોણ) કરતા ઓછું હોવાથી તે 'કાટકોણથી નાનો' ખૂણો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 વાગ્યા પહેલાનો કોઈ પણ સમય (1 અને 2 વાગ્યે) કાટકોણથી નાનો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાટકોણના ત્રીજા ભાગનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાટકોણનું માપ = 90°<br>તેનો ત્રીજો ભાગ = 90° ÷ 3 = 30°<br>આમ, કાટકોણના ત્રીજા ભાગનું માપ 30° થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રીજો ભાગ' એટલે 3 વડે ભાગવું. 3 × 30 = 90!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દીવાસળીની મદદથી 4 બાજુવાળો અને 5 બાજુવાળો બંધ આકાર બનાવો (નામ લખો).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 દીવાસળીની મદદથી 'ચોરસ' અથવા 'લંબચોરસ' બનાવી શકાય છે. 5 દીવાસળીની મદદથી 'પંચકોણ' બનાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુની સંખ્યા = દીવાસળીની સંખ્યા!</p></div>"
+    }
+  ]
+}
