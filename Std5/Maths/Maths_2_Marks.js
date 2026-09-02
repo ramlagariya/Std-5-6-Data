@@ -114,3 +114,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "કેટલા ચોરસ?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એક લંબચોરસની લંબાઈ 5 સેમી અને પહોળાઈ 3 સેમી છે, તો તેનું ક્ષેત્રફળ કેટલા ચોરસ સેમી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ <br> ક્ષેત્રફળ = 5 સેમી × 3 સેમી = 15 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે અંદરની જગ્યા! બસ, લંબાઈ અને પહોળાઈનો ગુણાકાર કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો એક ચોરસની બાજુનું માપ 4 સેમી હોય, તો તેની પરિમિતિ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસની પરિમિતિ = 4 × બાજુની લંબાઈ <br> પરિમિતિ = 4 × 4 સેમી = 16 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે બધી બાજુનો સરવાળો. ચોરસમાં 4 બાજુ સરખી હોય, એટલે 4 વડે ગુણી દેવાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક આકૃતિમાં 6 આખા ચોરસ અને 4 અડધા ચોરસ છે, તો આ આકૃતિનું કુલ ક્ષેત્રફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 આખા ચોરસ = 6 ચોરસ સેમી <br> 4 અડધા ચોરસ = 2 આખા ચોરસ (4 ÷ 2) = 2 ચોરસ સેમી <br> કુલ ક્ષેત્રફળ = 6 + 2 = 8 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અડધા ભેગા થાય એટલે એક આખું બને! અડધાને 2 થી ભાગી નાખવાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો એક લંબચોરસનું ક્ષેત્રફળ 20 ચોરસ સેમી હોય અને તેને બરાબર વચ્ચેથી બે સરખા ત્રિકોણમાં વહેંચવામાં આવે, તો દરેક ત્રિકોણનું ક્ષેત્રફળ કેટલું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસને બે સરખા ત્રિકોણમાં વહેંચતા દરેક ત્રિકોણનું ક્ષેત્રફળ લંબચોરસના ક્ષેત્રફળથી અડધું થાય. <br> ત્રિકોણનું ક્ષેત્રફળ = 20 ÷ 2 = 10 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડધું' શબ્દ યાદ રાખો. લંબચોરસના બે સરખા ભાગ એટલે ક્ષેત્રફળના પણ અડધા ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 સેમી માપવાળા 5 ચોરસને એક હરોળમાં ગોઠવતા બનતા નવા લંબચોરસની પરિમિતિ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબાઈ = 5 સેમી, પહોળાઈ = 1 સેમી <br> પરિમિતિ = 2 × (લંબાઈ + પહોળાઈ) <br> પરિમિતિ = 2 × (5 + 1) = 2 × 6 = 12 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ચોરસ લાઈનમાં હોય ત્યારે લંબાઈ વધે પણ પહોળાઈ તો 1 જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક ટપાલ ટિકિટ 4 સેમી લંબાઈ અને 3 સેમી પહોળાઈ ધરાવે છે. આવી 5 ટિકિટો કુલ કેટલું ક્ષેત્રફળ રોકશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ટિકિટનું ક્ષેત્રફળ = 4 × 3 = 12 ચોરસ સેમી <br> 5 ટિકિટનું કુલ ક્ષેત્રફળ = 12 × 5 = 60 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા એકનું શોધો, પછી જેટલી માંગી હોય એના વડે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચોરસ ગ્રીડ પેપર પર એક આકૃતિમાં 2 આખા ચોરસ અને 1 અડધાથી વધારે મોટો ભાગ છે. તેનું અંદાજિત ક્ષેત્રફળ કેટલું ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધાથી વધુ મોટા ભાગને 1 આખો ચોરસ ગણવામાં આવે છે. <br> આથી, કુલ ક્ષેત્રફળ = 2 (આખા) + 1 (વધુ મોટો) = 3 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં દયા રાખવાની! અડધાથી થોડો પણ વધારે હોય તો તેને આખું માની લેવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પરિમિતિ એટલે શું? 2 સેમી બાજુવાળા ચોરસની પરિમિતિ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ બંધ આકૃતિની બધી બાજુઓના માપના સરવાળાને પરિમિતિ કહે છે. <br> 2 સેમી બાજુવાળા ચોરસની પરિમિતિ = 2+2+2+2 = 8 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે 'હદ' અથવા 'બોર્ડર'. બોર્ડર પર ચાલો અને અંતર ગણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "8 ચોરસ સેમી ક્ષેત્રફળ ધરાવતા લંબચોરસમાં જો એક ત્રાંસી લીટી દોરી બે સરખા ત્રિકોણ બનાવીએ, તો દરેક ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસના બે સરખા ભાગ કરવાથી મળતા ત્રિકોણનું ક્ષેત્રફળ = લંબચોરસનું ક્ષેત્રફળ ÷ 2 <br> ત્રિકોણનું ક્ષેત્રફળ = 8 ÷ 2 = 4 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસનો અડધો ભાગ એટલે જ ત્રિકોણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શું બે આકૃતિઓના ક્ષેત્રફળ સમાન હોય તો તેમની પરિમિતિ પણ સમાન જ હોય? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ક્ષેત્રફળ સમાન હોય તો પરિમિતિ અલગ હોઈ શકે છે. <br> દા.ત. 12 ચોરસ સેમી ક્ષેત્રફળ વાળા (4x3) લંબચોરસની પરિમિતિ 14 સેમી થાય, જ્યારે (6x2) લંબચોરસની પરિમિતિ 16 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર બદલાય તો પરિમિતિ બદલાઈ શકે, ભલે અંદરના ચોરસ સરખા હોય!</p></div>"
+    }
+  ]
+}
