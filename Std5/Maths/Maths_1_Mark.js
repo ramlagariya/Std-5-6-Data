@@ -2977,3 +2977,211 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું ભારે? કેટલું હલકું?",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કદ (ઘનફળ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ વસ્તુ જેટલી જગ્યા રોકે તેને તે વસ્તુનું કદ અથવા ઘનફળ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોકેલી જગ્યા = કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લંબઘનનું ઘનફળ શોધવાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘનનું ઘનફળ = લંબાઈ × પહોળાઈ × ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબઘન એટલે 'લપઉ' (લ×પ×ઊ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમઘનનું ઘનફળ શોધવાનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘનનું ઘનફળ = લંબાઈ × લંબાઈ × લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમઘનમાં બધું સરખું એટલે લંબાઈનો ત્રણ વાર ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઘનફળનો એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળનો એકમ 'ઘન સેમી' અથવા 'ઘન મીટર' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કદમાં ત્રણ પરિમાણ હોય એટલે આગળ 'ઘન' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 લિટર એટલે કેટલા મિલિલિટર (મિલી)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 લિટર = 1000 મિલિલિટર (મિલી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિટર મોટો ભાઈ, મિલી નાનો ભાઈ, વચ્ચે 1000 નો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો એક લખોટી 5 મિલી પાણી ઉંચે લાવે, તો 10 લખોટીઓ કેટલું પાણી ઉંચે લાવશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 × 5 = 50 મિલી પાણી ઉંચે લાવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યા × એકનું કદ = કુલ કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વસ્તુને પાણીમાં નાખતા પાણીની સપાટી કેમ ઊંચી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસ્તુ પાણીમાં પોતાની જગ્યા રોકે છે, તેથી તેટલા કદનું પાણી ઉપર તરફ ધકેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી જગ્યા રોકે, એટલું પાણી પોકે (ઉપર ચડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1 સેમી બાજુવાળા સમઘનનું ઘનફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 સેમી × 1 સેમી × 1 સેમી = 1 ઘન સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 નો ગમે તેટલી વાર ગુણાકાર કરો, જવાબ 1 જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક પાંચ રૂપિયાના સિક્કાનું વજન અંદાજે કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચ રૂપિયાના સિક્કાનું વજન અંદાજે 9 ગ્રામ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 ના સિક્કા માટે 'નવ' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 100 સિક્કાનું વજન 900 ગ્રામ હોય, તો 1 સિક્કાનું વજન કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 900 ÷ 100 = 9 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ વજન / સિક્કાની સંખ્યા = એકનું વજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કિલોગ્રામને ગ્રામમાં ફેરવવા કેટલા વડે ગુણવા પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિલોગ્રામને ગ્રામમાં ફેરવવા 1000 વડે ગુણવા પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિલ્લો એટલે હજાર (K = 1000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "2 કિલોગ્રામ એટલે કેટલા ગ્રામ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × 1000 = 2000 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંકડા પાછળ ત્રણ મીંડા લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારે વસ્તુનું કદ માપવા કયા એકમનો ઉપયોગ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારે કે મોટી વસ્તુનું કદ માપવા 'ઘન મીટર' એકમનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાનું તો સેમી, મોટું તો મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરેક બાજુ 2 સેમી હોય તેવા સમઘનનું ઘનફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × 2 × 2 = 8 ઘન સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 નો ઘન 8 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાણીના ગ્લાસમાં પથ્થર નાખતા પાણી કેમ બહાર આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો ગ્લાસ પૂરો ભરેલો હોય અને તેમાં પથ્થર નાખવામાં આવે, તો પથ્થરના કદ જેટલું પાણી બહાર છલકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંદર આવે પથ્થર, બહાર જાય પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લંબાઈ 5 સેમી, પહોળાઈ 2 સેમી અને ઊંચાઈ 1 સેમી ધરાવતા બોક્સનું ઘનફળ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 × 2 × 1 = 10 ઘન સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રણેય માપનો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક થેલીમાં 500 ગ્રામના કેટલા પેકેટ મુકવાથી 2 કિગ્રા વજન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2000 ÷ 500 = 4 પેકેટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 500 + 500 = 1 કિલો, એટલે 1 કિલોમાં 2 પેકેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ક્ષેત્રફળ અને ઘનફળમાં મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષેત્રફળ સપાટીનું માપ છે (2 પરિમાણ), જ્યારે ઘનફળ વસ્તુએ રોકેલી જગ્યાનું માપ છે (3 પરિમાણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળ = લ×પ, ઘનફળ = લ×પ×ઊ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગણિત ગમ્મત પુસ્તકનું કદ માપવા કયા એકમનો ઉપયોગ કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગણિત ગમ્મત પુસ્તકનું કદ માપવા 'ઘન સેમી' નો ઉપયોગ કરીશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુસ્તક નાનું છે, એટલે સેન્ટીમીટર ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક લખોટીનું કદ માપવા માટે કયું સાધન વાપરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માપન ગ્લાસ અથવા મેઝરિંગ સિલિન્ડર (અંકિત નળાકાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રવાહી દ્વારા કદ માપવા 'માપન ગ્લાસ' બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "4000 ગ્રામ બરાબર કેટલા કિલોગ્રામ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 કિલોગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રણ મીંડા કાઢી નાખો એટલે કિલો મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક 2 રૂપિયાના સિક્કાનું વજન 6 ગ્રામ હોય, તો 100 સિક્કાનું વજન કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100 × 6 = 600 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યા × વજન = કુલ વજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઈંટોથી બનેલા સ્ટેજનું કદ કેવી રીતે શોધશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેજ બનાવવા વપરાયેલી કુલ ઈંટોની સંખ્યા ગણીને તેનું કદ શોધી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 ઈંટનું કદ × કુલ ઈંટો = સ્ટેજનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાણીનું કદ માપવાનો પ્રમાણભૂત એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિટર અથવા મિલિલિટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રવાહી હંમેશા 'લિટર' માં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો 1 ઘન સેમી પાણીનું વજન 1 ગ્રામ હોય, તો 50 મિલી પાણીનું વજન કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 મિલી = 1 ગ્રામ (શુદ્ધ પાણી માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિવાસળીની પેટીનું કદ અંદાજે કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિવાસળીની પેટીનું કદ આશરે 10 થી 15 ઘન સેમી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંદાજિત માપ: 5 × 3 × 1 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એક મોટા બોક્સમાં 1 સેમી વાળા 100 સમઘન સમાય છે, તો બોક્સનું ઘનફળ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100 ઘન સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલા નાના સમઘન, એટલું જ મોટા બોક્સનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તમારા કંપાસ બોક્સનું કદ માપવા કઈ કઈ વિગતો જોઈશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંપાસ બોક્સની લંબાઈ, પહોળાઈ અને ઊંચાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3D વસ્તુ માટે 3 માપ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "9 કિગ્રા વજનમાં 5 રૂપિયાના કેટલા સિક્કા હોય? (જો 1 સિક્કો = 9 ગ્રામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9 કિગ્રા = 9000 ગ્રામ. 9000 ÷ 9 = 1000 સિક્કા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિગ્રા ને ગ્રામમાં ફેરવી ભાગાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો પાણીમાં રબર નાખીએ અને સપાટી 2 મિલી વધે, તો રબરનું કદ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 ઘન સેમી (કારણ કે 1 મિલી = 1 ઘન સેમી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીનો વધારો = વસ્તુનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક હાથીનું વજન અંદાજે કેટલું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પુખ્ત હાથીનું વજન અંદાજે 3000 થી 5000 કિલોગ્રામ હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથી એટલે ભારેખમ, વજન ટનમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "અડધા લિટર પાણી એટલે કેટલા મિલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 500 મિલી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1000 ના અડધા 500.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વસ્તુનું વજન કરવા માટે કયું સાધન વપરાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વજન કરવા માટે ત્રાજવું અથવા ઈલેક્ટ્રોનિક વજનકાંટો વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વજન માટે 'કાંટો' અને કદ માટે 'માપન ગ્લાસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક થેલીમાં 20 કિગ્રા ઘઉં છે, તો 5 થેલીમાં કેટલા કિગ્રા ઘઉં થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20 × 5 = 100 કિગ્રા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકનું વજન × સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "લંબાઈ 10 સેમી, પહોળાઈ 5 સેમી અને ઊંચાઈ 2 સેમી ધરાવતી વસ્તુનું ઘનફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 × 5 × 2 = 100 ઘન સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 પંચા 50, 50 દુ 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "1 કિગ્રા સોના અને 1 કિગ્રા રૂ માંથી કોનું કદ વધારે હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 કિગ્રા રૂ નું કદ વધારે હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હલકી વસ્તુ વજન કરવા વધારે જોઈએ, તેથી કદ મોટું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "3000 મિલી એટલે કેટલા લિટર?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 લિટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેલ્લેથી ત્રણ મીંડા કાઢી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક પાત્રમાં 2 લિટર પાણી છે, તેમાં પથ્થર નાખતા તે 2.5 લિટર થાય છે. પથ્થરનું કદ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2.5 - 2 = 0.5 લિટર (અથવા 500 મિલી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નવું માપ - જૂનું માપ = વસ્તુનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "શાકભાજી લેવા માટે વજનનો કયો એકમ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રામ અને કિલોગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓછું હોય તો ગ્રામ (મરચાં), વધુ હોય તો કિલો (બટાટા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "શું બે વસ્તુઓના વજન સરખા હોય તો તેમના કદ પણ સરખા હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, વજન સરખા હોવા છતાં કદ અલગ-અલગ હોઈ શકે છે (દા.ત. લોખંડ અને રૂ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વજન અલગ, કદ અલગ - બંને જોડિયા નથી!</p></div>"
+    }
+  ]
+}
