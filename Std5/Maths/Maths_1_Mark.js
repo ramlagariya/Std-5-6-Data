@@ -2378,3 +2378,186 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ક્ષેત્રફળ અને તેની સીમા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પરિમિતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ બંધ આકૃતિની બધી જ બાજુઓના માપના સરવાળાને તે આકૃતિની પરિમિતિ (સીમા) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે બધી જ બાજુઓનો સરવાળો! (પરિમિતિ = બધી બાજુઓનો પ્લસ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ક્ષેત્રફળ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ આકૃતિએ સપાટી પર રોકેલી જગ્યાને તે આકૃતિનું ક્ષેત્રફળ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે આકૃતિએ રોકેલી 'જગ્યા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચોરસની પરિમિતિ શોધવાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસની પરિમિતિ = 4 × બાજુની લંબાઈ (4 × લંબાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસને 4 બાજુઓ હોય, એટલે '4 ગુણ્યા લંબાઈ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબચોરસની પરિમિતિ શોધવાનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસની પરિમિતિ = 2 × (લંબાઈ + પહોળાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ અને પહોળાઈનો સરવાળો કરી તેને બે ગણા કરી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચોરસનું ક્ષેત્રફળ શોધવાનું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસનું ક્ષેત્રફળ = લંબાઈ × લંબાઈ (બાજુ × બાજુ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં બધું સરખું, એટલે લંબાઈનો લંબાઈ સાથે ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લંબચોરસનું ક્ષેત્રફળ શોધવાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસમાં બે અલગ માપ હોય, તેનો ગુણાકાર એટલે ક્ષેત્રફળ (L × B).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ક્ષેત્રફળનો એકમ કઈ રીતે લખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષેત્રફળનો એકમ ચોરસ સેમી (ચો.સેમી), ચોરસ મીટર (ચો.મી) અથવા ચોરસ કિમી (ચો.કિમી) માં લખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ હોય તો આગળ 'ચોરસ' લગાડવું ભૂલવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો ચોરસની બાજુનું માપ 5 સેમી હોય, તો તેની પરિમિતિ કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 × 5 સેમી = 20 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 બાજુઓ છે, એટલે 5 + 5 + 5 + 5 = 20 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "8 સેમી લંબાઈ અને 3 સેમી પહોળાઈ ધરાવતા લંબચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8 × 3 = 24 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ = લંબાઈ × પહોળાઈ (8 × 3 = 24).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટિકિટ જેવી નાની વસ્તુનું ક્ષેત્રફળ કયા એકમમાં મપાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટિકિટ જેવી નાની વસ્તુનું ક્ષેત્રફળ 'ચોરસ સેમી' માં મપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુ = સેમી, મોટી વસ્તુ = મીટર, બહુ મોટી (ગામ/શહેર) = કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પુસ્તકના પાનાનું ક્ષેત્રફળ માપવા માટે કયો એકમ વપરાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુસ્તકના પાનાનું ક્ષેત્રફળ માપવા માટે 'ચોરસ સેમી' વપરાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારી ફૂટપટ્ટીમાં સેમી હોય, એટલે ચોપડી સેમીમાં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શાળાના મેદાનનું ક્ષેત્રફળ માપવા કયો એકમ વધુ યોગ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળાના મેદાનનું ક્ષેત્રફળ 'ચોરસ મીટર' માં મપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદાન મોટું હોય, એટલે મીટરમાં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો એક ચોરસની સીમા 20 સેમી હોય, તો તેની એક બાજુનું માપ કેટલું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીમા 20 સેમી ÷ 4 = 5 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ આપી હોય અને બાજુ શોધવી હોય, તો 4 વડે ભાગાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેતરની ફરતે વાળ (fencing) કરવી હોય, તો શું શોધવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતરની ફરતે વાળ કરવા માટે ખેતરની પરિમિતિ શોધવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફરતે' અથવા 'સીમા' શબ્દ આવે એટલે પરિમિતિ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઓરડામાં ટાઇલ્સ લગાવવા માટે શું શોધવું જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓરડામાં ટાઇલ્સ લગાવવા માટે ઓરડાનું ક્ષેત્રફળ શોધવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આખી સપાટી ઢાંકવાની હોય (ટાઇલ્સ, રંગ, ગાલીચો), ત્યારે ક્ષેત્રફળ શોધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારત દેશનું ક્ષેત્રફળ કયા એકમમાં દર્શાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત દેશનું ક્ષેત્રફળ 'ચોરસ કિલોમીટર' (ચો.કિમી) માં દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશ કે રાજ્ય જેવી વિશાળ જગ્યા માટે હંમેશા કિલોમીટર વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો લંબચોરસની લંબાઈ 10 સેમી અને પહોળાઈ 5 સેમી હોય, તો તેની પરિમિતિ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × (10 + 5) = 2 × 15 = 30 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ + પહોળાઈ = 15, અને તેને ડબલ કરો = 30.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક ચોરસ બગીચાની લંબાઈ 50 મીટર છે, તો તેની સીમા કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 × 50 મીટર = 200 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની સીમા એટલે 4 ગુણ્યા લંબાઈ (4 × 50 = 200).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "1 ચોરસ મીટર એટલે કેટલા ચોરસ સેમી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 ચોરસ મીટર = 10,000 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 સેમી × 100 સેમી = 10,000 (બે વાર 100 નો ગુણાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો આલેખ પત્ર પર એક આકૃતિ 15 આખા ખાના રોકે છે, તો તેનું ક્ષેત્રફળ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો દરેક ખાનું 1 ચોરસ સેમીનું હોય, તો આકૃતિનું ક્ષેત્રફળ 15 ચોરસ સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ખાના, તેટલું ક્ષેત્રફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લંબાઈ 12 સેમી અને પહોળાઈ 2 સેમી ધરાવતા પટ્ટાની પરિમિતિ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × (12 + 2) = 2 × 14 = 28 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટ્ટો એટલે લંબચોરસ. (12+2) × 2 = 28.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક ચોરસનું ક્ષેત્રફળ 36 ચોરસ સેમી છે, તો તેની એક બાજુની લંબાઈ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 સેમી (કારણ કે 6 × 6 = 36).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઈ સંખ્યાને તે જ સંખ્યા સાથે ગુણવાથી 36 આવે? 6!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સાનીયાએ 10 સેમી લાંબો અને 8 સેમી પહોળો ગ્રીટિંગ કાર્ડ બનાવ્યો, તેની સીમા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × (10 + 8) = 2 × 18 = 36 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીમા = (L+B) ના ડબલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ક્ષેત્રફળનો સૌથી નાનો એકમ કયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય વપરાશમાં ક્ષેત્રફળનો સૌથી નાનો એકમ ચોરસ મિલીમીટર છે (પુસ્તક મુજબ ચોરસ સેમી ગણી શકાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમી થી નાનું મિલીમીટર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો લંબચોરસનું ક્ષેત્રફળ 40 ચો.સેમી અને લંબાઈ 10 સેમી હોય, તો પહોળાઈ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહોળાઈ = ક્ષેત્રફળ ÷ લંબાઈ = 40 ÷ 10 = 4 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળને લંબાઈ વડે ભાગવાથી પહોળાઈ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "એક ટેબલની ઉપરની સપાટી 2 મીટર લાંબી અને 1 મીટર પહોળી છે, તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 × 1 = 2 ચોરસ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L × B = 2 × 1 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પરિમિતિનો એકમ શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેમી, મીટર કે કિલોમીટર (પરિમિતિમાં 'ચોરસ' શબ્દ આવતો નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે લંબાઈનો સરવાળો, એટલે તે માત્ર લંબાઈના એકમમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ચોરસ કેરમ બોર્ડની એક બાજુ 90 સેમી છે, તો તેની પરિમિતિ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 × 90 = 360 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 + 90 + 90 + 90 = 360.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "હાથરૂમાલનું ક્ષેત્રફળ માપવા કયો એકમ વપરાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથરૂમાલનું ક્ષેત્રફળ 'ચોરસ સેમી' માં મપાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથરૂમાલ નાનો હોય, એટલે સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો આકૃતિ અડધા કરતાં વધુ ખાનું રોકે, તો ગણતરીમાં તેને કેટલું ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને આખું ખાનું (1 ચોરસ એકમ) ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધાથી વધુ = 1, અડધાથી ઓછું = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો આકૃતિ આલેખ પત્રમાં બરાબર અડધું ખાનું રોકે તો તેને કેટલું ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને 1/2 (અડધો) ચોરસ એકમ ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અડધા ભેગા થાય એટલે એક આખું બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ત્રિકોણની પરિમિતિ કેવી રીતે શોધાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણની ત્રણેય બાજુઓના માપનો સરવાળો કરવાથી તેની પરિમિતિ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ આકાર હોય, બધી બાજુ પ્લસ કરો એટલે પરિમિતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કપડાંના તાકાનું ક્ષેત્રફળ કયા એકમમાં મપાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કપડાંના તાકાનું ક્ષેત્રફળ 'ચોરસ મીટર' માં મપાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડું મીટરમાં આવે એટલે ક્ષેત્રફળ ચોરસ મીટરમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક ચોરસ પ્લોટની બાજુ 10 મીટર છે, તો તેનું ક્ષેત્રફળ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 × 10 = 100 ચોરસ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસનું ક્ષેત્રફળ = બાજુ ગુણ્યા બાજુ (10 × 10 = 100).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો બે લંબચોરસના ક્ષેત્રફળ સરખા હોય, તો શું તેની પરિમિતિ પણ હંમેશા સરખી જ હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ક્ષેત્રફળ સરખા હોય છતાં પરિમિતિ અલગ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર બદલાય તો પરિમિતિ બદલાઈ શકે, પણ ક્ષેત્રફળ એ જ રહી શકે.</p></div>"
+    }
+  ]
+}
