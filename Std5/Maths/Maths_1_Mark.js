@@ -2170,3 +2170,211 @@ var Std5_Maths_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દસમો અને સોમો ભાગ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "૧ સેન્ટિમીટરના ૧૦ સરખા ભાગમાંના એક ભાગને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ સેન્ટિમીટરના ૧૦ સરખા ભાગમાંના એક ભાગને ૧ મિલીમીટર (મીમી) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમીનો 'દસમો' ભાગ એટલે મિલીમીટર (mm)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "૧ મિલીમીટરને સેન્ટિમીટરમાં દશાંશ સ્વરૂપે કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ મિલીમીટરને ૦.૧ સેમી (શૂન્ય દશાંશ એક સેમી) લખાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦ મીમી = ૧ સેમી, તેથી ૧ મીમી = ૧/૧૦ એટલે કે ૦.૧ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "૦.૫ સેમી એટલે કેટલા મિલીમીટર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૫ સેમી એટલે ૫ મિલીમીટર (મીમી) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીનો પહેલો આંકડો જો સેમીમાં હોય, તો તે પોતે જ 'મીમી' દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રૂપિયાના ૧૦૦ સરખા ભાગમાંના એક ભાગને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂપિયાના ૧૦૦ સરખા ભાગમાંના એક ભાગને '૧ પૈસો' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ રૂપિયો = ૧૦૦ પૈસા, તો ૧૦૦મો ભાગ એટલે ૧ પૈસો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "૫ પૈસાને રૂપિયામાં દશાંશ સ્વરૂપે કેવી રીતે લખશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫ પૈસા એટલે ₹ ૦.૦૫ લખાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસાને રૂપિયામાં ફેરવવા હોય ત્યારે હંમેશા બે અંક પહેલાં દશાંશ ચિહ્ન મૂકવું (૦૫ -> ૦.૦૫).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "૧૦ સેમી એ ૧ મીટરનો કેટલામો ભાગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦ સેમી એ ૧ મીટરનો દસમો (૧/૧૦) ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ સેમી = ૧ મીટર, તો ૧૦/૧૦૦ એટલે મીંડું મીંડું ઉડી જાય, વધે ૧/૧૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "તાપમાન માપવા માટે કયા એકમનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન માપવા માટે 'ડિગ્રી સેલ્સિયસ' (°C) એકમનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાવ માપવો હોય કે શહેરનું તાપમાન, યાદ રાખવાનું 'સેલ્સિયસ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "૭૫ પૈસાને રૂપિયામાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭૫ પૈસા = ₹ ૦.૭૫.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે આંકડા હોય તો આગળ સીધું '૦.' લગાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "૦.૯ સેમી અને ૧ સેમી માંથી મોટું કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ સેમી એ ૦.૯ સેમી કરતા મોટું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ એટલે આખું, જ્યારે ૦.૯ એટલે હજુ ૧૦ માંથી ૯ જ ભાગ થયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "૩ મીટર ૪૫ સેમી ને દશાંશ સ્વરૂપે મીટરમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩ મીટર ૪૫ સેમી = ૩.૪૫ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટરને પોઈન્ટની ડાબી બાજુ અને સેમીને જમણી બાજુ બે અંકમાં લખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "૧/૧૦૦ ને દશાંશ સંખ્યામાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧/૧૦૦ = ૦.૦૧.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં બે શૂન્ય હોય તો પોઈન્ટ પછી બે આંકડા આવવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "૨૫ મીમી એટલે કેટલા સેમી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૫ મીમી = ૨.૫ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીમી માંથી સેમીમાં જવા માટે જમણી બાજુથી એક આંકડો છોડી પોઈન્ટ મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૂપિયાનો અડધો ભાગ એટલે કેટલા પૈસા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂપિયાનો અડધો ભાગ એટલે ૫૦ પૈસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ ના અડધા ૫૦, સિમ્પલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "૦.૦૭ ને શબ્દોમાં કેવી રીતે વંચાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૦૭ ને 'સાત શતાંશ' અથવા 'શૂન્ય દશાંશ શૂન્ય સાત' વંચાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે આંકડા હોય તો 'શતાંશ' બોલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો એક દિવાસળીની લંબાઈ ૪.૫ સેમી હોય, તો તેની લંબાઈ મીમીમાં કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪.૫ સેમી = ૪૫ મીલીમીટર (મીમી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમીમાંથી મીમીમાં જવા માટે પોઈન્ટ કાઢી નાખો (૧૦ વડે ગુણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "૮૦ સેમી ને મીટરમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮૦ સેમી = ૦.૮૦ મીટર અથવા ૦.૮ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ વડે ભાગાકાર એટલે બે સ્ટેપ ડાબી બાજુ પોઈન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "૫/૧૦ ને દશાંશ સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫/૧૦ = ૦.૫.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દસમો ભાગ એટલે પોઈન્ટ પછી તરત પહેલો આંકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભારતનું ચલણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનું ચલણ 'રૂપિયો' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણી નોટો પર ₹ નું ચિહ્ન હોય છે તે જ આપણું ચલણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "૨ સેમી ૭ મીમી ને દશાંશમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨ સેમી ૭ મીમી = ૨.૭ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમી પછી તરત પોઈન્ટ મૂકી મીમી લખી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શૂન્ય દશાંશ ચાર ને અંકમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૪.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય બોલાય એટલે ૦, દશાંશ બોલાય એટલે પોઈન્ટ (.), અને ચાર એટલે ૪.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રૂપિયાનો ચોથો ભાગ એટલે કેટલા પૈસા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂપિયાનો ચોથો ભાગ એટલે ૨૫ પૈસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ ના અડધા ૫૦, ૫૦ ના અડધા ૨૫!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "૯૯ પૈસા એટલે કેટલા રૂપિયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯૯ પૈસા = ₹ ૦.૯૯.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ રૂપિયો થવામાં માત્ર ૧ પૈસો ઓછો છે એટલે ૦.૯૯.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "૧ મીટર ૫ સેમી ને દશાંશમાં કેવી રીતે લખશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ મીટર ૫ સેમી = ૧.૦૫ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્યાન રાખો, જો ૫ સેમી હોય તો ૦૫ લખવું પડે (૧.૫ નહિ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "૧૫/૧૦૦ ને દશાંશમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૫/૧૦૦ = ૦.૧૫.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે શૂન્ય = જમણી બાજુથી બે આંકડા ગણીને પોઈન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દશાંશ સંખ્યા ૦.૬ માં '૬' ની સ્થાનકિંમત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૬ માં ૬ ની સ્થાનકિંમત ૬/૧૦ (૬ દશાંશ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીનો પહેલો સ્થાન એટલે દશાંશ (છેદમાં ૧૦).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તાપમાન માપવાના સાધનને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન માપવાના સાધનને 'થર્મોમીટર' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થર્મો' એટલે ગરમી અને 'મીટર' એટલે માપક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "૧ મીટરના ૧૦૦ સરખા ભાગમાંના ૩૦ ભાગને દશાંશમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૦/૧૦૦ મીટર એટલે કે ૦.૩૦ મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૦ ભાગ એટલે ૩૦ સેમી, જેને ૦.૩૦ મીટર લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "૨.૪ સેમી લંબાઈની રેખા દોરવા કેટલા આખા સેમી અને કેટલા મીમી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨ આખા સેમી અને ૪ મિલીમીટર જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પહેલાના આખા સેમી, પોઈન્ટ પછીના મિલીમીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "૦.૫૦ અને ૦.૫ માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને સંખ્યાઓ સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ પછી છેલ્લા શૂન્યનું મૂલ્ય હોતું નથી, ૦.૫ = ૦.૫૦ = ૦.૫૦૦.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "૧૦૦ મિલીમીટર એટલે કેટલા સેન્ટીમીટર?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦૦ મિલીમીટર = ૧૦ સેન્ટીમીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦ મીમી = ૧ સેમી, તો ૧૦૦ મીમી = ૧૦ સેમી (એક શૂન્ય કાઢી નાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક પેન્સિલની લંબાઈ ૭ સેમી અને ૩ મીમી છે, તો તેને સેમીમાં કેવી રીતે લખશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭.૩ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેમી' આખી સંખ્યા, 'મીમી' પોઈન્ટ પછીની સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રૂપિયા ૧ માં ૨ પૈસા ઉમેરતા દશાંશમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ₹ ૧.૦૨.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨ પૈસા એટલે ૦.૦૨, ૧ માં ઉમેરતા ૧.૦૨ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "૦.૮૨ ને સામાન્ય અપૂર્ણાંકમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૮૨ = ૮૨/૧૦૦.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે આંકડા હોય તો છેદમાં ૧૦૦ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક દેડકો ૦.૯ મીટર લાંબો કૂદકો મારે છે, તો તેણે કેટલા સેમી કૂદકો માર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૯ મીટર = ૯૦ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટર માંથી સેમીમાં જવા ૧૦૦ વડે ગુણો (૦.૯ x ૧૦૦ = ૯૦).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "દશાંશ સંખ્યા ૪.૫૭ માં '૭' ની સ્થાનકિંમત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪.૫૭ માં ૭ ની સ્થાનકિંમત ૭/૧૦૦ (૭ શતાંશ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બીજા સ્થાનની કિંમત હંમેશા છેદમાં ૧૦૦ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "૧૨ મીમી ને સેમીમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧.૨ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦ મીમી = ૧ સેમી, બાકી વધ્યા ૨ મીમી, એટલે ૧.૨ સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શૂન્ય દશાંશ શૂન્ય પાંચ ને અંકમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૦૫.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ બોલાય તેમ જ લખો: શૂન્ય (૦) દશાંશ (.) શૂન્ય (૦) પાંચ (૫).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રૂપિયા ૨ અને ૫૦ પૈસાને દશાંશમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ₹ ૨.૫૦.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયા અને પૈસા વચ્ચે પોઈન્ટની 'દિવાલ' બનાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "૧ મીટરના ૧૦ સરખા ભાગમાંના એક ભાગને સેમીમાં કેટલા કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૦ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ / ૧૦ = ૧૦ સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "૦.૧ સેમી એટલે કેટલા મીમી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧ મીમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૦.૧ સેમી એ જ ૧ મિલીમીટરની કિંમત છે.</p></div>"
+    }
+  ]
+}
