@@ -462,3 +462,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ખોખાં અને રેખા-આકૃતિ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમઘન એટલે શું? તેની કેટલી સપાટીઓ (બાજુઓ) હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેની લંબાઈ, પહોળાઈ અને ઊંચાઈ સમાન હોય તેવા ત્રિ-પરિમાણીય (3D) આકારને સમઘન કહેવાય છે. સમઘનને કુલ 6 સપાટીઓ હોય છે અને તેની દરેક સપાટી ચોરસ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો: 'પાસો (Dice)' એ સમઘનનું શ્રેષ્ઠ ઉદાહરણ છે. પાસા પર 1 થી 6 અંક હોય, એટલે સપાટી પણ 6 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખુલ્લા ખોખા (Open Box) માટેની રેખા-આકૃતિ (Net) માં કેટલા ચોરસ હોવા જોઈએ? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લા ખોખા માટેની રેખા-આકૃતિમાં કુલ 5 ચોરસ હોવા જોઈએ. કારણ કે ખુલ્લા ખોખામાં ઉપરનું ઢાંકણ હોતું નથી, તેથી 6 સપાટીને બદલે માત્ર 5 જ સપાટીની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ખોખું = 6 બાજુ, ખુલ્લું ખોખું = 6 - 1 (ઢાંકણ) = 5 બાજુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નકશો (Floor Plan) અને ઊંડું ચિત્ર (Deep Drawing) વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશો (Floor Plan) ઘરની જગ્યા અને બારી-બારણાંનું સ્થાન ઉપરથી દર્શાવે છે, જ્યારે ઊંડું ચિત્ર (Deep Drawing) એ ઘરની ઊંચાઈ અને વાસ્તવિક દેખાવ દર્શાવે છે જેથી તે 3D જેવું લાગે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો = ક્યાં શું છે તે બતાવે, ઊંડું ચિત્ર = કેવું દેખાય છે તે બતાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમઘન બનાવવા માટેની કોઈપણ એક રેખા-આકૃતિ (Net) દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘનની રેખા-આકૃતિમાં 6 સપાટી હોવી જોઈએ. સૌથી સામાન્ય આકૃતિ 'T' આકાર અથવા 'ક્રૉસ' જેવી દેખાય છે, જેમાં ચાર ચોરસ ઉભા અને બે આજુબાજુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1-4-1' નિયમ યાદ રાખો! વચ્ચે 4 ચોરસની લાઈન અને ડાબે-જમણે 1-1 ચોરસ. કુલ 6 થઈ ગયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાસા (Dice) ની સામસામેની બાજુઓ પર રહેલા અંકોનો સરવાળો કેટલો થાય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણભૂત પાસામાં સામસામેની બાજુઓ પર રહેલા અંકોનો સરવાળો હંમેશા 7 થાય છે. દા.ત. જો ઉપર 1 હોય તો નીચે 6 હશે (1+6=7), જો સામે 2 હોય તો પાછળ 5 હશે (2+5=7).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાતનો સાથ' - પાસાની સામસામેની જોડીનો સરવાળો હંમેશા સાત જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નળાકાર આકાર બનાવવા માટે કેવી રેખા-આકૃતિની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળાકાર (Cylinder) બનાવવા માટે એક લંબચોરસ કાગળ અને બે સમાન વર્તુળાકાર સપાટી (ઢાંકણ અને તળિયું) ની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસને ગોળ વાળો એટલે ભૂંગળું બને અને બે બાજુ બે સિક્કા મૂકો એટલે નળાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શંકુ (Cone) ની રેખા-આકૃતિ કેવા પ્રકારના આકારની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકુ બનાવવા માટે વર્તુળના એક ભાગ (વર્તુળાંશ) અને એક નાના વર્તુળની જરૂર પડે છે. જો ઉપરથી ખુલ્લો શંકુ હોય, તો માત્ર વર્તુળાંશથી પણ બની શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્થડે કેપ (ટોપી) યાદ કરો, તેને ખોલો એટલે પાઈ (Pie) ના ટુકડા જેવો આકાર દેખાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દિવાસળીના ખોખાને ખોલતા તે કેવો આકાર ધરાવે છે? લંબઘન કે સમઘન?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિવાસળીનું ખોખું લંબઘન (Cuboid) આકાર ધરાવે છે. તેને ખોલતા તેની છ સપાટીઓ લંબચોરસ જોવા મળે છે, કારણ કે તેની લંબાઈ, પહોળાઈ અને ઊંચાઈ સરખી હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધી બાજુ સરખી હોય તો સમઘન, પણ જો ઈંટ જેવું લાંબુ હોય તો લંબઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઘરના નકશામાં (Floor Plan) બારીઓ માટે કયા પ્રકારના નિશાનનો ઉપયોગ થાય છે અને તે શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નકશામાં બારીઓ દર્શાવવા માટે દીવાલની વચ્ચે ખાલી જગ્યા અથવા ચોક્કસ રેખાંકિત નિશાન રાખવામાં આવે છે. તે દર્શાવે છે કે દીવાલમાં કઈ જગ્યાએ બારી આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો એ ઘરનો 'ફોટો' નથી પણ 'નક્કર આયોજન' છે, માટે તેમાં માત્ર બારીનું સ્થાન જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શું 4 ચોરસ ધરાવતી રેખા-આકૃતિમાંથી બંધ સમઘન બનાવી શકાય? કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, 4 ચોરસમાંથી બંધ સમઘન ન બનાવી શકાય. બંધ સમઘન માટે ફરજિયાત 6 સપાટી (ચોરસ) હોવી જોઈએ. 4 ચોરસમાંથી તો માત્ર ચાર દીવાલો જ બને, તળિયું અને ઢાંકણ બાકી રહી જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન એટલે 'છક્કો' (6), 6 થી ઓછું હોય તો સમઘન અધૂરું કહેવાય!</p></div>"
+    }
+  ]
+}
