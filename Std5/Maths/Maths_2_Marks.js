@@ -230,3 +230,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "તે સરખું દેખાય છે?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અંગ્રેજી મૂળાક્ષરોમાં એવા કયા અક્ષરો છે જે અડધો આંટો (1/2 turn) ફેરવ્યા પછી પણ પહેલા જેવા જ દેખાય છે? કોઈ પણ ચાર ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ્રેજી મૂળાક્ષરોમાં H, I, O, S, X, Z અને N એવા અક્ષરો છે જેમને અડધો આંટો ફેરવતા તે પહેલા જેવા જ દેખાય છે. <br>ઉદાહરણ તરીકે: (1) H, (2) I, (3) O, (4) X.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અડધો આંટો એટલે વસ્તુને ઊંધી કરી દેવી. જો ઊંધી કર્યા પછી પણ અક્ષર વંચાય અને એવો જ લાગે, તો તે 1/2 ટર્ન પછી સમાન છે એમ કહેવાય. (યાદ રાખો: H-I-N-O-S-X-Z)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "0 થી 9 સુધીના અંકોમાં એવા કયા અંકો છે જેને અડધો આંટો (1/2 turn) ફેરવતા તે મૂળ અંકો જેવા જ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 થી 9 સુધીના અંકોમાં નીચે મુજબના અંકો અડધો આંટો ફેરવ્યા પછી પણ મૂળ અંકો જેવા જ દેખાય છે:<br>1. અંક '0'<br>2. અંક '1'<br>3. અંક '8'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>નંબરને કાગળ પર લખીને કાગળને 180 ડિગ્રી ફેરવો. જો 0, 1 અને 8 બદલાતા નથી, તો તે સાચા છે. (નોંધ: 1 ને માત્ર સીધી લીટી તરીકે ગણવો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બે અંકો વાળી એવી સંખ્યાઓ લખો જેને અડધો આંટો (1/2 turn) ફેરવતા તે જ સંખ્યા મળે. (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે અંકો વાળી સંખ્યાઓ જે અડધો આંટો ફેરવતા સમાન રહે છે:<br>1. 11<br>2. 88<br>3. 00 (જોકે આને સંખ્યા તરીકે ગણતા નથી, પણ પેટર્નમાં ગણી શકાય)<br>આમ, મુખ્ય સંખ્યાઓ 11 અને 88 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>માત્ર 1 અને 8 નો ઉપયોગ કરીને જોડી બનાવો. જેમ કે 11 અને 88. 18 કે 81 નહીં ચાલે કારણ કે તે ઉલટાવતા બદલાઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ત્રણ અંકો વાળી એવી ચાર સંખ્યાઓ લખો જેને અડધો આંટો (1/2 turn) ફેરવતા તે જ સંખ્યા વંચાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ અંકો વાળી સંખ્યાઓ જે અડધો આંટો ફેરવતા સમાન રહે છે:<br>1. 101<br>2. 111<br>3. 808<br>4. 888<br>(આ સિવાય 181 અને 818 પણ હોઈ શકે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આવી સંખ્યા બનાવવા માટે પહેલો અને છેલ્લો અંક સરખો રાખવો અને વચ્ચે 0, 1 કે 8 મૂકવા. જેમ કે: 1_1, 8_8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચોરસ (Square) ને 1/4 આંટો ફેરવતા તે કેવો દેખાશે? આકૃતિ દોર્યા વગર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસની ચારેય બાજુઓ સમાન હોય છે. તેથી જ્યારે તેને 1/4 (પા ભાગનો) આંટો ફેરવવામાં આવે છે, ત્યારે પણ તે મૂળ આકૃતિ એટલે કે ચોરસ જેવો જ દેખાય છે. તેના આકારમાં કોઈ ફેરફાર જણાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જે આકૃતિ ચારેય તરફથી એકસરખી (Symmetrical) હોય, તેને 1/4 ફેરવો કે 1/2, તે હંમેશા મૂળ આકૃતિ જેવી જ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કયા પ્રકારના ત્રિકોણને 1/3 આંટો (1/3 turn) ફેરવતા તે પહેલા જેવો જ દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ત્રિકોણની ત્રણેય બાજુઓ સમાન હોય (સમબાજુ ત્રિકોણ - Equilateral Triangle), તેને 1/3 આંટો ફેરવતા તે મૂળ સ્થિતિ જેવો જ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1/3 ટર્ન એટલે 120 ડિગ્રી. જો આકૃતિના 3 સરખા પાંખિયા કે બાજુ હોય, તો જ તે 1/3 ટર્નમાં સરખી દેખાય. (જેમ કે ત્રણ પાંખિયાવાળો પંખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેના શબ્દોને અડધો આંટો ફેરવતા કયા શબ્દો એવા ને એવા જ વંચાશે? (1) MOW (2) SWIMS (3) SIS (4) NOON",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલા ચારેય શબ્દો (MOW, SWIMS, SIS, NOON) ને અડધો આંટો ફેરવતા તે મૂળ શબ્દો જેવા જ વંચાશે. <br>કારણ કે તેમાં વપરાયેલા અક્ષરો 1/2 ટર્ન પછી પણ ઓળખી શકાય તેવા રહે છે અને શબ્દની ગોઠવણી તે મુજબની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>તમારા પાઠ્યપુસ્તકને ઉંધુ કરીને આ શબ્દો વાંચો. જો તે 'સીધા' જેવુ જ વંચાય, તો જવાબ 'હા' આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તફાવત સ્પષ્ટ કરો: 1/2 આંટો અને 1/4 આંટો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 1/2 આંટો: એટલે કે વસ્તુને અડધી ફેરવવી (180 ડિગ્રી). તે મૂળ સ્થિતિથી બરાબર વિરુદ્ધ દિશામાં આવે છે.<br>2. 1/4 આંટો: એટલે કે વસ્તુને ચોથા ભાગની ફેરવવી (90 ડિગ્રી). તે ઘડિયાળના કાંટાની જેમ એક ખૂણેથી બીજા ખૂણે પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1/2 આંટો એટલે માથું નીચે અને પગ ઉપર (ઉંધા થવું). 1/4 આંટો એટલે પડખું ફેરવવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ષટ્કોણ (Hexagon) ને 1/6 આંટો ફેરવતા તે કેવો દેખાશે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત ષટ્કોણને 1/6 આંટો ફેરવતા તે બિલકુલ મૂળ ષટ્કોણ જેવો જ દેખાશે. કારણ કે ષટ્કોણને 6 સરખી બાજુઓ અને 6 ખૂણા હોય છે. 1/6 ફેરવતા તેનો દરેક ખૂણો તેની બાજુના ખૂણાનું સ્થાન લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જેટલી બાજુઓ સરખી, તેટલામાં ભાગનો આંટો ફેરવો તો આકૃતિ હંમેશા સમાન જ રહે! (ષટ્કોણ = 6 બાજુ = 1/6 ટર્ન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંમિતિ (Symmetry) ની લીટી એટલે શું? એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે તૂટક રેખા કોઈ આકૃતિના બે સરખા ભાગ કરે અને તે બંને ભાગ એકબીજાના દર્પણ પ્રતિબિંબ (Mirror halves) હોય, તે રેખાને સંમિતિની લીટી કહેવાય છે. <br>ઉદાહરણ: પતંગિયાના શરીરની બરોબર વચ્ચેથી પસાર થતી ઉભી રેખા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>તૂટક રેખા પર અરીસો મૂકો, જો આખી આકૃતિ પૂરી દેખાય, તો તે સંમિતિની રેખા (Mirror Line) છે!</p></div>"
+    }
+  ]
+}
