@@ -288,3 +288,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "હું તારો ગુણક, તું મારો અવયવ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંખ્યા 4 ના પ્રથમ 5 ગુણક (અવયવી) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંખ્યા 4 ના પ્રથમ 5 ગુણક નીચે મુજબ છે:<br>4 × 1 = 4<br>4 × 2 = 8<br>4 × 3 = 12<br>4 × 4 = 16<br>4 × 5 = 20<br>આમ, 4 ના પ્રથમ પાંચ ગુણક 4, 8, 12, 16 અને 20 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુણક' એટલે જે-તે સંખ્યાનો ઘડિયો (Table) બોલવો. જેટલા ગુણક માંગ્યા હોય ત્યાં સુધી ઘડિયો લખી નાખવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંખ્યા 25 ના બધા જ અવયવો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25 કયા કયા ઘડિયામાં આવે છે તે તપાસીએ:<br>1 × 25 = 25<br>5 × 5 = 25<br>આથી, 25 ના અવયવો: 1, 5 અને 25 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ શોધતી વખતે હંમેશા જોડી બનાવો (જેમ કે 1 અને 25). 5x5 માં 5 બે વાર છે પણ લખવાનો એક જ વાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંખ્યા 18 માટે 'અવયવ વૃક્ષ' (Factor Tree) બનાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18 નું અવયવ વૃક્ષ:<br>18 = 2 × 9<br>હવે 9 ના ભાગ પાડીએ: 9 = 3 × 3<br>આમ, 18 ના અંતિમ અવયવો: 2, 3, 3 છે.<br>(ચિત્રમાં: 18 માંથી બે શાખા 2 અને 9, પછી 9 માંથી બે શાખા 3 અને 3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડની ડાળીઓની જેમ ભાગ પાડતા જાઓ જ્યાં સુધી છેલ્લે અવિભાજ્ય સંખ્યા (જેના ભાગ ન પડે) ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "3 અને 4 ના પ્રથમ બે 'સામાન્ય ગુણક' શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>3 ના ગુણક: 3, 6, 9, 12, 15, 18, 21, 24...<br>4 ના ગુણક: 4, 8, 12, 16, 20, 24, 28...<br>બંનેમાં સરખા હોય તેવા પ્રથમ બે ગુણક 12 અને 24 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નાનો સામાન્ય ગુણક (LCM) મળી જાય પછી તેનો ઘડિયો બોલવાથી બાકીના બધા જ સામાન્ય ગુણક મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યા 12 અને 18 ના સામાન્ય અવયવો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>12 ના અવયવો: 1, 2, 3, 4, 6, 12<br>18 ના અવયવો: 1, 2, 3, 6, 9, 18<br>સામાન્ય અવયવો (બંનેમાં હોય તેવા): 1, 2, 3 અને 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 હંમેશા દરેક સંખ્યાનો સામાન્ય અવયવ હોય જ, એટલે તેને ભૂલવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "7 ના એવા ગુણક લખો જે 20 અને 40 ની વચ્ચે આવતા હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 નો ઘડિયો બોલતા:<br>7 × 3 = 21<br>7 × 4 = 28<br>7 × 5 = 35<br>આમ, 20 અને 40 ની વચ્ચે આવતા 7 ના ગુણક 21, 28 અને 35 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મર્યાદા (Range) જુઓ, જે સંખ્યા રેન્જની બહાર જાય તેને લિસ્ટમાંથી કાઢી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો આમલીના 12 કચૂકાને હારમાં ગોઠવવા હોય, તો કેટલી અલગ-અલગ રીતે ગોઠવી શકાય? (અવયવના આધારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12 ના અવયવો પાડતા:<br>1 × 12, 12 × 1<br>2 × 6, 6 × 2<br>3 × 4, 4 × 3<br>આમ, 12 કચૂકાને કુલ 6 અલગ-અલગ લંબચોરસ હારમાં ગોઠવી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યાના અવયવની જોડી બને, તેટલી જ રીતે હાર કે લંબચોરસ બનાવી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંખ્યા 30 ના અવિભાજ્ય અવયવો ગુણાકારની રીતે શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>30 = 2 × 15<br>30 = 2 × 3 × 5<br>આમ, 30 ના અવિભાજ્ય અવયવો 2, 3 અને 5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા નાની સંખ્યા (2, 3, 5...) થી ભાગ ચલાવવાનું શરૂ કરો, જવાબ ક્યારેય ખોટો નહીં પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શું 6 એ 36 નો અવયવ છે? કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, 6 એ 36 નો અવયવ છે. <br>કારણ કે 36 ને 6 વડે ભાગતા શેષ 0 વધે છે (6 × 6 = 36). જે સંખ્યા વડે આપેલી સંખ્યાને નિ:શેષ ભાગી શકાય, તે તેનો અવયવ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘડિયામાં એ સંખ્યા આવતી હોય, તો તે ચોક્કસપણે તેનો અવયવ હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "5 અને 6 નો સૌથી નાનો સામાન્ય ગુણક (લ.સા.અ.) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>5 ના ગુણક: 5, 10, 15, 20, 25, 30, 35...<br>6 ના ગુણક: 6, 12, 18, 24, 30, 36...<br>બંનેમાં આવતો સૌથી પહેલો અને નાનો સામાન્ય ગુણક 30 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બે સંખ્યાઓ ક્રમિક હોય (જેમ કે 5 અને 6), તો તેમનો ગુણાકાર જ તેમનો સૌથી નાનો સામાન્ય ગુણક બને!</p></div>"
+    }
+  ]
+}
