@@ -520,3 +520,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દસમો અને સોમો ભાગ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એક પેન્સિલની લંબાઈ 6 સેમી અને 5 મીમી છે, તો તેને દશાંશ સંખ્યામાં (સેમીમાં) કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં, 10 મીમી = 1 સેમી થાય. તેથી 5 મીમી = 0.5 સેમી. <br>કુલ લંબાઈ = 6 સેમી + 0.5 સેમી = 6.5 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીમીને સેમીમાં ફેરવવા માટે મીમીના આંકડાની આગળ ટપકું (દશાંશ ચિહ્ન) મૂકી દો. જેમ કે, 5 મીમી = .5 સેમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "75 પૈસાને રૂપિયામાં દશાંશ સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે જાણીએ છીએ કે 100 પૈસા = 1 રૂપિયો. <br>તેથી, 75 પૈસા = 75/100 રૂપિયા = 0.75 રૂપિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સોમા ભાગની વાત હોય (પૈસા), ત્યારે જમણી બાજુથી બે અંક પછી દશાંશ ચિહ્ન મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંખ્યા 15.72 માં '7' અને '2' ની સ્થાનકિંમત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં 7 એ દશાંશના સ્થાને છે, તેથી તેની કિંમત 7/10 અથવા 0.7 છે. <br>2 એ શતાંશ (સોમા) સ્થાને છે, તેથી તેની કિંમત 2/100 અથવા 0.02 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી પહેલો અંક એટલે 'દસમો ભાગ' અને બીજો અંક એટલે 'સોમો ભાગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચડતા ક્રમમાં ગોઠવો: 0.05, 0.50, 0.09, 0.15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંખ્યાઓની સરખામણી કરતા ચડતો ક્રમ આ મુજબ થશે: <br>0.05 < 0.09 < 0.15 < 0.50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીના અંકોને પૈસાની જેમ જુઓ. 5 પૈસા, 50 પૈસા, 9 પૈસા અને 15 પૈસા. હવે તમે સરળતાથી નક્કી કરી શકશો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક દેડકો 3 મીટર અને 45 સેમી લાંબો કૂદકો મારે છે. આ લંબાઈને માત્ર મીટરમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100 સેમી = 1 મીટર થાય. <br>તેથી 45 સેમી = 0.45 મીટર. <br>કુલ લંબાઈ = 3 + 0.45 = 3.45 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટર આખી સંખ્યા છે અને સેમી પોઈન્ટ પછીની સંખ્યા છે. સીધું લખો: 3.45 મીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "0.4 અને 0.04 માંથી કઈ સંખ્યા મોટી છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.4 મોટી સંખ્યા છે. <br>કારણ કે 0.4 એટલે 4/10 (40 પૈસા) અને 0.04 એટલે 4/100 (4 પૈસા) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યાઓને સરખી કરવા પાછળ શૂન્ય લગાવો. 0.40 અને 0.04 માં 40 મોટા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્રીનગરનું તાપમાન 8.5 °C છે અને મુંબઈનું 25.0 °C છે. બંને વચ્ચે તાપમાનનો તફાવત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તફાવત = 25.0 - 8.5 <br>= 16.5 °C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકી કરતી વખતે પોઈન્ટની નીચે પોઈન્ટ આવે તે ખાસ ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અશુદ્ધ અપૂર્ણાંક 25/10 અને 125/100 ને દશાંશ સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1) 25/10 = 2.5 <br>2) 125/100 = 1.25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે એક શૂન્ય હોય તો જમણેથી એક અંક પછી પોઈન્ટ, બે શૂન્ય હોય તો બે અંક પછી પોઈન્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "9/100 ને દશાંશ સંખ્યામાં લખો અને તેને શબ્દોમાં વાંચો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9/100 = 0.09 <br>તેને 'શૂન્ય દશાંશ નવ શતાંશ' અથવા 'શૂન્ય પોઈન્ટ ઝીરો નવ' વંચાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 100 હોય પણ અંશમાં એક જ અંક હોય, તો આગળ ઝીરો મૂકવો પડે (0.09).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રૂપિયા 5.50 અને રૂપિયા 2.25 નો સરવાળો કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>&nbsp;&nbsp;5.50<br>+ 2.25<br>-------<br>&nbsp;&nbsp;7.75</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસાના સરવાળામાં હંમેશા પોઈન્ટ પછીના બે આંકડા જાળવી રાખવા.</p></div>"
+    }
+  ]
+}
