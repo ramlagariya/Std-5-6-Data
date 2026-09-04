@@ -636,3 +636,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સ્માર્ટ ચાર્ટ્સ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એક વર્ગના 24 વિદ્યાર્થીઓએ તેમના મનપસંદ પાલતુ પ્રાણી વિશે જણાવ્યું. જેમાંથી 1/2 ભાગના બાળકોને કુતરો ગમે છે. તો કેટલા બાળકોને કુતરો ગમતો હશે? ગણતરી દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુલ વિદ્યાર્થીઓની સંખ્યા = 24. <br>કુતરો ગમતો હોય તેવા બાળકો = કુલ સંખ્યાના 1/2 ભાગ <br>= 24 × 1/2 = 12 બાળકો. <br>આમ, 12 બાળકોને કુતરો ગમતો હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ અડધો (1/2) ભાગ શોધવો હોય, ત્યારે આપેલી સંખ્યાને સીધી 2 વડે ભાગી નાખવી. (24 ÷ 2 = 12)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આવૃત્તિ ચિહ્ન (Tally Marks) નો ઉપયોગ કરીને સંખ્યા '13' અને '7' ને કેવી રીતે દર્શાવશો? દોરીને સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિ ચિહ્નમાં 5 માટે એક પેટી (ચોરસ અને એક ત્રાસી લીટી) વપરાય છે. <br>13 માટે: [5] + [5] + 3 લીટીઓ (|||) <br>7 માટે: [5] + 2 લીટીઓ (||)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 ના પાંચકા બનાવતા જાઓ! '13' એટલે 5 ના બે જૂથ અને વધારાની 3 ઉભી લીટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચપાટી ચાર્ટ (વર્તુળ આલેખ) માં જો 1/4 ભાગના બાળકોને દૂધ પીવું ગમતું હોય અને કુલ બાળકો 40 હોય, તો કેટલા બાળકોને દૂધ પીવું ગમતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂધ ગમતા બાળકો = 40 ના 1/4 = 10 બાળકો. <br>દૂધ ન ગમતા બાળકો = કુલ બાળકો - ગમતા બાળકો <br>= 40 - 10 = 30 બાળકો. </p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો 1/4 ભાગને ગમે છે, તો 3/4 ભાગને નથી ગમતું. 10 ના ત્રણ ગણા એટલે 30!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક છોડની ઊંચાઈ સોમવારે 5.4 સેમી હતી, જે શુક્રવારે વધીને 8.9 સેમી થઈ. તો આ દિવસો દરમિયાન છોડની ઊંચાઈમાં કેટલો વધારો થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચાઈમાં થયેલ વધારો = અંતિમ ઊંચાઈ - પ્રારંભિક ઊંચાઈ <br>= 8.9 સેમી - 5.4 સેમી = 3.5 સેમી. <br>આમ, છોડ 3.5 સેમી વધ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્ન નીચે દશાંશ ચિહ્ન મૂકીને સાદી બાદબાકી કરો, જવાબ તરત મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક કુટુંબના વૃક્ષમાં શોભનાના દાદાની ઉંમર 72 વર્ષ છે અને શોભનાની ઉંમર 12 વર્ષ છે. શોભનાના દાદા તેના કરતા કેટલા ગણા મોટા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગણા શોધવા માટે: દાદાની ઉંમર ÷ શોભનાની ઉંમર <br>= 72 ÷ 12 = 6. <br>આમ, દાદા શોભના કરતા 6 ગણા મોટા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 નો ઘડિયો બોલો! 12 છીક 72. એટલે કે 6 ગણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચે આપેલ આવૃત્તિ ચિહ્નો જોઈને સંખ્યા લખો: <br> (I) [5][5][5]|| <br> (II) [5]||||",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (I) અહીં 5 ના 3 જૂથ અને 2 લીટી છે, તેથી: 5 + 5 + 5 + 2 = 17. <br>(II) અહીં 5 નું 1 જૂથ અને 4 લીટી છે, તેથી: 5 + 4 = 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરેક બંધ પેટીને 5 ગણો અને છૂટી લીટીને 1 ગણી સરવાળો કરી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "તાપમાનના આલેખમાં દિલ્હીનું તાપમાન 33°C અને શિમલાનું તાપમાન 22°C છે. દિલ્હી શિમલા કરતા કેટલું ગરમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તફાવત = દિલ્હીનું તાપમાન - શિમલાનું તાપમાન <br>= 33°C - 22°C = 11°C. <br>આમ, દિલ્હી શિમલા કરતા 11°C વધુ ગરમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કેટલું વધારે' કે 'કેટલું ઓછું' પૂછાય ત્યારે હંમેશા બાદબાકી જ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચપાટી ચાર્ટમાં 1/2 ભાગ લાલ રંગનો, 1/4 ભાગ વાદળી અને બાકીનો 1/4 ભાગ પીળો રંગ છે. જો કુલ 100 ખાના હોય, તો પીળા રંગના ખાનાની સંખ્યા કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીળો રંગ = કુલ ખાનાનો 1/4 ભાગ <br>= 100 × 1/4 = 25. <br>તેથી પીળા રંગના 25 ખાના હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100 ના ચાર સરખા ભાગ એટલે 25, 25, 25 અને 25. તો ચોથો ભાગ 25 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો 1 આવૃત્તિ ચિહ્ન [5] એ 5 વાહનો દર્શાવે, તો 40 વાહનો દર્શાવવા માટે આવા કેટલા ચિહ્નો દોરવા પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરૂરી ચિહ્નોની સંખ્યા = કુલ વાહનો ÷ એક ચિહ્નની કિંમત <br>= 40 ÷ 5 = 8. <br>આમ, 8 આવૃત્તિ ચિહ્નો દોરવા પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 નો ઘડિયો બોલો, 40 ક્યારે આવે? 5 અઠ્ઠા 40, એટલે જવાબ 8!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક સ્તંભ આલેખમાં 1 સેમી ઊંચાઈ = 10 કિલોગ્રામ વજન છે. જો કોઈ વસ્તુનો સ્તંભ 6 સેમી ઊંચો હોય, તો તેનું વજન કેટલું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણમાપ મુજબ, 1 સેમી = 10 કિગ્રા. <br>માટે 6 સેમી = 6 × 10 = 60 કિગ્રા. <br>તેથી તે વસ્તુનું વજન 60 કિલોગ્રામ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આલેખમાં જ્યારે પણ પ્રમાણમાપ આપ્યું હોય, ત્યારે આપેલી સંખ્યાનો ગુણાકાર કરી નાખવો.</p></div>"
+    }
+  ]
+}
