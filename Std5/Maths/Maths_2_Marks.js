@@ -752,3 +752,61 @@ var Std5_Maths_2_Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "કેટલું મોટું? કેટલું ભારે?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એક સમઘન પેટીની દરેક બાજુનું માપ 4 સેમી છે, તો તે પેટીનું ઘનફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>સમઘનનું ઘનફળ = બાજુ × બાજુ × બાજુ <br>= 4 સેમી × 4 સેમી × 4 સેમી <br>= 64 ઘન સેમી. <br>આમ, પેટીનું ઘનફળ 64 ઘન સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમઘન હોય તો ત્રણ વાર ગુણાકાર' - આપેલી સંખ્યાને તે જ સંખ્યા સાથે ત્રણ વાર ગુણી નાખો (4x4x4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક લંબઘન ખોખાની લંબાઈ 6 સેમી, પહોળાઈ 3 સેમી અને ઊંચાઈ 2 સેમી છે. આ ખોખાનું ઘનફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>લંબઘનનું ઘનફળ = લંબાઈ × પહોળાઈ × ઊંચાઈ <br>= 6 સેમી × 3 સેમી × 2 સેમી <br>= 36 ઘન સેમી. <br>આમ, ખોખાનું ઘનફળ 36 ઘન સેમી થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L-B-H નો ગુણાકાર' - આપેલી ત્રણેય સંખ્યાનો સીધો ગુણાકાર એટલે લંબઘનનું ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો 5 રૂપિયાના એક સિક્કાનું વજન 9 ગ્રામ હોય, તો આવા 100 સિક્કાનું કુલ વજન કેટલા ગ્રામ થાય? તેને કિલોગ્રામમાં પણ ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 સિક્કાનું વજન = 9 ગ્રામ <br>માટે 100 સિક્કાનું વજન = 100 × 9 = 900 ગ્રામ. <br>કિલોગ્રામમાં ફેરવતા: 900 / 1000 = 0.9 કિગ્રા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા પાછળ શૂન્ય લગાવો! 9 પાછળ બે શૂન્ય (100 ના) એટલે 900 ગ્રામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક માપક ગ્લાસમાં 30 મિલી પાણી છે. તેમાં એક પથ્થર નાખતા પાણીની સપાટી વધીને 45 મિલી થાય છે, તો પથ્થરનું કદ કેટલું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>પથ્થરનું કદ = અંતિમ સપાટી - શરૂઆતની સપાટી <br>= 45 મિલી - 30 મિલી <br>= 15 મિલી. <br>આમ, પથ્થરનું કદ 15 મિલી (અથવા 15 ઘન સેમી) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટું માપ માઇનસ નાનું માપ' - પાણી જેટલું વધે એટલું જ પથ્થરનું કદ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિવાસળીના એક ખોખાનું કદ 10 ઘન સેમી છે. આવા 15 ખોખામાંથી બનાવેલા સ્ટેજનું કુલ કદ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 ખોખાનું કદ = 10 ઘન સેમી <br>માટે 15 ખોખાનું કુલ કદ = 15 × 10 = 150 ઘન સેમી. <br>આમ, સ્ટેજનું કુલ કદ 150 ઘન સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એકનું આપ્યું હોય અને વધુનું શોધવું હોય ત્યારે હંમેશા ગુણાકાર જ કરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "1 સેમી બાજુવાળા કેટલા સમઘન 5 સેમી × 4 સેમી × 2 સેમી માપના લંબઘન ખોખામાં સમાઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>લંબઘન ખોખાનું ઘનફળ = 5 × 4 × 2 = 40 ઘન સેમી. <br>1 સેમી બાજુવાળા સમઘનનું ઘનફળ = 1 ઘન સેમી. <br>સમઘનની સંખ્યા = 40 / 1 = 40. <br>આમ, 40 સમઘન સમાઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખાના માપનો ગુણાકાર કરો, જે જવાબ આવે તેટલા જ 1 સેમી ના સમઘન સમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "2 કિલોગ્રામ અને 500 ગ્રામ એટલે કુલ કેટલા ગ્રામ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 કિલોગ્રામ = 1000 ગ્રામ <br>માટે 2 કિલોગ્રામ = 2000 ગ્રામ <br>કુલ વજન = 2000 ગ્રામ + 500 ગ્રામ = 2500 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિગ્રા ની સંખ્યાને 1000 વડે ગુણીને બાકીના ગ્રામ તેમાં ઉમેરી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક લખોટીનું કદ 4 મિલી છે. જો એક ગ્લાસમાં આવી 12 લખોટીઓ નાખવામાં આવે, તો તે ગ્લાસમાં પાણીની સપાટીમાં કેટલો વધારો થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 લખોટીનું કદ = 4 મિલી <br>માટે 12 લખોટીનું કુલ કદ = 12 × 4 = 48 મિલી. <br>આમ, પાણીની સપાટીમાં 48 મિલીનો વધારો થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વસ્તુનું કદ, એટલો જ પાણીમાં વધારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક થેલીમાં 2 રૂપિયાના સિક્કાનું કુલ વજન 3000 ગ્રામ (3 કિગ્રા) છે. જો એક સિક્કાનું વજન 6 ગ્રામ હોય, તો થેલીમાં કેટલા સિક્કા હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કુલ વજન = 3000 ગ્રામ <br>એક સિક્કાનું વજન = 6 ગ્રામ <br>સિક્કાની સંખ્યા = કુલ વજન / એક સિક્કાનું વજન <br>= 3000 / 6 = 500 સિક્કા. <br>આમ, થેલીમાં 500 સિક્કા હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સંખ્યા શોધવાની હોય ત્યારે 'કુલ વજન ÷ એકનું વજન' યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક ઈંટની લંબાઈ 20 સેમી, પહોળાઈ 10 સેમી અને ઊંચાઈ 5 સેમી છે. આ ઈંટનું ઘનફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ઈંટનું ઘનફળ = લંબાઈ × પહોળાઈ × ઊંચાઈ <br>= 20 સેમી × 10 સેમી × 5 સેમી <br>= 1000 ઘન સેમી. <br>આમ, ઈંટનું ઘનફળ 1000 ઘન સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 × 10 = 200, અને 200 × 5 = 1000. મીંડા ગણીને છેલ્લે મૂકી દેવા!</p></div>"
+    }
+  ]
+}
