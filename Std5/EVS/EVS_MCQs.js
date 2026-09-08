@@ -921,3 +921,671 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પાણી સાથેના પ્રયોગો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ફુલેલી પૂરીને જ્યારે પાણી ભરેલા વાસણમાં મૂકવામાં આવે છે ત્યારે તે...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પાણી પર તરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા ભરેલી અને વજનમાં હલકી વસ્તુ હંમેશા પાણી ઉપર 'રાજ' કરે એટલે કે 'તરે'.</p></div>",
+      "options": {
+        "A": "પાણી પર તરશે",
+        "B": "પાણીમાં ડૂબી જશે",
+        "C": "પાણીના તળિયે બેસી જશે",
+        "D": "અડધી ડૂબશે અને અડધી તરશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કઈ વસ્તુ પાણીમાં ડૂબી જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લોખંડની ખીલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ પાણી કરતાં ભારે અને નાની (ઘનતા વધુ) હોય તે સીધી 'પાતાળ'માં જાય એટલે કે ડૂબે.</p></div>",
+      "options": {
+        "A": "પ્લાસ્ટિકનો દડો",
+        "B": "દીવાસળીની સળી",
+        "C": "લોખંડની ખીલી",
+        "D": "સૂકું પાંદડું"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખાલી પ્લાસ્ટિકની બોટલ પાણી પર મૂકતા શું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે તરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોટલ 'ખાલી' એટલે હવાથી 'ફૂલેલી', જે હલકી હોવાથી ક્યારેય ડૂબે નહીં.</p></div>",
+      "options": {
+        "A": "તે ડૂબી જશે",
+        "B": "તે તરશે",
+        "C": "તે ઓગળી જશે",
+        "D": "તેના ટુકડા થઈ જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જ્યારે સ્ટીલની પ્લેટને પાણી પર સાવચેતીથી મૂકવામાં આવે છે ત્યારે તે...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટનો ફેલાવો (ક્ષેત્રફળ) વધારે હોવાથી તે વધુ પાણીને ખસેડે છે અને જાદુની જેમ તરે છે.</p></div>",
+      "options": {
+        "A": "તરશે",
+        "B": "ડૂબી જશે",
+        "C": "પાણીમાં ઓગળી જશે",
+        "D": "રંગ બદલશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાબુની ટીકડી (ગોટી) પાણીમાં નાખતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુ પોતે વજનદાર હોય છે, માટે તે ડૂબે છે, પણ જો તેને પ્લાસ્ટિકના કેસ પર રાખો તો તે તરી શકે છે.</p></div>",
+      "options": {
+        "A": "તરે છે",
+        "B": "ડૂબી જાય છે",
+        "C": "હવામાં ઊડે છે",
+        "D": "અદ્રશ્ય થઈ જાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાણીમાં મીઠું નાખીને હલાવતા તે ક્યાં જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તે પાણીમાં ઓગળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું એ પાણીનો પાકો મિત્ર છે, હલાવતા જ તેમાં ભળીને 'ગાયબ' થઈ જાય!</p></div>",
+      "options": {
+        "A": "પાણીની ઉપર તરે છે",
+        "B": "પાણીના તળિયે બેસી રહે છે",
+        "C": "તે પાણીમાં ઓગળી જાય છે",
+        "D": "તેમાંથી વરાળ બને છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કઈ વસ્તુ પાણીમાં ઓગળતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ચોક પાવડર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સફેદ પાવડર થોડીવાર પછી તળિયે બેસી જાય એ ઓગળ્યો નથી તેમ સમજવું.</p></div>",
+      "options": {
+        "A": "ખાંડ",
+        "B": "મીઠું",
+        "C": "દૂધ",
+        "D": "ચોક પાવડર"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીમાં તેલ નાખતા શું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તેલ પાણીની ઉપર તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ અને પાણીને ક્યારેય બનતું નથી, તેલ હંમેશા પાણીની 'માથે' બેસે છે (ઉપર તરે).</p></div>",
+      "options": {
+        "A": "તેલ પાણીની ઉપર તરે છે",
+        "B": "તેલ પાણીમાં ઓગળી જાય છે",
+        "C": "તેલ પાણીના તળિયે બેસી જાય છે",
+        "D": "તેલ અને પાણી મિક્સ થઈ દૂધ જેવું બને છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કયા દરિયાના પાણીમાં માણસ ડૂબતો નથી પણ તરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૃત દરિયો (Dead Sea)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં મીઠું સૌથી વધુ, ત્યાં તરવું સૌથી સહેલું. એટલે જ 'ડેડ સી'માં સુતા-સુતા પણ તરી શકાય.</p></div>",
+      "options": {
+        "A": "અરબી સમુદ્ર",
+        "B": "મૃત દરિયો (Dead Sea)",
+        "C": "હિંદ મહાસાગર",
+        "D": "પેસિફિક મહાસાગર"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મૃત દરિયાના 1 લિટર પાણીમાં આશરે કેટલા ગ્રામ મીઠું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 300 ગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લિટરમાં 300 ગ્રામ એટલે કે લગભગ એક તૃતિયાંશ ભાગ તો મીઠું જ!</p></div>",
+      "options": {
+        "A": "100 ગ્રામ",
+        "B": "200 ગ્રામ",
+        "C": "300 ગ્રામ",
+        "D": "500 ગ્રામ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીએ દાંડી યાત્રા કયા વર્ષમાં કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1930</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાનો સત્યાગ્રહ = 1930. આ આંકડો પર્યાવરણ અને ઈતિહાસ બંનેમાં યાદ રાખવો.</p></div>",
+      "options": {
+        "A": "1942",
+        "B": "1930",
+        "C": "1915",
+        "D": "1947"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દરિયાના પાણીમાંથી મીઠું પકવવાની પ્રક્રિયાને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાષ્પીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજની ગરમી પાણીને 'ઉડાડી' દે અને મીઠાને 'બચાડી' દે - આ જ બાષ્પીભવન.</p></div>",
+      "options": {
+        "A": "ગાળણ",
+        "B": "નીતારણ",
+        "C": "બાષ્પીભવન",
+        "D": "ઘનીભવન"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગ્લાસમાં પાણી ભરીને તેમાં લીંબુ નાખતા તે ડૂબી જાય છે, પણ તેમાં મીઠું ઉમેરતા લીંબુનું શું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તે તરવા લાગશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીને 'ભારે' બનાવે છે, અને ભારે પાણી હલકા લીંબુને ઉપર ધકેલે છે.</p></div>",
+      "options": {
+        "A": "તે તરવા લાગશે",
+        "B": "તે વધુ ઊંડે ડૂબશે",
+        "C": "લીંબુ ઓગળી જશે",
+        "D": "પાણીનો રંગ બદલાઈ જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખાંડને પાણીમાં ઝડપથી ઓગળવા માટે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પાણીને હલાવવું જોઈએ અથવા ગરમ કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી અને હલનચલન એ ઓગળવાની પ્રક્રિયાના 'બૂસ્ટર' છે.</p></div>",
+      "options": {
+        "A": "તેને ઠંડા પાણીમાં નાખવી",
+        "B": "તેને એમ જ રહેવા દેવી",
+        "C": "ખાંડ પર મીઠું નાખવું",
+        "D": "પાણીને હલાવવું જોઈએ અથવા ગરમ કરવું જોઈએ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટિફિનના ઢાંકણ પર પાણી, તેલ અને ખાંડના દ્રાવણના ટીપાં મૂકતા કયું ટીપું સૌથી પહેલા આગળ નીકળી જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પાણીનું ટીપું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાતળું તે 'દોડવીર'! તેલ અને ચાસણી ઘટ્ટ હોવાથી ધીમે ચાલે.</p></div>",
+      "options": {
+        "A": "પાણીનું ટીપું",
+        "B": "તેલનું ટીપું",
+        "C": "ખાંડના દ્રાવણનું ટીપું",
+        "D": "બધા જ ટીપાં સાથે પહોંચશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભીનાં કપડાં સૂર્યપ્રકાશમાં રાખતા કેમ સુકાઈ જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણીનું બાષ્પીભવન થવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યની ગરમી પાણીને વરાળ બનાવીને આકાશમાં લઈ જાય છે.</p></div>",
+      "options": {
+        "A": "પવનને કારણે",
+        "B": "પાણીનું બાષ્પીભવન થવાથી",
+        "C": "કપડાં પાણી પી જાય છે",
+        "D": "ગરમીથી કપડાં સંકોચાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મીઠું પકવનાર વ્યક્તિને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અગરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાના ખેતરને 'અગર' કહેવાય અને તેમાં કામ કરે તે 'અગરિયા'.</p></div>",
+      "options": {
+        "A": "ખેડૂત",
+        "B": "કુંભાર",
+        "C": "અગરિયા",
+        "D": "માછીમાર"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ દાંડી યાત્રા ક્યાંથી શરૂ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અમદાવાદ (સાબરમતી આશ્રમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદથી દાંડી સુધીની પદયાત્રા - મીઠાના કાયદાનો ભંગ કરવા.</p></div>",
+      "options": {
+        "A": "અમદાવાદ",
+        "B": "સુરત",
+        "C": "રાજકોટ",
+        "D": "ભાવનગર"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચા બનાવતી વખતે કઈ વસ્તુ પાણીમાં ઓગળી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખાંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાની પત્તી અને આદુ રહે છે, પણ ખાંડ મજાની 'મીઠાશ' બનીને ઓગળી જાય છે.</p></div>",
+      "options": {
+        "A": "ચાની પત્તી",
+        "B": "ખાંડ",
+        "C": "આદુ",
+        "D": "એલચી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો પાણીમાં માટી નાખીને હલાવવામાં આવે અને પછી થોડીવાર રહેવા દેવામાં આવે તો શું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માટી તળિયે બેસી જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટી પાણીમાં ઓગળતી નથી, તે વજનદાર હોવાથી 'થાકીને' નીચે બેસી જાય છે.</p></div>",
+      "options": {
+        "A": "માટી અદ્રશ્ય થઈ જશે",
+        "B": "માટી ઉપર તરશે",
+        "C": "માટી તળિયે બેસી જશે",
+        "D": "પાણી ગાયબ થઈ જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચોક પાવડર અને પાણીના મિશ્રણને કઈ રીતે અલગ કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કાપડ કે ફિલ્ટર પેપરથી ગાળીને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ ઓગળે નહીં તેને 'ગાળી' શકાય.</p></div>",
+      "options": {
+        "A": "ગાળીને",
+        "B": "ગરમ કરીને",
+        "C": "હલાવીને",
+        "D": "ફ્રીજમાં મૂકીને"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આયશાએ પૂરી તેલમાં મૂકી ત્યારે શરૂઆતમાં તે...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તળિયે ડૂબી ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચી પૂરી ભારે હોય એટલે ડૂબે, ફૂલેલી પૂરી હલકી હોય એટલે તરે.</p></div>",
+      "options": {
+        "A": "તરવા લાગી",
+        "B": "તળિયે ડૂબી ગઈ",
+        "C": "ફાટી ગઈ",
+        "D": "ઓગળી ગઈ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખાંડના મોટા ટુકડા (મિસરી) ને ઝડપથી ઓગળવા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેને કૂટીને તેનો ભૂકો કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જેટલી નાની, તેટલી જલ્દી પાણીમાં 'પાણી-પાણી' (ઓગળી) જાય.</p></div>",
+      "options": {
+        "A": "તેને ઠંડા પાણીમાં મૂકવી",
+        "B": "તેને આખી જ રહેવા દેવી",
+        "C": "તેને કૂટીને તેનો ભૂકો કરવો જોઈએ",
+        "D": "તેના પર તેલ લગાવવું"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કઈ વસ્તુનું ટીપું પ્લેટ પર સૌથી ધીમું ચાલશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મધ અથવા ઘટ્ટ ચાસણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વધુ ચીકણું અને ઘટ્ટ હોય તે સૌથી 'આળસુ' (ધીમું) હોય.</p></div>",
+      "options": {
+        "A": "પાણી",
+        "B": "દૂધ",
+        "C": "મધ",
+        "D": "કેરોસીન"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાણીમાં અડધો ગ્લાસ દૂધ નાખતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે પાણીમાં સંપૂર્ણ ભળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ અને પાણી 'રામ-લક્ષ્મણ' જેવા છે, એકબીજામાં પૂરેપૂરા ભળી જાય.</p></div>",
+      "options": {
+        "A": "દૂધ ઉપર તરે છે",
+        "B": "તે પાણીમાં સંપૂર્ણ ભળી જાય છે",
+        "C": "દૂધ નીચે બેસી જાય છે",
+        "D": "દૂધના ગઠ્ઠા થઈ જાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લોખંડનું જહાજ પાણી પર તરે છે પણ ખીલી ડૂબી જાય છે, કારણ કે...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જહાજ દ્વારા ખસતું પાણી તેના વજન કરતા વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર મોટો તો તરવું મોટું! જહાજ પાણીને વધુ ધક્કો મારે છે.</p></div>",
+      "options": {
+        "A": "જહાજ દ્વારા ખસતું પાણી તેના વજન કરતા વધુ હોય છે",
+        "B": "ખીલી વજનમાં જહાજ કરતા ભારે છે",
+        "C": "જહાજમાં હવા ભરેલી હોય છે",
+        "D": "સમુદ્રનું પાણી મીઠું હોય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કઈ ઋતુમાં કપડાં જલ્દી સુકાતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોમાસામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં ભેજ વધુ અને સૂર્ય ઓછો = કપડાં સૂકવવામાં નખરાં કરે!</p></div>",
+      "options": {
+        "A": "ઉનાળામાં",
+        "B": "શિયાળામાં",
+        "C": "ચોમાસામાં",
+        "D": "વસંત ઋતુમાં"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પાણી ભરેલા વાસણમાં સાબુદાણી અને તેમાં સાબુ મૂકતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સાબુદાણી સાથે સાબુ તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુદાણી 'હોડી' જેવું કામ કરે છે, જે સાબુને ડૂબવા દેતી નથી.</p></div>",
+      "options": {
+        "A": "સાબુદાણી સાથે સાબુ તરે છે",
+        "B": "બંને ડૂબી જાય છે",
+        "C": "માત્ર સાબુ ડૂબે છે",
+        "D": "બંને ઓગળી જાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાણીના ટીપાંને પ્લેટ પર સરકવા માટે પ્લેટને શું કરવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્લેટને ત્રાસી (નમાવવી) કરવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ મળે તો જ પાણી દોડે!</p></div>",
+      "options": {
+        "A": "પ્લેટને સીધી રાખવી પડે",
+        "B": "પ્લેટને ત્રાસી કરવી પડે",
+        "C": "પ્લેટને ઊંધી કરવી પડે",
+        "D": "પ્લેટને ગરમ કરવી પડે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગાંધીજીની દાંડી યાત્રા કયા રાજ્યમાં થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણું ગૌરવવંતું ગુજરાત - જ્યાં મીઠાનો સત્યાગ્રહ થયો.</p></div>",
+      "options": {
+        "A": "ગુજરાત",
+        "B": "મહારાષ્ટ્ર",
+        "C": "રાજસ્થાન",
+        "D": "મધ્યપ્રદેશ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "બજારમાંથી લાવેલ મીઠું પાણીમાં નાખતા પાણી કેવું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખારું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું નામ મીઠું છે, પણ સ્વાદમાં તો ખારું જ હોય!</p></div>",
+      "options": {
+        "A": "મીઠું",
+        "B": "ખારું",
+        "C": "કડવું",
+        "D": "ખાટું"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પાણીમાં પડેલો સિક્કો કેમ ડૂબી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કારણ કે તે પાણી કરતા ભારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો પણ વજનદાર એટલે સીધો જમીન પર (તળિયે).</p></div>",
+      "options": {
+        "A": "કારણ કે તે ગોળ છે",
+        "B": "કારણ કે તે ચમકે છે",
+        "C": "કારણ કે તે પાણી કરતા ભારે છે",
+        "D": "કારણ કે તે ધાતુનો નથી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "તળાવનું પાણી સૂર્યની ગરમીથી વરાળ બની આકાશમાં જાય, તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બાષ્પીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાષ્પ એટલે વરાળ, વરાળ બનવાની પ્રક્રિયા એટલે બાષ્પીભવન.</p></div>",
+      "options": {
+        "A": "પીગળવું",
+        "B": "બાષ્પીભવન",
+        "C": "થિજવું",
+        "D": "વરસાદ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નીચેનામાંથી કઈ વસ્તુ પાણી પર તરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પ્લાસ્ટિકનું ઢાંકણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક પાણીનો દુશ્મન નથી, તે હંમેશા ઉપર જ રહે છે.</p></div>",
+      "options": {
+        "A": "પથ્થર",
+        "B": "કાચની ગોળી",
+        "C": "ચાવી",
+        "D": "પ્લાસ્ટિકનું ઢાંકણ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મીઠાનો કાયદો તોડવા માટે ગાંધીજીએ ક્યાં સુધીની યાત્રા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દાંડીના દરિયાકિનારા સુધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળનું નામ 'દાંડી' એટલે જ યાત્રાનું નામ 'દાંડી યાત્રા'.</p></div>",
+      "options": {
+        "A": "પોરબંદર",
+        "B": "દાંડી",
+        "C": "દ્વારકા",
+        "D": "સોમનાથ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કઈ વસ્તુ પાણીમાં ઓગળ્યા પછી પણ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) રેતી (જે ખરેખર ઓગળતી નથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઓગળ્યું નથી તે જ દેખાય છે.</p></div>",
+      "options": {
+        "A": "મીઠું",
+        "B": "ખાંડ",
+        "C": "લીંબુનો રસ",
+        "D": "રેતી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પાણીમાં ખાંડ નાખી તેને ગરમ કરવાથી શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ખાંડ ઝડપથી ઓગળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ પાણી એટલે ખાંડ માટેનું 'એક્સપ્રેસ વે'.</p></div>",
+      "options": {
+        "A": "ખાંડ ઝડપથી ઓગળી જાય છે",
+        "B": "ખાંડ પથ્થર જેવી થઈ જાય છે",
+        "C": "ખાંડ ઉપર તરવા લાગે છે",
+        "D": "પાણી ઠંડુ થઈ જાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "દૂધ અને પાણીના મિશ્રણને ગાળણથી અલગ કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના, અલગ ન કરી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દ્રાવ્ય થઈ જાય તેને ગરણી પકડી શકતી નથી.</p></div>",
+      "options": {
+        "A": "હા, કરી શકાય",
+        "B": "ના, અલગ ન કરી શકાય",
+        "C": "માત્ર ચોમાસામાં કરી શકાય",
+        "D": "ઠંડુ કરવાથી અલગ થાય"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "દરિયાના પાણીમાંથી મીઠું બનાવવા પાણીને ક્યાં ભરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છીછરા ખાડાઓમાં (કયારીઓમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યારીઓમાં પાણી ભરાય, સૂરજ આવે, પાણી ઉડે અને મીઠું રહી જાય.</p></div>",
+      "options": {
+        "A": "મોટી ટાંકીઓમાં",
+        "B": "ઊંડા કૂવાઓમાં",
+        "C": "છીછરા ખાડાઓમાં",
+        "D": "નદીઓમાં"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મૃત દરિયાનું પાણી કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અત્યંત ખારું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આટલું બધું મીઠું હોય તો ખારું જ હોય ને!</p></div>",
+      "options": {
+        "A": "અત્યંત ખારું",
+        "B": "મીઠું",
+        "C": "કડવું",
+        "D": "સ્વાદ વગરનું"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પાણીમાં હળદર નાખતા પાણીનો રંગ કેવો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પીળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હળદરનો ગુણ છે રંગ આપવો, તે પાણીને પોતાના જેવું (પીળું) બનાવી દેશે.</p></div>",
+      "options": {
+        "A": "લાલ",
+        "B": "પીળો",
+        "C": "લીલો",
+        "D": "વાદળી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "જો આપણે પાણીમાં તેલ નાખીને તેને ખૂબ હલાવીએ, તો શું તે ઓગળી જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના, થોડીવાર પછી તેલ પાછું ઉપર આવી જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ અને પાણી કાયમી દુશ્મન છે, ગમે તેટલા મનાવો તે ભેગા ન થાય.</p></div>",
+      "options": {
+        "A": "હા, ઓગળી જશે",
+        "B": "ના, થોડીવાર પછી તેલ પાછું ઉપર આવી જશે",
+        "C": "હા, પાણી સફેદ થઈ જશે",
+        "D": "ના, તેલ નીચે બેસી જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "આલુ (બટાટા) પાણીમાં નાખતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટું વજનદાર છે, માટે ડૂબે. પણ જો પાણી ખૂબ જ ખારું હોય તો તે તરી શકે છે.</p></div>",
+      "options": {
+        "A": "તરે છે",
+        "B": "ડૂબી જાય છે",
+        "C": "ઓગળી જાય છે",
+        "D": "વરાળ બને છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પાણી પર બરફનો ટુકડો મૂકતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તે તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ એ પાણીનું જ સ્વરૂપ છે, પણ તે પાણી કરતા હલકો હોવાથી તરે છે.</p></div>",
+      "options": {
+        "A": "તે તરે છે",
+        "B": "તે ડૂબી જાય છે",
+        "C": "તે પથ્થર જેવો થઈ જાય છે",
+        "D": "તે તળિયે ચોંટી જાય છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઈંડાને સામાન્ય પાણીમાં મૂકતા તે ડૂબી જાય છે, પણ ખૂબ મીઠાવાળા પાણીમાં મૂકતા શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તે તરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીની શક્તિ (ઘનતા) વધારે છે, જે ઈંડાને ઉપર ઊંચકી રાખે છે.</p></div>",
+      "options": {
+        "A": "તે તરશે",
+        "B": "તે ડૂબી જશે",
+        "C": "તે ફૂટી જશે",
+        "D": "તે ઓગળી જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ખાલી પ્લાસ્ટિકની બોટલ તરે છે, પણ પાણીથી ભરેલી બોટલ...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન વધે એટલે ડૂબવું નક્કી!</p></div>",
+      "options": {
+        "A": "તરે છે",
+        "B": "ડૂબી જાય છે",
+        "C": "ઓગળી જાય છે",
+        "D": "રંગ બદલે છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "એક લિટર પાણીમાં એક ચમચી તેલ નાખી હલાવ્યા પછી તેલ ક્યાં જોવા મળશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સપાટી પર ટીપાં સ્વરૂપે તરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે એટલું હલાવો, તેલ પોતાની જીદ છોડશે નહીં અને ઉપર જ રહેશે.</p></div>",
+      "options": {
+        "A": "સપાટી પર ટીપાં સ્વરૂપે તરશે",
+        "B": "તળિયે જમા થશે",
+        "C": "પાણીમાં ગાયબ થઈ જશે",
+        "D": "પાણી ઘટ્ટ થઈ જશે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નીચેનામાંથી કયો પદાર્થ પાણીમાં ઓગળતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પથ્થરનો ભૂકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર કદી પાણીમાં ઓગળે નહીં, ભલે તેનો પાવડર કેમ ન હોય!</p></div>",
+      "options": {
+        "A": "ગ્લુકોઝ પાવડર",
+        "B": "મીઠું",
+        "C": "ખાંડ",
+        "D": "પથ્થરનો ભૂકો"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ચાની ગરણીનો ઉપયોગ શું અલગ કરવા માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચાની પત્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ પાણીમાં ઓગળતી નથી તેને જ ગરણી પકડી શકે.</p></div>",
+      "options": {
+        "A": "ખાંડ",
+        "B": "ચાની પત્તી",
+        "C": "દૂધ",
+        "D": "પાણી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "દરિયાનું પાણી સૂર્યપ્રકાશમાં રાખતા થોડા દિવસો પછી શું બાકી રહેશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મીઠું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 'ટાટા-બાયબાય' કહી ઉડી જશે અને ખારું મીઠું પાછળ રહી જશે.</p></div>",
+      "options": {
+        "A": "ખાંડ",
+        "B": "માટી",
+        "C": "મીઠું",
+        "D": "કંઈ જ નહીં"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ગાંધીજીએ કયા કાયદાનો વિરોધ કરવા દાંડી યાત્રા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મીઠા પરના કર (ટેક્સ) ના કાયદાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતે આપેલું મીઠું વાપરવા ટેક્સ કેમ? - આ ગાંધીજીનો પ્રશ્ન હતો.</p></div>",
+      "options": {
+        "A": "જમીન વેરાનો",
+        "B": "મીઠા પરના કર (ટેક્સ) ના કાયદાનો",
+        "C": "કાપડના કાયદાનો",
+        "D": "શાળાના કાયદાનો"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પાણીના ટીપાં અને તેલના ટીપાંની રેસમાં કોણ જીતશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પાણીનું ટીપું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી પાતળું હોવાથી તેલ કરતા વધુ ઝડપથી સરકે છે.</p></div>",
+      "options": {
+        "A": "પાણીનું ટીપું",
+        "B": "તેલનું ટીપું",
+        "C": "બંને સાથે જીતશે",
+        "D": "ટીપું સરકશે જ નહીં"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "મીઠું પકવવા માટે દરિયાના પાણીને કઈ રીતે સૂકવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સૂર્યની ગરમીથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજદાદા એ મીઠું પકવવા માટેના સૌથી મોટા 'ગેસ સ્ટવ' છે.</p></div>",
+      "options": {
+        "A": "પંખાની હવાથી",
+        "B": "ગેસ પર ગરમ કરીને",
+        "C": "સૂર્યની ગરમીથી",
+        "D": "બરફ નાખીને"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પદાર્થ પાણીમાં ઓગળે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભળી જાય તે 'દ્રાવ્ય', જે ન ભળે તે 'અદ્રાવ્ય'.</p></div>",
+      "options": {
+        "A": "દ્રાવ્ય",
+        "B": "અદ્રાવ્ય",
+        "C": "બાષ્પ",
+        "D": "ઘન"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પાણીમાં એલ્યુમિનિયમનું વરખ (Foil) ફેલાવેલું હોય ત્યારે તે...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેલાયેલું વરખ હલકું હોય છે, પણ તેને જો ગોળી બનાવી દો તો ડૂબી શકે.</p></div>",
+      "options": {
+        "A": "તરે છે",
+        "B": "ડૂબે છે",
+        "C": "ઓગળી જાય છે",
+        "D": "વરાળ બને છે"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "કપડાં સુકાવાની ક્રિયા કયા વૈજ્ઞાનિક સિદ્ધાંત પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બાષ્પીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીનું વરાળમાં રૂપાંતર = બાષ્પીભવન.</p></div>",
+      "options": {
+        "A": "ઘનીભવન",
+        "B": "બાષ્પીભવન",
+        "C": "પ્રસરણ",
+        "D": "ચુંબકત્વ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પૂરી તેલમાં કેમ તરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેમાં ગરમ હવા ભરાયેલી હોવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરી ફૂલે એટલે તેની અંદર હવા 'ભાડુઆત' તરીકે આવે, જે તેને તરાવે.</p></div>",
+      "options": {
+        "A": "તે વજનમાં ભારે છે",
+        "B": "તે લોખંડની બનેલી છે",
+        "C": "તેમાં ગરમ હવા ભરાયેલી હોવાથી",
+        "D": "તેલ ઠંડુ હોવાથી"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "દરિયાકિનારે મીઠાના ઢગલા કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અગરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અગર' (ખેતર) સાચવનાર 'અગરિયા'.</p></div>",
+      "options": {
+        "A": "ખેડૂત",
+        "B": "શિક્ષક",
+        "C": "વેપારી",
+        "D": "અગરિયા"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પાણીમાં અદ્રશ્ય થઈ જતા પદાર્થને કેવો પદાર્થ કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દ્રાવ્ય પદાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું અસ્તિત્વ પાણીમાં ખોવાઈ જાય તે જ સાચો 'દ્રાવ્ય' મિત્ર.</p></div>",
+      "options": {
+        "A": "દ્રાવ્ય પદાર્થ",
+        "B": "અદ્રાવ્ય પદાર્થ",
+        "C": "ઝેરી પદાર્થ",
+        "D": "કાચો પદાર્થ"
+      }
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પાણીમાં મીઠું નાખવાથી શું વધે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાણીની ઘનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીને 'મજબૂત' (ઘટ્ટ) બનાવે છે, એટલે જ વસ્તુઓ તેમાં સહેલાઈથી તરે છે.</p></div>",
+      "options": {
+        "A": "પાણીનો જથ્થો",
+        "B": "પાણીની મીઠાશ",
+        "C": "પાણીની ઘનતા",
+        "D": "પાણીની ઠંડક"
+      }
+    }
+  ]
+}
