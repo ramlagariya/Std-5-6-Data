@@ -1589,3 +1589,161 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "મચ્છર, રોગો અને સારવાર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લોહીની તપાસ કરાવવાથી કયા રોગની જાણકારી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મલેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીની તપાસ એટલે રોગનું એડ્રેસ! મલેરિયા માટે લોહી તપાસવી પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલેરિયા કયા મચ્છરના કરડવાથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માદા એનોફિલીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મા' થી મલેરિયા અને 'મા' થી 'માદા એનોફિલીસ'. નર મચ્છર ક્યારેય કરડતા નથી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મલેરિયાના લક્ષણોમાં નીચેનામાંથી કયું મુખ્ય લક્ષણ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઠંડી અને ધ્રુજારી સાથે તાવ આવવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલેરિયા = મગજમાં ધ્રુજારી (ઠંડી + ધ્રુજારી + તાવ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પહેલાના સમયમાં મલેરિયાની દવા બનાવવા કયા વૃક્ષની છાલનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સિંકોના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિંકોના' ના કોના-કોના માં મલેરિયાની દવા છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાંડુરોગ (એનિમિયા) શરીરમાં શાની ઉણપને કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) લોહતત્વ (હિમોગ્લોબિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંડુરોગ = લોહીની કમી (હિમોગ્લોબિન ઓછું). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ડોક્ટર પાંડુરોગના દર્દીને કેવો ખોરાક લેવાની સલાહ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગોળ, આમળા અને લીલા પાંદડાવાળા શાકભાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહતત્વ વધારવા 'ગ-આ-લી' (ગોળ-આમળા-લીલા શાક) યાદ રાખવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મચ્છરના બચ્ચાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પોરા (Larvae)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મચ્છરના નાનકડા છોકરા એટલે પાણીમાં તરતા 'પોરા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મચ્છરો ઈંડા ક્યાં મૂકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સ્થિર અને ગંદા પાણીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મચ્છર એટલે 'ગંદુ પાણી'ના મહેમાન! વહેતા પાણીમાં તે ન રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "માખીઓ દ્વારા નીચેનામાંથી કયો રોગ ફેલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પેટના રોગો (જેમ કે કોલેરા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખી ગંદકી પર બેસે અને ખોરાક ગંદો કરે, એટલે પેટ બગડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણી ઉપર તેલ છાંટવાથી શું ફાયદો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મચ્છરના પોરાને ઓક્સિજન મળતો બંધ થાય અને તે મરી જાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલનું પડ એટલે મચ્છરના શ્વાસ માટેની દીવાલ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મલેરિયા મચ્છર દ્વારા ફેલાય છે તેવી શોધ કયા વૈજ્ઞાનિકે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રોનાલ્ડ રોસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મચ્છર પકડવામાં બોસ એટલે રોનાલ્ડ રોસ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્વસ્થ વ્યક્તિના લોહીમાં હિમોગ્લોબિનનું પ્રમાણ આશરે કેટલું હોવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 12 થી 16 gm/dl</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 16 એટલે સુપર હેલ્ધી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો તમારા ઘરની આસપાસ ખાડામાં પાણી ભરાયું હોય, તો તમે શું કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ખાડા પૂરી દેશો અથવા કેરોસીન/તેલ છાંટશો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હટાવો અથવા મચ્છરને ભગાવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પોરા પાણીમાં કેવા દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નાના ભૂખરા રંગના જીવડા જેવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોરા એટલે પાણીના 'ગ્રે (ભૂખરા) ડાન્સર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મચ્છરોથી બચવા માટે રાત્રે શાનો ઉપયોગ કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મચ્છરદાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મચ્છરદાની એ મચ્છર માટેનો મજબૂત કિલ્લો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ડાર્ક ગ્રીન (ઘેરા લીલા) રંગના શાકભાજીમાં કયું તત્વ ભરપૂર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લોહતત્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલું એટલે લોહતત્વ (Iron)! પાલક ખાઓ, શક્તિ મેળવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટાંકી, કુલર અને કુંડાનું પાણી કેટલા દિવસે બદલવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દર અઠવાડિયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક અઠવાડિયું, નવું પાણી' - મચ્છરને ઇંડા મૂકવા ટાઈમ ન આપો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લોહીની તપાસ કરતી વખતે કાચની સ્લાઈડ પર લોહીના ટીપાં ક્યાંથી લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આંગળીમાંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાંચણી જેવું વાગે અને આંગળીમાંથી લોહી આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગંદકી અને ખુલ્લા ખોરાક પર બેસનારું જીવજંતુ કયું છે જે રોગો ફેલાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) માખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખી = બીમારીનો વાહક (ગંદકીથી ખોરાક સુધી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રોનાલ્ડ રોસને નોબેલ પારિતોષિક ક્યારે મળ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઈ.સ. 1902 માં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '02' માં મળ્યું 'નોબેલ', મચ્છરની ખોલી જેણે જેલ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શાળામાં બાળકોના આરોગ્યની તપાસ કરવામાં આવે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હેલ્થ ચેકઅપ (આરોગ્ય તપાસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાળામાં ડોક્ટર આવે ત્યારે તે તમારું હેલ્થ કાર્ડ ભરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાણીમાં મચ્છરના પોરા ખાવા માટે શું નાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) માછલીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી એટલે મચ્છરના પોરાનો શિકારી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાંડુરોગને કારણે બાળકોમાં કેવા ફેરફારો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (શારીરિક-માનસિક આરોગ્ય પર અસર, નબળાઈ, ઓછો વિકાસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી ઓછું તો બધું જ ઓછું - ભણવાનું પણ અને રમવાનું પણ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મેલેરિયા કઈ ઋતુમાં વધુ ફેલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોમાસામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ = પાણી ભરાવું = વધુ મચ્છર = મેલેરિયા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લોહીમાં હિમોગ્લોબિન માપવા માટેનો રિપોર્ટ કયા નામથી ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રક્ત તપાસ (Blood Report)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીનો કલર લાલ, રિપોર્ટ જણાવે તમારી હાલ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "માદા એનોફિલીસ મચ્છરનો રંગ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભૂખરા રંગનું અને પાંખો પર ધબ્બાવાળું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભૂખરો અને ટપકાવાળો' - આ છે મલેરિયાનો સગો વાળો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જ્યારે લોહીમાં હિમોગ્લોબિનનું પ્રમાણ 8 gm/dl હોય, તો તે શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એનિમિયા (પાંડુરોગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી નીચે એટલે 'એનિમિયા' ની એન્ટ્રી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ખોરાકને હંમેશા કેવો રાખવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઢાંકેલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાંકેલો ખોરાક = માખીઓથી આઝાદી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ડોક્ટર લોહીની તપાસ માટે કયું સાધન વાપરે છે જે વસ્તુઓને મોટી કરીને બતાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સૂક્ષ્મદર્શક યંત્ર (Microscope)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂક્ષ્મ વસ્તુને મોટું કરી બતાવે તે 'માઈક્રોસ્કોપ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કયા ફળમાં લોહતત્વ વધુ પ્રમાણમાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આમળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આમળા એટલે વિટામિન C અને લોહતત્વનો ખજાનો. (NJ Classes)</p></div>"
+    }
+  ]
+}
