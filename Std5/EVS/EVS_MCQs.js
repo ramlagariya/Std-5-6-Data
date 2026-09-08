@@ -788,3 +788,136 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "જળ એ જ જીવન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જેસલમેરના રાજા ઘડસીએ આશરે કેટલા વર્ષ પહેલાં ઘડસીસર તળાવ બનાવ્યું હતું? \n(A) 200 વર્ષ \n(B) 450 વર્ષ \n(C) 650 વર્ષ \n(D) 1000 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 650 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘડસી' એટલે 6 અને 'સર' એટલે 50 (લગભગ) - 650 વર્ષ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'સર' શબ્દનો અર્થ શું થાય છે? \n(A) નદી \n(B) તળાવ \n(C) કૂવો \n(D) વાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તળાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરોવર પરથી 'સર' એટલે તળાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘડસીસર તળાવમાં કુલ કેટલા તળાવો એકબીજા સાથે જોડાયેલા હતા? \n(A) 5 \n(B) 7 \n(C) 9 \n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડસીસરમાં 'નવ' રત્નો જેવા '9' તળાવ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અલ-બિરુની કયા દેશમાંથી ભારત આવ્યો હતો? \n(A) અફઘાનિસ્તાન \n(B) ઉઝબેકિસ્તાન \n(C) ઈરાન \n(D) પાકિસ્તાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉઝબેકિસ્તાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અલ' આવ્યું 'ઉઝ'બેકિસ્તાનથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારત સરકારે અલ-બિરુનીના જન્મના કેટલા વર્ષ પૂર્ણ થતા ટપાલ ટિકિટ બહાર પાડી હતી? \n(A) 100 વર્ષ \n(B) 500 વર્ષ \n(C) 1000 વર્ષ \n(D) 100 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1000 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1973 માં ટિકિટ બહાર પડી જે તેના 1000 વર્ષ પૂરા થવાની યાદમાં હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પગથિયાંવાળા કૂવાને શું કહેવામાં આવે છે? \n(A) બોરવેલ \n(B) હેન્ડપંપ \n(C) વાવ \n(D) ચેકડેમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં પગથિયાંથી 'આવી' શકાય તે 'વાવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જૂના જમાનામાં વણઝારાઓ માલસામાન સાથે લાંબી મુસાફરી કરતી વખતે કોને પાણી પીવડાવવા માટે 'પિયાવ' બંધાવતા હતા? \n(A) રાજાઓને \n(B) મુસાફરોને \n(C) પશુઓને \n(D) સૈનિકોને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મુસાફરોને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિયાવ = પીવા માટે (મુસાફરો માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉત્તરાખંડમાં નવી પરણેલી કન્યા લગ્ન પછી કોની પૂજા કરવા જાય છે? \n(A) પર્વતની \n(B) વૃક્ષની \n(C) જલ સ્ત્રોત કે ઝરણાની \n(D) સૂર્યની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જલ સ્ત્રોત કે ઝરણાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું જીવન = જળ (પાણીની પૂજા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વરસાદના પાણીનો સંગ્રહ કરવા માટે ઘરના આંગણામાં જમીનની નીચે શું બનાવવામાં આવતું? \n(A) કૂવો \n(B) ટાંકો \n(C) તળાવ \n(D) નહેર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ટાંકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છતનું પાણી નીચેના 'ટાંકા'માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અત્યારે કુવાઓ કેમ સુકાઈ રહ્યા છે? \n(A) ઇલેક્ટ્રિક મોટરથી પાણી ખેંચાય છે \n(B) જમીન પર સિમેન્ટના પડ થઈ ગયા છે \n(C) વૃક્ષો ઓછા થઈ ગયા છે \n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિકરણ અને પ્રકૃતિનો નાશ = કૂવા ખાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજસ્થાનના અલવર જિલ્લામાં 'દડકી માઈ' ને પાણીની સમસ્યા ઉકેલવામાં કઈ સંસ્થાએ મદદ કરી? \n(A) રેડ ક્રોસ \n(B) યુનિસેફ \n(C) તરુણ ભારત સંઘ \n(D) વન સેવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તરુણ ભારત સંઘ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દડકી માઈ' ને 'તરુણો' (યુવાનો) એ મદદ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાણીનો મુખ્ય સ્ત્રોત કયો છે? \n(A) નદી \n(B) વરસાદ \n(C) કૂવો \n(D) વાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા પાણીનો 'બાપ' એટલે વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુજરાતમાં અડાલજની વાવ કયા જિલ્લાની નજીક આવેલી છે? \n(A) અમદાવાદ \n(B) ગાંધીનગર \n(C) વડોદરા \n(D) સુરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગાંધીનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડાલજ એટલે ગાંધીનગરની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નીચેનામાંથી કયું સાધન પાણી ભરવા માટે વપરાતું નથી? \n(A) ઘડો \n(B) પવાલું \n(C) ડોલ \n(D) સાવરણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સાવરણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવરણી સફાઈ માટે, પાણી માટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પહેલાના સમયમાં લોકો મુસાફરો માટે પાણીની સુવિધા માટે શું રાખતા હતા? \n(A) મશક \n(B) રેફ્રિજરેટર \n(C) ફિલ્ટર \n(D) પ્લાસ્ટિક બોટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મશક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચામડાની થેલી જેવું સાધન એટલે 'મશક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તળાવ ભરાઈ જાય ત્યારે ખુશી મનાવવાની પરંપરા મુખ્યત્વે કયા રાજ્યમાં વધુ જોવા મળે છે? \n(A) ઉત્તરાખંડ \n(B) પંજાબ \n(C) કેરળ \n(D) ગોવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉત્તરાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વતીય રાજ્ય જ્યાં પાણીનું મૂલ્ય વધુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રેન વોટર હાર્વેસ્ટિંગ એટલે શું? \n(A) નદીનું પાણી રોકવું \n(B) વરસાદના પાણીનો સંગ્રહ કરવો \n(C) કૂવો ખોદવો \n(D) બગીચામાં પાણી પાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વરસાદના પાણીનો સંગ્રહ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rain = વરસાદ, Harvesting = સંગ્રહ/ખેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણીને ગાળવા માટે જૂના જમાનામાં શેનો ઉપયોગ થતો હતો? \n(A) ફિલ્ટર મશીન \n(B) સુતરાઉ કાપડ \n(C) પ્લાસ્ટિક જાળી \n(D) કાગળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સુતરાઉ કાપડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદીમાનું નુસખું - કાપડથી ગાળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કૂવામાંથી પાણી ઉપર ખેંચવા માટે કયા સાધનનો ઉપયોગ થાય છે? \n(A) ગરગડી \n(B) પાવડો \n(C) હથોડી \n(D) સાંકળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગરગડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરગડી ગોળ ફરે અને ડોલ ઉપર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કયા કાર્ય માટે સૌથી વધુ પાણીની જરૂર પડે છે? \n(A) પીવા માટે \n(B) બ્રશ કરવા માટે \n(C) ખેતી કરવા માટે \n(D) હાથ ધોવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખેતી કરવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતર મોટું તો પાણી પણ વધુ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અલ-બિરુનીએ ભારતના કયા બાંધકામની ખૂબ પ્રશંસા કરી હતી? \n(A) કિલ્લાઓની \n(B) મહેલોની \n(C) તળાવો અને કુંડની \n(D) બગીચાઓની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તળાવો અને કુંડની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલ-બિરુની પાણીના એન્જિનિયરિંગથી પ્રભાવિત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઘડસીસર તળાવની પાળે આવેલી શાળાઓમાં કોણ ભણવા આવતું હતું? \n(A) માત્ર રાજકુમારો \n(B) ગામના બાળકો \n(C) વિદેશી પ્રવાસીઓ \n(D) કોઈ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગામના બાળકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવની પાળે પાઠશાળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વાવના પગથિયાં કઈ તરફ જતા હોય છે? \n(A) ઉપર તરફ \n(B) નીચે જમીનમાં પાણી સુધી \n(C) આકાશ તરફ \n(D) સીધા રસ્તા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નીચે જમીનમાં પાણી સુધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નીચે હોય, એટલે પગથિયાં નીચે જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયા શહેરમાં હજુ પણ જૂની વાવ સાફ કરીને ફરી વપરાશમાં લેવામાં આવી છે? \n(A) જોધપુર \n(B) સુરત \n(C) મુંબઈ \n(D) દિલ્હી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જોધપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોધપુરમાં દુષ્કાળ વખતે 200 ટ્રક કચરો કાઢી વાવ સાફ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શહેરોમાં પાણી પુરવઠા માટે કઈ સંસ્થા જવાબદાર હોય છે? \n(A) પોલીસ \n(B) નગરપાલિકા/મ્યુનિસિપાલિટી \n(C) બેંક \n(D) શાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નગરપાલિકા/મ્યુનિસિપાલિટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરની સુવિધા = નગરપાલિકા.</p></div>"
+    }
+  ]
+}
