@@ -680,3 +680,111 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "બીજ, બીજ, બીજ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કયા બીજને ફણગાવવા માટે ભીના કપડામાં બાંધવામાં આવે છે?\n(A) ઘઉં\n(B) ચોખા\n(C) ચણા\n(D) બાજરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફણગાવવા એટલે 'કઠોળ' ને પલાળીને બાંધવા, વિકલ્પોમાં ચણા જ કઠોળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બીજના ફણગાવવા માટે કયા ત્રણ પરિબળો સૌથી જરૂરી છે?\n(A) હવા, પ્રકાશ, માટી\n(B) હવા, પાણી, ગરમી\n(C) ખાતર, પાણી, અંધારું\n(D) પવન, પાણી, રાસાયણિક દવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હવા, પાણી, ગરમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હપા ગ' (હવા, પાણી, ગરમી) - આ ત્રણ હોય તો જ બીજ જાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે બીજની બે સરખી ફાડ થાય તેને કેવું બીજ કહેવાય?\n(A) એકદળી બીજ\n(B) તેલીબિયાં\n(C) દ્વિદળી બીજ\n(D) મસાલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દ્વિદળી બીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે એટલે 'દ્વિ' - જેની બે ફાડ તે દ્વિદળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કયું બીજ 'એકદળી' છે?\n(A) મગ\n(B) તુવેર\n(C) ઘઉં\n(D) ચણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘઉં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ (ઘઉં, બાજરી, મકાઈ) હંમેશા એકદળી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શિકારી છોડ 'નેપેન્થિસ' ભારતના કયા રાજ્યમાં જોવા મળે છે?\n(A) ગુજરાત\n(B) મેઘાલય\n(C) રાજસ્થાન\n(D) પંજાબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેઘાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેઘ' (વરસાદ) વાળા પ્રદેશમાં જ આવો વિચિત્ર છોડ મળે - મેઘાલય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વેલ્ક્રો (Velcro) ની શોધ કોણે કરી હતી?\n(A) જ્યોર્જ મેસ્ટ્રલ\n(B) ન્યૂટન\n(C) એડિસન\n(D) ડાર્વિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જ્યોર્જ મેસ્ટ્રલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેલ્ક્રો લગાવવા માટે 'મેનેજ' કરવું પડે - મેસ્ટ્રલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હલકા અને પાંખવાળા બીજનો ફેલાવો કોના દ્વારા થાય છે?\n(A) પાણી\n(B) પશુ\n(C) પક્ષી\n(D) પવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ હોય તે હવામાં ઊડે, અને હવામાં 'પવન' હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નાળિયેરના બીજનો ફેલાવો કઈ રીતે થાય છે?\n(A) પવન દ્વારા\n(B) પાણી દ્વારા\n(C) પ્રાણી દ્વારા\n(D) ફાટવાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણી દ્વારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેરી દરિયાકિનારે હોય, એટલે તે પાણીમાં તરીને જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કયો છોડ વિદેશથી આવેલો નથી (ભારતીય છે)?\n(A) બટાટા\n(B) મરચાં\n(C) રીંગણ\n(D) ટામેટાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રીંગણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગણ, કારેલાં, ભીંડા (દેશી) - આ બધું ભારતનું જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દુનિયામાં મરચાં કયા દેશમાંથી ભારતમાં આવ્યા હતા?\n(A) આફ્રિકા\n(B) દક્ષિણ અમેરિકા\n(C) યુરોપ\n(D) ચીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દક્ષિણ અમેરિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચાં તીખા હોય અને 'અમેરિકા' જઈને તીખું ખાધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભીંડા અને કોફી કયા ખંડમાંથી ભારતમાં આવ્યા છે?\n(A) યુરોપ\n(B) એશિયા\n(C) આફ્રિકા\n(D) ઓસ્ટ્રેલિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આફ્રિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાળી કોફી' અને 'ભીંડા' આફ્રિકાથી આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોયાબીનની સીંગો પાકી જાય ત્યારે શું થાય છે?\n(A) તે જમીનમાં દટાય જાય છે\n(B) તે સુકાઈને ખરી પડે છે\n(C) તે ફાટે છે અને બીજ બહાર ફેંકાય છે\n(D) પક્ષીઓ તેને ખાઈ જાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તે ફાટે છે અને બીજ બહાર ફેંકાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોયાબીન એટલે 'ધડાકો' - ફાટીને ફેલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નીચેનામાંથી કયું બીજ મસાલા તરીકે પણ વપરાય છે?\n(A) મગ\n(B) વરિયાળી\n(C) મકાઈ\n(D) વાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વરિયાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડામાં વરિયાળી, રાઈ, જીરું મસાલા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયા છોડના બીજ કાંટાવાળા હોય છે જે પ્રાણીઓની રુંવાટીમાં ચોંટી જાય છે?\n(A) આંકડો\n(B) ગોખરુ\n(C) સૂર્યમુખી\n(D) કમળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગોખરુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાંટા' એટલે ગોખરુ અથવા ગાડરિયું, જે ચોંટી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બીજની અંદર શું હોય છે?\n(A) બીજપત્ર\n(B) ગર્ભ (ભ્રૂણ)\n(C) ખોરાક\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ એ એક નાનકડું પેકેટ છે જેમાં નવો છોડ અને તેનો ખોરાક બંને હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કોબીજ અને વટાણા ક્યાંથી આવ્યા છે?\n(A) દક્ષિણ અમેરિકા\n(B) યુરોપ\n(C) આફ્રિકા\n(D) ઓસ્ટ્રેલિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) યુરોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યુરોપ' ના ઠંડા પ્રદેશમાં કોબીજ અને વટાણા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કયું બીજ તેલીબિયાં (તેલ કાઢી શકાય તેવું) છે?\n(A) મગફળી\n(B) ચણા\n(C) ઘઉં\n(D) મઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મગફળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાંથી તેલ નીકળે (સીંગતેલ), તે તેલીબિયાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બીજની સપાટી કેવી હોઈ શકે છે?\n(A) લીસી\n(B) ખરબચડી\n(C) (A) અને (B) બંને\n(D) પથ્થર જેવી કઠણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (A) અને (B) બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીંડાના બીજ ખરબચડા હોય અને મગના લીસા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કઠોળને ફણગાવવા માટે સૌપ્રથમ તેને શું કરવું પડે?\n(A) શેકવા પડે\n(B) પાણીમાં પલાળવા પડે\n(C) તેલમાં તળવા પડે\n(D) તડકામાં સૂકવવા પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણીમાં પલાળવા પડે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાણી' વગર બીજ જાગતું નથી, એટલે પલાળવું જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યોર્જ મેસ્ટ્રલને વેલ્ક્રો બનાવવાનો વિચાર કોને જોઈને આવ્યો?\n(A) પતંગિયાને\n(B) કૂતરાના શરીર પર ચોંટેલા બીજને\n(C) માછલીના ભીંગડાને\n(D) પક્ષીના પીંછાને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કૂતરાના શરીર પર ચોંટેલા બીજને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરાના વાળમાં બીજ ચોંટી ગયા, તેમાંથી બની ગઈ 'ચિપક-પટ્ટી' (વેલ્ક્રો)!</p></div>"
+    }
+  ]
+}
