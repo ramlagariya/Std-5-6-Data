@@ -289,3 +289,261 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સ્વાદથી પાચન સુધી",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જીભના કયા ભાગમાં ગળ્યો સ્વાદ સૌથી સારી રીતે પરખાય છે?\n\nA. પાછળના ભાગમાં\nB. આગળના ભાગમાં\nC. ડાબી બાજુએ\nD. જમણી બાજુએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આગળના ભાગમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગળથી ગળ્યું' - જીભની ટોચ પર મીઠાઈ મૂકો એટલે તરત ખબર પડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કારેલાનો સ્વાદ કેવો હોય છે?\n\nA. ખાટો\nB. મીઠો\nC. કડવો\nD. તીખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કડવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારેલા કડવા, પણ સ્વાસ્થ્ય માટે ઉત્તમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જીભના કયા ભાગમાં કડવો સ્વાદ પરખાય છે?\n\nA. જીભના ટેરવે\nB. જીભની બાજુમાં\nC. જીભના પાછળના ભાગમાં\nD. વચ્ચેના ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જીભના પાછળના ભાગમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાછળ એટલે કડવું' - દવા ગળતી વખતે કડવાશ છેલ્લે લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આંબલીનું નામ સાંભળતા જ મોંમાં શું આવી જાય છે?\n\nA. લોહી\nB. પાણી (લાળ)\nC. પરસેવો\nD. આંસુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણી (લાળ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાટી વસ્તુ જોઈને મોંમાં લાળ આવવી એ પાચન શરૂ થવાની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જઠરમાં ખોરાકનું શું કાર્ય થાય છે?\n\nA. વલોવવાનું\nB. માત્ર સંગ્રહનું\nC. લોહી બનાવવાનું\nD. શ્વાસ લેવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. વલોવવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ એટલે મિક્સર! ખોરાક અંદર જઈને બરાબર વલોવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જઠરના પાચક રસો કેવા હોય છે?\n\nA. મીઠા\nB. કડવા\nC. એસિડિક (ખાટા)\nD. ગળ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એસિડિક (ખાટા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉ. બ્યુમોન્ટે સાબિત કર્યું કે પેટના રસો એસિડ જેવા જલદ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ડૉ. બ્યુમોન્ટે કયા સૈનિકના પેટ પર પ્રયોગો કર્યા હતા?\n\nA. જોન\nB. માર્ટિન\nC. અકબર\nD. રાકેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માર્ટિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માર્ટિનનું પેટ, વિજ્ઞાનનું ગેટ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે ખૂબ ભૂખ લાગે ત્યારે કેવો અનુભવ થાય છે?\n\nA. માથું દુખે અથવા ગુસ્સો આવે\nB. ઊંઘ આવે\nC. ખૂબ આનંદ થાય\nD. ઠંડી લાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. માથું દુખે અથવા ગુસ્સો આવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભૂખ લાગે ત્યારે મિજાજ ગરમ' - આ આપણા શરીરનો સંકેત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નબળાઈ લાગે ત્યારે તરત શક્તિ મેળવવા શું આપવામાં આવે છે?\n\nA. ઠંડુ પાણી\nB. ગ્લુકોઝ ડ્રિપ\nC. લીમડાનો રસ\nD. મીઠું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગ્લુકોઝ ડ્રિપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ = ઇન્સ્ટન્ટ એનર્જી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખોરાકને મોંમાં બરાબર ચાવવાથી તેમાં શું ભળે છે?\n\nA. હવા\nB. લાળરસ\nC. પાણી\nD. લોહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લાળરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાળરસ ખોરાકને નરમ અને સુપાચ્ય બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઓડિશાના કયા જિલ્લામાં સૌથી વધુ ચોખા પાકે છે?\n\nA. કટક\nB. પુરી\nC. કાલાહાંડી\nD. ભુવનેશ્વર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કાલાહાંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલાહાંડીમાં ચોખા પુષ્કળ, છતાં ગરીબી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખોરાકનો સ્વાદ પારખવા માટે કયું અંગ સૌથી મહત્વનું છે?\n\nA. નાક\nB. કાન\nC. જીભ\nD. આંખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જીભ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભ એટલે સ્વાદનો રાજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખોરાકને કેટલા વખત ચાવવો જોઈએ જેથી તેનું પાચન સારી રીતે થાય?\n\nA. 2-3 વખત\nB. 10 વખત\nC. 30-32 વખત\nD. 100 વખત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 30-32 વખત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા દાંત, તેટલા ડાઢ (32 વખત) ચાવવાથી પાચન પાકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નીચેનામાંથી કયો ખોરાક 'જંક ફૂડ' (બહારનો ખોરાક) કહેવાય?\n\nA. દાળ-ભાત\nB. રોટલી-શાક\nC. બર્ગર-પિઝા\nD. ફળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બર્ગર-પિઝા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંક ફૂડ સ્વાદિષ્ટ હોઈ શકે, પણ સ્વાસ્થ્ય માટે હાનિકારક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઝીણા દાણા જેવો ખારો સ્વાદ કોનો હોય છે?\n\nA. ખાંડ\nB. મીઠું\nC. હળદર\nD. જીરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મીઠું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું વિના રસોઈ અધૂરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્યારે આપણને શરદી થાય છે ત્યારે શું બરાબર સમજાતું નથી?\n\nA. અવાજ\nB. દેખાવ\nC. ખોરાકની સુગંધ અને સ્વાદ\nD. ઠંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખોરાકની સુગંધ અને સ્વાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાક બંધ તો સ્વાદ પણ અડધો થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કઈ વસ્તુનો સ્વાદ ખાટો હોય છે?\n\nA. ગોળ\nB. લીંબુ\nC. મરચું\nD. મેથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લીંબુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીંબુ = વિટામિન C અને ખાટો સ્વાદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીતિનભાઈને ઝાડા-ઊલટી થયા છે, ડૉક્ટર તેમને પાણીમાં શું ઓગાળીને પીવા કહેશે?\n\nA. માત્ર ખાંડ\nB. માત્ર મીઠું\nC. ખાંડ અને મીઠું બંને\nD. તેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખાંડ અને મીઠું બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંડ શક્તિ આપે અને મીઠું શરીરના ક્ષારો જાળવી રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "યોગ્ય આહાર લેવાથી બાળકનું શરીર કેવું બને છે?\n\nA. દુબળું-પાતળું\nB. સુદ્રઢ અને સ્વસ્થ\nC. ખૂબ જ જાડું\nD. બીમાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સુદ્રઢ અને સ્વસ્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરનો ખોરાક, સૌથી બેસ્ટ ખોરાક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શાકભાજી અને ફળો ખાવાથી આપણને શું મળે છે?\n\nA. માત્ર ચરબી\nB. વિટામિન્સ અને મિનરલ્સ\nC. નુકસાન\nD. કશું જ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વિટામિન્સ અને મિનરલ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફ્રૂટ્સ એન્ડ વેજીસ' - શરીરના સૈનિકો (રોગપ્રતિકારક શક્તિ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રશ્મિ 5 વર્ષની છે પણ તે 3 વર્ષની હોય તેવી લાગે છે, તેનું કારણ શું હોઈ શકે?\n\nA. તે બહુ રમે છે\nB. તેને પૂરતો પૌષ્ટિક ખોરાક મળતો નથી\nC. તે બહુ ઊંઘે છે\nD. તે શાળાએ જાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેને પૂરતો પૌષ્ટિક ખોરાક મળતો નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરતો ખોરાક ન મળવો એટલે કુપોષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કૈલાશને ઘરનું ખાવાનું ગમતું નથી, તેને શું ભાવે છે?\n\nA. દાળ-ભાત\nB. ચિપ્સ, પિઝા, બર્ગર\nC. ફળો\nD. લીલા શાકભાજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ચિપ્સ, પિઝા, બર્ગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારનું ખાવાનું કૈલાશ જેવું શરીર (જાડું અને આળસુ) બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાચનક્રિયાની શરૂઆત ક્યાંથી થાય છે?\n\nA. પેટથી\nB. મોંથી\nC. નાના આંતરડાથી\nD. અન્નનળીથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મોંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંમાં લાળ ભળે એટલે પાચન શરૂ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જીભની સપાટી કેવી હોય છે?\n\nA. લીસી\nB. ખાડાવાળી\nC. ખરબચડી (નાના અંકુરવાળી)\nD. ચીકણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખરબચડી (નાના અંકુરવાળી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભ પરના નાના 'બમ્પ્સ' (ટેસ્ટ બડ્સ) જ સ્વાદ પારખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મીઠું અને ખાંડ પાણીમાં નાખતા શું થાય છે?\n\nA. તે દેખાતા નથી (ઓગળી જાય છે)\nB. તે તરે છે\nC. તે રંગ બદલે છે\nD. તે પથ્થર બની જાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. તે દેખાતા નથી (ઓગળી જાય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું અને ખાંડ પાણીના મિત્રો છે, તરત ભળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ડૉ. બ્યુમોન્ટે જોયું કે બહારના પ્યાલામાં પાચન થતા પેટ કરતા કેવો સમય લાગે છે?\n\nA. ઓછો\nB. વધારે\nC. સરખો\nD. સમય જ લાગતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટમાં ખોરાક વલોવાય છે, એટલે જલ્દી પચે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જીભની કઈ બાજુએ ખાટો અને ખારો સ્વાદ પરખાય છે?\n\nA. વચ્ચે\nB. કિનારીઓ (બાજુઓ) પર\nC. માત્ર આગળ\nD. ક્યાંય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કિનારીઓ (બાજુઓ) પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાઈડમાં ખાટું-ખારું' - બાજુમાંથી સ્વાદની એન્ટ્રી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કઈ વસ્તુ ગળતી વખતે કડવી લાગે છે?\n\nA. મધ\nB. દૂધ\nC. મેથીના દાણા કે દવા\nD. ચોકલેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મેથીના દાણા કે દવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવી દવા ગળામાં પહોંચે ત્યારે જ અસલી સ્વાદ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભૂખ લાગે ત્યારે રડવું એ કોની નિશાની હોઈ શકે?\n\nA. મોટા માણસોની\nB. નાના બાળકની\nC. પથ્થરની\nD. ઝાડની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાના બાળકની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું બાળક બોલી શકતું નથી, એટલે રડીને ભૂખની જાણ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "માર્ટિનના પેટમાં થયેલા કાણા દ્વારા ડૉક્ટરે શું તપાસ્યું?\n\nA. લોહીના પ્રકાર\nB. હાડકાની મજબૂતી\nC. ખોરાકના પાચનનો સમય\nD. ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખોરાકના પાચનનો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્ટિનનું પેટ = ડૉક્ટર માટેની જીવતી પ્રયોગશાળા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રાંધેલો ખોરાક કાચા ખોરાક કરતા કેવો હોય છે?\n\nA. પચવામાં ભારે\nB. પચવામાં સરળ\nC. સ્વાદ વગરનો\nD. ખાવો ન જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પચવામાં સરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાંધવાથી ખોરાક નરમ થાય અને જલ્દી પચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "આપણને સ્વાદ શાના કારણે ખબર પડે છે?\n\nA. દાંત\nB. હોઠ\nC. સ્વાદેન્દ્રિય (જીભ પરના અંકુરો)\nD. ગળું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સ્વાદેન્દ્રિય (જીભ પરના અંકુરો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટેસ્ટ બડ્સ' એ આપણા શરીરના સ્વાદ પારખવાના સેન્સર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયો પદાર્થ ગળ્યો અને ચિકણો હોય છે?\n\nA. મરચું\nB. મીઠું\nC. મધ\nD. અજમો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ માખી બનાવે, ગળ્યું અને ચીકણું લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ગ્લુકોઝનો સ્વાદ કેવો હોય છે?\n\nA. ખાટો\nB. ગળ્યો\nC. કડવો\nD. ખારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગળ્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ એટલે શર્કરા (ખાંડ જેવો ગળ્યો સ્વાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કાલાહાંડીના ઘણા ગરીબ લોકો શા માટે ભૂખથી મરે છે?\n\nA. ત્યાં ખેતી થતી નથી\nB. ત્યાં વરસાદ પડતો નથી\nC. અનાજ હોવા છતાં યોગ્ય વહેંચણી અને પૈસાનો અભાવ\nD. લોકોને ખાવું ગમતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અનાજ હોવા છતાં યોગ્ય વહેંચણી અને પૈસાનો અભાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજનો ભંડાર હોવા છતાં ગરીબી એ કાલાહાંડીની કરુણતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ખોરાકને ધીમેથી અને સારી રીતે ચાવવાથી શું ફાયદો થાય છે?\n\nA. વજન વધે છે\nB. દાંત સફેદ થાય છે\nC. ખોરાકનું પાચન બરાબર થાય છે\nD. ઊંઘ સારી આવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખોરાકનું પાચન બરાબર થાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાવીને ખાઓ, નિરોગી રહો' - અડધું પાચન મોંમાં જ થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "આપણું પેટ પાચન માટે ખોરાકને શું કરે છે?\n\nA. સૂકવે છે\nB. ગરમ કરે છે\nC. વલોવે છે\nD. ઠંડુ કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વલોવે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠર એક કુદરતી વલોણું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો આપણે ઉદાસ હોઈએ તો પાચન પર શું અસર થાય?\n\nA. પાચન ઝડપી થાય\nB. પાચન બરાબર થતું નથી\nC. કશી અસર થતી નથી\nD. ભૂખ વધી જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાચન બરાબર થતું નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત મન અને ખુશ મિજાજ પાચન માટે જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ડૉ. બ્યુમોન્ટના મતે જઠરમાં દૂધને પચતા કેટલો સમય લાગે છે?\n\nA. 1 કલાક\nB. 2 કલાક 15 મિનિટ\nC. 4 કલાક\nD. 30 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 2 કલાક 15 મિનિટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટની અંદર (2:15) અને પેટની બહાર (4:45) - પેટમાં પાચન બમણી ઝડપે થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "યોગ્ય આહાર શું છે?\n\nA. માત્ર પિઝા ખાવા\nB. બજારની બધી જ મીઠાઈઓ\nC. શરીરને જરૂરી તમામ પોષક તત્વો ધરાવતું ભોજન\nD. માત્ર પાણી પીવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શરીરને જરૂરી તમામ પોષક તત્વો ધરાવતું ભોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યોગ્ય આહાર = દરેક બાળકનો હક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પેટમાં એસિડિટી ક્યારે થાય છે?\n\nA. જ્યારે ખોરાક બરાબર પચ્યો ન હોય અથવા વધુ પડતું તીખું ખાધું હોય\nB. જ્યારે આપણે પાણી પીએ ત્યારે\nC. જ્યારે આપણે સૂઈ જઈએ ત્યારે\nD. જ્યારે આપણે કસરત કરીએ ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. જ્યારે ખોરાક બરાબર પચ્યો ન હોય અથવા વધુ પડતું તીખું ખાધું હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિશય મસાલેદાર ખોરાક પેટમાં 'આગ' (એસિડિટી) કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કયો સ્વાદ ઓળખવા નાક પણ મદદ કરે છે?\n\nA. ગળ્યો\nB. કડવો\nC. સુગંધિત ખોરાકનો સ્વાદ\nD. ખારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સુગંધિત ખોરાકનો સ્વાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારી સુગંધ = અડધો સ્વાદ તો નાકથી જ મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "આપણું શરીર નબળું પડે ત્યારે ગ્લુકોઝ શું કામ કરે છે?\n\nA. લોહી ઘટાડે છે\nB. હાડકાં તોડે છે\nC. તરત જ શક્તિ (એનર્જી) આપે છે\nD. ઊંઘ લાવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તરત જ શક્તિ (એનર્જી) આપે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ એ શરીર માટે 'ઈન્સ્ટન્ટ ચાર્જર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જીભના કયા ભાગમાં ખારો સ્વાદ અનુભવાય છે?\n\nA. આગળની બાજુની કિનારીઓ પર\nB. છેક પાછળ\nC. જીભની નીચે\nD. ક્યાંય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. આગળની બાજુની કિનારીઓ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ ગળ્યું અને તેની તરત બાજુમાં ખારું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ડૉ. બ્યુમોન્ટે માર્ટિનના પેટમાંથી પાચક રસ કાઢીને ક્યાં પ્રયોગ કર્યો?\n\nA. કીડા પર\nB. કાચના પ્યાલામાં (બહાર)\nC. જમીન પર\nD. હવામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કાચના પ્યાલામાં (બહાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટની બહાર પાચન કેવી રીતે થાય તે જોવા પ્યાલાનો ઉપયોગ કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પાચન માટે કઈ બાબત જરૂરી છે?\n\nA. ખૂબ દોડવું\nB. ખોરાકને ચાવીને ખાવો\nC. ટીવી જોતા ખાવું\nD. ઊભા રહીને ખાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખોરાકને ચાવીને ખાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતિથી બેસીને, ચાવીને ખાધેલું ભોજન જ અમૃત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વધુ પડતું બહારનું ખાવાથી શું નુકસાન થાય છે?\n\nA. શરીર સશક્ત બને\nB. વજન અને ચરબી વધે (સ્થૂળતા)\nC. ખૂબ ઊંચાઈ વધે\nD. તે સારું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વજન અને ચરબી વધે (સ્થૂળતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જંક ફૂડ' એટલે શરીરમાં કચરો જમા કરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નીચેનામાંથી કયો પદાર્થ સ્વાદમાં કડવો હોવા છતાં ગુણકારી છે?\n\nA. આઈસ્ક્રીમ\nB. મેથી/કારેલા\nC. બિસ્કિટ\nD. ઠંડુ પીણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મેથી/કારેલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવી વસ્તુ પેટના કૃમિ મારે અને લોહી શુદ્ધ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઝીણું ઝીણું ચાવવાથી ખોરાક કેવો લાગે છે?\n\nA. કડવો\nB. મીઠો\nC. ખાટો\nD. તીખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મીઠો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચનું શર્કરામાં રૂપાંતર થવાથી ચાવેલો ખોરાક મીઠો લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પાચનતંત્રનું મુખ્ય અંગ કયું છે?\n\nA. હૃદય\nB. ફેફસાં\nC. જઠર\nD. કિડની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જઠર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠર એ ખોરાકનું પ્રોસેસિંગ સેન્ટર છે!</p></div>"
+    }
+  ]
+}
