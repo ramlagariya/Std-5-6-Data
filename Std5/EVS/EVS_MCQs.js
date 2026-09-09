@@ -2968,3 +2968,191 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સ્વચ્છતા આપણું કામ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીના આશ્રમમાં આવતા દરેક મહેમાને કયું કામ શીખવું પડતું હતું?",
+      "options": "A. રસોઈ કરવાનું, B. શૌચાલયની સફાઈનું, C. ખેતી કરવાનું, D. કાંતણ કરવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શૌચાલયની સફાઈનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી માનતા કે 'પોતાનું કામ પોતે કરવું', એટલે મહેમાન હોય કે આશ્રમવાસી, શૌચાલય સાફ કરવું જ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નારાયણ (બાબલા) ના પિતાજીનું નામ શું હતું?",
+      "options": "A. મહાદેવભાઈ દેસાઈ, B. વલ્લભભાઈ પટેલ, C. મોહનદાસ ગાંધી, D. રવિશંકર મહારાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. મહાદેવભાઈ દેસાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નારાયણના 'મહાદેવ' જેવા પિતા જે ગાંધીજીના મંત્રી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીના સાબરમતી આશ્રમમાં નારાયણ કેટલા વર્ષનો હતો ત્યારે રહેતો હતો?",
+      "options": "A. 15 વર્ષ, B. 11 વર્ષ, C. 8 વર્ષ, D. 18 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 11 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે એકડા અગિયાર, બાબલાની ઉંમર તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તે સમયે શૌચાલયમાં ગંદકી ઉપાડવા માટે શું રાખવામાં આવતું હતું?",
+      "options": "A. પ્લાસ્ટિકની ડોલ, B. લોખંડના ડબ્બા, C. ટોપલીઓ, D. લાકડાના બોક્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ટોપલીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના જમાનામાં શૌચાલયની નીચે 'ટોપલી' મુકાતી જે હાથેથી ઉપાડવી પડતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાબાસાહેબ આંબેડકરનું નાનપણનું નામ શું હતું?",
+      "options": "A. ભીમરાવ, B. રામજી, C. શિવાજી, D. કેશવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ભીમરાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધારણના ઘડવૈયા ભીમરાવ, જેમણે જ્ઞાતિવાદ સામે લડત આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીમરાવ (બાબાસાહેબ) જ્યારે 7 વર્ષના હતા ત્યારે તેઓ મહારાષ્ટ્રના કયા સ્થળે ગયા હતા?",
+      "options": "A. નાગપુર, B. મુંબઈ, C. ગોરેગામ, D. પુણે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગોરેગામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગોરેગામ' માં ભીમરાવના પિતા કામ કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હજામે ભીમરાવના વાળ કાપવાની કેમ ના પાડી?",
+      "options": "A. તે બીમાર હતો, B. ભીમરાવ પાસે પૈસા નહોતા, C. અસ્પૃશ્યતાને કારણે (નીચી જ્ઞાતિ સમજીને), D. હજામ રજા પર હતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અસ્પૃશ્યતાને કારણે (નીચી જ્ઞાતિ સમજીને)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હજામે ભેંસના વાળ કાપ્યા પણ માણસના નહીં, કારણ કે તે જ્ઞાતિમાં ભેદભાવ રાખતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આપણા દેશનું બંધારણ કોની આગેવાની હેઠળ તૈયાર કરવામાં આવ્યું?",
+      "options": "A. ગાંધીજી, B. ડૉ. બાબાસાહેબ આંબેડકર, C. જવાહરલાલ નેહરુ, D. સરદાર પટેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ડૉ. બાબાસાહેબ આંબેડકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધારણના ઘડવૈયા = બાબાસાહેબ આંબેડકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્વચ્છતા રાખવી એ કોની જવાબદારી છે?",
+      "options": "A. માત્ર સફાઈ કામદારોની, B. સરકારની, C. આપણા સૌની, D. ગ્રામ પંચાયતની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આપણા સૌની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેશ મારો, ઘર મારું, તો સફાઈ પણ મારી જ જવાબદારી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજી અસ્પૃશ્યતા નિવારણ માટે કયા રાજ્યના વર્ધા શહેર પાસેના આશ્રમમાં ગયા હતા?",
+      "options": "A. ગુજરાત, B. રાજસ્થાન, C. મહારાષ્ટ્ર, D. મધ્યપ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મહારાષ્ટ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ધા એટલે મહારાષ્ટ્ર, જ્યાં સેવાગ્રામ આશ્રમ આવેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જ્યારે કોઈ મહેમાન શૌચાલય સફાઈનું કામ બરાબર ન કરે, ત્યારે મહાદેવભાઈ શું કહેતા?",
+      "options": "A. તેને ઠપકો આપતા, B. તેની સાથે ઝઘડો કરતા, C. જાતે સફાઈ કરીને શીખવતા, D. તેને આશ્રમમાંથી કાઢી મુકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જાતે સફાઈ કરીને શીખવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઉપદેશ કરતાં આચરણ શ્રેષ્ઠ' - આ ગાંધીજીનો સિદ્ધાંત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કયું સાધન સફાઈ માટે વપરાય છે?",
+      "options": "A. સાવરણી, B. પોતું, C. વેક્યુમ ક્લીનર, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર ચમકાવવા આ બધા સાધનો સાથીદાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નારાયણભાઈ દેસાઈએ ગાંધીજીના જીવન પર કયું પુસ્તક લખ્યું છે?",
+      "options": "A. સત્યના પ્રયોગો, B. મારું જીવન એ જ મારી વાણી, C. અગ્નિપથ, D. સંત સેવતા સુકૃત થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. સંત સેવતા સુકૃત થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નારાયણે ગાંધીજી જેવા સંતની સેવા કરી એટલે આ નામ પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજીએ કયા દુષણ સામે આજીવન લડત ચલાવી?",
+      "options": "A. અસ્પૃશ્યતા, B. બાળલગ્ન, C. દહેજ પ્રથા, D. અજ્ઞાનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અસ્પૃશ્યતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'છૂતાછૂત' ને ગાંધીજી પાપ માનતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શહેરના રસ્તાઓ કોણ સાફ કરે છે?",
+      "options": "A. પોલીસ, B. સફાઈ કામદાર, C. ડોક્ટર, D. ખેડૂત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સફાઈ કામદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રસ્તા ચોખ્ખા રાખે એ જ આપણા અસલી સફાઈ સેવક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભીમરાવને વાળ કાપવા માટે હજામે ના પાડી ત્યારે તેમને શું અનુભવાયું?",
+      "options": "A. આનંદ, B. ગુસ્સો અને દુઃખ, C. ઉત્સાહ, D. કશું જ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગુસ્સો અને દુઃખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અન્યાય થાય ત્યારે હંમેશા દુઃખ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાબરમતી આશ્રમ ક્યાં આવેલો છે?",
+      "options": "A. વડોદરા, B. રાજકોટ, C. અમદાવાદ, D. ભાવનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અમદાવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાબરમતી નદી = અમદાવાદ શહેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નારાયણભાઈ (બાબલા) એ જ્યારે ગામલોકોને ગંદકી સાફ કરતા ન જોયા ત્યારે કોની પાસે ફરિયાદ કરી?",
+      "options": "A. પિતા પાસે, B. ગાંધીજી પાસે, C. શિક્ષક પાસે, D. મિત્રો પાસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગાંધીજી પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આશ્રમમાં દરેક મૂંઝવણનો ઉકેલ ગાંધીજી પાસે હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચાલતા-ચાલતા કચરો નાખવા માટે શેનો ઉપયોગ કરવો જોઈએ?",
+      "options": "A. રસ્તા પર ફેંકી દેવો, B. ખિસ્સામાં રાખવો, C. કચરાપેટીમાં નાખવો, D. ગટરમાં નાખવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કચરાપેટીમાં નાખવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડસ્ટબિનનો સાથ, સ્વચ્છતાનો હાથ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગંદકીથી કઈ સમસ્યા સર્જાય છે?",
+      "options": "A. સ્વાસ્થ્ય સારું રહે, B. બીમારી ફેલાય, C. સુગંધ આવે, D. સુંદરતા વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બીમારી ફેલાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં ગંદકી, ત્યાં માંદગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાંધીજીએ કયા મૂલ્ય પર સૌથી વધુ ભાર મૂક્યો હતો?",
+      "options": "A. માત્ર ભણતર પર, B. શરીરની સુંદરતા પર, C. શ્રમ અને સ્વચ્છતા પર, D. મોજમજા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શ્રમ અને સ્વચ્છતા પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ કરો અને ચોખ્ખાઈ રાખો, આ ગાંધીજીનો મંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ડૉ. બાબાસાહેબ આંબેડકરે આજીવન કોના હકો માટે લડત આપી?",
+      "options": "A. અમીરો માટે, B. દલિતો અને વંચિતો માટે, C. અંગ્રેજો માટે, D. માત્ર વેપારીઓ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દલિતો અને વંચિતો માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાનતાનો અધિકાર અપાવનાર - બાબાસાહેબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયું કામ સફાઈ સાથે જોડાયેલું નથી?",
+      "options": "A. વાસણ માંજવા, B. રસ્તો સાફ કરવો, C. મોબાઈલ ગેમ રમવી, D. કચરો વાળવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મોબાઈલ ગેમ રમવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોબાઈલ ગેમ એ સમયનો બગાડ છે, સફાઈનું કામ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગાંધીજીના મતે સફાઈ કરનાર વ્યક્તિને આપણે કયા નામે બોલાવવી જોઈએ?",
+      "options": "A. નોકર, B. સફાઈ સેવક / હરિજન, C. મજૂર, D. ભિખારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સફાઈ સેવક / હરિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હરિના જન એટલે હરિજન, જેમને ગાંધીજીએ આદર આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો આપણે સ્વચ્છતા ન રાખીએ તો શું થાય?",
+      "options": "A. ઘર મોટું દેખાય, B. જીવજંતુઓનો ઉપદ્રવ વધે, C. હવા શુદ્ધ થાય, D. બધા ખુશ થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જીવજંતુઓનો ઉપદ્રવ વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગંદકી = માખી અને મચ્છરનું ઘર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભારત દેશમાં અસ્પૃશ્યતા હવે કાયદા દ્વારા શું કરવામાં આવી છે?",
+      "options": "A. વધારવામાં આવી છે, B. નાબૂદ કરવામાં આવી છે, C. ચાલુ રાખવામાં આવી છે, D. ફરજિયાત કરવામાં આવી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાબૂદ કરવામાં આવી છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધારણ મુજબ બધા સમાન, અસ્પૃશ્યતાને મળ્યું પૂર્ણવિરામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શાળામાં સફાઈ માટે કોણે ધ્યાન રાખવું જોઈએ?",
+      "options": "A. માત્ર આચાર્યએ, B. માત્ર પટાવાળાએ, C. બધા વિદ્યાર્થીઓ અને શિક્ષકોએ, D. કોઈએ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બધા વિદ્યાર્થીઓ અને શિક્ષકોએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાળા આપણું મંદિર છે, તેને સાફ રાખવું આપણી ફરજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભીમરાવને મોટા થઈને ભણી-ગણીને શું બનવું હતું?",
+      "options": "A. સૈનિક, B. વકીલ, C. ડ્રાઈવર, D. ખેડૂત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વકીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીમરાવ ભણ્યા અને મોટા વકીલ બન્યા, પછી બંધારણ લખ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કયા પ્રકારના કચરાને ખાતર બનાવવા માટે વાપરી શકાય?",
+      "options": "A. પ્લાસ્ટિક અને કાચ, B. લોખંડના ટુકડા, C. શાકભાજી અને ફળોના છોડાં (ભીનો કચરો), D. ફાટેલા કપડાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શાકભાજી અને ફળોના છોડાં (ભીનો કચરો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીનો કચરો = ઉત્તમ ખાતર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગાંધીજીએ કીધું હતું કે, 'સફાઈ એ _________ છે.'",
+      "options": "A. આદત, B. સેવા, C. કામ, D. ભક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. ભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વચ્છતા ત્યાં પ્રભુતા, એટલે જ સફાઈ એ ભક્તિ.</p></div>"
+    }
+  ]
+}
