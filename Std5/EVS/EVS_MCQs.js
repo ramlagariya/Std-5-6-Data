@@ -3314,3 +3314,191 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "હવે અમે ક્યાં જઈએ?",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અનુજભાઈના મૂળ ગામનું નામ શું હતું?",
+      "options": "A. સિંદુરી, B. ખેડી, C. રામપુર, D. મુંબઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખેડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુજે ખેતી કરવા માટે 'ખેડી' ગામમાં જન્મ લીધો હતો - એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખેડી ગામ ક્યાં આવેલું હતું?",
+      "options": "A. રણની વચ્ચે, B. દરિયાકિનારે, C. ગાઢ લીલા જંગલો અને પર્વતોની વચ્ચે, D. શહેરની નજીક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગાઢ લીલા જંગલો અને પર્વતોની વચ્ચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખેડી' એટલે પ્રકૃતિનો ખોળો (જંગલ અને પર્વત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખેડી ગામમાં વહેતી નદીનો અવાજ કેવો હતો?",
+      "options": "A. ખળખળ, B. ગડગડાટ, C. સરસર, D. ટપટપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ખળખળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી હંમેશા 'ખળખળ' વહે - આ કુદરતી અવાજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેડી ગામના લોકો જંગલમાંથી કઈ વસ્તુઓ એકઠી કરતા ન હતા?",
+      "options": "A. જંગલી ફળો, B. મૂળ અને સૂકા લાકડાં, C. પ્લાસ્ટિકની બોટલો, D. ઔષધીય છોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પ્લાસ્ટિકની બોટલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાના લોકો કુદરતી વસ્તુઓ સાથે જોડાયેલા હોય, પ્લાસ્ટિક સાથે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નદી પર બંધ બાંધવાને કારણે કયા ગામના લોકોને ત્યાંથી ખસી જવું પડ્યું?",
+      "options": "A. સિંદુરી, B. ખેડી, C. મુંબઈ, D. અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખેડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી પર બંધ (Dam) આવ્યો એટલે 'ખેડી' ખાલી કરવું પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેડી છોડ્યા પછી અનુજ અને તેના ગામના લોકો કયા ગામે રહેવા ગયા?",
+      "options": "A. સિંદુરી, B. ખેડી, C. પાલનપુર, D. સુરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સિંદુરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડીથી સિંદુરી (K to S) - અનુજની મુસાફરીનો પહેલો પડાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સિંદુરી ગામમાં અનુજને જે ઘર મળ્યું હતું તેનું છપરું શેનું બનેલું હતું?",
+      "options": "A. નળિયાનું, B. ધાબાનું, C. પતરાનું (ટીનનું), D. ઘાસનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પતરાનું (ટીનનું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતરું એટલે ગરમીનો ભઠ્ઠો - સિંદુરીમાં ગરમીનું આ જ કારણ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સિંદુરી ગામના લોકો ખેડી ગામથી આવેલા લોકોને શું કહીને બોલાવતા હતા?",
+      "options": "A. મહેમાન, B. ભાઈઓ, C. વણનોતર્યા મહેમાન, D. મિત્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વણનોતર્યા મહેમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમને બોલાવ્યા ના હોય તે 'વણનોતર્યા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અનુજભાઈ સિંદુરી ગામ છોડીને કયા શહેરમાં રહેવા ગયા?",
+      "options": "A. દિલ્હી, B. મુંબઈ, C. કોલકાતા, D. ચેન્નાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મુંબઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપનાનું શહેર મુંબઈ - પણ અનુજ માટે તે મુશ્કેલીનું શહેર હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મુંબઈમાં અનુજભાઈ શું કામ કરીને ગુજરાન ચલાવતા હતા?",
+      "options": "A. ખેતી, B. માછલી પકડવાની જાળી સરખી કરવી, C. રિક્ષા ચલાવવી, D. શિક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માછલી પકડવાની જાળી સરખી કરવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયા કિનારો મુંબઈમાં હોય, એટલે માછલીની જાળીનું કામ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નદી પર મોટો બંધ બાંધવાથી નીચેનામાંથી શું થાય છે?",
+      "options": "A. વીજળી ઉત્પન્ન થાય, B. સિંચાઈ માટે પાણી મળે, C. આજુબાજુના ગામો ડૂબી જાય, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધના ફાયદા પણ છે અને નુકસાન (વિસ્થાપન) પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખેડી ગામના લોકો પર્વત પર કયા પ્રાણીઓના અવાજ સાંભળતા હતા?",
+      "options": "A. વાઘ અને સિંહ, B. પક્ષીઓ અને પ્રાણીઓ, C. માત્ર ગાય, D. હાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પક્ષીઓ અને પ્રાણીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓનો કિલકિલાટ એટલે કુદરતી સંગીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અનુજ મુંબઈમાં રાત્રે શું યાદ કરતો હતો?",
+      "options": "A. મોંઘી ગાડીઓ, B. ઊંચી ઇમારતો, C. ખેડી ગામના દિવસો, D. સિનેમા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખેડી ગામના દિવસો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેટલા શહેરમાં જાવ, પણ 'જન્મભૂમિ' હંમેશા યાદ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેડી ગામમાં બાળકો વડીલો પાસેથી શું શીખતા હતા?",
+      "options": "A. નૃત્ય કરવું અને વાંસળી વગાડવી, B. માટીના અને વાંસના ઘડા બનાવવા, C. પક્ષીઓને ઓળખવા અને નકલ કરવી, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાના બાળકો પ્રકૃતિ અને કળાના સાચા જાણકાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સિંદુરી ગામમાં વીજળી તો હતી, પણ શું સમસ્યા હતી?",
+      "options": "A. વીજળી મફત હતી, B. વીજળી ક્યારેક જ આવતી, C. બલ્બ ફાટી જતા, D. વાયર નહોતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વીજળી ક્યારેક જ આવતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુવિધા હતી પણ 'પૂરતી' નહોતી, ઉપરથી બીલ પણ ભરવું પડતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અનુજના પુત્રનું નામ શું હતું?",
+      "options": "A. ગોલુ, B. કૌશલ, C. જીયા, D. મોનુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કૌશલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુજ મુંબઈમાં 'કૌશલ' (પુત્ર) સાથે ભવિષ્યના સપના જોતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખેડી ગામમાં લોકો માંદા પડતા ત્યારે કોની પાસે જતા?",
+      "options": "A. મોટા ડોક્ટર પાસે, B. હોસ્પિટલમાં, C. જંગલની વનસ્પતિના જાણકાર પાસે, D. મેડિકલ સ્ટોરમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જંગલની વનસ્પતિના જાણકાર પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ જ તેમની હોસ્પિટલ અને વનસ્પતિ જ તેમની દવા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મુંબઈમાં અનુજને પીવાના પાણી માટે શું કરવું પડતું?",
+      "options": "A. નદીએ જવું પડતું, B. પાણી વેચાતું લેવું પડતું, C. કુવે જવું પડતું, D. વરસાદનું પાણી ભેગું કરવું પડતું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણી વેચાતું લેવું પડતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરમાં 'હવા' સિવાય બધું જ પૈસાથી મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેડી ગામમાં તહેવારો વખતે યુવાન છોકરા-છોકરીઓ શું કરતા?",
+      "options": "A. ટીવી જોતા, B. મોબાઈલ વાપરતા, C. નૃત્ય કરતા અને ઢોલ વગાડતા, D. બજારમાં જતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નૃત્ય કરતા અને ઢોલ વગાડતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાનો આનંદ એટલે સામૂહિક નૃત્ય અને ઢોલનો નાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સરકારી કર્મચારીઓ જ્યારે ખેડી આવ્યા ત્યારે તેમની સાથે કોણ હતું?",
+      "options": "A. શિક્ષકો, B. ડોક્ટરો, C. પોલીસ, D. વેપારીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પોલીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી અમલ અને કાયદો હંમેશા 'પોલીસ' સાથે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખેડી ગામમાં અનુજ શું કામ કરવામાં હોશિયાર હતો?",
+      "options": "A. કોમ્પ્યુટર ચલાવવામાં, B. માટી અને વાંસની વસ્તુઓ બનાવવામાં, C. ગાડી ચલાવવામાં, D. વિમાન ઉડાડવામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માટી અને વાંસની વસ્તુઓ બનાવવામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડી ગામમાં વાંસ પુષ્કળ હતા, એટલે વાંસની કળા શીખ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુંબઈમાં અનુજના ઘરની સ્થિતિ કેવી હતી?",
+      "options": "A. મોટો બંગલો, B. એક જ નાની રૂમ, C. બગીચાવાળું ઘર, D. બે માળનું મકાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. એક જ નાની રૂમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈમાં જગ્યા ઓછી અને માણસો વધારે, એટલે એક જ નાની રૂમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખેડી ગામના લોકો નદી કિનારે શું પકડતા હતા?",
+      "options": "A. માછલીઓ, B. કાચબા, C. મગર, D. દેડકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. માછલીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી હોય ત્યાં માછલીઓ જ મુખ્ય ખોરાક અને વ્યવસાય હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સિંદુરીમાં ખેતી માટે કેવી જમીન મળી હતી?",
+      "options": "A. ખૂબ જ ફળદ્રુપ, B. પથ્થરોવાળી અને ખેતી લાયક નહીં, C. રેતાળ, D. કાળી માટીવાળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પથ્થરોવાળી અને ખેતી લાયક નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંદુરીમાં માત્ર નામની જ જમીન હતી, કામની નહીં (પથ્થરોવાળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અનુજ મુંબઈમાં કોના ઘરે રહેવા ગયો હતો?",
+      "options": "A. તેના ભાઈના ઘરે, B. તેના દૂરના સંબંધીના ઘરે, C. તેના મિત્રના ઘરે, D. હોટલમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેના દૂરના સંબંધીના ઘરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરમાં શરૂઆતમાં સંબંધીઓ જ આશરો આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કૌશલને મુંબઈમાં શાના અવાજથી બીક લાગતી હતી?",
+      "options": "A. પક્ષીઓના, B. વાહનોના હોર્ન અને ભીડના, C. ટીવીના, D. પવનના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વાહનોના હોર્ન અને ભીડના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત ગામડાના બાળકને શહેરનો ઘોંઘાટ ડરામણો લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અનુજના પિતાજી ખેડી ગામ છોડતી વખતે કેવું અનુભવતા હતા?",
+      "options": "A. ખૂબ જ ખુશ હતા, B. દુઃખી અને લાચાર હતા, C. નવાઈ પામ્યા હતા, D. ગુસ્સે હતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દુઃખી અને લાચાર હતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડલાને તેના મૂળથી ઉખેડીએ તો તે દુઃખી જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સિંદુરી ગામમાં રસોઈ બનાવવા માટે અનુજ શું બાળતો હતો?",
+      "options": "A. ગેસ, B. કોલસા, C. રબરના જૂના ટાયરના ટુકડા, D. કેરોસીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. રબરના જૂના ટાયરના ટુકડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાં નહોતા, એટલે ગરીબીમાં ટાયર બાળવા પડતા (જે ખૂબ જ પ્રદૂષણ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખેડી ગામમાં લોકો એકબીજાને કેવી રીતે મદદ કરતા?",
+      "options": "A. પૈસા આપીને, B. એક પરિવારની જેમ રહીને, C. કોઈ મદદ કરતું નહીં, D. ઝઘડો કરીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. એક પરિવારની જેમ રહીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડું એટલે મોટો પરિવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શા માટે સરકારે નદી પર બંધ બાંધવાનું નક્કી કર્યું હતું?",
+      "options": "A. માછલીઓ મારવા, B. વીજળી અને સિંચાઈની સુવિધા માટે, C. નદીને રોકવા, D. મનોરંજન માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વીજળી અને સિંચાઈની સુવિધા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ (Dam) = પાવર (વીજળી) + પાણી (સિંચાઈ).</p></div>"
+    }
+  ]
+}
