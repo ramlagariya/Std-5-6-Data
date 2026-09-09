@@ -2622,3 +2622,161 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "જ્યારે ધરતી ધ્રૂજી ઊઠી",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કચ્છમાં કઈ તારીખે ભયાનક ધરતીકંપ આવ્યો હતો? \n(A) 26 જાન્યુઆરી, 2000 \n(B) 26 જાન્યુઆરી, 2001 \n(C) 15 ઓગસ્ટ, 2001 \n(D) 26 જાન્યુઆરી, 2002",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 26 જાન્યુઆરી, 2001</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રજાસત્તાક પર્વ (26 જાન્યુઆરી) અને સદીની શરૂઆત (2001) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જમીન ધ્રૂજવી તેને કઈ કુદરતી આફત કહેવાય છે? \n(A) પૂર \n(B) વાવાઝોડું \n(C) ધરતીકંપ \n(D) દુષ્કાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધરતીકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધરતી' + 'કંપ' (ધ્રૂજારી) = ધરતીકંપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ધરતીકંપ આવે ત્યારે જો તમે ઘરમાં હોવ તો ક્યાં છુપાઈ જવું જોઈએ? \n(A) પલંગ ઉપર \n(B) મજબૂત ટેબલની નીચે \n(C) બારીની પાસે \n(D) પંખાની નીચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મજબૂત ટેબલની નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટેબલ પકડો, માથું બચાવો' - મજબૂત આધાર નીચે સુરક્ષિત રહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જસ્માના ગામે કયા વિસ્તારમાં ધરતીકંપનો અનુભવ કર્યો હતો? \n(A) સૌરાષ્ટ્ર \n(B) ઉત્તર ગુજરાત \n(C) કચ્છ \n(D) દક્ષિણ ગુજરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં સૌથી મોટો ધરતીકંપ 'કચ્છ' માં આવ્યો હતો, પાઠમાં કચ્છની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધરતીકંપ આવ્યા બાદ કયા વ્યવસાયિક લોકોએ મકાનોની નવી ડિઝાઈન બતાવી? \n(A) ડોક્ટરો \n(B) એન્જિનિયરો અને આર્કિટેક્ટ્સ \n(C) ખેડૂતો \n(D) દરજીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એન્જિનિયરો અને આર્કિટેક્ટ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાનનો નકશો અને ડિઝાઈન હંમેશા 'એન્જિનિયર' બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ધરતીકંપમાં કાટમાળ નીચે દબાયેલા લોકોને શોધવા માટે કયા પ્રાણીની મદદ લેવાય છે? \n(A) બિલાડી \n(B) હાથી \n(C) કૂતરો \n(D) ઘોડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કૂતરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરાની સુંઘવાની શક્તિ તેજ હોવાથી તે કાટમાળમાં માણસને શોધી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઈજાગ્રસ્ત લોકોને હોસ્પિટલ પહોંચાડવા માટે કયા નંબર પર ફોન કરવો જોઈએ? \n(A) 100 \n(B) 101 \n(C) 108 \n(D) 102",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ બચાવવા માટે '108' એમ્બ્યુલન્સ તૈયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આગ લાગે ત્યારે કઈ સેવાને બોલાવવામાં આવે છે? \n(A) પોલીસ \n(B) ફાયર બ્રિગેડ \n(C) 108 \n(D) નગરપાલિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફાયર બ્રિગેડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fire = આગ, તેથી ફાયર બ્રિગેડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બહુ જ લાંબા સમય સુધી વરસાદ ન પડે તો કઈ સ્થિતિ સર્જાય છે? \n(A) પૂર \n(B) ધરતીકંપ \n(C) દુષ્કાળ \n(D) સુનામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી તો 'દુષ્કાળ' (દુઃખદ કાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખૂબ જ વધારે વરસાદ આવે અને નદીઓના પાણી કિનારા છોડી ગામમાં ઘુસી જાય તેને શું કહેવાય? \n(A) વાવાઝોડું \n(B) પૂર \n(C) ધરતીકંપ \n(D) દાવાનળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પાણી = રેલ કે પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધરતીકંપ આવ્યા પછી જસ્માના ગામના લોકોએ મકાનો બનાવવા માટે કોની મદદ લીધી? \n(A) જાદુગરની \n(B) શહેરના સંસ્થાઓ અને એન્જિનિયરોની \n(C) પક્ષીઓની \n(D) કોઈની નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શહેરના સંસ્થાઓ અને એન્જિનિયરોની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત સમયે સેવાભાવી સંસ્થાઓ અને જાણકાર (એન્જિનિયર) મદદરૂપ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કઈ આફત કુદરતી આફત નથી? \n(A) પૂર \n(B) ધરતીકંપ \n(C) માર્ગ અકસ્માત \n(D) વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માર્ગ અકસ્માત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકસ્માત માણસની ભૂલથી થાય, બાકીના પ્રકૃતિ દ્વારા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ધરતીકંપ આવ્યા પછી જસ્માના ગામના લોકોએ મકાનોની દીવાલો શાની બનાવી? \n(A) ફક્ત સિમેન્ટની \n(B) લોખંડની \n(C) માટી અને છાણના કેક (ચકતા) બનાવીને \n(D) કાચની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માટી અને છાણના કેક (ચકતા) બનાવીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં દેશી અને મજબૂત મકાન માટી-છાણથી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધરતીકંપના સમયે ઘરની બહાર હોવ તો શું કરવું જોઈએ? \n(A) ઊંચા મકાન પાસે ઊભા રહેવું \n(B) વીજળીના થાંભલા નીચે ઊભા રહેવું \n(C) ખુલ્લા મેદાનમાં ચાલ્યા જવું \n(D) ઝાડ નીચે બેસી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખુલ્લા મેદાનમાં ચાલ્યા જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લું મેદાન એટલે માથે કશું પડવાનો ડર નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કચ્છના ધરતીકંપમાં સૌથી વધુ નુકસાન કયા શહેરમાં થયું હતું? \n(A) સુરત \n(B) ભુજ \n(C) અમદાવાદ \n(D) રાજકોટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભુજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભુજ એ કચ્છનું મુખ્ય શહેર છે અને ત્યાં જ કેન્દ્રબિંદુ હોવાથી વધુ નુકસાન થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધરતીકંપ માપવાના સાધનને શું કહેવામાં આવે છે? \n(A) બેરોમીટર \n(B) થર્મોમીટર \n(C) સિસ્મોગ્રાફ \n(D) લેક્ટોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સિસ્મોગ્રાફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિસ્મો' એટલે ધ્રૂજારી સંબંધિત, તેથી સિસ્મોગ્રાફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કઈ આફત આવવાની આગાહી કરી શકાતી નથી? \n(A) વાવાઝોડું \n(B) પૂર \n(C) ધરતીકંપ \n(D) ભારે વરસાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધરતીકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતીકંપ ગમે ત્યારે અચાનક આવે છે, તેની આગોતરી જાણકારી મળતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ફાયર ફાઈટર (આગ બુઝાવનાર) નો ફોન નંબર કયો છે? \n(A) 100 \n(B) 101 \n(C) 108 \n(D) 112",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 101</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પોલીસ, 101 આગ (Fire).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધરતીકંપમાં ઘર પડી જવાથી જસ્માના પરિવારે ક્યાં રહેવું પડ્યું હતું? \n(A) હોટલમાં \n(B) બીજા ગામમાં \n(C) પ્લાસ્ટિકના તંબુમાં \n(D) પથ્થરની ગુફામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્લાસ્ટિકના તંબુમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટમાળ વચ્ચે રહેવા માટે તંબુ જ એકમાત્ર વિકલ્પ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરસાદ ના આવવાને કારણે પાક નિષ્ફળ જાય અને ખાવાની અછત સર્જાય તેને શું કહેવાય? \n(A) પૂર \n(B) દુષ્કાળ \n(C) વાવાઝોડું \n(D) ધરતીકંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ 'દૂર' ગયો એટલે 'દુષ્કાળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આફત સમયે આપણને કોણ મદદ કરે છે? \n(A) પડોશીઓ \n(B) સ્વૈચ્છિક સંસ્થાઓ \n(C) સરકાર \n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલીમાં આખું સમાજ સાથે મળીને મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધરતીકંપ આવે ત્યારે શું ન કરવું જોઈએ? \n(A) શાંત રહેવું \n(B) લિફ્ટનો ઉપયોગ કરવો \n(C) ખુલ્લા મેદાનમાં જવું \n(D) ટેબલ નીચે છુપાકાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લિફ્ટનો ઉપયોગ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ ગમે ત્યારે અટકી શકે અથવા પડી શકે, એટલે સીડીનો જ ઉપયોગ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જ્યારે ધરતીકંપ આવે ત્યારે મકાનો નીચે દબાયેલા લોકોને બહાર કાઢવા કોણ આવે છે? \n(A) સૈનિકો અને બચાવ ટુકડી \n(B) વેપારીઓ \n(C) સંગીતકારો \n(D) ચિત્રકારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સૈનિકો અને બચાવ ટુકડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ બચાવવાનું કામ 'બચાવ ટુકડી' (Rescue Team) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વધુ પડતા વરસાદથી પાક ધોવાઈ જાય તેને શું કહેવાય? \n(A) લીલો દુષ્કાળ \n(B) સુકો દુષ્કાળ \n(C) ધરતીકંપ \n(D) વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લીલો દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વરસાદ (પાણી) થી પાક બગડે તેને 'લીલો' દુષ્કાળ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પોલીસનો હેલ્પલાઈન નંબર કયો છે? \n(A) 108 \n(B) 100 \n(C) 101 \n(D) 105",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '100' નંબર ડાયલ કરો, પોલીસને બોલાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ધરતીકંપ દરમિયાન કઈ જગ્યાએ જવું સૌથી વધુ સુરક્ષિત છે? \n(A) મકાનની અંદર \n(B) કાચની બારી પાસે \n(C) ખુલ્લા મેદાનમાં \n(D) વૃક્ષની નીચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખુલ્લા મેદાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુલ્લી જગ્યા, સુરક્ષિત જગ્યા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમુદ્રમાં આવતા ધરતીકંપને કારણે ઊછળતા મોજાંને શું કહેવાય? \n(A) વાવાઝોડું \n(B) સુનામી \n(C) પૂર \n(D) દુષ્કાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગર + ધરતીકંપ = સુનામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જસ્માના વિસ્તારમાં ધરતીકંપ આવ્યો ત્યારે કયો તહેવાર હતો? \n(A) દિવાળી \n(B) હોળી \n(C) પ્રજાસત્તાક દિન \n(D) ઉત્તરાયણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રજાસત્તાક દિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 26 જાન્યુઆરી એટલે પ્રજાસત્તાક દિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નીચેનામાંથી કઈ માનવસર્જિત આફત છે? \n(A) ધરતીકંપ \n(B) પૂર \n(C) યુદ્ધ \n(D) વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) યુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આફત માણસ પોતે ઊભી કરે તે માનવસર્જિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ધરતીકંપ પછી લોકોના ખાવા-પીવાની અને રહેવાની વ્યવસ્થા કોણે કરી? \n(A) ફક્ત જસ્માના કુટુંબે \n(B) પાડોશી દેશોએ \n(C) લશ્કરના જવાનો અને સેવાભાવી સંસ્થાઓએ \n(D) કોઈએ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લશ્કરના જવાનો અને સેવાભાવી સંસ્થાઓએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશના જવાનો હંમેશા મુશ્કેલીમાં વ્હારે આવે.</p></div>"
+    }
+  ]
+}
