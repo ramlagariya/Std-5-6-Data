@@ -2226,3 +2226,191 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જો આ ખૂટી જાય તો?",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેનામાંથી કયું વાહન પેટ્રોલ કે ડીઝલ વગર ચાલે છે?",
+      "options": "A. બસ, B. ટ્રક, C. સાયકલ, D. કાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સાયકલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકલ 'પગ-બળ' થી ચાલે છે, 'તેલ-બળ' થી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જમીનમાંથી મળતા કાળા, ઘટ્ટ અને ગંધયુક્ત પ્રવાહીને શું કહેવામાં આવે છે?",
+      "options": "A. પાણી, B. ખનીજ તેલ (પેટ્રોલિયમ), C. દૂધ, D. ખાંડણીનું તેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખનીજ તેલ (પેટ્રોલિયમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીના પેટાળનું 'કાળું સોનું' એટલે પેટ્રોલિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્કૂટર અને રિક્ષા જેવા વાહનોમાં કયું બળતણ વપરાય છે?",
+      "options": "A. કોલસો, B. પેટ્રોલ/સી.એન.જી., C. લાકડાં, D. કેરોસીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પેટ્રોલ/સી.એન.જી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનાં વાહનો પેટ્રોલથી દોડે, મોટાં વાહનો ડીઝલથી દોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટ્રાફિક સિગ્નલ પર કયા રંગની લાઈટ થતા વાહન થોભાવવું જોઈએ?",
+      "options": "A. લીલી, B. પીળી, C. સફેદ, D. લાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ એટલે 'થોભો', લીલું એટલે 'ચલો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બળતણ બચાવવા માટે આપણે ટ્રાફિક સિગ્નલ પર શું કરવું જોઈએ?",
+      "options": "A. એન્જિન ચાલુ રાખવું, B. મોટેથી હોર્ન વગાડવો, C. એન્જિન બંધ કરી દેવું, D. ગાડી સ્પીડમાં ચલાવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એન્જિન બંધ કરી દેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડ લાઈટ = એન્જિન ફાઈટ (બંધ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખનીજ તેલના શુદ્ધિકરણ માટે તેને ક્યાં મોકલવામાં આવે છે?",
+      "options": "A. ખેતરમાં, B. રિફાઇનરીમાં, C. શાળાઓમાં, D. બગીચામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રિફાઇનરીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિફાઇનરી એટલે તેલનું 'બ્યુટી પાર્લર' જ્યાં તે ચોખ્ખું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કયો ઉર્જાનો સ્ત્રોત ક્યારેય ખૂટશે નહીં?",
+      "options": "A. પેટ્રોલ, B. ડીઝલ, C. સૂર્યપ્રકાશ, D. કોલસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સૂર્યપ્રકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ દાદા અખૂટ શક્તિનો ભંડાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘરમાં રસોઈ બનાવવા માટે ગેસના સિલિન્ડરમાં કયો ગેસ ભરેલો હોય છે?",
+      "options": "A. CNG, B. LPG, C. ઓક્સિજન, D. નાઈટ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. LPG</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L.P.G. = 'લાવો પાકું ગાણું' (રસોઈ માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાહનોના ધુમાડાથી કયા અંગને નુકસાન થાય છે?",
+      "options": "A. ફેફસાં, B. પેટ, C. હાડકાં, D. નખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસમાં જાય ધુમાડો, ફેફસાં થાય બગાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "CNG નું આખું નામ શું છે?",
+      "options": "A. Clean Natural Gas, B. Common Natural Gas, C. Compressed Natural Gas, D. Carbon Natural Gas",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Compressed Natural Gas</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-N-G: સી એટલે કોમ્પ્રેસ્ડ, એન એટલે નેચરલ, જી એટલે ગેસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પેટ્રોલ પંપ પર શું સાવચેતી રાખવી જોઈએ?",
+      "options": "A. ગીતો ગાવા જોઈએ, B. આગ કે મોબાઈલનો ઉપયોગ ન કરવો, C. નાચવું જોઈએ, D. પાણી પીવું જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આગ કે મોબાઈલનો ઉપયોગ ન કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ્રોલ પંપ પર 'આગ' અને 'ફોન' થી રહેવું વેગળા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગામડામાં ઘણા લોકો રસોઈ બનાવવા માટે બળતણ તરીકે શું વાપરે છે?",
+      "options": "A. પથ્થર, B. સૂકા લાકડાં અને છાણાં, C. લોખંડ, D. પ્લાસ્ટિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સૂકા લાકડાં અને છાણાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય-ભેંસના છાણાં, ગામડાનું દેશી ભાણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ડીઝલનો ઉપયોગ નીચેનામાંથી કયા વાહનમાં થાય છે?",
+      "options": "A. સાયકલ, B. ટ્રેક્ટર, C. રિક્ષા, D. વિમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ટ્રેક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારેખમ વાહન (ટ્રક, બસ, ટ્રેક્ટર) = ડીઝલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખનીજ તેલ જમીનમાંથી કેવી રીતે બહાર કાઢવામાં આવે છે?",
+      "options": "A. પાઈપ અને પંપ દ્વારા, B. ડોલ દ્વારા, C. ઝાડ પરથી, D. પાવડાથી ખોદીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. પાઈપ અને પંપ દ્વારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડેથી તેલ ખેંચવા માટે મોટા મશીન અને પાઈપ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તેલ બચાવવા માટેનો સાચો સંદેશ કયો છે?",
+      "options": "A. તેલનો ખૂબ બગાડ કરો, B. તેલ બચાવો, તે તમને બચાવશે, C. તેલ ઢોળી દો, D. ગાડી ફાસ્ટ ચલાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેલ બચાવો, તે તમને બચાવશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવ ઓઈલ, સેવ ફ્યુચર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અડાલજની વાવ કયા શહેરમાં આવેલી છે?",
+      "options": "A. સુરત, B. રાજકોટ, C. ગાંધીનગર (અમદાવાદ પાસે), D. ભાવનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગાંધીનગર (અમદાવાદ પાસે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડાલજ એટલે અમદાવાદ-ગાંધીનગર વચ્ચેનું સુંદર સ્થાપત્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પૃથ્વીના પેટાળમાં તેલ બનતા કેટલો સમય લાગે છે?",
+      "options": "A. બે દિવસ, B. એક વર્ષ, C. લાખો વર્ષો, D. દસ વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લાખો વર્ષો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી ફેક્ટરી ધીમી છે, એટલે જ વાપરવામાં ચીવટ રાખવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા વાહનોના કારણે હવા અને અવાજનું પ્રદૂષણ વધે છે?",
+      "options": "A. સાયકલ, B. ઘોડાગાડી, C. મોટરગાડી અને બસ, D. હોડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મોટરગાડી અને બસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન વાળું વાહન = અવાજ + ધુમાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રસ્તા પર ચાલતી વખતે કયા નિયમનું પાલન કરવું જોઈએ?",
+      "options": "A. ગમે ત્યાં દોડવું, B. ઝેબ્રા ક્રોસિંગ પરથી રસ્તો ઓળંગવો, C. રસ્તા વચ્ચે બેસવું, D. આંખો બંધ રાખવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઝેબ્રા ક્રોસિંગ પરથી રસ્તો ઓળંગવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ-કાળી પટ્ટી એટલે સલામત રસ્તી (ઝેબ્રા ક્રોસિંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભારતમાં સૌથી વધુ તેલ કયા રાજ્યોમાંથી મળે છે?",
+      "options": "A. અસમ અને ગુજરાત, B. પંજાબ, C. હરિયાણા, D. દિલ્હી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અસમ અને ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'સમ અને 'ગુ'જરાત એટલે અ-ગુ (તેલ માટે અગ્રેસર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કઈ વસ્તુ પેટ્રોલિયમમાંથી બનતી નથી?",
+      "options": "A. ગ્રીસ, B. પ્લાસ્ટિક, C. મીણ, D. ચોખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. ચોખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોખા ખેતરમાં થાય, તેલમાંથી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વાહનોમાં કયો ગેસ વાપરવાથી પ્રદૂષણ ઓછું થાય છે?",
+      "options": "A. કાર્બન ડાયોક્સાઈડ, B. CNG, C. હાઈડ્રોજન, D. ક્લોરીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. CNG</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CNG = Clean Fuel (ચોખ્ખું બળતણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બળતણનો કરકસરયુક્ત ઉપયોગ કેમ કરવો જોઈએ?",
+      "options": "A. તે મફત છે, B. તે ખૂટી જાય તેવો સ્ત્રોત છે, C. તે બધે જ મળે છે, D. તે પાણીની જેમ વહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તે ખૂટી જાય તેવો સ્ત્રોત છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મર્યાદિત છે, તેનું જતન જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટ્રાફિક જામમાં લોકો મોટેથી હોર્ન વગાડે ત્યારે શું થાય છે?",
+      "options": "A. ગાડી જલ્દી જાય, B. અવાજનું પ્રદૂષણ વધે, C. મજા આવે, D. રસ્તો મોટો થઈ જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અવાજનું પ્રદૂષણ વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વગર કામે હોર્ન વગાડવો એટલે કાનના પડદા ફાડવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સૂર્ય ઉર્જાથી ચાલતા સાધનનું નામ જણાવો.",
+      "options": "A. પ્રાઈમસ, B. ચૂલો, C. સોલર કૂકર, D. ઈલેક્ટ્રિક સગડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સોલર કૂકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સોલર' શબ્દ જ સૂર્ય સાથે જોડાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પેટ્રોલ પંપ પર લખેલું હોય છે: 'પેટ્રોલ અને ડીઝલ કાયમ માટે રહેશે નહીં', આનો અર્થ શું?",
+      "options": "A. તે રોજ બને છે, B. તેનો જથ્થો મર્યાદિત છે, C. તે મફત મળશે, D. ગભરાવાની જરૂર નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેનો જથ્થો મર્યાદિત છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાપરો પણ વિચારીને, કારણ કે તે ખૂટી શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો શહેરોમાં વાહનો વધતા જ જશે, તો કઈ સમસ્યા ઉભી થશે?",
+      "options": "A. રસ્તા ખુલ્લા થશે, B. અકસ્માત અને પ્રદૂષણ વધશે, C. શાંતિ વધશે, D. પેટ્રોલ સસ્તું થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અકસ્માત અને પ્રદૂષણ વધશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વાહન = વધુ સમસ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ચૂલા પર રસોઈ બનાવતી વખતે નીકળતો ધુમાડો શરીરના કયા અંગને નુકસાન કરે છે?",
+      "options": "A. પગને, B. આંખ અને ફેફસાંને, C. વાળને, D. દાંતને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આંખ અને ફેફસાંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો આંખમાં બળતરા કરે અને ફેફસાંમાં શ્વાસની તકલીફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક જગ્યાએથી બીજી જગ્યાએ જવા માટે સૌથી વધુ ઇંધણ બચાવતી રીત કઈ?",
+      "options": "A. દરેક પોતાની કાર લઈને જાય, B. જાહેર બસનો ઉપયોગ કરવો, C. હેલિકોપ્ટરમાં જવું, D. ટેક્સી ભાડે કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાહેર બસનો ઉપયોગ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બસ, ઘણા માણસો = ઓછું બળતણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પેટ્રોલના ભાવ કેમ વધતા જાય છે?",
+      "options": "A. તેનો જથ્થો ઓછો છે અને વપરાશ વધુ છે, B. પેટ્રોલ પાણીમાંથી બને છે, C. તેની જરૂર નથી, D. સરકારે મજાક કરી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. તેનો જથ્થો ઓછો છે અને વપરાશ વધુ છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંગ વધે અને પુરવઠો ઘટે ત્યારે ભાવ આસમાને ચઢે!</p></div>"
+    }
+  ]
+}
