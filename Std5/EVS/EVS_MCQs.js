@@ -1880,3 +1880,191 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દીવાલો ગઢ બોલે છે",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "ગોલકોન્ડા કિલ્લો કયા રાજ્યમાં (શહેરમાં) આવેલો છે?",
+      "options": "A. અમદાવાદ, B. હૈદરાબાદ, C. દિલ્હી, D. જયપુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હૈદરાબાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગોલ' એટલે દડો અને હૈદરાબાદમાં 'હૈદરા' (હરદમ) રમવાનો - ગોલકોન્ડા = હૈદરાબાદ!</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "કિલ્લાની બહારની દીવાલના અમુક ભાગો ગોળાકારમાં બહાર નીકળેલા હોય છે, તેને શું કહેવામાં આવે છે?",
+      "options": "A. ઝરૂખા, B. બારી, C. ગઢ (બુરજ), D. દરવાજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગઢ (બુરજ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલથી 'બહાર' નીકળેલો 'બુરજ' - બ પરથી બુરજ અને બ પરથી બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "ગોલકોન્ડા કિલ્લાની બહારની દીવાલમાં કુલ કેટલા બુરજ આવેલા છે?",
+      "options": "A. 57, B. 77, C. 87, D. 97",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 87</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આઠડે સાતડે' ને કિલ્લાની 'સાથે' જોડી દો - 87!</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "બુરજમાં મોટા કાણાં શા માટે રાખવામાં આવ્યા હશે?",
+      "options": "A. હવા માટે, B. સૂર્યપ્રકાશ માટે, C. દૂર સુધી નજર રાખવા અને સુરક્ષા માટે, D. પક્ષીઓ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દૂર સુધી નજર રાખવા અને સુરક્ષા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાણાંમાંથી 'કાણ' (નજર) રાખીને દુશ્મનને ભગાડો!</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "કયા મુઘલ સમ્રાટે ગોલકોન્ડા કિલ્લા પર તોપો સાથે હુમલો કર્યો હતો?",
+      "options": "A. અકબર, B. બાબર, C. ઔરંગઝેબ, D. શાહજહાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઔરંગઝેબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઔરંગઝેબ' નો 'ઝ' અને 'તોપ' ની 'ઝાળ' - ઔરંગઝેબ લડવા આવ્યો હતો!</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "ઔરંગઝેબની સેના કિલ્લાની બહાર કેટલા મહિના સુધી ડેરો નાખીને બેઠી હતી?",
+      "options": "A. બે મહિના, B. આઠ મહિના, C. પાંચ મહિના, D. દસ મહિના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આઠ મહિના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઠ (8) મહિના સુધી 'ઠરી' ને બેસી રહ્યો હતો ઔરંગઝેબ!</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "તોપ શાની બનેલી હોય છે?",
+      "options": "A. લોખંડની, B. તાંબાની, C. કાંસાની (બ્રોન્ઝ), D. સોનાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કાંસાની (બ્રોન્ઝ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંસું = તાંબુ + કલાઈ. જૂના જમાનામાં કાંસું 'ખાસ' હતું!</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "કિલ્લાના નકશામાં 1 સેમી = 110 મીટર હોય, તો નકશા પર 10 સેમી એટલે જમીન પર કેટલા મીટર થાય?",
+      "options": "A. 110 મીટર, B. 1100 મીટર, C. 1000 મીટર, D. 500 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 1100 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 110 x 10 = 1100. ફક્ત પાછળ એક મીંડું લગાવો!</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "સૂર્ય કઈ દિશામાં ઊગે છે?",
+      "options": "A. પશ્ચિમ, B. ઉત્તર, C. દક્ષિણ, D. પૂર્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ એટલે 'પહેલાં' - સૂરજ પહેલાં પૂર્વમાં દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "ગોલકોન્ડા કિલ્લામાં પાણી પહોંચાડવા માટે શાનો ઉપયોગ થતો હતો?",
+      "options": "A. ઇલેક્ટ્રિક મોટર, B. માટીની પાઇપો, C. ડોલ, D. હેન્ડ પંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માટીની પાઇપો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં પ્લાસ્ટિક નહીં પણ 'માટી' ની કલા હતી!</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "ઐતિહાસિક વસ્તુઓનો સંગ્રહ ક્યાં કરવામાં આવે છે?",
+      "options": "A. શાળામાં, B. બગીચામાં, C. સંગ્રહાલય (મ્યુઝિયમ) માં, D. દુકાનમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સંગ્રહાલય (મ્યુઝિયમ) માં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વસ્તુઓ 'સંગ્રહી' ને રાખો એટલે 'સંગ્રહાલય'!</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "કિલ્લાના મુખ્ય દરવાજા પર શા માટે લોખંડના અણીદાર ભાલા લગાડવામાં આવતા હતા?",
+      "options": "A. શોભા માટે, B. પક્ષીઓને રોકવા, C. હાથીઓના હુમલાથી બચવા, D. લાઈટ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. હાથીઓના હુમલાથી બચવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણીદાર ભાલા હાથીને 'ભોંકાય' એટલે તે દરવાજો તોડી ન શકે!</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "જૂના સમયમાં રાજાઓ યુદ્ધમાં શાનો ઉપયોગ કરતા હતા?",
+      "options": "A. બંદૂક, B. મિસાઈલ, C. ઘોડા, હાથી અને તોપ, D. હેલિકોપ્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઘોડા, હાથી અને તોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા રજવાડા એટલે ઘોડા અને હાથીનો જમાનો!</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "કાંસું એ કઈ બે ધાતુઓનું મિશ્રણ છે?",
+      "options": "A. લોખંડ અને સ્ટીલ, B. તાંબુ અને સોનું, C. તાંબુ અને કલાઈ (ટીન), D. પીતળ અને ચાંદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તાંબુ અને કલાઈ (ટીન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તા-ક' = તાંબુ + કલાઈ એટલે 'કાંસું'!</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "નકશામાં ઉત્તર દિશા હંમેશા કઈ તરફ બતાવવામાં આવે છે?",
+      "options": "A. નીચેની તરફ, B. ઉપરની તરફ, C. જમણી તરફ, D. ડાબી તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઉપરની તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' પરથી 'ઉત્તર' અને 'ઉ' પરથી 'ઉપર'!</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "હૈદરાબાદમાં કયું પ્રખ્યાત મ્યુઝિયમ આવેલું છે?",
+      "options": "A. નેશનલ મ્યુઝિયમ, B. સાલારજંગ મ્યુઝિયમ, C. બરોડા મ્યુઝિયમ, D. કચ્છ મ્યુઝિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સાલારજંગ મ્યુઝિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૈદરાબાદનો 'સાલાર' (સલામ) - સાલારજંગ મ્યુઝિયમ!</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "કિલ્લાની દીવાલોની બહાર ઊંડી ખાઈ શા માટે રાખવામાં આવતી હતી?",
+      "options": "A. માછલી પાળવા, B. તરવા માટે, C. દુશ્મનોને અંદર આવતા રોકવા, D. કપડાં ધોવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દુશ્મનોને અંદર આવતા રોકવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાઈ' અને 'ખાઈ' ને દુશ્મન અંદર ન આવી જાય તે માટે બનાવી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "ઈ.સ. 1518 થી 1687 સુધી ગોલકોન્ડામાં કયા વંશના સુલતાનોએ રાજ્ય કર્યું હતું?",
+      "options": "A. મુઘલ વંશ, B. કુતુબશાહી સુલતાનો, C. મરાઠા વંશ, D. લોદી વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કુતુબશાહી સુલતાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલકોન્ડાનો 'ક' અને 'કુતુબશાહી' નો 'ક'!</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "પાણી ઉપર ચઢાવવા માટે બળદનો ઉપયોગ કરી કયું ચક્ર ફેરવવામાં આવતું હતું?",
+      "options": "A. રજત ચક્ર, B. રેહટ (પર્સિયન વ્હીલ), C. ધર્મ ચક્ર, D. પવન ચક્કી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રેહટ (પર્સિયન વ્હીલ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેહટ' એટલે પાણીનો 'રસ્તો' બનાવતું ચક્ર!</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "કિલ્લાના નકશામાં કિલ્લાની અંદર શું શું જોવા મળે છે?",
+      "options": "A. બગીચા, B. મહેલો, C. કારખાના, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલ્લો એક આખું 'નગર' હતું, એટલે બધું જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "જો તમે પૂર્વ દિશા તરફ મોઢું રાખીને ઊભા હોવ, તો તમારી પાછળ કઈ દિશા હશે?",
+      "options": "A. ઉત્તર, B. દક્ષિણ, C. પશ્ચિમ, D. ઈશાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વની સામે પશ્ચિમ - સૂરજ ઊગે પૂર્વમાં, આથમે પશ્ચિમમાં!</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "ગોલકોન્ડા કિલ્લાના દરવાજાઓ કેવા હતા?",
+      "options": "A. નાના અને નબળા, B. કાચના બનેલા, C. ખૂબ જ વિશાળ, મજબૂત અને વજનદાર, D. વાંસના બનેલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખૂબ જ વિશાળ, મજબૂત અને વજનદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનો કિલ્લો હોય તો દરવાજા તો 'ભવ્ય' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "દીવાલો પર કરવામાં આવતા સુંદર કોતરણીકામને શું કહેવાય?",
+      "options": "A. ચિત્રકામ, B. સ્થાપત્ય (નક્ષીકામ), C. રંગકામ, D. કડિયાકામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સ્થાપત્ય (નક્ષીકામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પર જે 'નક્કર' કામ થાય તે 'નક્ષીકામ'!</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "વસ્તુઓ જૂની થાય તેમ તેની કિંમત અને મહત્વ મ્યુઝિયમમાં શું થાય છે?",
+      "options": "A. ઘટે છે, B. વધી જાય છે, C. શૂન્ય થઈ જાય છે, D. બદલાતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વધી જાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું એટલું સોનું - ઇતિહાસ જેટલો જૂનો એટલી કિંમત વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "સૂરજ આથમે છે તે દિશા કઈ છે?",
+      "options": "A. ઉત્તર, B. પશ્ચિમ, C. દક્ષિણ, D. પૂર્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વમાં ઊગે, પશ્ચિમમાં 'પડે' (આથમે)!</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "કિલ્લામાં બુરજ કેમ બનાવવામાં આવતા હતા?",
+      "options": "A. સૈનિકોને સુવા માટે, B. અનાજ ભરવા માટે, C. દૂરથી આવતા દુશ્મનોને જોવા માટે, D. રસોઈ બનાવવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દૂરથી આવતા દુશ્મનોને જોવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચો બુરજ = લાંબી નજર!</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "ફતેહ દરવાજા પાસે ઊભા રહીને અવાજ કરીએ તો તે ક્યાં સાંભળી શકાતો હતો?",
+      "options": "A. બજારમાં, B. રાજાના મહેલ (બાલા હિસાર) માં, C. નદી કિનારે, D. બીજા ગામમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રાજાના મહેલ (બાલા હિસાર) માં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફતેહ' દરવાજાની 'બૂમ' સીધી રાજાના 'કાન' (બાલા હિસાર) માં!</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "તોપનો ઉપયોગ શા માટે થતો હતો?",
+      "options": "A. દિવાળી ઉજવવા, B. ખેતી કરવા, C. યુદ્ધમાં કિલ્લાની દીવાલો તોડવા અને દુશ્મનોને હરાવવા, D. રમત ગમત માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. યુદ્ધમાં કિલ્લાની દીવાલો તોડવા અને દુશ્મનોને હરાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોપનો ગોળો એટલે દુશ્મનનો ખોળો ખાલી!</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "મ્યુઝિયમમાં રાખેલી વસ્તુઓથી આપણને શું જાણવા મળે છે?",
+      "options": "A. લોકો કેવી રીતે રહેતા હતા, B. તે સમયમાં કઈ વસ્તુઓ વપરાતી હતી, C. તે સમયની કલા અને સંસ્કૃતિ, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુઝિયમ એટલે ભૂતકાળનો અરીસો!</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "કિલ્લામાં પાણીના સંગ્રહ માટે શું બનાવવામાં આવતું હતું?",
+      "options": "A. ટાંકીઓ અને હોજ, B. ફ્રીજ, C. પ્લાસ્ટિકના પીપ, D. નાની ડોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ટાંકીઓ અને હોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલ્લામાં 'ટાંકી' અને 'હોજ' એટલે પાણીનો 'મોજ'!</p></div>"
+    }
+  ]
+}
