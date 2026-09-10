@@ -3502,3 +3502,161 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "બીજ કહે છે, ખેડૂતની વાર્તા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકરણમાં કયા બીજની વાર્તા મુખ્યત્વે કહેવામાં આવી છે?\n(A) ઘઉંના બીજની\n(B) બાજરીના બીજની\n(C) મકાઈના બીજની\n(D) ચણાના બીજની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બાજરીના બીજની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતની વાર્તા એટલે 'બાજરીના બીજ' ની વાત! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જૂના સમયમાં બીજને સાચવવા માટે કયા ફળનો ઉપયોગ કરવામાં આવતો હતો?\n(A) કોળું\n(B) કારેલું\n(C) સૂકાયેલી દૂધી\n(D) ગલકું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સૂકાયેલી દૂધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધીને સૂકવી, માટી લગાડી, બીજની 'તિજોરી' બનાવી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બીજને જીવજંતુઓથી બચાવવા માટે કયા વૃક્ષના પાંદડા તેની સાથે રાખવામાં આવતા હતા?\n(A) આસોપાલવ\n(B) લીમડો\n(C) પીપળો\n(D) વડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લીમડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવો લીમડો, જીવજંતુઓનો દુશ્મન! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શિયાળામાં ખેતરમાં જ તાજા શાકભાજીને મસાલા ભરી માટલામાં રાંધવામાં આવે તેને શું કહેવાય?\n(A) શાક\n(B) ઊંધિયું (ઉંબાડિયું)\n(C) ભરેલા રવૈયા\n(D) કઢી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઊંધિયું (ઉંબાડિયું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટલું 'ઊંધું' કરીને રંધાય તે 'ઊંધિયું'! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઊંધિયું રાંધવા માટે માટલાને કોના ઉપર ગોઠવવામાં આવતું હતું?\n(A) ગેસ પર\n(B) સગડી પર\n(C) ગરમ કોલસા પર (ખેતરમાં)\n(D) ઓવનમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગરમ કોલસા પર (ખેતરમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરની મજા, કોલસાની સજા (ગરમી) અને ઊંધિયાની મજા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગામડામાં લોકો ઊંધિયાની સાથે કયો રોટલો ખાવાનું પસંદ કરતા હતા?\n(A) જુવારનો રોટલો\n(B) ઘઉંનો રોટલો\n(C) બાજરીનો રોટલો\n(D) મકાઈનો રોટલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાજરીનો રોટલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજરીનો રોટલો + ઊંધિયું = દેશી જમણવાર! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સફેદ રૂ માંથી દોરા બનાવવા માટે કયા સાધનનો ઉપયોગ થતો હતો?\n(A) સોય-દોરો\n(B) સંચો\n(C) ચરખો\n(D) વેલણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચરખો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી અને ચરખો - કાંતવા માટે શ્રેષ્ઠ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દામજીભાઈના પુત્રનું નામ શું હતું?\n(A) હસમુખ\n(B) પરેશ\n(C) સુરેશ\n(D) રમેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હસમુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજીભાઈના ઘરમાં 'હસમુખ' ચહેરો એટલે હસમુખ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખેતરમાં બળદની જગ્યાએ કયું મશીન ખેતી માટે વપરાવા લાગ્યું?\n(A) બાઇક\n(B) ટ્રેક્ટર\n(C) ટ્રક\n(D) પ્લેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ટ્રેક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક ખેતી, ટ્રેક્ટરની ગતિ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખેડૂતો દ્વારા વાપરવામાં આવતા કુદરતી ખાતરમાં કઈ વસ્તુ મુખ્ય હોય છે?\n(A) પ્લાસ્ટિક\n(B) રાસાયણિક પાવડર\n(C) છાણ અને સડેલા પાંદડા\n(D) લોખંડનો ભૂકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છાણ અને સડેલા પાંદડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી એટલે છાણ અને કચરો, જમીન માટે સચરો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કયા સજીવને 'ખેડૂતના મિત્ર' કહેવામાં આવે છે?\n(A) સાપ\n(B) અળસિયા\n(C) ઉંદર\n(D) ગાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અળસિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયા જમીનને પોચી બનાવે, એટલે તે ખેડૂતના 'મિત્ર'! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કેવા બીજ જંતુઓથી જલ્દી પ્રભાવિત થાય છે?\n(A) જૂના બીજ\n(B) દેશી બીજ\n(C) હાઇબ્રિડ (નવા) બીજ\n(D) જંગલી બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાઇબ્રિડ (નવા) બીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું અને નબળું (હાઇબ્રિડ) જીવાતને વહેલું પકડે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હસમુખે ખેતીમાંથી થયેલી કમાણીનો ઉપયોગ શેના માટે કર્યો?\n(A) મોજશોખ માટે\n(B) ઘરના આધુનિકીકરણ અને નવા ઓજારો માટે\n(C) દાન કરવા માટે\n(D) વિદેશ ફરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘરના આધુનિકીકરણ અને નવા ઓજારો માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવી ખેતી એટલે નવું ઘર અને મશીનો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નહેર દ્વારા પાણી ક્યાંથી લાવવામાં આવે છે?\n(A) દરિયામાંથી\n(B) તળાવમાંથી\n(C) નદી પર બાંધેલા મોટા બંધમાંથી\n(D) ખાડામાંથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નદી પર બાંધેલા મોટા બંધમાંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી પર બંધ, નહેરનો રસ્તો સંબંધ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હસમુખના પુત્ર પરેશે ખેતી છોડીને કયો વ્યવસાય અપનાવ્યો?\n(A) શિક્ષકનો\n(B) ડોક્ટરનો\n(C) ટ્રક ડ્રાઇવરનો\n(D) કુંભારનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ટ્રક ડ્રાઇવરનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરેશને ખેતી ન ભાવી, ટ્રકની સ્ટીયરિંગ ફાવી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એક જ પ્રકારનો પાક વારંવાર લેવાથી જમીન પર શું અસર થાય છે?\n(A) જમીન વધુ ફળદ્રુપ બને છે\n(B) જમીન કસ વગરની બની જાય છે\n(C) જમીન લાલ થઈ જાય છે\n(D) કોઈ અસર થતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જમીન કસ વગરની બની જાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બદલાવ વગરની ખેતી, જમીનની શક્તિ લેતી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા પાક માટે વધુ પ્રમાણમાં પાણીની જરૂર પડે છે?\n(A) બાજરી\n(B) જુવાર\n(C) ઘઉં અને કપાસ\n(D) ચણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘઉં અને કપાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘઉં-કપાસને પાણીની તરસ વધુ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાંગામ ગામ કયા રાજ્યમાં આવેલું છે?\n(A) રાજસ્થાન\n(B) મહારાષ્ટ્ર\n(C) ગુજરાત\n(D) મધ્યપ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંગામ અને દામજીભાઈ એટલે આપણું ગુજરાત! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેતી માટે બેંકો પાસેથી લેવામાં આવતી રકમને શું કહેવાય?\n(A) ભેટ\n(B) લોન (ધિરાણ)\n(C) ટેક્સ\n(D) પગાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોન (ધિરાણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા ખૂટે ત્યારે 'લોન' ખૂટે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અળસિયા જમીનમાં શું કરીને જમીનને પોચી બનાવે છે?\n(A) નાચીને\n(B) જમીનમાં દરો (કાણાં) પાડીને\n(C) જમીન પર સૂઈને\n(D) જમીન ખોદીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જમીનમાં દરો (કાણાં) પાડીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયા એટલે જમીનના એન્જિનિયર, કાણાં પાડે ક્લિયર! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પહેલાના સમયમાં ખેતીના ઓજારો કોણ બનાવતું હતું?\n(A) કુંભાર\n(B) લુહાર\n(C) મોચી\n(D) દરજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લુહાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડના ઓજારો અને 'લુહાર' ની મહેનત! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કપડાં બનાવવા માટે કયા છોડના પાકનો ઉપયોગ થાય છે?\n(A) તુવેર\n(B) અડદ\n(C) કપાસ\n(D) એરંડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કપાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ આપે રૂ, રૂ માંથી બને કાપડ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કેવા ખાતરનો ઉપયોગ કરવાથી જમીન લાંબા ગાળે બગડે છે?\n(A) છાણીયું ખાતર\n(B) કમ્પોસ્ટ ખાતર\n(C) રાસાયણિક ખાતર\n(D) લીલો પડવાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાસાયણિક ખાતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલનો સાથ, જમીનનો વિનાશ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બાજરીના દાણાને ડુંડામાંથી અલગ કરવા માટે પહેલાના સમયમાં શું વપરાતું?\n(A) થ્રેસર\n(B) ખાંડણિયો\n(C) પંખો\n(D) મિક્સર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખાંડણિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંડીને દાણા છૂટા કરો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા તહેવારમાં લોકો ખેતરમાં સાથે મળીને જમતા હતા?\n(A) દિવાળી\n(B) હોળી\n(C) ઉતરાયણ (શિયાળાની લણણી વખતે)\n(D) રક્ષાબંધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉતરાયણ (શિયાળાની લણણી વખતે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળો + લણણી = ઉંબાડિયાની મજા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નીચેનામાંથી કયું અનાજ નથી?\n(A) ઘઉં\n(B) બાજરી\n(C) મકાઈ\n(D) મગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની બે ફાડ થાય તે 'કઠોળ' (મગ), અનાજ નહીં! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ટ્રેક્ટર આવવાથી કયા પશુનું ખેતરમાં કામ ઓછું થઈ ગયું?\n(A) ગાય\n(B) ભેંસ\n(C) બળદ\n(D) બકરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બળદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળદ ગયા, ટ્રેક્ટર આવ્યા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "હસમુખના પિતા દામજીભાઈ ખેતીમાં કયું ખાતર વાપરતા હતા?\n(A) રાસાયણિક\n(B) કુદરતી (છાણીયું)\n(C) યુરિયા\n(D) ખાતર વાપરતા જ નહોતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કુદરતી (છાણીયું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજીભાઈ એટલે જૂની અને સાચી પદ્ધતિ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શિયાળામાં ખેતરમાં શું ખાવાની મજા આવે છે?\n(A) આઈસ્ક્રીમ\n(B) બરફના ગોળા\n(C) ગરમાગરમ રોટલા અને ઉંબાડિયું\n(D) ઠંડુ પીણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગરમાગરમ રોટલા અને ઉંબાડિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઢમાં ગરમાગરમ જ ભલે લાગે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બીજ શું કહેવા માંગે છે?\n(A) મને ખાઈ જાઓ\n(B) મારી બદલાતી દુનિયાની વાર્તા સાંભળો\n(C) મને ફેંકી દો\n(D) મને પાણીમાં નાખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મારી બદલાતી દુનિયાની વાર્તા સાંભળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'બીજ કહે છે...' (NJ Classes)</p></div>"
+    }
+  ]
+}
