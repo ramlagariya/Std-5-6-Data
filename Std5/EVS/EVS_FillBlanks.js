@@ -497,3 +497,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "કેરીઓ આખું વર્ષ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઉનાળામાં દૂધ જલ્દી ________ થઈ જાય છે. (તાજું / બગડી / ગરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બગડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ગરમી = જલ્દી બગાડ. એટલે જ ઉનાળામાં દૂધને વારંવાર ઉકાળવું પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખાવાનું બગડી ગયું છે તે તેની ________ પરથી જાણી શકાય છે. (કિંમત / સુગંધ / વજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુગંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાક કદી ખોટું ન બોલે! ખરાબ ગંધ એટલે બગડેલો ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભીનાશવાળી જગ્યાએ રાખેલી બ્રેડ પર થોડા દિવસમાં ________ જોવા મળે છે. (મીઠું / ફૂગ / ખાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ + હવા = ફૂગનો વાસ! સફેદ કે લીલા ધબ્બા એટલે ફૂગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કેરીના પાપડ બનાવવા માટે કેરીના રસમાં ખાંડ અને ________ ઉમેરવામાં આવે છે. (મીઠું / મધ / ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળપણ માટે બે જ ભાઈબંધ - ખાંડ અને ગોળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કેરીના પાપડને તૈયાર થતા અંદાજે ________ અઠવાડિયા લાગે છે. (બે / ચાર / છ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક મહિના જેવો સમય એટલે કે પૂરા 4 અઠવાડિયા તડકામાં સૂકવવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખાદ્ય પદાર્થના પેકેટ પર તેની કિંમત ઉપરાંત ________ તારીખ પણ લખેલી હોય છે. (જન્મ / અંતિમ (Expiry) / ખરીદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતિમ (Expiry)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ વાપરવાની છેલ્લી તારીખ એટલે જ એક્સપાયરી ડેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાકી કેરીનો ઉપયોગ આખું વર્ષ કરવા માટે તેમાંથી ________ બનાવવામાં આવે છે. (શાક / પાપડ / જ્યુસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાપડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીઓ આખું વર્ષ ખાવી હોય તો તેના પાપડ (મામીડી તાંડ્રા) શ્રેષ્ઠ ઉપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચિપ્સ (કાતરી) બનાવવા માટે ________ નો ઉપયોગ થાય છે. (કેળા / બટાટા / કોબીજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટાની ચિપ્સ તો બધાને ભાવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દૂધને બગડતું અટકાવવા માટે તેને ________ જોઈએ. (ઢાંકવું / ઉકાળવું / હલાવવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉકાળવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉકાળો એટલે જંતુઓ ભાગી જાય અને દૂધ સચવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અલ્પેશ અને મહેન્દ્ર ________ રાજ્યમાં રહેતા હતા. (ગુજરાત / આંધ્રપ્રદેશ / મહારાષ્ટ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંધ્રપ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની વાર્તામાં આંધ્રપ્રદેશના આત્રેયપુરમ ગામની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કેરીના પાપડને સૂકવવા માટે ________ ની જરૂર પડે છે. (વરસાદ / પવન / તડકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો હોય તો જ ભેજ ઊડી જાય અને વસ્તુ સુકાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાંધેલા ભાતને એક દિવસ તાજા રાખવા તેને વાટકામાં ભરી ________ માં રાખવા જોઈએ. (પાણી ભરેલા વાસણ / તિજોરી / કબાટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી ભરેલા વાસણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઠંડક આપે, અને ઠંડકમાં વસ્તુ તાજી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લીલા ધાણાને તાજા રાખવા તેને ________ માં વીંટાળીને રાખવા જોઈએ. (પ્લાસ્ટિક / કોરા કપડા / ભીના કપડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીના કપડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલા ધાણાને ભેજ જોઈએ, એટલે ભીનું કપડું બેસ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કેરીના પાપડ બનાવવા માટે કેરીના રસને ________ થી ગાળવામાં આવે છે. (ગળણી / પાતળા સુતરાઉ કપડા / પ્લાસ્ટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાતળા સુતરાઉ કપડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડાથી ગાળવાથી કેરીના રેસા નીકળી જાય અને રસ સ્મૂધ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કેરીના પાપડમાં જે થર કરવામાં આવે છે તેની જાડાઈ અંદાજે ________ સેમી હોય છે. (એક / ચાર / દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર અઠવાડિયા મહેનત અને 4 સેમી જાડાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કેરીના પાપડને તેલુગુ ભાષામાં ________ કહેવામાં આવે છે. (આમ પાપડ / મામીડી તાંડ્રા / કેરીના કટકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મામીડી તાંડ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીને તેલુગુમાં મામીડી કહેવાય, યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દરેક અથાણામાં મીઠું અને ________ વધારે પ્રમાણમાં નાખવામાં આવે છે. (પાણી / તેલ / મરચું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ અને મીઠું કુદરતી પ્રિઝર્વેટિવ (જાળવણીકાર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સીસીમાં અથાણું ભરતા પહેલા સીસીને ________ માં સૂકવવી જોઈએ. (ઠંડકમાં / તડકામાં / અંધારામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તડકામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો ભેજ ઉડાડી દે, જેથી અથાણું બગડે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો ખોરાકમાંથી ખરાબ વાસ આવતી હોય, તો તેનો અર્થ છે કે તે ________ છે. (તાજો / બગડેલો / કાચો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બગડેલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ ગંધ = નો એન્ટ્રી! તે ખોરાક બગડેલો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાચી કેરીમાંથી ________ જેવી વસ્તુઓ બનાવી આખું વર્ષ સાચવી શકાય છે. (શાક / અથાણું / રસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અથાણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથાણું એટલે કેરીની આખું વર્ષની મજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બ્રેડ પર જોવા મળતી ફૂગ સૂક્ષ્મદર્શક યંત્ર (બિલોરી કાચ) થી જોતા ________ જેવી દેખાય છે. (પથ્થર / રૂના તાંતણા / લોખંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂના તાંતણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂગ સફેદ અને મુલાયમ તાંતણા જેવી દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તળેલી પૂરી ________ દિવસ સુધી સારી રહી શકે છે. (એક-બે / દસ / પચાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક-બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરી જેવી રાંધેલી વસ્તુઓ લાંબો સમય ટકતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પેકેટ પર લખેલી 'Exp. Date' પછી તે ખોરાક ખાવો ________ છે. (ફાયદાકારક / હાનિકારક / જરૂરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાનિકારક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક્સપાયરી એટલે ડેન્જર! તે બીમાર પાડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બટાકાના પાપડ અને વેફરને લાંબો સમય સાચવવા તેને ________ માં સૂકવવામાં આવે છે. (તડકે / અંધારે / પંખા નીચે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તડકે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યનો તડકો એ કુદરતી ડ્રાયર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કેરીના પાપડ બનાવવા માટે ________ ના ઝાડના થાંભલા લાવ્યા હતા. (લીમડા / આંબા / તાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાડના થાંભલા મજબૂત હોય, જે માંડવો બનાવવા કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હર્ષના ટિફિનમાં ________ ની પૂરીઓ હતી. (બટાકા / વેફર / મેથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હર્ષના લંચમાં બટાકાનું શાક અને પૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કેરી એ ________ ઋતુનું ફળ છે. (શિયાળા / ઉનાળા / ચોમાસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉનાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી પડે ત્યારે જ આંબા પર કેરીઓ પાકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઘી અને તેલ જેવી વસ્તુઓ ________ મહિના સુધી સારી રહી શકે છે. (એક / બાર / બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબીયુક્ત પદાર્થો લાંબો સમય એટલે કે આખું વર્ષ ટકી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખોરાક બગડવા માટે ________ જવાબદાર છે. (પથ્થર / સૂક્ષ્મ જીવાણુ / લોખંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂક્ષ્મ જીવાણુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આંખે નથી દેખાતા એ જીવાણુ જ ખાવાનું બગાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દાદીએ બ્રેડનું પેકેટ કેમ પાછું આપી દીધું? કારણ કે તેના પર ________ ના ડાઘા હતા. (તેલ / ફૂગ / શાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલા ડાઘા એટલે કે ફૂગ, એટલે દાદીએ બ્રેડ ન લીધી.</p></div>"
+    }
+  ]
+}
