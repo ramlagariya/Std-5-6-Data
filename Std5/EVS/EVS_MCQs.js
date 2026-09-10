@@ -4186,3 +4186,191 @@ var Std5_EVS_MCQs = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "ફરી ઊપડ્યા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધનુના ઘરે બધા સંબંધીઓ કયા તહેવારની ઉજવણી કરવા આવ્યા હતા?",
+      "options": "A. દિવાળી, B. હોળી, C. દશેરા, D. રક્ષાબંધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દશેરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરાના દિવસે ધનુના ઘરે 'ઘી-ગોળ' ની જ્યાફત અને મુકાદમની મુલાકાત - યાદ રાખવું 'દ' થી દશેરા અને 'દ' થી ધનુનું સ્થળાંતર શરૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ધનુના ઘરે દશેરાના દિવસે કઈ વાનગી બનાવવામાં આવી હતી?",
+      "options": "A. લાડુ, B. પુરણપોળી (વેઢમી), C. શીરો, D. જલેબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પુરણપોળી (વેઢમી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પુરણપોળી અને કઢી' એ સ્થળાંતર કરતા પરિવારોની પ્રિય અને ખાસ વાનગી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મુકાદમ (પૈસા ધીરનાર) કોણ છે?",
+      "options": "A. સરકારી અધિકારી, B. ગામનો સરપંચ, C. ફેક્ટરીનો પ્રતિનિધિ, D. ધનુનો મિત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ફેક્ટરીનો પ્રતિનિધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુકાદમ = લોન આપનાર + કામ અપાવનાર'. તે શેરડીની ફેક્ટરીનો માણસ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ધનુના ગામના લોકો કયા કામ માટે સ્થળાંતર કરે છે?",
+      "options": "A. બાંધકામ માટે, B. માછીમારી માટે, C. શેરડી કાપવા માટે, D. હીરા ઘસવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શેરડી કાપવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકરણનું મુખ્ય પાત્ર ધનુ 'શેરડી' ના ખેતરોમાં કામ કરવા જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધનુના ગામના લોકો કેટલા મહિના સુધી ગામની બહાર રહે છે?",
+      "options": "A. 2 મહિના, B. 4 મહિના, C. 6 મહિના, D. 12 મહિના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 6 મહિના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરાથી ચોમાસા સુધી (અડધું વર્ષ એટલે કે 6 મહિના) બહાર રહેવું પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગામમાં જ્યારે વરસાદ ન હોય ત્યારે ખેતી કરવા માટે શું જરૂરી છે?",
+      "options": "A. ખાતર, B. ટ્રેક્ટર, C. સિંચાઈની વ્યવસ્થા (નહેર/ટ્યુબવેલ), D. નવા બિયારણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સિંચાઈની વ્યવસ્થા (નહેર/ટ્યુબવેલ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ ન હોય ત્યારે 'કૃત્રિમ પાણી' એટલે કે સિંચાઈ જ કામ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધનુના પરિવારના સામાનની હેરફેર શામાં કરવામાં આવે છે?",
+      "options": "A. બસમાં, B. ટ્રેનમાં, C. બળદગાડામાં, D. રિક્ષામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બળદગાડામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાનું મુખ્ય વાહન અને માલની હેરફેર માટે 'બળદગાડું' શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શેરડીના ખેતરોની નજીક ધનુનો પરિવાર કેવા પ્રકારના ઘરમાં રહે છે?",
+      "options": "A. પાકા મકાનમાં, B. ટેન્ટમાં, C. શેરડીના પાંદડામાંથી બનેલી ઝૂંપડીમાં, D. હોટલમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શેરડીના પાંદડામાંથી બનેલી ઝૂંપડીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની ખેતી તેમાંથી જ ઘર - શેરડીના સૂકા પાંદડાનો ઉપયોગ ઝૂંપડી બનાવવા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બાળકોને ભણવા માટે પ્રોત્સાહન કોણ આપે છે?",
+      "options": "A. મુકાદમ, B. મામી અને કાકી, C. વેપારી, D. કારખાનાના માલિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મામી અને કાકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામી ઈચ્છે છે કે ધનુ ભણી-ગણીને મોટો માણસ બને, જેથી તેને મજૂરી ન કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થળાંતર કરવાથી બાળકોના શિક્ષણ પર શું અસર થાય છે?",
+      "options": "A. ભણતર સારું થાય છે, B. ભણતર બગડે છે/છૂટી જાય છે, C. નવું શીખવા મળે છે, D. કોઈ અસર થતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ભણતર બગડે છે/છૂટી જાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારંવાર સ્થળાંતર = અધૂરું ભણતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધનુના પિતા અને કાકા સવારે વહેલા ક્યાં જાય છે?",
+      "options": "A. બજારમાં, B. ખેતરમાં શેરડી કાપવા, C. મંદિરે, D. સભામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખેતરમાં શેરડી કાપવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે વહેલું કામ શરૂ કરવાથી શેરડી કાપવામાં સરળતા રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ત્રીઓ અને બાળકો શેરડીના ખેતરમાં શું કામ કરે છે?",
+      "options": "A. પાણી પીવડાવે, B. શેરડીના ભારા બાંધે, C. રસોઈ બનાવે, D. આરામ કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શેરડીના ભારા બાંધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુરુષો શેરડી કાપે અને સ્ત્રીઓ-બાળકો તેને બાંધવાનું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લોકો મુકાદમ પાસેથી પૈસા કેમ ઉધાર લે છે?",
+      "options": "A. મોજશોખ માટે, B. ઘરના ખર્ચ અને વરસાદ વગરના સમયમાં ગુજરાન ચલાવવા, C. ફરવા જવા, D. દાગીના ખરીદવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઘરના ખર્ચ અને વરસાદ વગરના સમયમાં ગુજરાન ચલાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ખેતીમાં કામ ન હોય ત્યારે જીવવા માટે 'કરજ' (લોન) લેવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શેરડીના ભારા ક્યાં લઈ જવામાં આવે છે?",
+      "options": "A. ગોડાઉનમાં, B. ગામની શાળામાં, C. ખાંડની ફેક્ટરીમાં, D. ઘરની છત પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખાંડની ફેક્ટરીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી = ખાંડ. એટલે શેરડી હંમેશા ખાંડની ફેક્ટરીમાં જ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ધનુના મામી શા માટે ઈચ્છે છે કે ધનુ આખું વર્ષ શાળાએ જાય?",
+      "options": "A. તેને ઘરે નથી રાખવો, B. તે ભણીને મોટો થાય અને સારી નોકરી મેળવે, C. તેને શિષ્યવૃત્તિ મળે, D. તેને રમવા મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તે ભણીને મોટો થાય અને સારી નોકરી મેળવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિક્ષણ જ ગરીબી અને મજૂરીમાંથી બહાર આવવાનો એકમાત્ર રસ્તો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શેરડીની ફેક્ટરીમાં આપેલી શેરડીનો હિસાબ કોણ રાખે છે?",
+      "options": "A. ધનુના પિતા, B. ફેક્ટરીનો મેનેજર, C. મુકાદમ, D. ગામના લોકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મુકાદમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુકાદમ જ પૈસા આપે અને હિસાબ રાખે, તે મધ્યસ્થી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જ્યારે મોટો પરિવાર એકસાથે હોય ત્યારે શું ફાયદો થાય?",
+      "options": "A. ઝઘડા થાય, B. કામ વહેંચાઈ જાય અને એકબીજાની મદદ મળે, C. ખર્ચ વધે, D. જગ્યા ઓછી પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કામ વહેંચાઈ જાય અને એકબીજાની મદદ મળે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુક્ત પરિવાર = સાથ અને સહકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ધનુના દાદી અને કાકી ગામમાં કેમ રોકાઈ જાય છે?",
+      "options": "A. તેઓ બીમાર છે, B. તેઓ ઘરની સંભાળ રાખવા અને ઉંમરના કારણે, C. તેમને કામ નથી કરવું, D. તેમને શેરડી નથી ભાવતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેઓ ઘરની સંભાળ રાખવા અને ઉંમરના કારણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના વૃદ્ધો અને બીમાર વ્યક્તિઓ સ્થળાંતર કરી શકતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મુકાદમ મજૂરોને આગામી થોડા મહિનાના ખર્ચ માટે શું આપે છે?",
+      "options": "A. ખાવાનું, B. થોડા પૈસા ઉછીના, C. નવા કપડાં, D. રહેવા માટે ઘર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. થોડા પૈસા ઉછીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોન આપીને જ મજૂરોને પોતાની સાથે કામ કરવા બાંધી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સ્થળાંતર કરનારા પરિવારોના બાળકો ક્યારે શાળામાં જઈ શકે?",
+      "options": "A. ક્યારેય નહીં, B. જ્યારે તેઓ પાછા ગામમાં આવે ત્યારે, C. ફેક્ટરીની અંદર, D. રાત્રે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જ્યારે તેઓ પાછા ગામમાં આવે ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બાળકો પણ સાથે જાય, તો તેમનું ભણતર છૂટી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખાંડ શામાંથી બનાવવામાં આવે છે?",
+      "options": "A. ઘઉંમાંથી, B. મકાઈમાંથી, C. શેરડીમાંથી, D. બાજરીમાંથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શેરડીમાંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી -> રસ -> ગોળ અને ખાંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધનુના પિતા પરિવારમાં કોણ છે?",
+      "options": "A. સૌથી નાના, B. સૌથી મોટા ભાઈ, C. મુકાદમ, D. વેપારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સૌથી મોટા ભાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતા મોટા હોવાથી બધા તહેવારો તેમના ઘરે જ ઉજવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બળદગાડાનો ઉપયોગ ખેતી સિવાય બીજા શામાં થાય છે?",
+      "options": "A. રેસિંગમાં, B. માલસામાનની હેરફેરમાં, C. આકાશમાં ઉડવા માટે, D. નદીમાં તરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માલસામાનની હેરફેરમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રામીણ ટ્રક એટલે બળદગાડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શેરડીના પાંદડાનો બીજો કયો ઉપયોગ થઈ શકે?",
+      "options": "A. રસોઈમાં, B. પશુઓના ઘાસચારા તરીકે, C. કપડાં બનાવવા, D. રમકડાં બનાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પશુઓના ઘાસચારા તરીકે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીના પાંદડા મનુષ્યો માટે છાપરું અને બળદ માટે ખાદ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધનુના ગામમાં ખેતી માટે પાણીનું મુખ્ય સાધન કયું છે?",
+      "options": "A. નળ, B. વરસાદ, C. ટાંકી, D. સમુદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગના ગરીબ ખેડૂતો વરસાદ પર નિર્ભર હોય છે (આકાશી ખેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હિસાબ કરતી વખતે મુકાદમ શું તપાસે છે?",
+      "options": "A. બાળકોનું ભણતર, B. શેરડીની ગુણવત્તા, C. લોનની રસીદ અને શેરડીના ભારાની પહોંચ, D. ઘરની સ્વચ્છતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લોનની રસીદ અને શેરડીના ભારાની પહોંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામના બદલામાં લોન ચૂકવવાની હોય છે, તેથી તે પહોંચ (સ્લિપ) તપાસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો ગામમાં નહેર આવે તો શું બદલાવ આવે?",
+      "options": "A. લોકોએ ગામ છોડવું ન પડે, B. આખું વર્ષ ખેતી થઈ શકે, C. સ્થળાંતર ઓછું થાય, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી = કામ = સ્થિરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ધનુના મામી કઈ વસ્તુ ધનુને આપવા માંગતા હતા?",
+      "options": "A. નવા કપડાં, B. પેન્સિલ, રબર અને નોટબુક, C. મોબાઈલ, D. સાયકલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પેન્સિલ, રબર અને નોટબુક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અભ્યાસની સામગ્રી આપીને મામી તેને ભણવાની પ્રેરણા આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શેરડી કાપનારા મજૂરો ક્યાં સ્નાન કરે છે?",
+      "options": "A. સ્વિમિંગ પુલમાં, B. બાથરૂમમાં, C. નદી કે નહેર પર, D. ઘરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નદી કે નહેર પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લામાં સ્નાન અને રસોઈ એ સ્થળાંતર કરતા મજૂરોની લાક્ષણિકતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ધનુ શું બનવા માંગતો હતો?",
+      "options": "A. ખેડૂત, B. મુકાદમ, C. ભણી-ગણીને સારો માણસ, D. મજૂર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ભણી-ગણીને સારો માણસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફરી ઊપડ્યા' પ્રકરણનો અંત ધનુના ઉજ્જવળ ભવિષ્યની આશા સાથે થાય છે.</p></div>"
+    }
+  ]
+}
