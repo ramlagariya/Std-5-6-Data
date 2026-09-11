@@ -2102,3 +2102,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "જ્યારે ધરતી ધ્રુજી ઊઠી!",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "૨૬ જાન્યુઆરી, ૨૦૦૧ના દિવસે ગુજરાતના _________ વિસ્તારમાં મોટો ધરતીકંપ આવ્યો હતો. (કચ્છ, ડાંગ, ભાવનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૬ જાન્યુઆરી = પ્રજાસત્તાક પર્વ અને 'ક' થી કચ્છ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે ધરતી ધ્રુજી ઊઠે ત્યારે તેને _________ કહેવામાં આવે છે. (પૂર, ધરતીકંપ, વાવાઝોડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી + કંપ (ધ્રુજારી) = ધરતીકંપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ધરતીકંપ આવે ત્યારે જો ઘરની બહાર ન જઈ શકાય, તો મજબૂત _________ નીચે બેસી જવું જોઈએ. (ટેબલ, કબાટ, પલંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેબલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજબૂત ટેબલ, માથાનો બચાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જસમાના ગામમાં ધરતીકંપ આવ્યો ત્યારે તેની ઉંમર _________ વર્ષની હતી. (અગિયાર, પંદર, નવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગિયાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જસમા = ૧૧ વર્ષની નાની છોકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધરતીકંપ આવ્યા પછી શહેરથી _________ ની ટીમ લોકોની મદદ માટે આવી હતી. (ખેડૂતો, ડોક્ટર અને વૈજ્ઞાનિકો, સંગીતકારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડોક્ટર અને વૈજ્ઞાનિકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસીબતમાં ડોક્ટર દવા આપે અને વૈજ્ઞાનિકો કારણ શોધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કચ્છમાં આવેલા ધરતીકંપને કારણે હજારો લોકો _________ થયા હતા. (ખુશ, ઈજાગ્રસ્ત, માલદાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈજાગ્રસ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોનારત હંમેશા નુકસાન અને ઈજા લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘર બનાવવા માટે એન્જિનિયરોએ ખાસ પ્રકારની _________ બતાવી હતી. (ડિઝાઇન, કવિતા, રમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડિઝાઇન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિનિયર = મજબૂત ઘરની ડિઝાઇન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગામના લોકોએ સાથે મળીને ગામનું _________ ફરીથી બનાવ્યું. (મંદિર, તળાવ, શાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો માટે 'શાળા' સૌથી પહેલા બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ધરતીકંપ એ એક _________ આપત્તિ છે. (માનવસર્જિત, કુદરતી, સામાજિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે માણસના હાથમાં નથી, તે કુદરતી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જસમાના ગામના લોકોએ ઘરની દીવાલો પર સુંદર _________ અને મોતીકામ કર્યું હતું. (ચિત્રકામ, લખાણ, માટીકામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિત્રકામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છની સંસ્કૃતિ = સુંદર ચિત્રકામ અને આરી કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધરતીકંપ આવે ત્યારે હંમેશા _________ મેદાનમાં દોડી જવું જોઈએ. (સાંકડા, ખુલ્લા, અંધારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લા મેદાનમાં કોઈ વસ્તુ માથે પડવાનો ડર નથી રહેતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જસમાના પિતા એમના ગામના _________ હતા. (શિક્ષક, સરપંચ, ઠાકોર/મુખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠાકોર/મુખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામના વડા = મોતા બાપુ (મુખી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જસમાનું ગામ _________ જિલ્લામાં આવેલું છે. (કચ્છ, જૂનાગઢ, સાબરકાંઠા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૦૦૧ની હોનારત એટલે કચ્છ જિલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વૈજ્ઞાનિકો એ જાણવા પ્રયત્ન કરતા હતા કે કયા વિસ્તારમાં ધરતીકંપ આવવાની _________ વધુ છે. (ધમકી, શક્યતા, આશા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શક્યતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૈજ્ઞાનિકો 'શક્યતા' (Probability) ચેક કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કુદરતી આપત્તિ સમયે લોકોને ખોરાક અને રહેવાની વ્યવસ્થા કરવામાં _________ સંસ્થાઓ મદદ કરે છે. (ખાનગી, સ્વૈચ્છિક, સરકારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વૈચ્છિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવાભાવી સંસ્થાઓ એટલે સ્વૈચ્છિક સંસ્થાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધરતીકંપ દરમિયાન લિફ્ટનો ઉપયોગ _________ જોઈએ. (કરવો, ન કરવો, હંમેશા કરવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ અટકી શકે, સીડીનો ઉપયોગ હિતાવહ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જ્યારે ખૂબ જ વરસાદ પડે અને નદીનું પાણી કિનારાની બહાર આવી જાય ત્યારે તેને _________ કહે છે. (ધરતીકંપ, પૂર, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પાણી = પૂર (Flood).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લાંબા સમય સુધી વરસાદ ન પડે અને પાક સુકાઈ જાય ત્યારે _________ ની સ્થિતિ સર્જાય છે. (પૂર, ધરતીકંપ, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ નથી = પાણીનો દુકાળ એટલે દુષ્કાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધરતીકંપના આંચકા અનુભવાય ત્યારે ઘરના વીજળીના ઉપકરણો _________ કરી દેવા જોઈએ. (ચાલુ, બંધ, રિપેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટ સર્કિટથી બચવા સ્વિચ 'બંધ' કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કચ્છમાં આવેલ ધરતીકંપ સવારે લગભગ _________ વાગ્યે આવ્યો હતો. (નવ, આઠ, અગિયાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારના નવ વાગ્યે (૮:૪૬ AM) ધરતી ધ્રુજી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઘર બનાવવા માટે માટી સાથે _________ ભેળવીને લાડુ બનાવવામાં આવતા હતા. (ખાતર, છાણ, રેતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશી પદ્ધતિ = માટી + છાણ (મજબૂતી માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જસમાના ગામનું નામ _________ હતું. (ભુજ, જાવનગર, અંજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાવનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના આધારે ગામનું નામ 'જાવનગર' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધરતીકંપમાં કાટમાળ નીચે દબાયેલા લોકોને બહાર કાઢવા માટે _________ ની મદદ લેવામાં આવે છે. (ટીચર, લશ્કર/પોલીસ, વેપારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લશ્કર/પોલીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેસ્ક્યુ ઓપરેશન = લશ્કર (Army).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પ્લાસ્ટિકના _________ માં રહેવું એ ધરતીકંપ પછીના દિવસોમાં ખૂબ મુશ્કેલ હતું. (ઘર, બંગલા, તંબુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંબુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર પડી જાય ત્યારે હંગામી વ્યવસ્થા એટલે 'તંબુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધરતીકંપને માપવા માટે વપરાતા સાધનને _________ કહે છે. (થર્મોમીટર, સીસ્મોગ્રાફ, બેરોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીસ્મોગ્રાફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સીસ્મો' એટલે ધરતીની ધ્રુજારી માપતું યંત્ર.</p></div>"
+    }
+  ]
+}
