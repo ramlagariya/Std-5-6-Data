@@ -863,3 +863,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "જળ એ જ જીવન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જેસલમેરના રાજા ગડસીએ આશરે ૬૫૦ વર્ષ પહેલાં ________ તળાવ બનાવ્યું હતું. (સુરસાગર, ગડસીસર, હમીરસર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનું નામ 'ગડસી' એટલે તળાવનું નામ 'ગડસીસર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગડસીસર તળાવમાં જ્યારે એક તળાવ ભરાઈ જાય ત્યારે વધારાનું પાણી નીચેની સપાટીએ રહેલા બીજા ________ તળાવમાં જતું હતું. (૯, ૭, ૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવ (૯) તળાવોની હારમાળા - નવે નવ ભરાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "હજારો વર્ષ પહેલાં ઉઝબેકિસ્તાનથી મુસાફર ________ ભારતમાં આવ્યો હતો. (અલ-બિરુની, ફાહિયાન, હ્યુ-એન-સાંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ-બિરુની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' થી ઉઝબેકિસ્તાન અને 'અ' થી અલ-બિરુની (બંને સ્વર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પગથિયાંવાળા કૂવાને ________ કહેવામાં આવે છે. (તળાવ, વાવ, ચેકડેમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી સુધી જવા માટે પગથિયાં 'વાવ' માં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જૂના જમાનામાં મુસાફરો માટે પાણીની સુવિધા માટે ઠેર ઠેર ________ બાંધવામાં આવતી હતી. (પરબ, હોજ, નળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ્યાને પાણી પાવાની જગ્યા એટલે 'પરબ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદનું પાણી જમીનમાં ઉતરીને કૂવા અને ________ સુધી પહોંચે છે. (વાવ, નદી, સમુદ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂવા અને વાવ બંને જમીનની અંદરના સ્ત્રોત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચામડાની કોથળીમાં પાણી ભરીને લઈ જનારને ________ કહેવાય છે. (પખાલી, કુંભાર, ખેડૂત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પખાલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પખાલી 'મશક' (ચામડાની કોથળી) વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉત્તરાખંડમાં રહેતી નવી વહુ લગ્ન પછી નવા ગામમાં આવીને ________ ને પગે લાગે છે. (મંદિર, પર્વત, ઝરણા અથવા તળાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝરણા અથવા તળાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી એ જીવનનો આધાર છે, તેથી જળ સ્ત્રોતની પૂજા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રેતાળ વિસ્તારમાં વરસાદનું પાણી સંગ્રહ કરવા માટે ઘરના આંગણામાં ________ બનાવવામાં આવે છે. (બગીચો, ટાંકું, કૂવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાંકું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છતનું પાણી પાઇપ દ્વારા ભૂગર્ભ 'ટાંકા' માં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઈ.સ. ૧૯૮૬ માં ________ શહેરમાં અને તેની આજુબાજુના વિસ્તારમાં દુકાળ પડ્યો હતો. (જયપુર, જોધપુર, જેસલમેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જોધપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોધપુરની જૂની વાવ ૧૯૮૬ ના દુકાળ વખતે સાફ કરવામાં આવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચામડાની કોથળીને શું કહેવામાં આવે છે? (મશક, મટકી, ઝારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મશક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશક = ચામડું + પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગડસીસર તળાવના કિનારે આવેલી શાળાઓમાં કોણ ભણવા આવતું હતું? (ગામના બાળકો, બીજા રાજ્યના બાળકો, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામના બાળકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવના ઘાટ પર જ શાળા હતી જ્યાં સ્થાનિક બાળકો ભણતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાણીનો મુખ્ય સ્ત્રોત ________ છે. (નદી, વરસાદ, કૂવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ પાણી છેવટે તો આકાશમાંથી 'વરસાદ' રૂપે આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અલ-બિરુનીએ લખેલું પુસ્તક આજે આપણને ________ જાણવામાં મદદરૂપ થાય છે. (ગણિત, ઇતિહાસ, વિજ્ઞાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇતિહાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વાતો અને લખાણો હંમેશા 'ઇતિહાસ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાવમાં પાણી સુધી પહોંચવા માટે ________ બનાવેલા હોય છે. (લિફ્ટ, પગથિયાં, દોરડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પગથિયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગથિયાં ઉતરીને પાણી લેવા જવાય એટલે જ 'વાવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જોધપુરની જૂની વાવમાંથી ________ ટ્રક કરતાં પણ વધારે કચરો બહાર કાઢવામાં આવ્યો હતો. (૧૦૦, ૨૦૦, ૫૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસો (૨૦૦) ટ્રક કચરો - લોકોએ વાવને કચરાપેટી બનાવી દીધી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જેસલમેરમાં બહુ ________ વરસાદ પડે છે. (વધારે, ઓછો, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ પ્રદેશ એટલે વરસાદની અછત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણી એ આપણી ________ સંપત્તિ છે. (ખાનગી, રાષ્ટ્રીય, સહિયારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહિયારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી પર કોઈ એકનો હક નથી, બધાનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "તામ્રપત્ર કે શિલાલેખની જેમ ડાક ટિકિટ પર પણ ________ ની વિગતો છાપેલી હોય છે. (અલ-બિરુની, રાજા ગડસી, નદીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ-બિરુની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૯૭૩ માં અલ-બિરુનીના જન્મના ૧૦૦૦ વર્ષ પર ટિકિટ બહાર પડી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અમદાવાદ પાસે આવેલી જાણીતી વાવનું નામ ________ છે. (રાણકી વાવ, અડાલજની વાવ, અડી-કડી વાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડાલજની વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદ નજીક 'અ' થી અડાલજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જ્યારે તળાવ પાણીથી ભરાઈ જાય ત્યારે લોકો ________ કરીને આનંદ વ્યક્ત કરે છે. (ઉજવણી, રડારોળ, હડતાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉજવણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુશીના પ્રસંગે હંમેશા 'ઉજવણી' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જૂના જમાનામાં લોકો પાણીના સંગ્રહ માટે ________ બનાવતા હતા. (પ્લાસ્ટિકની ટાંકી, તળાવ અને વાવ, ડેમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળાવ અને વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં સિમેન્ટ કે પ્લાસ્ટિક નહોતું, પથ્થરોની વાવ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વરસાદના ટીપાંનો સંગ્રહ કરવા માટે ________ નો ઉપયોગ કરવો જોઈએ. (રેઈન વોટર હાર્વેસ્ટિંગ, મોટર, ડોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેઈન વોટર હાર્વેસ્ટિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદી પાણી બચાવવાની આધુનિક રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તળાવની પાળ પર પથ્થરો કોતરીને ________ બનાવવામાં આવતા હતા. (ઘાટ, બંગલા, રસ્તા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવના કિનારાને 'ઘાટ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાણીના કારણે ________ પર હરિયાળી જોવા મળે છે. (જમીન, આકાશ, પર્વતની ટોચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ છે તો જીવન છે, અને જીવન જમીન પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઘણા વર્ષો પહેલા જેસલમેરમાં ________ તળાવ એકબીજા સાથે જોડાયેલા હતા. (૧૦, ૯, ૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગડસીસરની ખાસિયત - ૯ તળાવની ચેઈન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વાવ એ ________ કુવો છે. (પગથિયાંવાળો, સાદો, પાતાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પગથિયાંવાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવ = પગથિયાં (Step-well).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પાણી પુરવઠા બોર્ડ દ્વારા આપણા ઘરે ________ થી પાણી આવે છે. (પાઈપલાઈન, મશક, ડોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઈપલાઈન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આજકાલ પાણી નળ અને પાઇપ દ્વારા જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વરસાદી પાણીનો સંગ્રહ કરવાથી ________ ની અછત દૂર કરી શકાય છે. (ખોરાકની, પાણીની, કપડાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો સંગ્રહ કરો તેની જ અછત દૂર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગડસીસર તળાવમાં પાણી ________ મહિના સુધી રહેતું હતું. (૧૨, ૪, ૬)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૨</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું વર્ષ એટલે કે ૧૨ મહિના પાણી મળી રહેતું.</p></div>"
+    }
+  ]
+}
