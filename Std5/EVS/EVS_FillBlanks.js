@@ -1021,3 +1021,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પાણી સાથેના પ્રયોગો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સેજલની ફૂલેલી પૂરી પાણીની સપાટી પર _________ લાગી. (તરવા, ડૂબવા, ઓગળવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા ભરેલી અને હલકી વસ્તુ પાણી પર હંમેશા 'તરે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાણી ભરેલી ડોલમાં લોખંડની ખીલી _________ જાય છે. (તરી, ડૂબી, ઓગળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ જેવી વજનદાર અને નક્કર વસ્તુ પાણીમાં સીધી નીચે બેસી જાય એટલે કે 'ડૂબી' જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાણીમાં મીઠું નાખતા તે _________ જાય છે. (ડૂબી, તરી, ઓગળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓગળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું અને ખાંડ પાણીના 'દોસ્ત' છે, એટલે તે પાણીમાં અદ્રશ્ય થઈ જાય (ઓગળી જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાલી પ્લાસ્ટિકની બોટલ પાણી પર _________ છે. (તરે, ડૂબે, ઓગળે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુમાં હવા હોય તે પાણી પર 'સવારી' કરે એટલે કે 'તરે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાબુદાણીમાં સાબુ રાખવા છતાં તે પાણી પર _________ હતી. (ડૂબતી, તરતી, ઓગળતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુદાણીનો ફેલાયેલો આકાર તેને પાણી પર તરવામાં મદદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લીંબુ સાદા પાણીમાં ડૂબી જાય છે, પરંતુ _________ પાણીમાં તરે છે. (ગંદા, ગરમ, મીઠાવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠાવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીને 'ભારે' બનાવે છે, જે લીંબુને ઉપર તરફ ધક્કો મારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુનિયાનો સૌથી ખારો દરિયો _________ દરિયો છે. (હિંદ, અરબી, મૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃત (Dead) દરિયામાં એટલું મીઠું છે કે તેમાં કોઈ જીવ રહી શકતું નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મૃત દરિયાના એક લિટર પાણીમાં આશરે _________ ગ્રામ મીઠું હોય છે. (100, 300, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 300</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક લિટર પાણી અને ત્રણસો ગ્રામ ખાણું (મીઠું) – મૃત દરિયાનું ગાણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાણી અને તેલના મિશ્રણમાં _________ પાણીની ઉપર તરે છે. (તેલ, મીઠું, ખાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ પાણીમાં ભળતું નથી, તે હંમેશા ઉપર 'ટોચ' પર રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણીમાં ચોક પાવડર નાખતા તે પાણીમાં _________ નથી. (તતો, ડૂબતો, ઓગળતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓગળતો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર જેવો પાવડર (ચોક) પાણીમાં પૂરેપૂરો ઓગળી શકતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભીનાં કપડાં સૂર્યના તાપમાં સુકાઈ જાય છે, કારણ કે પાણીનું _________ થાય છે. (મિશ્રણ, બાષ્પીભવન, ઘનીભવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાષ્પીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું વરાળ બનીને ઊડી જવું એટલે 'બાષ્પીભવન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજીએ મીઠાનો કાયદો તોડવા માટે _________ યાત્રા કરી હતી. (દાંડી, સાબરમતી, ખેડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પકવવા દરિયા કિનારે 'દાંડી' ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મીઠું પકવનારા માણસને _________ કહેવાય છે. (કુંભાર, અગરિયા, લુહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાના ખેતરને 'અગર' કહેવાય, અને તેમાં કામ કરનાર 'અગરિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દાંડી યાત્રા કયા વર્ષમાં થઈ હતી? (1930, 1942, 1947)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1930</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીસ (30) માં કરી મીઠાની ટીસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દરિયાના પાણીમાંથી મીઠું બનાવવા માટે પાણીને _________ માં ભરવામાં આવે છે. (કૂવા, ટાંકી, ક્યારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્યારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીછરા 'ક્યારા' માં પાણી સુકાઈ જાય અને મીઠું રહી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખાંડને પાણીમાં ઝડપથી ઓગળવા માટે પાણીને _________ કરવું જોઈએ. (ઠંડુ, ગરમ, સ્થિર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી મળતા કણો છૂટા પડે અને ખાંડ ફટાફટ ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સેજલે તેના ભાઈ માટે બનાવેલું લોટનું ગોળું પાણીમાં _________ ગયું. (તરી, ડૂબી, ઓગળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચો લોટ ભારે હોવાથી પાણીમાં નીચે બેસી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણી પર તેલનું ટીપું નાખતા તે _________ જેવું દેખાય છે. (ચળકતા લસરકા, ડાઘા, કાળા ટપકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચળકતા લસરકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ લપસણું હોય છે, એટલે તેના ટીપાં પાણી પર લસરતા દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટીફિનના ઢાંકણ પર પાણીના ટીપાં ઝડપથી નીચે આવ્યા કારણ કે તે _________ હતા. (ભારે, લપસણા, મોટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લપસણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી લપસી જાય છે, જ્યારે તેલ અને દૂધના ટીપાં ધીમેથી ચાલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાણીમાં જે વસ્તુ ઓગળી જાય તેને _________ પદાર્થ કહેવાય. (અદ્રાવ્ય, દ્રાવ્ય, ભારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રાવ્ય એટલે 'ગળી જવું' (પાણીમાં ભળી જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મૃત દરિયામાં માણસ ક્યારેય _________ નથી. (તરી, ડૂબી, ઓગળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂબ જ ખારું પાણી માણસને ગાદલાની જેમ ઉપર જ રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો પાણીમાં રેતી નાખવામાં આવે, તો તે નીચે _________ જશે. (તરી, બેસી, ઓગળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતી ભારે અને અદ્રાવ્ય છે, એટલે તળિયે જ જમા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાણીના ગ્લાસમાં સ્ટીલની ચમચી નાખતા તે _________ જાય છે. (તરી, ડૂબી, ઉડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુની બનેલી વસ્તુઓ વજનમાં ભારે હોવાથી ડૂબી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એક પ્યાલા પાણીમાં 5 ચમચી મીઠું નાખ્યા પછી તેમાં લીંબુ _________ છે. (તરે, ડૂબે, અદ્રશ્ય થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીની ઘનતા વધારે છે, જે વસ્તુને ડૂબવા દેતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચા બનાવવા માટે પાણીમાં નાખેલ ચા-પત્તી પાણીમાં _________ નથી. (રંગ આપતી, ભીંજાતી, ઓગળતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓગળતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચા-પત્તી તેનો અર્ક (રંગ) આપે છે પણ પોતે ઓગળતી નથી, એટલે જ ગળણીથી ગળવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાફેલા ઈંડા મીઠાવાળા પાણીમાં _________ છે. (તરે, ડૂબે, ફૂટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાવાળું પાણી શક્તિશાળી હોય છે, તે ઈંડાને પણ ઉપર ઉચકી લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગ્લાસના અડધા પાણીમાં મીઠું ઓગાળ્યા પછી તે પાણીનો સ્વાદ _________ લાગે છે. (ગળ્યો, ખાટો, ખારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું ઓગળી જાય પણ પોતાનો ગુણધર્મ (ખારાશ) છોડતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કપડાં સુકવવા માટે તેને _________ કરી સુકવવામાં આવે છે. (ભેગા, પહોળા, ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહોળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ જગ્યા (સપાટી) એટલે ફટાફટ બાષ્પીભવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દરિયા કિનારે મીઠું પકવવા માટે _________ બનાવવામાં આવે છે. (કૂવા, વાવ, અગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું જ્યાં પાકે એ જગ્યા 'અગર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આઈસક્રીમ બનાવતી વખતે તેની આજુબાજુ _________ રાખવામાં આવે છે જેથી તે જલદી ઓગળે નહીં. (ગરમ પાણી, મીઠું અને બરફ, ખાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠું અને બરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફમાં મીઠું નાખવાથી તે લાંબો સમય ઠંડક જાળવી રાખે છે.</p></div>"
+    }
+  ]
+}
