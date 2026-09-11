@@ -1179,3 +1179,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "મચ્છર, રોગો અને સારવાર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મલેરિયા ......... કરડવાથી ફેલાય છે. (માખી, મચ્છર, કીડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ-મ ની જોડી યાદ રાખો: મલેરિયા = મચ્છર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલેરિયા ફેલાવનાર માદા મચ્છરનું નામ ......... છે. (એનોફિલીસ, એડીસ, ક્યુલેક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એનોફિલીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માદા એનો' એટલે મલેરિયા લેતી આવે એનો (એનોફિલીસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લોહીમાં લોહતત્વની ઉણપને લીધે ......... રોગ થાય છે. (મલેરિયા, પાંડુરોગ, કોલેરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંડુરોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહતત્વ ઓછું એટલે લોહી ફિક્કું પડે, તેને 'પાંડુરોગ' (Anemia) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગોળ, આમળા અને લીલા પાંદડાવાળા શાકભાજીમાં પુષ્કળ પ્રમાણમાં ......... હોય છે. (કેલ્શિયમ, લોહતત્વ, પ્રોટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહતત્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરતીની દવા: ગોળ + આમળા = લોહતત્વ (Iron).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મચ્છરના બચ્ચાંને ......... કહેવામાં આવે છે. (ઈંડા, પોરા, કીડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં જે નાની દોરી જેવા હલે, તેને 'પોરા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "......... નામના વૈજ્ઞાનિકે શોધ્યું કે મલેરિયા મચ્છર દ્વારા ફેલાય છે. (રોજનર, રોનાલ્ડ રોસ, એડિસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોનાલ્ડ રોસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મચ્છરને 'રોકી' ને તેની તપાસ કરી 'રોસ' સાહેબે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મલેરિયાની દવા ......... નામના વૃક્ષની છાલમાંથી બનાવવામાં આવતી હતી. (લીમડા, સિંકોના, વડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંકોના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલેરિયા માટે 'કોના' પાસે જવાનું? સિં-કોના પાસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીમાં રહેલા મચ્છરના પોરા ખાવા માટે ......... નો ઉપયોગ થાય છે. (સાપ, માછલી, બતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી છે મચ્છરની દુશ્મન, પોરા ખાઈને કરે પાણી ક્લીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાંડુરોગ (Anemia) ને લીધે બાળકની ......... શક્તિ પર અસર થાય છે. (જોવાની, માનસિક અને શારીરિક, સાંભળવાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનસિક અને શારીરિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી ઓછું તો બધી શક્તિ ઓછી (મન અને શરીર બંને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મચ્છર સામાન્ય રીતે ......... પાણીમાં ઈંડા મૂકે છે. (વહેતા, ભરાઈ રહેલા સ્થિર, ગરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરાઈ રહેલા સ્થિર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર પાણી એટલે મચ્છરનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લોહીમાં ......... નું પ્રમાણ માપવા માટે લોહીની તપાસ કરવામાં આવે છે. (ચરબી, હિમોગ્લોબિન, સાકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમોગ્લોબિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિન = લોહીની તાકાતનું મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાણીના ખાડામાં ......... નાખવાથી મચ્છરના પોરા જીવી શકતા નથી. (ખાંડ, તેલ, દૂધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ નાખો તો પોરાને શ્વાસ લેવાની હવા (ઓક્સિજન) ના મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માખીઓ દ્વારા મુખ્યત્વે ......... ના રોગો ફેલાય છે. (શ્વાસના, પેટના, આંખના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખી ગંદકી પર બેસે અને ખોરાક પર આવે, એટલે પેટ બગડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રોગની તપાસ માટે લોહીના ટીપાં લેવા માટે ......... નો ઉપયોગ થાય છે. (સોય, પેન, પટ્ટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની સોયની ટાંચણી = લોહીની તપાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચોમાસામાં ......... નો ઉપદ્રવ સૌથી વધુ જોવા મળે છે. (ઉંદર, મચ્છર, ખિસકોલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ + ભરાયેલું પાણી = મચ્છરોનો મેળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ડૉ. રોનાલ્ડ રોસને 1902 માં ......... ક્ષેત્રમાં નોબેલ પુરસ્કાર મળ્યો હતો. (શાંતિ, મેડિસિન (દવા), સાહિત્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેડિસિન (દવા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોગની શોધ કરી એટલે મેડિસિનમાં એવોર્ડ મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ડેન્ગ્યુ રોગ ......... કરડવાથી થાય છે. (માખી, મચ્છર, કરોળિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલેરિયા અને ડેન્ગ્યુ બંને 'મચ્છર' ગેંગના સભ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લોહીની તપાસ કરતી વખતે કાચની ......... પર લોહી લેવામાં આવે છે. (સ્લાઈડ, ટ્યુબ, રકાબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈક્રોસ્કોપમાં જોતા પહેલાં લોહીને 'સ્લાઈડ' પર સુવડાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મલેરિયાના મચ્છર પાંખો પર ......... અને બદામી રંગના હોય છે. (ટપકાંવાળા, પટ્ટાવાળા, લીલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટપકાંવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલેરિયાની માદા એનોફિલીસ = બદામી રંગ + ટપકાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સામાન્ય રીતે 12 થી 16 વર્ષના બાળકનું હિમોગ્લોબિન ઓછામાં ઓછું ......... gm/dl હોવું જોઈએ. (8, 12, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલ્ધી બનવા માટે 12 નો આંકડો પાર કરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શાળામાં આપવામાં આવતી ......... ની ગોળીઓ પાંડુરોગ દૂર કરવામાં મદદ કરે છે. (કેલ્શિયમ, લોહતત્વ (આયર્ન), વિટામિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહતત્વ (આયર્ન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંડુરોગની એક જ દવા: આયર્ન ટેબ્લેટ અને લીલા શાકભાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મચ્છરના પોરા જોવા માટે ......... કાચનો ઉપયોગ કરી શકાય છે. (બિલોરી, સાદો, ચશ્માનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિલોરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુ મોટી જોવી હોય તો બિલોરી કાચ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કુલર અને પાણીની ટાંકીને દર ......... સાફ કરવા જોઈએ. (અઠવાડિયે, વર્ષે, પાંચ વર્ષે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અઠવાડિયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સન્ડે ટુ સન્ડે સફાઈ: મચ્છરોની થશે વિદાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મલેરિયામાં દર્દીને ખૂબ જ ......... સાથે તાવ આવે છે. (ગભરામણ, ઠંડી અને ધ્રુજારી, ઉધરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી અને ધ્રુજારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલેરિયા એટલે ધ્રુજારીવાળો તાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ડૉ. રોનાલ્ડ રોસે મલેરિયાની શોધ ......... શહેરની હોસ્પિટલમાં કરી હતી. (સિકંદરાબાદ, મુંબઈ, અમદાવાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિકંદરાબાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિકંદરાબાદમાં 'સિક' (બીમાર) લોકોની તપાસમાં મલેરિયા પકડાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાંડુરોગ દિલ્હીની શાળાઓમાં વર્ષ ......... માં મોટા પ્રમાણમાં જોવા મળ્યો હતો. (2000, 2007, 2015)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2007</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2007 - દિલ્હીના બાળકો અને પાંડુરોગનો અહેવાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાણીના ઘડા કે માટલાને ......... રાખવા જોઈએ. (ખુલ્લા, ઢાંકીને, ઊંધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢાંકીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાંકેલું પાણી = મચ્છરથી મુક્ત પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "લોહીની તપાસથી જાણી શકાય છે કે લોહીમાં ......... ના જંતુઓ છે કે નહીં. (મલેરિયા, કેન્સર, શરદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચની સ્લાઈડ પર જે દેખાય તે મલેરિયાના જંતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બાળકોમાં હિમોગ્લોબિન ઓછું હોવાથી તેમને ......... અનુભવાય છે. (શક્તિ, થાક, ભૂખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછું લોહી = વહેલો થાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "માખીઓ ગંદકી પર બેસીને પોતાના ......... સાથે રોગના જંતુઓ લાવે છે. (પગ, પૂંછડી, મોઢા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખીના પગ છે જંતુઓની ગાડી.</p></div>"
+    }
+  ]
+}
