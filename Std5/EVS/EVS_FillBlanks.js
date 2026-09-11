@@ -1495,3 +1495,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દીવાલોની કહાણી",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઉપરકોટનો કિલ્લો ગુજરાતના ....... શહેરમાં આવેલો છે. (ભાવનગર, જૂનાગઢ, જામનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂનાગઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' પરથી જૂનાગઢ અને જૂનાગઢનો કિલ્લો એટલે ઉપરકોટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કિલ્લાની દીવાલની બહાર અમુક જગ્યાએથી દીવાલ ગોળાકારમાં બહાર નીકળેલી હોય છે, તેને ....... કહેવામાં આવે છે. (બારી, ગઢ, દરવાજો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગઢ (બુરજ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ' પરથી ગોળાકાર અને 'ગ' પરથી ગઢ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઉપરકોટના કિલ્લાના મુખ્ય પ્રવેશદ્વારની સંખ્યા ....... છે. (પાંચ, નવ, એક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલ્લો ગમે તેટલો મોટો હોય, મુખ્ય દરવાજો 'એક' જ હોય જેથી સુરક્ષા જળવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીલમ અને માણેક એ ....... ના નામ છે. (રાણીઓ, તોપ, હાથીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રત્નો જેવા નામ ધરાવતી આ 'તોપ' દુશ્મનોના છક્કા છોડાવી દેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીલમ તોપ દીવની લૂંટમાંથી લાવીને ઉપરકોટના કિલ્લામાં ....... એ મુકાવી હતી. (સિદ્ધરાજ જયસિંહ, સુલતાન બહાદુરશાહ, મોહમ્મદ બેગડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુલતાન બહાદુરશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાદુર રાજા જ લૂંટમાં મળેલી તોપ કિલ્લામાં ગોઠવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિલ્લાની દીવાલમાં બનાવેલા ગઢમાં પાડેલા કાણાં ....... માટે વપરાતા હતા. (હવાબારી, સૈનિકોની સુરક્ષા અને હુમલો, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૈનિકોની સુરક્ષા અને હુમલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાણાંમાંથી દુશ્મન દેખાય પણ દુશ્મનને આપણે ન દેખાઈએ - આ જ અસલી સુરક્ષા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કિલ્લાની આસપાસ ઊંડી અને પહોળી ....... બનાવવામાં આવતી હતી જેથી દુશ્મનો અંદર ન આવી શકે. (ખાઈ, સડક, વાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તામાં 'ખાઈ' હોય તો દુશ્મનની સેના ભડકી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉપરકોટના કિલ્લામાં આવેલી ....... વાવ બે દાસીઓના નામ પરથી બનેલી છે. (અડી-કડી, રાણકી, દાદા હરિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડી-કડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડી અને કડી - બે બહેનપણીઓ (દાસીઓ) ના નામ જેવી જ આ વાવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અડી-કડી વાવમાં કુલ ....... પગથિયાં છે. (૧૬૬, ૨૭૨, ૧૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૬૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-છગડો-છગડો (૧૬૬) - ચડતા શ્વાસ ચડી જાય એટલા પગથિયાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નવઘણ કૂવો ....... વંશના રાજાઓના સમયમાં બનેલો છે. (સોલંકી, ચુડાસમા, મૌર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુડાસમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવઘણ રાજા પોતે ચુડાસમા વંશના હતા, એટલે કૂવો પણ એમના વંશનો જ હોય ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જૂના કિલ્લાઓ અને મહેલોમાં જોવા મળતું ....... કામ તે સમયની કલાનું ઉત્તમ ઉદાહરણ છે. (કોતરણી, સિમેન્ટ, રંગીન કાચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોતરણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પર જે 'કંડારાય' એને જ 'કોતરણી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કૂવામાંથી પાણી ખેંચવા માટે ....... નો ઉપયોગ થતો હતો. (મોટર, ગરગડી અને બળદ, પાઇપલાઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરગડી અને બળદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં વીજળી નહોતી, એટલે બળદની તાકાત અને ગરગડીની યુક્તિ વપરાતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઉપરકોટના કિલ્લામાં ....... ની ગુફાઓ આવેલી છે. (જૈન, બૌદ્ધ, હિન્દુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૌદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૌદ્ધ સાધુઓ હંમેશા શાંત જગ્યા અને ગુફાઓ પસંદ કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કિલ્લાની અંદર પાણીના સંગ્રહ માટે ....... બનાવવામાં આવતા હતા. (ટાંકા, નદી, તળાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાંકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદનું પાણી સાચવવા માટે પથ્થરમાં ટાંકા કોતરવામાં આવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઐતિહાસિક વસ્તુઓનો સંગ્રહ ....... માં કરવામાં આવે છે. (શાળા, મ્યુઝિયમ, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મ્યુઝિયમ (સંગ્રહાલય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ' પરથી મ્યુઝિયમ અને 'મ' પરથી જૂના માલ-સામાનનો સંગ્રહ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સૂર્ય જે દિશામાં ઊગે છે તેને ....... દિશા કહેવાય છે. (પૂર્વ, પશ્ચિમ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ દાદાનું પહેલું કિરણ 'પૂર્વ' માં જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તોપ બનાવવા માટે ....... ધાતુનો ઉપયોગ કરવામાં આવતો હતો. (લોખંડ, કાંસું, તાંબુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંસું (બ્રોન્ઝ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંસું મજબૂત હોય અને તેને ઓગાળીને તોપ જેવો ઘાટ આપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઉપરકોટનો કિલ્લો ....... ની ટેકરી પર આવેલો છે. (ગીરનાર, ચોટીલા, પાવાગઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીરનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનાગઢ એટલે ગીરનારનો ગઢ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કિલ્લાના મોટા દરવાજામાં નાનો દરવાજો હોય છે તેને ....... કહેવાય છે. (બારી, બારી-દરવાજો, વેણીબારણું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બારી-દરવાજો (વેણીબારણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું બારણું ન ખોલવું પડે એટલે નાનો ચોર-દરવાજો રખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચૂડાસમા વંશના ....... રાજાએ નવઘણ કૂવો બનાવ્યો હતો. (સિદ્ધરાજ, રા' નવઘણ, રા' ખેંગાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રા' નવઘણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ જવાબ છે! નવઘણ કૂવો એટલે રા' નવઘણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાંસું એ તાંબુ અને ....... ધાતુનું મિશ્રણ છે. (જસત, કલાઈ, લોખંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલાઈ (ટીન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાંતક' યાદ રાખો - કાંસું = તાંબુ + કલાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉપરકોટના કિલ્લામાં ....... નામનું તળાવ પણ આવેલું છે. (લખ્ખોટા, હમીરસર, નવઘણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવઘણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવઘણ કૂવો અને તેની આસપાસનું બાંધકામ પાણી માટે જાણીતું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કિલ્લામાં પાણી પહોંચાડવા માટે બળદ વડે ફરતું ....... વપરાતું હતું. (ચક્ર, પંખો, એન્જિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચક્ર (રેંટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ ગોળ ફરે એ ચક્ર, અને એ જ પાણી ઊંચે ચડાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઇતિહાસ જાણવા માટે ....... , શિલાલેખ અને સિક્કાઓ ઉપયોગી છે. (વર્તમાનપત્ર, જૂના વાસણો, પ્લાસ્ટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના વાસણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વસ્તુઓ જ જૂના જમાનાની સાચી કહાણી કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઉપરકોટનો કિલ્લો ઘણો ....... છે. (નવો, જૂનો, કાચો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો ઈતિહાસ હોય તે હંમેશા જૂનું અને કિંમતી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કિલ્લાની ઊંચી અને જાડી દીવાલો ....... માટે બનાવવામાં આવતી હતી. (સુંદરતા, સુરક્ષા, હવા ખાવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાડી દીવાલ એટલે દુશ્મન માટે અભેદ કવચ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો તમે પૂર્વ દિશા તરફ મોઢું રાખીને ઉભા રહો, તો તમારી પાછળ ....... દિશા હશે. (ઉત્તર, પશ્ચિમ, દક્ષિણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ અને પશ્ચિમ એકબીજાની સામે-સામે (વિરોધી) દિશાઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કિલ્લાના ગઢ પરથી સૈનિકો ....... અંતર સુધી જોઈ શકતા હતા. (ટૂંકા, લાંબા, જરાય નહિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંબા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા ઊંચા હોઈએ એટલું દૂરનું દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જૂનાગઢમાં આવેલું સંગ્રહાલય ....... માં આવેલું છે. (મહેલ, કચેરી, દરબારગઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરબારગઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાના દરબારમાં જ બધી કિંમતી વસ્તુઓ સચવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઉપરકોટના કિલ્લાનું નિર્માણ ....... વર્ષો પહેલા થયું હોવાનું મનાય છે. (૫૦૦, ૨૩૦૦, ૧૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૩૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૌર્ય કાળ જેટલો જૂનો એટલે કે હજારો વર્ષ જૂનો આ કિલ્લો છે.</p></div>"
+    }
+  ]
+}
