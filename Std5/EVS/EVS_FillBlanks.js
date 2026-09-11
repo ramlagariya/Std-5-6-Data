@@ -2235,3 +2235,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "ઠંડું કે ગરમ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મિયાં બાલિશ્તિયે કદમાં ખૂબ જ ........... હતા. (ઊંચા, ઠીંગણા, જાડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠીંગણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાલિશ્તિયે' એટલે વેંત જેવડા, અને વેંત જેવડા માણસ હંમેશા 'ઠીંગણા' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ઠંડું કે ગરમ' વાર્તા લખનાર ડૉ. ઝાકિર હુસેન ભારતના ........... હતા. (વડાપ્રધાન, રાષ્ટ્રપતિ, મુખ્યમંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાકિર હુસેન = 'ખાસ' વ્યક્તિ = દેશના સર્વોચ્ચ 'રાષ્ટ્રપતિ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગરમ ચાને ઠંડી કરવા માટે તેના પર ........... મારવામાં આવે છે. (પાણી, ફૂંક, પથ્થર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ ચા જોડે 'ફૂ-ફૂ' કરો એટલે ચા 'ઠંડી' થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શિયાળામાં ઠંડા પડી ગયેલા હાથને ગરમ કરવા માટે મોઢામાંથી નીકળતી હવા ........... હોય છે. (ઠંડી, ગરમ, બરફ જેવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરની અંદરની હવા બહારના વાતાવરણ કરતા 'ગરમ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કઠિયારો ગરમ બાફેલા બટાટાને ઠંડા કરવા માટે ........... મારતો હતો. (ફૂંક, પાણી, માટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ વસ્તુને ઠંડી કરવી હોય તો 'ફૂંક' જ કામ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચૂલામાં લાકડા સળગાવવા માટે ફૂંક મારવાથી અગ્નિ ........... છે. (બુઝાઈ જાય, સળગે, કાળો પડે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સળગે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંક મારવાથી હવા (ઓક્સિજન) મળે, અને હવા આગને 'સળગવામાં' મદદ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અરીસા પર ફૂંક મારવાથી અરીસો ........... દેખાય છે. (ચોખ્ખો, ઝાંખો, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાંખો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢાની હવાનો 'ભેજ' અરીસા પર ચોંટે એટલે અરીસો 'ઝાંખો' જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડોક્ટર આપણા હૃદયના ધબકારા માપવા ........... સાધનનો ઉપયોગ કરે છે. (બેરોમીટર, સ્ટેથોસ્કોપ, થર્મોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેથોસ્કોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયના ધબકારા સાંભળવાનું મશીન એટલે 'સ્ટેથોસ્કોપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દોડ્યા પછી આપણા હૃદયના ધબકારા ........... જાય છે. (ઘટી, વધી, સ્થિર રહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ મહેનત = વધુ ઓક્સિજનની જરૂર = 'વધારે' ધબકારા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગરમ હવા વજનમાં હલકી હોવાથી તે ........... તરફ જાય છે. (નીચે, ઉપર, જમીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકી વસ્તુ હંમેશા 'આકાશમાં ઉપર' જ ઉડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઠંડી હવા ગરમ હવા કરતા વજનમાં ........... હોય છે. (હલકી, ભારે, પાતળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ હલકી તો ઠંડી 'ભારે'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મોઢામાંથી નીકળતી હવામાં ........... હોવાથી અરીસો ભીનો થાય છે. (ધૂળ, ભેજ, કચરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીનાશ = ભેજ (પાણીની વરાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મિયાં બાલિશ્તિયેની ઊંચાઈ માત્ર ........... જેટલી જ હતી. (એક વેંત, બે ફૂટ, પાંચ ફૂટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક વેંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાલિશ્ત' એટલે જ વેંત, માટે ઊંચાઈ 'એક વેંત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નીચેનામાંથી કયું વાદ્ય ફૂંક મારીને વગાડવામાં આવે છે? (તબલા, વાંસળી, ઢોલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંસળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ ભગવાન 'ફૂંક' મારીને શું વગાડતા? 'વાંસળી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જ્યારે આપણે શ્વાસ લઈએ છીએ ત્યારે આપણી છાતી ........... છે. (સંકોચાય, ફૂલે, સ્થિર રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂલે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુગ્ગામાં હવા ભરો તો તે 'ફૂલે', એમ છાતીમાં હવા જાય તો તે પણ 'ફૂલે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મોઢામાંથી નીકળતી હવા ગરમ બટાટા કરતા ........... હતી. (વધારે ગરમ, ઠંડી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટા વરાળ કાઢતા ગરમ હતા, જ્યારે ફૂંક તેની સરખામણીમાં 'ઠંડી' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પેપર સાપને ગરમ હવા પર રાખતા તે ........... દિશામાં ફરે છે. (ઘડિયાળની, ઊંધી, અસ્તવ્યસ્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ હવા ઉપર જાય એટલે સાપ 'ઘડિયાળની દિશામાં' (Clockwise) નાચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નાક વાટે હવા બહાર કાઢવાની ક્રિયાને ........... કહેવાય છે. (શ્વાસ, ઉચ્છવાસ, પાચન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉચ્છવાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા 'અંદર' લેવી એટલે શ્વાસ, હવા 'બહાર' કાઢવી એટલે 'ઉચ્છવાસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભીની હવાને કારણે ચશ્માના કાચ ........... થઈ જાય છે. (સાફ, ઝાંખા, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાંખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંકમાં ભેજ = કાચ 'ઝાંખો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાપને ઠંડી હવા પર રાખતા તે ........... દિશામાં ફરે છે. (ઘડિયાળની, ઘડિયાળની વિરુદ્ધ, સ્થિર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળની વિરુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમમાં સીધો, તો ઠંડી હવામાં 'ઊંધો' (વિરુદ્ધ) ફરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાને જોઈને ........... પામી ગયા. (આશ્ચર્ય, ગુસ્સો, આનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશ્ચર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠિયારો ક્યારેક ફૂંકથી ગરમ તો ક્યારેક ઠંડુ કરતો હતો, એટલે બાલિશ્તિયેને 'નવાઈ' (આશ્ચર્ય) લાગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શ્વાસ લેતી વખતે આપણે ........... વાયુ અંદર લઈએ છીએ. (નાઈટ્રોજન, ઓક્સિજન, કાર્બન ડાયોક્સાઈડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવન જીવવા માટે 'O2' (ઓક્સિજન) જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શાંતિથી બેઠા હોઈએ ત્યારે એક મિનિટમાં શ્વાસ લેવાનો દર ........... હોય છે. (વધારે, ઓછો, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ = 'ઓછી' મહેનત = ઓછો શ્વાસ દર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કઠિયારો લાકડા કાપવા માટે ........... નો ઉપયોગ કરતો હતો. (કુહાડી, કરવત, છરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુહાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠિયારાનું હથિયાર એટલે 'કુહાડી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આપણી છાતીનું માપ ........... વખતે વધુ હોય છે. (શ્વાસ બહાર કાઢતી, ઊંડો શ્વાસ લેતી, જમતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંડો શ્વાસ લેતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર હવા ભરાય એટલે છાતીનું માપ 'વધી' જાય.</p></div>"
+    }
+  ]
+}
