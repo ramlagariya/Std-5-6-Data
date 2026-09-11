@@ -1653,3 +1653,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "સુનીતા અવકાશમાં",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીનો સાચો આકાર ______ જેવો ગોળ છે. (દડા, બંગડી, થાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી દડા જેવી ગોળ છે, એટલે કે તે 'થ્રી-ડી' (3D) ગોળો છે, સપાટ થાળી જેવી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સુનીતા વિલિયમ્સ પૃથ્વીથી ______ કિમી દૂર અવકાશયાનમાં ગયા હતા. (૧૦૦, ૨૬૦, ૩૬૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩૬૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રણ-છ-ઝીરો' (360) યાદ રાખો, પૃથ્વીના ખૂણા પણ ૩૬૦ અને સુનીતાના કિમી પણ ૩૬૦!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અવકાશમાં પાણી પણ ટીપાંના સ્વરૂપે ______ રહે છે. (વહેતું, તરતું, થીજી ગયેલું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં 'ગુરુત્વાકર્ષણ' નથી, એટલે બધું જ 'તરતું' રહે (Floating).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૃથ્વી પર આપણે ગમે તે વસ્તુ હવામાં ઉછાળીએ તો તે ______ ને કારણે નીચે જ આવે છે. (ગુરુત્વાકર્ષણ બળ, ચુંબકીય બળ, પવનનું બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુત્વાકર્ષણ બળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી આપણને નીચે ખેંચે તેને 'ગુરુ' (મોટું) બળ એટલે કે 'ગુરુત્વાકર્ષણ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અવકાશયાનમાં સુનીતા વિલિયમ્સના વાળ હંમેશા ______ રહેતા હતા. (નીચે લટકેલા, ઊભા, ચોંટેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુત્વાકર્ષણ નથી એટલે વાળ નીચે પડે જ નહીં, હંમેશા આકાશ તરફ 'ઊભા' જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અવકાશમાંથી પૃથ્વી જોતા તે ______ રંગની દેખાય છે. (લીલા, લાલ, વાદળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર સૌથી વધુ પાણી છે, અને પાણીનો રંગ 'વાદળી' દેખાય એટલે પૃથ્વી પણ વાદળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૃથ્વીની પ્રતિકૃતિને ______ કહેવામાં આવે છે. (નકશો, ચિત્ર, ગોળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી ગોળ છે, એટલે તેની નાની નકલ પણ 'ગોળો' (Globe) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સૌ પ્રથમ ચંદ્ર પર પગ મૂકનાર અવકાશયાત્રી ______ હતા. (સુનીતા વિલિયમ્સ, કલ્પના ચાવલા, નીલ આર્મસ્ટ્રોંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીલ આર્મસ્ટ્રોંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીલ' એટલે આકાશ (વાદળી), જેણે આકાશમાં જઈ ચંદ્ર પર પહેલો પગ મૂક્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૃથ્વીના ગોળા પર જુદા જુદા દેશો વચ્ચેની રેખાઓ ______ દોરેલી હોય છે. (કુદરતે, માણસોએ, દેવોએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માણસોએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાંથી પૃથ્વી પર કોઈ સરહદ દેખાતી નથી, આ લાઈનો તો આપણે (માણસોએ) નકશામાં બનાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચંદ્ર સાથે જોડાયેલો તહેવાર ______ છે. (ઉતરાયણ, દિવાળી, ઈદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈદનો ચાંદ જોયા પછી જ તહેવાર ઉજવાય છે, એટલે ચંદ્ર સાથે સીધો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અવકાશમાં ખોરાક ખાવા માટે પણ તેણે ______ પડતો હતો. (પકડવો, ચાવવો, પીવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પકડવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં પ્લેટ પણ હવામાં ઉડે અને ખાવાનું પણ, એટલે ખાવા માટે તેને પકડવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સુનીતા વિલિયમ્સ મૂળ ______ દેશના વતની હતા. (અમેરિકા, ભારત, જાપાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનીતાના પિતા દીપકભાઈ પંડ્યા 'ભારતીય' હતા, એટલે તેમનું મૂળ વતન ભારત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૃથ્વીના ગોળાના નીચેના ભાગમાં પણ માણસો રહેતા હોય છે, તેઓ ______ પડી જતા નથી. (ઉપર, નીચે, સાઈડમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુત્વાકર્ષણ બળ આપણને પૃથ્વી સાથે જકડી રાખે છે, એટલે આપણે નીચે પડતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૂનમના દિવસે ચંદ્ર ______ દેખાય છે. (અડધો, બિલકુલ નહીં, આખો ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આખો ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ = પૂરો ચાંદ. (Full Moon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આકાશમાં રાત્રે ટમટમતા દેખાતા પદાર્થો ______ છે. (તારા, પથ્થર, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટ' એટલે ટમટમવું અને 'ત' એટલે તારા - રાત્રે ચમકે એ જ તારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચંદ્ર એ પૃથ્વીનો ______ છે. (ગ્રહ, ઉપગ્રહ, તારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગ્રહની આસપાસ ફરે તેને 'ઉપગ્રહ' કહેવાય. ચંદ્ર પૃથ્વીની આસપાસ ફરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અમાસના દિવસે આકાશમાં ______ દેખાતો નથી. (સૂર્ય, ચંદ્ર, તારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમાસ = અંધારું. ચંદ્ર ગાયબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અવકાશયાનમાં એક જગ્યાએ બેસી રહેવા માટે પોતાની જાતને ______ બાંધવી પડતી હતી. (દોરડાથી, બેલ્ટથી, સાંકળથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેલ્ટથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ કારમાં સેફ્ટી બેલ્ટ હોય, તેમ અવકાશમાં સ્થિર રહેવા બેલ્ટ (પટ્ટા) ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શૂટિંગ સ્ટાર (ખરતો તારો) વાસ્તવમાં પૃથ્વીના વાતાવરણમાં આવતા સળગી ઉઠતી ______ છે. (ઉલ્કા, વિમાન, પતંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉલ્કા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરતો તારો એ તારો નથી, પણ આકાશી પથ્થર એટલે કે 'ઉલ્કા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સુનીતા વિલિયમ્સે અવકાશમાં ______ થી વધુ સમય વિતાવ્યો હતો. (૬ મહિના, ૧ વર્ષ, ૨ મહિના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬ મહિના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું વર્ષ એટલે કે ૬ મહિના સુધી તેઓ આકાશમાં રહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પૃથ્વીના ગોળામાં ભારતની નીચે કયો દેશ આવેલો છે? (પાકિસ્તાન, શ્રીલંકા, અમેરિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીલંકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતના નકશામાં નીચે 'ટીપા' જેવો દેશ એ જ શ્રીલંકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સુનીતા વિલિયમ્સ ______ બનવા માંગતા હતા. (અવકાશયાત્રી, નર્સ, હેલિકોપ્ટર પાઇલટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેલિકોપ્ટર પાઇલટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેમને ઊડવું ગમતું હતું, એટલે પહેલા પાઇલટ બનવાની ઈચ્છા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૃથ્વી પર પાણી ઢોળાય તો તે ______ તરફ વહે છે. (ઉપર, નીચે, ડાબી બાજુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું ખેંચાણ બળ બધી વસ્તુને 'નીચે' જ લઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સુનીતાએ જ્યારે પૃથ્વીને અવકાશમાંથી જોઈ ત્યારે તેને પૃથ્વી બહુ જ ______ લાગી. (સુંદર, ડરામણી, નાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી પૃથ્વી એકસાથે વાદળી રંગની દેખાય તો 'સુંદર' જ લાગે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચંદ્રની કળાઓમાં વધારો-ઘટારો થવા માટે ______ જવાબદાર છે. (પૃથ્વીનું ભ્રમણ, સૂર્યપ્રકાશ, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યપ્રકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્રને પોતાનો પ્રકાશ નથી, સૂર્યના કિરણો જેટલા ભાગ પર પડે એટલો જ દેખાય.</p></div>"
+    }
+  ]
+}
