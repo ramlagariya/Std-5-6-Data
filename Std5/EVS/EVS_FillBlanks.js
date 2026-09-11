@@ -1337,3 +1337,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ચઢીએ ઊંચા શિખરો!",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્વતારોહણ કરવા માટે ઉત્તરકાશીમાં __________ ઇન્સ્ટિટ્યૂટ ઓફ માઉન્ટેનિયરિંગ આવેલી છે. (નેહરુ, ગાંધી, સરદાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેહરુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર 'નહેર' (પાણી) ન હોય, પણ 'નેહરુ' ઇન્સ્ટિટ્યૂટ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પર્વતારોહણ શિબિરમાં સંગીતા અરોરા જૂથ નંબર __________ ની જૂથનાયક (Group Leader) હતી. (૫, ૭, ૯)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગીતાનો 'સ' અને 'સાત' નો 'સ' - યાદ રહી ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જૂથનાયકે (Group Leader) હંમેશા જૂથના સભ્યોની __________ ચાલવાનું હોય છે. (આગળ, વચ્ચે, પાછળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાછળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો નેતા એ જે બધાને આગળ રાખે અને પોતે 'પાછળ' રહી ધ્યાન રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પર્વતારોહણ દરમિયાન ઠંડીથી બચવા અને શક્તિ મેળવવા સવારના નાસ્તામાં વિટામિન-સી અને __________ ની ગોળીઓ આપવામાં આવે છે. (કેલ્શિયમ, આર્યન/લોહતત્ત્વ, પ્રોટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યન/લોહતત્ત્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર ચઢવા 'લોખંડ' (આર્યન) જેવી મજબૂતી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નદી પાર કરવા માટે દોરડાને બંને બાજુના મજબૂત પથ્થર કે ખડક સાથે __________ સાથે બાંધવામાં આવે છે. (ખીલા, હૂક, પિટન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિટન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર 'પીટન' (પિટન) ઠોકવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દોરડાની મદદથી પર્વત પરથી નીચે ઉતરવાની ક્રિયાને __________ કહેવામાં આવે છે. (રેપ્લિંગ, ટ્રેકિંગ, જમ્પિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેપ્લિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીચે' ઉતરો ત્યારે 'રેપ' (Rappelling) જેવી સ્પીડ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પર્વત પર ચઢતી વખતે શરીરને __________ અંશના ખૂણે રાખવું જોઈએ. (૪૫, ૯૦, ૧૮૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધા ચઢવું હોય તો 'કાટખૂણો' (૯૦) બનાવવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંગીતા અરોરાના પગમાં __________ પડ્યા હોવાથી તેને ચાલવામાં તકલીફ પડતી હતી. (ચાંદા, ફોલ્લા, કાંટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબુ ચાલવાથી પગ 'ફુલી' જાય એટલે કે 'ફોલ્લા' પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટેકલા ગામ દરિયાની સપાટીથી આશરે __________ મીટરની ઊંચાઈએ આવેલું છે. (૧૦૦૦, ૧૬૦૦, ૨૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૬૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેકલામાં '૧૬' (સોળ) સંસ્કાર જેવું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખાડોનબીએ પોતાની મિઝો ભાષામાં __________ ગાયું હતું. (ભજન, ગીત, હાલરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમની 'મિઝો' અને ખાડોનબીનું 'ગીત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બચેન્દ્રી પાલ માઉન્ટ એવરેસ્ટ સર કરનાર પ્રથમ __________ મહિલા હતા. (ગુજરાતી, ભારતીય, વિશ્વના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બચેન્દ્રી એટલે 'ભારત' નું ગૌરવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માઉન્ટ એવરેસ્ટને નેપાળમાં __________ તરીકે ઓળખવામાં આવે છે. (ગૌરીશંકર, સાગરમથ્થા, કૈલાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાગરમથ્થા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત એટલો ઊંચો કે 'સાગર' નું 'માથું' (મથ્થા) અડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બચેન્દ્રી પાલે __________ મે, ૧૯૮૪ ના દિવસે બપોરે ૧ વાગ્યે અને ૭ મિનિટે માઉન્ટ એવરેસ્ટ પર પગ મૂક્યો. (૨૧, ૨૩, ૨૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૩ મી તારીખ અને ૧:૦૭ નો સમય - યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પર્વતારોહીઓ રાત્રે રહેવા માટે __________ ના બનેલા તંબુનો ઉપયોગ કરે છે. (પ્લાસ્ટિક, બે પડવાળા નાયલોન, સુતરાઉ કાપડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે પડવાળા નાયલોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બે પડ' એટલે હવા ભરાય અને ગરમી જળવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બચેન્દ્રી પાલના માર્ગદર્શક (કોચ) બ્રિગેડિયર __________ સિંઘ હતા. (રાજ, જ્ઞાન, પ્રતાપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ હંમેશા 'જ્ઞાન' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માઉન્ટ એવરેસ્ટની ઊંચાઈ આશરે __________ મીટર છે. (૭૫૦૦, ૮૪૮૮, ૮૮૪૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮૮૪૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે આઠડા અને એના અડધા (૪૮) - ૮૮૪૮!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પર્વતારોહણ માટે વપરાતા પગરખાં (બૂટ) ના તળિયામાં __________ હોય છે. (ખીલા, રૂ, દોરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખીલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ પર લપસવું ન હોય તો 'ખીલા' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પર્વતારોહણ કરતી વખતે ઊંચાઈ પર શ્વાસ લેવામાં તકલીફ ન પડે તે માટે સાથે __________ ના સિલિન્ડર રાખવામાં આવે છે. (નાઈટ્રોજન, હિલિયમ, ઓક્સિજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવવા માટે 'ઓક્સિજન' જરૂરી છે, ઉપર હવા પાતળી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પર્વતારોહીઓ પીઠ પર જે થેલો લટકાવે છે તેને __________ કહેવામાં આવે છે. (રેકસેક, સૂટકેસ, પાઉચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેકસેક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખભા પર 'રેકસેક' (Rucksack), પર્વત પર જવાની ચેક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બચેન્દ્રી પાલ નાનપણમાં પિકનિકમાં ગયા હતા ત્યારે તેમના મિત્રો સાથે આશરે __________ મીટર પર્વત ચઢ્યા હતા. (૨૦૦૦, ૪૦૦૦, ૬૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની ઉંમરે '૪' (ચોગ્ગો) માર્યો હતો (૪૦૦૦ મીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પર્વત પર ચઢવા માટે દોરડામાં ભરાવવાની કડીને __________ કહેવાય છે. (સ્લિંગ, પિટન, હૂક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડીને 'લટકાવવા' (Sling) માટે વાપરીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જૂથનાયકે કોઈ સભ્યની તબિયત ખરાબ થાય તો તેનું __________ રાખવું જોઈએ. (ધ્યાન, મજાક, અપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્યાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર હંમેશા 'કેર' (ધ્યાન) લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખડક પર ચઢતી વખતે __________ ના પગલાં જેવી રીતે પર્વતારોહણ કરવું જોઈએ. (વાંદરા, ખિસકોલી, સસલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંદરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર ચઢવામાં 'વાંદરા' એક્સપર્ટ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પર્વતારોહણના પગરખાં ખાસ કરીને __________ પર ચાલવા માટે પણ ઉપયોગી છે. (પાણી, કાંકરા, બરફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર ઠંડી એટલે 'બરફ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંગીતા અરોરા કેન્દ્રીય વિદ્યાલયના __________ હતા. (આચાર્ય, ક્લાર્ક, શિક્ષિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્યાવરણ ભણાવે એ 'શિક્ષિકા' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પર્વતારોહણ માટે જૂથનાયકે બધા સભ્યો માટે __________ ની વ્યવસ્થા કરવાની હોય છે. (જમવા, મુવી, શોપિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ ભરેલું હોય તો જ પર્વત ચઢાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પર્વત પર ઠંડીમાં પણ ગરમી મેળવવા માટે __________ દૂધ આપવામાં આવે છે. (ઠંડુ, ગરમ ચોકલેટી, સાદું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ ચોકલેટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકલેટ અને ગરમી - બંને તાકાત આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ખાડોનબીએ ખેતરમાંથી છાનામાના __________ તોડી લીધા હતા. (કેળા, કાકડી, જામફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાકડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાડોનબીને 'કાકડી' ભાવતી હતી (બંને 'ક' પરથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "માઉન્ટ એવરેસ્ટ સર કરનાર વિશ્વની પાંચમી મહિલા __________ બન્યા. (સંગીતા અરોરા, બચેન્દ્રી પાલ, સુનીતા વિલિયમ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં ૧ લી અને દુનિયામાં ૫ મી - બચેન્દ્રી પાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બચેન્દ્રી પાલે પર્વત પર ભારતીય __________ ફરકાવ્યો. (રૂમાલ, ધ્વજ, સ્કાર્ફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્વજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશનું ગૌરવ વધારવા 'રાષ્ટ્રધ્વજ' જ ફરકાવાય!</p></div>"
+    }
+  ]
+}
