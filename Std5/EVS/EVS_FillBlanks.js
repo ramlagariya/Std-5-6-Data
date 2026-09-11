@@ -1786,3 +1786,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જો આ ખૂટી જાય તો...",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના પેટાળમાંથી મળતું ખનીજ તેલ ........ રંગનું અને ઘટ્ટ પ્રવાહી છે. (લાલ, કાળા, પીળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાળું સોનું' એટલે ખનીજ તેલ, તેથી તેનો રંગ કાળો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટ્રાફિક સિગ્નલ પર લાલ લાઈટ થાય ત્યારે વાહનનું એન્જિન ........ જોઈએ. (ચાલુ રાખવું, બંધ કરવું, ઝડપી કરવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ એટલે સ્ટોપ, તો એન્જિન પણ કરવાનું સ્ટોપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્કૂટર, મોટરસાયકલ અને કાર જેવા વાહનોમાં બળતણ તરીકે ........ વપરાય છે. (ડીઝલ, પેટ્રોલ, કેરોસીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટ્રોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનાં વાહનોને 'પેટ' (Petrol) માં ઓછું ખાવાનું જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટ્રક અને ટ્રેક્ટર જેવા ભારે વાહનોમાં બળતણ તરીકે ........ વપરાય છે. (સીએનજી, પેટ્રોલ, ડીઝલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડીઝલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારે એટલે 'ડાન્સર' (Diesel) જેવું તાકાતવર બળતણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખનીજ તેલને શુદ્ધ કરવા માટે ........ માં મોકલવામાં આવે છે. (ડેરી, રિફાઇનરી, કાપડની મિલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિફાઇનરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિફાઇન કરવું એટલે શુદ્ધ કરવું, તેથી તેને રિફાઇનરી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સીએનજી (CNG) નું પૂરું નામ ........ નેચરલ ગેસ છે. (કોમન, કમ્પ્રેસ્ડ, ક્લીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કમ્પ્રેસ્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C ફોર Compressed (દબાવેલો વાયુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘરમાં રસોઈ બનાવવા માટે આપણે ........ ગેસના સિલિન્ડરનો ઉપયોગ કરીએ છીએ. (સીએનજી, પીએનજી, એલપીજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એલપીજી (LPG)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L ફોર 'લાલ' સિલિન્ડર જે રસોડામાં હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાહનોમાંથી નીકળતા ધુમાડાથી આપણને ........ ના રોગ થઈ શકે છે. (હાડકાં, ફેફસાં, ચામડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો શ્વાસમાં જાય, શ્વાસ એટલે ફેફસાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બળતણ બચાવવા માટે આપણે ........ મુસાફરીનો વધુ ઉપયોગ કરવો જોઈએ. (ખાનગી, જાહેર, વિમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બસમાં 50 લોકો જાય, એટલે 50 કારનું પેટ્રોલ બચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખનીજ તેલ પૃથ્વીના પેટાળમાં બનતા ........ વર્ષો લાગે છે. (સો, હજારો, લાખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાખો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ કુદરતી છે, તે મેગીની જેમ 2 મિનિટમાં ન બને, લાખો વર્ષ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સૂર્ય ઉર્જા એ ઉર્જાનો ........ સ્ત્રોત છે. (ખૂટી જાય તેવો, અખૂટ, મોંઘો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખૂટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય રોજ સવારે ફ્રી માં આવે છે અને ક્યારેય પૂરો થતો નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગામડામાં ઘણા લોકો રસોઈ બનાવવા માટે ........ અને લાકડાનો ઉપયોગ કરે છે. (કેરોસીન, છાણાં, કોલસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાણાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય-ભેંસના છાણમાંથી બને તે છાણાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પેટ્રોલિયમ માંથી ........ પણ મેળવવામાં આવે છે જે રસ્તા બનાવવા માટે વપરાય છે. (મીણ, ડામર, ગ્રીસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડામર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળો રસ્તો = કાળો ડામર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વધારે પડતા હોર્ન વગાડવાથી ........ પ્રદૂષણ ફેલાય છે. (હવા, અવાજ, જળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોર્ન સંભળાય, એટલે અવાજનું પ્રદૂષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખનીજ તેલ એ ........ સંપત્તિ છે. (કુદરતી, માનવસર્જિત, કૃત્રિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ જમીનમાંથી મળે છે, માણસ ફેક્ટરીમાં નથી બનાવતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચૂલા પર રસોઈ બનાવતી સ્ત્રીઓને ધુમાડાને કારણે ........ ની તકલીફ થઈ શકે છે. (પેટ, ઉધરસ, પગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉધરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો શ્વાસમાં જાય તો ઉધરસ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટ્રાફિકમાં ફસાયેલા હોઈએ ત્યારે ........ ની ઘણી સમસ્યાઓ જોવા મળે છે. (ભીડ, શાંતિ, ઠંડક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રાફિક એટલે જ વાહનોની ભીડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઝડપથી વાહન ચલાવવાથી ........ થવાની શક્યતા વધી જાય છે. (ફાયદો, અકસ્માત, બચત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકસ્માત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પીડમાં ગાડી એટલે સીધી અકસ્માતની વાડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શાળાઓ અને હોસ્પિટલો પાસે ........ વગાડવાની મનાઈ હોય છે. (બેલ, હોર્ન, રેડિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોર્ન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતિ રાખવા હોર્ન પર લાલ લીટી (No Horn) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કયું વાહન બળતણ વગર ચાલે છે? (કાર, સાયકલ, બસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયકલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકલમાં પગનું જોર જોઈએ, પેટ્રોલનું નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જમીનમાંથી નીકળેલું તેલ ........ હોય છે. (ગંધ વગરનું, દુર્ગંધવાળું, સુગંધિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુર્ગંધવાળું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચું તેલ કાદવ જેવું અને ગંધાતું હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિમાનમાં બળતણ તરીકે ........ વપરાય છે. (ડીઝલ, સ્પેશિયલ પેટ્રોલ, કેરોસીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પેશિયલ પેટ્રોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ઉડવા માટે ખાસ (Special) શક્તિ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વધારે ટ્રાફિક હોય ત્યારે રસ્તો ક્રોસ કરવા માટે ........ નો ઉપયોગ કરવો જોઈએ. (ઝેબ્રા ક્રોસિંગ, પુલ, સીડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝેબ્રા ક્રોસિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળી-ધોળી પટ્ટી એટલે રસ્તો ક્રોસ કરવાની સેફ્ટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સૂર્ય કુકરમાં રસોઈ બનાવવા ........ ઉર્જાનો ઉપયોગ થાય છે. (પવન, સૌર, વિદ્યુત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય = સૌર ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પેટ્રોલના ભાવમાં અવારનવાર ........ જોવા મળે છે. (ઘટાડો, વધારો, સ્થિરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ ઓછી હોય તેનો ભાવ હંમેશા વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ડ્રાય ક્લિનિંગ માટે ........ વપરાય છે. (પાણી, પેટ્રોલ, તેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટ્રોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડ્રાય એટલે કોરું, પેટ્રોલ જલ્દી ઉડી જાય એટલે ડ્રાય ક્લિનિંગમાં વપરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પેટ્રોલિયમ માંથી ........ તેલ પણ બનાવવામાં આવે છે જે યંત્રોમાં વપરાય છે. (ખાવાનું, વનસ્પતિ, લુબ્રિકન્ટ/ગ્રીસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લુબ્રિકન્ટ/ગ્રીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન લીસું ચાલે એ માટે ગ્રીસ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "........ ગેસથી ચાલતી બસો પ્રદૂષણ ઓછું ફેલાવે છે. (ડીઝલ, સીએનજી, કેરોસીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીએનજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીએનજી એટલે 'ક્લીન' બળતણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આપણે તેલનો દરેક ટીપેટીપું ........ જોઈએ. (બચાવવું, વેડફવું, વાપરવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચાવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ બચાવો, ભવિષ્ય બચાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પેટ્રોલિયમ ઉત્પાદનો પ્લાસ્ટિક અને ........ બનાવવામાં પણ વપરાય છે. (કાચ, રંગો, લોખંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખનીજ તેલના અનેક રૂપ, પ્લાસ્ટિક અને પેઇન્ટમાં એનો ધૂપ!</p></div>"
+    }
+  ]
+}
