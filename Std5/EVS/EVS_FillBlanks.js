@@ -2501,3 +2501,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "દીવાલ ઓળંગી લીધી",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અફસાના મનસૂરી _______ રમતની સ્ટાર ખેલાડી છે. (ક્રિકેટ, બાસ્કેટબોલ, કબડ્ડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાસ્કેટબોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફસાના 'બાસ્કેટ' માં બોલ નાખે છે એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નાગપાડા બાસ્કેટબોલ એસોસિએશન _______ શહેરમાં આવેલું છે. (અમદાવાદ, મુંબઈ, દિલ્હી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ 'નાગ' જેવડું મોટું શહેર છે એટલે નાગપાડા મુંબઈમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અફસાના જે વિસ્તારમાં રહે છે ત્યાં રમતનું મેદાન પહેલા _______ હતું. (બગીચો, કચરાનો ઢગલો, ખેતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચરાનો ઢગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો હટાવ્યો અને મેદાન બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બાસ્કેટબોલની રમતમાં જે જગ્યાએ રમત રમાય છે તેને _______ કહેવાય છે. (પીચ, કોર્ટ, રિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાસ્કેટબોલ હંમેશા 'કોર્ટ' (Court) માં રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બચ્ચુખાન પ્લેગ્રાઉન્ડનું નામ કોચ _______ ના નામ પરથી પાડવામાં આવ્યું હતું. (મુસ્તફા ખાન, સલીમ ખાન, સલમાન ખાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુસ્તફા ખાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોચનું સાચું નામ 'મુસ્તફા' હતું, પણ લોકો લાડથી 'બચ્ચુ' કહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "છોકરીઓ માટે ઘરકામ અને રસોઈની મર્યાદા એ એક પ્રકારની _______ દીવાલ છે. (પથ્થરની, સામાજિક, લોખંડની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાજિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજની ખોટી માન્યતા એટલે 'સામાજિક' દીવાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાસ્કેટબોલની ટીમમાં જીતવા માટે ખેલાડીઓમાં _______ હોવી ખૂબ જરૂરી છે. (સ્પર્ધા, એકતા, દુશ્મની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીમ ગેમમાં 'એકતા' (Team Spirit) જ જીતાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અફસાના તેની માતાને ઘરકામમાં મદદ કરવા ઉપરાંત બીજાના ઘરે _______ માં જતી હતી. (વાસણ માંજવા, કપડાં સીવવા, ભણાવવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાસણ માંજવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફસાનાએ ખૂબ મહેનત કરી છે, તે વાસણ માંજીને પણ ભણી અને રમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આફરીનના દાદી તેને રમવા જવાની ના પાડતા હતા કારણ કે તે એક _______ હતી. (નાની, બિમાર, છોકરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોકરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે જમાનામાં 'છોકરીઓ' ને બહાર રમવા દેતા નહોતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાસ્કેટબોલની રમતમાં જ્યારે કોઈ ખેલાડી બોલ બાસ્કેટમાં નાખે ત્યારે તેને _______ મળ્યો કહેવાય. (ગોલ, પોઈન્ટ, રન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોઈન્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાસ્કેટમાં બોલ જાય તો પોઈન્ટ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખુશનૂરના પિતાએ તેને રમવા માટે પ્રોત્સાહન આપ્યું કારણ કે તે પોતે પણ _______ હતા. (ડોક્ટર, સારા ખેલાડી, એન્જિનિયર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સારા ખેલાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પોતે રમ્યા હોય તે બીજાને રમવા પ્રોત્સાહન આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટીમમાં પોતાની વ્યક્તિગત રમત કરતા _______ ની રમત વધુ મહત્વની છે. (વિરોધી, ટીમ, કોચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' (હું) કરતા 'We' (અમે) વધુ મહત્વનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અફસાનાની ટીમમાં જીતનું મુખ્ય કારણ ખેલાડીઓ વચ્ચેનું _______ હતું. (ઝઘડો, સહકાર, પૈસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહકાર હોય તો જ દીવાલ ઓળંગી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બચ્ચુખાન મેદાન મુંબઈના _______ વિસ્તારમાં આવેલું છે. (જુહુ, અંધેરી, નાગપાડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાગપાડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણમાં 'નાગપાડા' ની જ વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રમત ગમતમાં છોકરા-છોકરીઓ વચ્ચે _______ હોવો જોઈએ નહીં. (સપોર્ટ, ભેદભાવ, હરીફાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભેદભાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત માટે ક્ષમતા જોઈએ, જાતિ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અફસાના અને તેની ટીમને હવે બીજી _______ ના ખેલાડીઓ તરીકે ઓળખવામાં આવે છે. (રાજ્ય, શહેર, જિલ્લા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જિલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગપાડાની ટીમ હવે જિલ્લા કક્ષાએ રમે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો આપણે કોઈ પણ કાર્ય પૂરા _______ થી કરીએ તો સફળતા જરૂર મળે છે. (આળસ, આત્મવિશ્વાસ, ડર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આત્મવિશ્વાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ ઓળંગવા 'કોન્ફિડન્સ' (આત્મવિશ્વાસ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મુસ્તફા ખાને આ મેદાનને બાળકો માટે રમવા લાયક બનાવવા _______ ઉપાડ્યું હતું. (પથ્થર, સાવરણી, બેટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાવરણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો સાફ કરવા સાવરણી જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઝરીનનું ઘર રમત ગમતના મેદાનની _______ આવેલું હતું. (બાજુમાં, સામે, પાછળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝરીન બારીમાંથી રમત જોતી હતી એટલે ઘર 'સામે' હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બાસ્કેટબોલમાં સફળ થવા માટે દરરોજ _______ કરવી જરૂરી છે. (વાતો, કસરત/પ્રેક્ટિસ, ઊંઘ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કસરત/પ્રેક્ટિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેક્ટિસ મેક્સ પરફેક્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અફસાના મનસૂરીએ _______ વર્ષની ઉંમરે બાસ્કેટબોલ રમવાનું શરૂ કર્યું હતું. (૧૧, ૧૫, ૧૮)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે એકડા અગિયાર, અફસાના તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રમત ગમતમાં વિજય મેળવવા માટે ટીમમાં _______ હોવો અનિવાર્ય છે. (કેપ્ટન, સ્કોરર, તાલમેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાલમેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાલમેલ એટલે એકબીજાને સમજવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નાગપાડા એ મુંબઈનો એક ગીચ _______ છે. (દરિયો, વસવાટ, બગીચો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસવાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગપાડા એ રહેવાની ગીચ જગ્યા (વસવાટ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "છોકરીઓને ઘરની બહાર રમવા ન દેવી એ એક _______ કુરીવાજ છે. (ધાર્મિક, સામાજિક, આર્થિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાજિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજના રિવાજ એટલે સામાજિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અફસાનાની ટીમે કઈ સ્પર્ધામાં ભાગ લીધો હતો? (રાજ્ય કક્ષા, આંતર-જિલ્લા, આંતરરાષ્ટ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતર-જિલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ જિલ્લાઓ વચ્ચેની સ્પર્ધા.</p></div>"
+    }
+  ]
+}
