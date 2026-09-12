@@ -2634,3 +2634,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "હવે અમે ક્યાં જઈએ?",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અનુજભાઈના મૂળ ગામનું નામ _______ હતું. (સિંદુરી, ખેડી, રામપુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી માટે જાણીતું ગામ એટલે 'ખે'ડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નદી પર _______ બાંધવાનો હોવાથી ખેડી ગામના લોકોએ ગામ છોડવું પડ્યું. (પુલ, બંધ, રસ્તો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીના પાણીને 'બંધ'વા માટે 'બંધ' (ડેમ) બનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખેડી ગામના લોકો જંગલમાંથી લાકડાં, ફળો અને _______ એકઠાં કરતા હતા. (ઘાસ, ઔષધિઓ, કોલસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔષધિઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ એ કુદરતી દવાખાનું છે, માટે ત્યાંથી 'ઔષધિ' મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુંબઈમાં અનુજભાઈ ફાટેલી _______ સાંધવાનું કામ કરતા હતા. (કપડાં, માછલી પકડવાની જાળી, પગરખાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલી પકડવાની જાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ દરિયાકિનારે છે, એટલે 'જાળી' સાંધવાનું કામ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખેડી ગામના લોકો એકબીજાને પોતાના _______ જેવું માનતા હતા. (સગા, પરિવાર, મહેમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં બધા હળીમળીને રહે એટલે એક 'પરિવાર' ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સિંદુરી ગામમાં અનુજભાઈને ખેતી માટે _______ જમીન મળી હતી. (ફળદ્રુપ, પથરાળ, રેતાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પથરાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંદુરીમાં બધું જ મુશ્કેલ હતું, એટલે જમીન પણ 'પથરાળ' (ખરાબ) મળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નદી પર મોટો બંધ બાંધવાથી જે તળાવ જેવું બને તેને _______ કહેવાય. (સરોવર, જળાશય, કુવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળાશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં જળનો આશય (સંગ્રહ) થાય તે 'જળાશય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સિંદુરી ગામમાં અનુજભાઈનું ઘર _______ ની છતવાળું હતું. (નળિયાં, ઘાસ, પતરાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પતરાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતરાં ગરમ થાય, સિંદુરીમાં ગરમી વધુ લાગતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અનુજભાઈના દીકરાનું નામ _______ હતું. (કૌશલ, નિતેશ, પંકજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૌશલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુજભાઈનો 'ક'ૌટુંબિક દીકરો એટલે 'ક'ૌશલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સિંદુરી ગામમાં બળતણ માટે લાકડા ન હોવાથી અનુજે _______ ના ટુકડા સળગાવવા પડતા. (કાચ, ટાયર/રબર, પ્લાસ્ટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાયર/રબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબીને કારણે 'રબર'ના જૂના ટાયર સળગાવી રસોઈ કરવી પડતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિંદુરી ગામના લોકો ખેડીથી આવેલા લોકોને _______ કહેતા હતા. (મિત્રો, વતની, બિનબુલાવેલા મહેમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિનબુલાવેલા મહેમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેને કોઈએ બોલાવ્યા ન હોય તે 'બિનબુલાવેલા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અનુજભાઈની દીકરીનું નામ _______ હતું. (મીના, જીયા, રીટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ-જીયા, જે અનુજની લાડકી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સિંદુરીમાં દવાખાનું તો હતું પણ ત્યાં _______ મળવા મુશ્કેલ હતા. (દવાઓ, ડોક્ટર, નર્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડોક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્પિટલ ખાલી હોય પણ 'ડોક્ટર' વગર નકામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેડી ગામમાં લોકો નદીના પાણીનો _______ અવાજ સાંભળતા. (ગડગડાટ, ખળખળ, ટપટપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખળખળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી હંમેશા 'ખળખળ' વહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખેડી ગામમાં બાળકો વડીલો પાસેથી _______ ના રમકડાં બનાવતા શીખતા. (પ્લાસ્ટિક, લોખંડ, લાકડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાકડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં લાકડું મફત મળે, એટલે 'લાકડા'ના જ રમકડાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શહેરમાં અનુજભાઈને _______ માટે પણ પૈસા ચૂકવવા પડતા હતા. (પીવાના પાણી, હવા, સૂર્યપ્રકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીવાના પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડે નદીનું પાણી મફત, શહેરમાં 'પાણી' વેચાતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સિંદુરીમાં વીજળી તો હતી પણ તે _______ જ આવતી હતી. (થોડો સમય, આખો દિવસ, રાત્રે જ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થોડો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી વ્યવસ્થા ઘણીવાર 'થોડો સમય' જ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ખેડી ગામ ચારે બાજુથી ઘેરા લીલા _______ થી ઘેરાયેલું હતું. (શહેરો, ખેતરો, જંગલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડી પહાડોની વચ્ચે હતું એટલે ત્યાં 'જંગલો' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અનુજભાઈનું સપનું હતું કે તેમના બાળકો _______ માં સારું ભણે. (શાળા, ખેતર, કારખાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણવાનું કામ 'શાળા' માં જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સિંદુરીમાં કંઈપણ ખરીદવા માટે _______ ની જરૂર પડતી હતી. (પ્રેમની, પૈસાની, ઓળખાણની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૈસાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવી જગ્યાએ બધું 'પૈસા' થી જ મળે, ત્યાં જંગલ જેવી સુવિધા મફત ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખેડીમાં તહેવાર સમયે લોકો ભેગા થઈ _______ વગાડતા અને નાચતા. (ગિટાર, ઢોલ, હાર્મોનિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામઠી ડાન્સ માટે 'ઢોલ' જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અનુજભાઈને ખેડી ગામ છોડતી વખતે તેના _______ ના ઘરની યાદ આવતી હતી. (કાકા, વડીલો/પૂર્વજો, પાડોશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વડીલો/પૂર્વજો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંશ પરંપરાગત ઘર એ 'પૂર્વજો'નું કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મુંબઈમાં અનુજભાઈ રાત્રે નદી અને _______ ના સપના જોતા હતા. (શહેર, ખેડી ગામ, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ ગમે ત્યાં જાય, પોતાનું 'ગામ' ક્યારેય ભૂલતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જંગલમાંથી એકઠાં કરેલા મધ અને માછલીઓ વેચી ખેડીના લોકો _______ ખરીદતા. (મીઠું અને તેલ, ગાડી, મોંઘા કપડાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠું અને તેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈની પાયાની જરૂરિયાત એટલે 'મીઠું અને તેલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સિંદુરી ગામમાં અનુજને જે ખેતર મળ્યું હતું તેમાં _______ ઉગાડવું મુશ્કેલ હતું. (પાક, ઘાસ, કાંટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથરાળ જમીન પર 'પાક' (ખેતી) ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ખેડી ગામમાં પક્ષીઓનો _______ સંભળાતો હતો. (ઘોંઘાટ, કલરવ, રાડારાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલરવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓના અવાજને ગુજરાતીમાં 'કલરવ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ખેડી ગામના લોકો હળીમળીને _______ કરતા હતા. (ખેતી, લડાઈ, ચોરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં મુખ્ય વ્યવસાય 'ખેતી' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બંધ બાંધ્યા પછી ખેડી ગામનું નામ માત્ર _______ માં જ રહી ગયું. નકશામાં, યાદોમાં, પુસ્તકોમાં (યાદોમાં, રસ્તામાં, હવામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યાદોમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સ્થળ ડૂબી જાય તે માત્ર 'યાદ'માં જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મુંબઈના ઘોંઘાટમાં અનુજભાઈને _______ ની શાંતિની ખોટ વર્તાતી હતી. (શાળા, ગામડા, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેર એટલે ઘોંઘાટ અને ગામડું એટલે 'શાંતિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અનુજભાઈનું જીવન _______ અને સ્થળાંતરના સંઘર્ષની વાર્તા છે. (આનંદ, વિસ્થાપન, રમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિસ્થાપન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જગ્યાએથી બીજી જગ્યાએ પરાણે જવું તેને 'વિસ્થાપન' કહેવાય.</p></div>"
+    }
+  ]
+}
