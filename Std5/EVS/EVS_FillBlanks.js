@@ -3033,3 +3033,161 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "જેવા પિતા, તેવી દીકરી",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આયુષીને તેના પિતાની જેમ જોરથી ______ આવે છે. (હસવું, છીંક, ઉધરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છીંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીંક એ વારસાગત લક્ષણ છે જે પિતા કે પરિવારના સભ્યો જેવું હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગ્રેગર મેન્ડલે ______ ના છોડ પર અનેક પ્રયોગો કર્યા હતા. (મગ, વટાણા, તુવેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વટાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = વટાણા (M-V ટ્રીક) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પોલિયો એ વાયરસથી થતો રોગ છે, તે ______ માં મળતો નથી. (ભેટમાં, વારસામાં, દાનમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારસામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિયો વાયરસથી થાય, મમ્મી-પપ્પાથી ન થાય (વારસાગત નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગ્રેગર મેન્ડલનો જન્મ ઑસ્ટ્રિયાના ગરીબ ______ પરિવારમાં થયો હતો. (ખેડૂત, વેપારી, વણકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા ઉગાડવા માટે ખેડૂત હોવું જરૂરી છે, એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભૂતિના વાળ તેની ______ જેવા વાંકડિયા છે. (મમ્મી, નાની, માસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસાળ પક્ષ (મમ્મીના મમ્મી) ના લક્ષણો પણ બાળકમાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વટાણાના છોડમાં આવતી પછીની પેઢીના બીજ કાં તો લીલા હોય અથવા ______ હોય છે. (પીળા, કાળા, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણાની પેઢી = લીલા અથવા પીળા (મિશ્રણ નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીલમની માસીની દીકરી કિરણ નીલમની ______ થાય. (બહેન, ફોઈ, મમ્મી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસીની દીકરી એટલે માસિયાઈ બહેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગ્રેગર મેન્ડલે સતત ______ વર્ષ સુધી વટાણાના છોડ પર પ્રયોગો કર્યા હતા. (પાંચ, સાત, દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ સાહેબે 'સાત' વર્ષ સુધી 'સાથ' આપ્યો વટાણાને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "માતા-પિતા તરફથી મળતા લક્ષણોને ______ લક્ષણો કહેવાય છે. (શારીરિક, વારસાગત, માનસિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારસાગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી-પપ્પા પાસેથી જે મળે તે વારસો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વટાણાના બીજ કાં તો ખરબચડા હોય છે અથવા ______ હોય છે. (ગોળ, લીસા, લાંબા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલના વટાણા: ખરબચડા VS લીસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દૂરના સગાના સંતાનો પણ એકબીજાને ______ હોઈ શકે છે. (મળતા આવતા, વિરોધી, અજાણ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મળતા આવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીનો સંબંધ હોય તો ચહેરો મળી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જોડિયા બાળકો દેખાવમાં એકદમ સમાન હોય ત્યારે તેમને ઓળખવા ______ છે. (સરળ, મુશ્કેલ, અશક્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુશ્કેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકસરખા ચહેરા હોય તો મમ્મી પણ કન્ફ્યુઝ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આપણી કેટલીક ટેવો આપણને આપણા ______ માંથી મળે છે. (શાળા, પરિવાર, મિત્રો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કાર અને ટેવો હંમેશા પરિવારમાંથી જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગ્રેગર મેન્ડલે વટાણાના કુલ ______ છોડ પર પ્રયોગો કર્યા હતા. (૨૦૦૦૦, ૨૮૦૦૦, ૩૦૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૮૦૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલની મહેનત = ૨૮ હજાર છોડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તમારા પિતાના નાના ભાઈ તમારા ______ થાય. (મામા, કાકા, માસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પાના ભાઈ = કાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તમારી મમ્મીના બહેન તમારા ______ થાય. (માસી, ફોઈ, કાકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા જેવી તે માસી (મમ્મીની બહેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કેટલીક લાક્ષણિકતાઓ આપણને વારસામાં મળે છે, જ્યારે કેટલીક આપણે ______ માંથી શીખીએ છીએ. (પુસ્તકો, વાતાવરણ, સપના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારસો + વાતાવરણ = આપણું વ્યક્તિત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આંખનો રંગ, ચામડીનો રંગ અને નાકનો આકાર એ ______ લક્ષણો છે. (કૃત્રિમ, વારસાગત, કેળવેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારસાગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જન્મથી ફિક્સ હોય તે વારસાગત લક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મેન્ડલ મઠના બગીચામાં સાધુ તરીકે ______ રહ્યા હતા. (પાંચ, છ, સાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રયોગના વર્ષ અને રહેવાના વર્ષ બંને 7 જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તમારા પપ્પાના મમ્મી તમારા ______ થાય. (નાની, દાદી, માસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પાના મમ્મી-પપ્પા એટલે દાદા-દાદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શીતલના કાન તેના ______ જેવા છે. (મમ્મી, પપ્પા, ભાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પપ્પા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણ મુજબ શીતલના કાન તેના પિતા પર ગયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વટાણાના છોડમાં આવનારી પેઢીમાં ______ વટાણાનું પ્રમાણ વધારે હોય છે. (પીળા, લીલા, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલના પ્રયોગમાં પીળા વટાણા પ્રભાવી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીલમના પગની આંગળીઓ તેની ______ જેવી લાંબી છે. (મમ્મી, નાની, દાદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની (મમ્મીની મમ્મી) ના લક્ષણો નીલમમાં જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પોલિયો વિરોધી રસી આપવા માટે સરકાર દ્વારા ______ અભિયાન ચલાવવામાં આવે છે. (સ્વચ્છ ભારત, પલ્સ પોલિયો, બેટી બચાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પલ્સ પોલિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘દો બૂંદ જિંદગી કી’ - પલ્સ પોલિયો અભિયાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તમારા મમ્મીના ભાઈ તમારા ______ થાય. (માસા, મામા, કાકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મામા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મીના ભાઈ = મામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વટાણાના છોડની નવી પેઢીમાં બીજ લીસા અને ખરબચડાનું ______ હોતું નથી. (મિશ્રણ, અલગપણું, જથ્થો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિશ્રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષણો કાં તો લીસા હોય કાં તો ખરબચડા, વચ્ચેનું કાંઈ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગ્રેગર મેન્ડલના પિતા ખેતી કામ કરતા હોવાથી તેમને ______ માં ખૂબ રસ હતો. (રમતગમત, પ્રકૃતિ, સંગીત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂત પુત્રને છોડ અને કુદરત (પ્રકૃતિ) સાથે પ્રેમ હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીલમના પિતા અને કિરણના પિતા ______ ભાઈઓ છે. (સગા, પિતરાઈ, માસિયાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતરાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાના ભાઈના દીકરા = પિતરાઈ ભાઈઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આપણો અવાજ આપણા ______ જેવો હોઈ શકે છે. (શિક્ષક, માતા-પિતા, મિત્રો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માતા-પિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોન પર અવાજ સાંભળીને લોકો કહે છે ને - ‘તારા પપ્પા બોલે છે?’</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગ્રેગર મેન્ડલને યુનિવર્સિટીમાં ______ ની પરીક્ષામાં નાપાસ થવું પડ્યું હતું. (વિજ્ઞાન, ગણિત, વિષયની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજ્ઞાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વિષયમાં નાપાસ થયા, તેમાં જ દુનિયાના મહાન વૈજ્ઞાનિક બન્યા!</p></div>"
+    }
+  ]
+}
