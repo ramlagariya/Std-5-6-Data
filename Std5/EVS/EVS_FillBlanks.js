@@ -3191,3 +3191,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "ફરી ઉપડ્યા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધનુના ઘરે બધા સંબંધીઓ ______ નો તહેવાર ઉજવવા આવ્યા હતા. (દિવાળી, દશેરા, હોળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દશેરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધનુના ઘરે 'દ' પરથી 'દશેરા' ની ધામધૂમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દશેરાના દિવસે ધનુના ઘરે જમવામાં લોટ અને ગોળની ______ બનાવવામાં આવી હતી. (લાપસી, પુરણપોળી, સુખડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુરણપોળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ-લોટનું મિશ્રણ એટલે ગળી ગળી 'પુરણપોળી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પુરણપોળીની સાથે મોંમાં પાણી આવી જાય તેવી તીખી ______ બનાવવામાં આવી હતી. (કઢી, ચટણી, દાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઢી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળી પુરણપોળી સાથે તીખી 'કઢી' ની જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુકાદમ એ શેરડીની ______ નો પ્રતિનિધિ (એજન્ટ) છે. (દુકાન, ફેક્ટરી, મંડળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેક્ટરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુકાદમ = ફેક્ટરીનો માણસ જે મજૂરો લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મુકાદમ મજૂરોને તેમના ખર્ચ માટે ______ ઉછીના આપે છે. (અનાજ, કપડાં, પૈસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૈસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત સમયે મુકાદમ 'પૈસા' આપીને મદદ કરે (પછી કામ કરાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ધનુનો પરિવાર આગામી ______ મહિના સુધી ગામથી દૂર રહેશે. (ત્રણ, છ, બાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ વગરના અડધા વર્ષના 'છ' મહિના બહાર રહેવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધનુના પિતા તેમના પરિવારમાં સૌથી ______ હોવાથી બધા તહેવારો તેમના ઘરે ઉજવાય છે. (નાના, આળસુ, મોટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના 'મોટા' વડીલના ઘરે જ બધા ભેગા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ધનુના ગામના લોકો વરસાદ આવે ત્યાં સુધી ______ ના ખેતરોમાં કામ કરે છે. (ગરીબ ખેડૂતો, મધ્યમ ખેડૂતો, મોટા ખેડૂતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટા ખેડૂતો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ હંમેશા 'મોટા' જમીનદારો પાસે જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વરસાદ વિના ખેતી કરવા માટે ______ ની સગવડ હોવી જરૂરી છે. (સિંચાઈ, ખાતર, બિયારણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ નથી? તો નહેર કે કૂવાનું પાણી (સિંચાઈ) વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શેરડીના ખેતરની નજીક ધનુનો પરિવાર ______ ના પાંદડામાંથી બનેલી ઝૂંપડીમાં રહે છે. (કેળ, શેરડી, નાળિયેરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું ખેતર હોય તેના જ પાંદડાનું ઘર (ઝૂંપડી) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધનુના મામી ઇચ્છતા હતા કે ધનુ ભણી-ગણીને ______ બને. (મજૂર, મોટો માણસ, મુકાદમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટો માણસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે ધનુ, તો જ બનશે 'મોટો માણસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ત્રીઓ શેરડીના ______ બાંધવાનું કામ કરતી હતી. (હાર, ભારીઓ, ઢગલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી શેરડી ભેગી કરીને તેની 'ભારી' બાંધવામાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ધનુના પિતા ફેક્ટરીમાં શેરડીનું ______ કરાવવા જતા હતા. (વેચાણ, વજન, ધોવાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/strong> વજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેક્ટરીમાં પહોંચતા જ સૌથી પહેલા 'વજન' ચેક થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જ્યારે ધનુનો પરિવાર બીજા ગામે જતો ત્યારે ધનુની ______ ઘરે જ રહેતી હતી. (મામી, દાદી, મમ્મી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલ દાદી અને બીમાર કાકી ઘરે જ રોકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શેરડીના વજન પછી ફેક્ટરીમાંથી મજૂરોને જે પહોંચ આપવામાં આવે છે તેને ______ કહે છે. (ટિકિટ, રસીદ, ચિઠ્ઠી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસીદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ર-પરથી 'રસીદ' એ હિસાબ માટેની પહોંચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્યારે ધનુ તેના પરિવાર સાથે બહાર જતો ત્યારે તેનું ______ બગડતું હતું. (ખાવાનું, રમવાનું, ભણવાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભણવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામ છોડો એટલે નિશાળ છૂટે અને 'ભણવાનું' બગડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શેરડી કાપવામાં ધનુ તેના ______ ને મદદ કરતો હતો. (પિતા, ભાઈ, મિત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પા સાથે કામમાં હાથ વટાવવો એ ધનુની આદત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ધનુની મામી ધનુ માટે નવા જૂતા, પેન્સિલ અને ______ લાવ્યા હતા. (નોટબુક, રમકડાં, કપડાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નોટબુક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણવાની વસ્તુઓ: પેન્સિલ અને 'નોટબુક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધનુના પિતા ખેતી અને માલસામાન ફેરવવા માટે ______ નો ઉપયોગ કરતા હતા. (બળદગાડા, ટ્રેક્ટર, રિક્ષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળદગાડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતનું પરંપરાગત વાહન એટલે 'બળદગાડું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મુકાદમ મજૂરો પાસેના ______ ની ગણતરી રસીદ સાથે કરી આપે છે. (સામાન, દેવા/લોન, કપડાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેવા/લોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિસાબ હંમેશા લીધેલા 'પૈસા' (દેવા) નો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શેરડીના પાંદડામાંથી બનાવેલી ઝૂંપડીઓને ______ પણ કહેવાય છે. (કોપલી, ખોરડું, બંગલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોપલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીના પાંદડાનું કામચલાઉ ઘર એટલે 'કોપલી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધનુના ગામમાં જે લોકો પાસે પોતાની જમીન નથી, તેઓ ______ છે. (માલિક, ભૂમિહીન ખેડૂત, મુકાદમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમિહીન ખેડૂત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન નથી? તો તેને 'ભૂમિહીન' (ભૂમિ વગરના) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધનુના કાકી હજી હમણાં જ ______ હોવાથી તેને ઘરે જ રહેવાનું હતું. (બીમાર, પરણેલા, ભણેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીમાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બીમાર' વ્યક્તિ લાંબી મુસાફરી કરી શકે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શેરડીના રસમાંથી શું બને છે? (મધ, ગોળ, દૂધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી ગળી હોય, તેમાંથી 'ગોળ' અને 'ખાંડ' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધનુના ગામમાં વરસાદ કયા મહિનામાં શરૂ થાય છે? (જાન્યુઆરી, જૂન, ઓક્ટોબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં ચોમાસું એટલે 'જૂન' મહિનો.</p></div>"
+    }
+  ]
+}
