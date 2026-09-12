@@ -2368,3 +2368,136 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સ્વચ્છતા આપણું કામ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજી કહેતા કે, દરેક વ્યક્તિએ પોતાનું કામ ____ જ કરવું જોઈએ. (જાતે, બીજા પાસે, નોકર પાસે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = સ્વાવલંબન (પોતાનું કામ પોતે - જાતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીના સાથી મહાદેવભાઈ દેસાઈના પુત્રનું નામ ____ હતું. (નારાયણ, નિતેશ, વિમલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નારાયણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવના પુત્ર 'નારાયણ' (ભગવાનના બે નામ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નારાયણ (બાબલા) એ જ્યારે સાબરમતી આશ્રમમાં હતા, ત્યારે તેમની ઉંમર ____ વર્ષની હતી. (૧૧, ૮, ૧૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે એકડા અગિયાર, બાબલાની ઉંમર તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતનું બંધારણ ____ ના નેતૃત્વ હેઠળ તૈયાર કરવામાં આવ્યું હતું. (ગાંધીજી, ડો. ભીમરાવ આંબેડકર, સરદાર પટેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડો. ભીમરાવ આંબેડકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણના ઘડવૈયા = બાબાસાહેબ આંબેડકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાંધીજીના આશ્રમમાં આવતા દરેક મહેમાને ____ સાફ કરવાનું કામ શીખવું પડતું હતું. (રસોડું, શૌચાલય, બગીચો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૌચાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતાની શરૂઆત શૌચાલયથી - ગાંધીજીનો નિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નારાયણભાઈ દેસાઈને નાનપણમાં બધા ____ નામથી બોલાવતા હતા. (કાનિયો, બાબલો, લાલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારાયણનું હુલામણું નામ 'બાબલો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગાંધીજી અસ્પૃશ્યતા નિવારણ માટે ____ રાજ્યના વર્ધા શહેર પાસેના આશ્રમમાં ગયા હતા. (ગુજરાત, મહારાષ્ટ્ર, રાજસ્થાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાષ્ટ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધા આશ્રમ = મહારાષ્ટ્ર (મહારાષ્ટ્રમાં સેવા ગ્રામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાજમાં જે લોકો સફાઈનું કામ કરે છે તેમની સાથે થતો ____ દૂર કરવો જોઈએ. (અન્યાય, ન્યાય, સન્માન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્યાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોટું કામ = અન્યાય, તેને દૂર કરવો એ જ ન્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શૌચાલય સાફ કરવા માટે પહેલાના સમયમાં ____ નીચે રાખવામાં આવતી હતી. (ડોલ, ટોપલી, થેલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટોપલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની પદ્ધતિ = ગંદકી ઉપાડવા માટે ટોપલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીના મતે સ્વચ્છતા એ આપણી ____ છે. (મજબૂરી, ફરજ/કામ, મજાક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફરજ/કામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા આપણું 'કામ' (પ્રકરણનું નામ જ યાદ રાખો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બાબાસાહેબ આંબેડકર બાળપણમાં ____ ગયા ત્યારે તેમને અસ્પૃશ્યતાનો કડવો અનુભવ થયો હતો. (કોરેગાંવ, સુરત, દિલ્હી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોરેગાંવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંબેડકર + ટ્રેન મુસાફરી = કોરેગાંવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સફાઈ કામદારો પ્રત્યે આપણે ____ રાખવી જોઈએ. (અધમતા, સહાનુભૂતિ, નફરત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહાનુભૂતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવતા રાખવી એટલે સહાનુભૂતિ દાખવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાબરમતી આશ્રમ ____ શહેરમાં આવેલો છે. (અમદાવાદ, વડોદરા, રાજકોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમદાવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબરમતી નદી ક્યાં? અમદાવાદમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજી કહેતા કે 'કોઈ પણ કામ ____ નથી.' (નાનું, મોટું, અઘરું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ કોઈ નાનું નથી, માત્ર દ્રષ્ટિ બદલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભીમરાવ આંબેડકરના પિતાજી ____ માં નોકરી કરતા હતા. (રેલ્વે, લશ્કરી શાળા, બેંક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લશ્કરી શાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુશાસન ક્યાં હોય? લશ્કરમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "____ ગંદકી સાફ ન કરે તો આપણી આસપાસ દુર્ગંધ ફેલાય. (સફાઈ કામદારો, શિક્ષકો, ડોક્ટરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફાઈ કામદારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફાઈ = સફાઈ કામદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાબરમતી આશ્રમમાં શૌચાલયની ગંદકી ____ દ્વારા ઉપાડીને લઈ જવી પડતી હતી. (હાથ, મશીન, ટ્રેક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાના સમયમાં મેન્યુઅલ (હાથથી) કામ થતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીના મતે અસ્પૃશ્યતા નિવારણ માટે ____ પ્રયત્નોની જરૂર છે. (ખૂબ જ મહેનત અને, થોડા, કોઈ પણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ મહેનત અને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ષો જૂની કુપ્રથા દૂર કરવા 'ખૂબ મહેનત' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બાબાસાહેબ આંબેડકર નાનપણમાં ____ ને વાળ કાપતા જોઈને આશ્ચર્ય પામ્યા હતા. (દરજી, વાણંદ, લુહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાણંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાળ કાપવાનું કામ = વાણંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગંદકી સાફ કરવી એ કોઈ એક ____ ની જ જવાબદારી નથી. (જ્ઞાતિ, કુટુંબ, વ્યક્તિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્પૃશ્યતા વિરુદ્ધનો વિચાર - કોઈ ખાસ જ્ઞાતિનું કામ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વર્ધા પાસેના ગામમાં જ્યારે ગાંધીજી રોકાયા, ત્યારે ત્યાં ____ ની ખૂબ ગંદકી હતી. (કચરા, શૌચાલય, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૌચાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો મુખ્ય મુદ્દો જ શૌચાલય સફાઈ અને ગરિમા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બાબા સાહેબ આંબેડકરનું આખું નામ ____ હતું. (ભીમરાવ રામજી આંબેડકર, શિવાજી આંબેડકર, રામલાલ આંબેડકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીમરાવ રામજી આંબેડકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીમ જેવા શક્તિશાળી 'ભીમરાવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લોકોમાં સ્વચ્છતા પ્રત્યે જાગૃતિ લાવવા માટે ____ એ પોતાનું જીવન સમર્પિત કર્યું હતું. (ગાંધીજી, નહેરુ, અકબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતાના સાચા આગ્રહી એટલે આપણા બાપુ (ગાંધીજી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નારાયણભાઈ દેસાઈએ આખી જિંદગી ગાંધીજીના ____ પર કામ કર્યું. (વિચારો, જમીન, મકાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિચારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાન માણસોના 'વિચારો' જ અમર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આધુનિક સમયમાં શૌચાલયની સફાઈ માટે ____ ની સુવિધા વધી છે. (ગટર અને પાણી, ડોલ, રેતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગટર અને પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળ વાટે પાણી અને પાઈપ વાટે ગટર - આધુનિક સફાઈ.</p></div>"
+    }
+  ]
+}
