@@ -2792,3 +2792,111 @@ var Std5_EVS_FillBlanks = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "બીજ કહે છે, ખેડૂતની વાર્તા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બાજરીના નાના બીજનું રહેઠાણ જૂના સમયમાં ______ ના લાકડાની પેટી હતી. (સીસમ, લીમડા, બાવળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીમડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીમડો કડવો હોય એટલે જીવડાં પેટીને અડે નહીં, તેથી લીમડાની પેટી વપરાતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પહેલાના સમયમાં સૂકવેલી ______ ને માટીનો લેપ લગાવી તેમાં બીજ રાખવામાં આવતા હતા. (દૂધી, કારેલા, કોળું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધી લાંબી અને અંદરથી પોલી હોય, એટલે તેમાં 'બીજ' આરામથી રહી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અનાજને જીવજંતુઓથી બચાવવા માટે દામજીભાઈ તેમાં ______ ના પાન મૂકતા હતા. (તુલસી, આસોપાલવ, લીમડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીમડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીમડો = એન્ટીસેપ્ટિક (જીવજંતુનો દુશ્મન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શિયાળામાં તાજા શાકભાજીમાં મસાલા ભરી તેને માટલામાં ભરી રાંધવામાં આવતા શાકને ______ કહેવાય છે. (ભરેલા શાક, ઊંધિયું, સંભારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંધિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટલું 'ઊંધું' કરીને પકવાય એટલે તેનું નામ 'ઊંધિયું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઊંધિયું (ઉંબાળિયું) રાંધવા માટે માટલાને ગરમ કોલસામાં ______ રાખવામાં આવતું હતું. (સીધું, ઊંધું, આડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંધું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંધિયું શબ્દ જ 'ઊંધું' પરથી આવ્યો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઊંધિયાની સાથે માટીના ચૂલા પર બનાવેલા ______ ના રોટલા ખાવાની મજા આવે છે. (ઘઉં, બાજરી, મકાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનો મુખ્ય હીરો 'બાજરીનું બીજ' છે, એટલે જવાબ પણ બાજરી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હસમુખે ખેતી કરવા માટે બળદોની જગ્યાએ ______ ખરીદ્યું. (ટ્રેક્ટર, રિક્ષા, ટ્રક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રેક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક ખેતી = ટ્રેક્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જમીન ખેડવા માટે પહેલાના સમયમાં ______ નો ઉપયોગ થતો હતો. (હળ, થ્રેશર, પંજેઠી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની રીત = બળદ + હળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હસમુખ ખેતરમાં કુદરતી ખાતરને બદલે મોંઘા ______ ખાતરનો ઉપયોગ કરવા લાગ્યો. (દેશી, ગળતિયું, કૃત્રિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃત્રિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘું અને ફેક્ટરીમાં બને તે 'કૃત્રિમ' ખાતર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાજરીના ડુંડામાંથી દાણા અલગ કરવા માટે પહેલાના સમયમાં ______ નો ઉપયોગ થતો હતો. (ઓખળી, ગરણી, ચારણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓખળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓખળીમાં ખાંડીને દાણા છૂટા પાડવામાં આવતા હતા (જૂની રીત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હાલમાં ડુંડામાંથી દાણા અલગ કરવા માટે ______ નો ઉપયોગ થાય છે. (ટ્રેક્ટર, થ્રેશર, હળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થ્રેશર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થ્રેશ' (Thresh) એટલે છૂટું પાડવું, તેના પરથી 'થ્રેશર' મશીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દામજીભાઈના સમયમાં ખેડૂતો એકબીજાની મદદ કરી ______ રીતે ખેતી કરતા હતા. (સહકારી, ખાનગી, હરિફાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથ-સહકાર = સહકારી રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હસમુખના પુત્રનું નામ ______ હતું. (પરેશ, પરેશભાઈ, પ્રફુલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજી (દાદા) -> હસમુખ (પિતા) -> પરેશ (પુત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પરેશ ખેતી છોડીને હવે ______ તરીકે કામ કરે છે. (શિક્ષક, ટ્રક ડ્રાઈવર, ડોક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રક ડ્રાઈવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેવું વધી ગયું એટલે પરેશ ખેતી મૂકીને 'સ્ટીયરિંગ' પકડી લીધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જમીનમાં એકનો એક પાક વારંવાર લેવાથી જમીનની ______ શક્તિ ઘટે છે. (ઉત્પાદન, ફળદ્રુપતા, ખેડાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફળદ્રુપતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન થાકી જાય એટલે તેની 'શક્તિ' (ફળદ્રુપતા) ઓછી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હસમુખ ખેતરમાંથી થયેલી આવકમાંથી ______ ચૂકવતો હતો. (ટેક્સ, બેંકનું દેવું, પગાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેંકનું દેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોન લીધી હોય એટલે લોનના હપ્તા જ ભરવા પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગુજરાતના વંકાનેર ગામમાં ______ નું બીજ રહેતું હતું. (ઘઉં, બાજરી, મકાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બીજની વાર્તા' બાજરીથી જ શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પહેલાના સમયમાં ખેડૂતો સારા પાકમાંથી કેટલાક બીજ આગામી વર્ષ માટે ______ રાખતા હતા. (ફેંકી, સાચવીને, વેચી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચવીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચવેલા બીજ એ જ આવતા વર્ષનો પાક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દામજીભાઈના પુત્ર હસમુખે ખેતીમાં અનેક ______ લાવ્યા. (સુધારા, ફેરફાર, બિગાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેરફાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસમુખે જૂની પદ્ધતિ બદલીને 'નવીનતા' (ફેરફાર) આણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કૃત્રિમ ખાતર અને વધુ પડતા પાણીના ઉપયોગથી જમીન ______ બને છે. (નરમ, પોચી, બિનફળદ્રુપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિનફળદ્રુપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિશય કેમિકલ જમીનને 'ઝેર' સમાન લાગે એટલે તે શક્તિ ગુમાવે.</p></div>"
+    }
+  ]
+}
