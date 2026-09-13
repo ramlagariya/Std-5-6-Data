@@ -1138,3 +1138,161 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "જળ એ જ જીવન",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગડસીસર તળાવ જેસલમેરના રાજા ગડસીએ 650 વર્ષ પહેલાં બનાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગડસી + સર = ગડસીસર (સર એટલે તળાવ). રાજાના નામ પરથી જ તળાવનું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગડસીસર તળાવમાં એકબીજા સાથે જોડાયેલા કુલ 12 તળાવો હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ગડસીસર તળાવમાં એકબીજા સાથે જોડાયેલા કુલ 9 તળાવો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'નવ' રત્ન જેવું 'નવ' તળાવનું નેટવર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અલ-બિરુની નામનો મુસાફર ઉઝબેકિસ્તાનથી ભારત આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અલ-બિરુની અને 'ઉ' થી ઉઝબેકિસ્તાન (સ્વર સાથે સ્વર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાવ એટલે પગથિયાં વાળો કૂવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવ = જેની અંદર પાણી સુધી પહોંચવા 'પગથિયાં' ઉતરવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રાજસ્થાનમાં વરસાદ ખૂબ જ વધારે પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: રાજસ્થાન રણ પ્રદેશ હોવાથી ત્યાં વરસાદ ખૂબ જ ઓછો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ = રેતી = ઓછો વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જૂના જમાનામાં મુસાફરો માટે પીવાના પાણીની 'પબ' ની વ્યવસ્થા કરવામાં આવતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પબ = પાણી બચાવતી/પીવડાવતી જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચામડાની કોથળીમાં પાણી ભરીને લઈ જવામાં આવે તેને 'મશક' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશક એટલે મજબૂત ચામડાની બેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉત્તરાખંડમાં નવી પરણેલી વહુ નદી કે ઝરણાં પાસે જઈને પગે લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ જ દેવ છે, તેથી તેને પૂજવાની પરંપરા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જમીન પર પડેલા વરસાદનું પાણી જમીનમાં ઉતરીને કૂવા કે વાવ સુધી પહોંચે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન એક સ્પંજ જેવી છે જે પાણી શોષી લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટાંકીમાં વરસાદનું પાણી સંગ્રહ કરવા માટે ધાબા પર પાઇપ લગાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાબું = કેચમેન્ટ એરિયા, પાઇપ = રસ્તો, ટાંકી = સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તરુણ ભારત સંઘ નામની સંસ્થાએ દડકીમાઈને પાણીની સમસ્યામાં મદદ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડકીમાઈ + તરુણ ભારત સંઘ = પાણીનું સમાધાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અલ-બિરુનીએ લખ્યું હતું કે ભારતના લોકો તળાવ બનાવવામાં કુશળ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: અલ-બિરુનીએ ભારતના લોકોના તળાવ બનાવવાની કળાના ખૂબ જ વખાણ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદેશી મુસાફરો ભારતની ભવ્ય કળા જોઈને આશ્ચર્યચકિત થઈ જતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પહેલાના સમયમાં લોકો સમૂહમાં પાણીની વ્યવસ્થાને પૂણ્યનું કામ માનતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ્યાને પાણી પીવડાવવું એ સૌથી મોટું પૂણ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જોધપુરની વાવ વર્ષ 1986 માં જ્યારે ભયંકર દુકાળ પડ્યો ત્યારે સાફ કરવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલી આવે ત્યારે જ જૂની સંપત્તિ (વાવ) યાદ આવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટાંકા (Underground Tank) માં વરસાદનું પાણી વર્ષભર સંગ્રહિત કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાંકો એ પાણીની 'બેંક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાણી એ કુદરતી સંપત્તિ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પાણી એ અમૂલ્ય કુદરતી સંપત્તિ છે જે કુદરત તરફથી ભેટ મળી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઈશ્વરે આપ્યું અને આપણે બનાવી ન શકીએ તે કુદરતી સંપત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દડકીમાઈ રાજસ્થાનના અલવર જિલ્લાના ગામમાં રહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ - અલવર , ર - રાજસ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તળાવ ભરાય ત્યારે તેની ઉજવણી કરવામાં આવે છે, તેને 'મેઘલાડુ' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘ (વરસાદ) ના આગમન પર વહેંચાતા લાડુ = મેઘલાડુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આજના સમયમાં પણ લોકો વાવનો ઉપયોગ પાણી ભરવા માટે જ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: આજના સમયમાં મોટાભાગની વાવ જર્જરિત થઈ ગઈ છે અથવા કચરાથી ભરાઈ ગઈ છે, લોકો હવે નળ કે બોરવેલ વાપરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યારે વાવ માત્ર જોવાલાયક સ્થળ (Heritage) બની ગઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરસાદનું પાણી જમીનમાં ઉતારવા માટે 'ચેકડેમ' બનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક + ડેમ = પાણીને ચેક (રોકવો) કરવો જેથી તે જમીનમાં ઉતરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગડસીસર તળાવના ઘાટ પર શાળાઓ પણ આવેલી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ એ માત્ર પાણી માટે નહીં, સામાજિક મેળાવડા અને શિક્ષણ માટેનું કેન્દ્ર પણ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વાવમાં નીચે જવા માટે માત્ર એક જ રસ્તો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: વાવ તેના માળ અને પ્રવેશદ્વાર મુજબ એકમુખી, દ્વિમુખી એમ અલગ અલગ પ્રકારની હોઈ શકે છે અને તેમાં ઘણા પગથિયાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવમાં સ્થાપત્ય કલા મુજબ અનેક પ્રવેશદ્વાર હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વરસાદના પાણીનો સંગ્રહ કરવો એ ભવિષ્ય માટે સારું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ સંગ્રહ = સુખી ભવિષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પહેલાના સમયમાં લોકો વણઝારા સાથે મુસાફરી કરતી વખતે પાણીની વ્યવસ્થા માટે વાવ બંધાવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસાફર અને પ્રાણીઓની તરસ છિપાવવા રસ્તામાં વાવ બનાવવામાં આવતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નદીનું પાણી હંમેશા ચોખ્ખું જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નદીમાં કચરો નાખવાથી અને ફેક્ટરીઓના ગંદા પાણીથી તે પ્રદૂષિત થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી પાણી શુદ્ધ હોય પણ માનવી તેને અશુદ્ધ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બોરવેલ દ્વારા જમીનનું ઊંડું પાણી ખેંચી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોરવેલ = ઊંડી પાઇપ + મોટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગડસીસર તળાવ આજે પણ જેસલમેરના લોકોને પાણી પૂરું પાડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: આજે ગડસીસર તળાવની વચ્ચે ઘણી ઇમારતો બની ગઈ છે અને 9 તળાવોનું જોડાણ તૂટી ગયું છે, એટલે પહેલા જેવો ઉપયોગ થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરીકરણને કારણે જૂની વ્યવસ્થા ખોરવાઈ ગઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ટાંકાનું પાણી ગાળવા માટે તેના મોઢા પર કપડું બાંધવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડું = કુદરતી ફિલ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વરસાદ એ પૃથ્વી પર પાણીનો મુખ્ય સ્ત્રોત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ ન હોય તો નદી, તળાવ કે કુવા ભરાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પાણી બચાવવું એ દરેક નાગરિકની ફરજ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ છે તો જીવન છે!</p></div>"
+    }
+  ]
+}
