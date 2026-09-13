@@ -1296,3 +1296,211 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પાણી સાથેના પ્રયોગો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૂરીને ગરમ તેલમાં નાખતા તે તરત જ તરવા લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પૂરીને જ્યારે ગરમ તેલમાં નાખવામાં આવે છે ત્યારે તે પહેલાં નીચે ડૂબે છે અને જ્યારે તે ફૂલે છે ત્યારે ઉપર આવીને તરવા લાગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા ભરાય તો વજન ઘટે, વજન ઘટે તો વસ્તુ તરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લોખંડની ખીલી પાણીમાં ડૂબી જાય છે, પરંતુ લોખંડનું વહાણ પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: વહાણ તેના વજન કરતાં વધુ પાણી ખસેડે છે, જ્યારે ખીલી ઓછું પાણી ખસેડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પાણી હટાવો, આરામથી તરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખાલી પ્લાસ્ટિકની બોટલ પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: ખાલી બોટલ હલકી હોવાથી અને તેમાં હવા હોવાથી તે પાણી પર તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક + હવા = હંમેશા પાણીની ઉપર રહેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો બોટલને પાણીથી પૂરેપૂરી ભરી દેવામાં આવે, તો પણ તે પાણી પર તરશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પાણીથી ભરેલી બોટલ ભારે થઈ જવાથી તે પાણીમાં ડૂબી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરેલું ભારે, એટલે નીચે ધબાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૃત દરિયા (Dead Sea) નું પાણી દુનિયાના બધા જ દરિયા કરતાં વધુ ખારું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: તેના એક લિટર પાણીમાં લગભગ 300 ગ્રામ જેટલું મીઠું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃત દરિયો = મીઠાનો ભંડાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મૃત દરિયામાં માણસ ડૂબી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પાણીમાં ખૂબ જ મીઠું હોવાથી તે ઘટ્ટ હોય છે, પરિણામે માણસ તેમાં ડૂબવાને બદલે તર્યા કરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ મીઠું, વધુ મજબૂતી - ડૂબવાની કોઈ ચિંતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખાંડ પાણીમાં ઓગળતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ખાંડ પાણીમાં સંપૂર્ણપણે દ્રાવ્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળ્યું ગળ્યું પાણી, ખાંડની જ મહેરબાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીને ગરમ કરવાથી ખાંડ જલ્દી ઓગળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: તાપમાન વધવાથી દ્રાવ્યતાની પ્રક્રિયા ઝડપી બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આપો, સ્પીડ વધારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મીઠું પાણીમાં ઓગળી જાય પછી તે પાણીમાં જોઈ શકાતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: મીઠું પાણીમાં ઓગળીને અદ્રશ્ય થઈ જાય છે કારણ કે તે પાણીના કણો વચ્ચે ગોઠવાઈ જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું છુપાઈ જાય, પાણી ખારું થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચોક પાવડર પાણીમાં સંપૂર્ણ ઓગળી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ચોક પાવડર પાણીમાં ઓગળતો નથી, પણ થોડા સમય પછી નીચે બેસી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોક તો નીચે બેસે, ઓગળે નહીં એ જ્ઞાન પીરસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તેલ પાણીમાં મિશ્રિત થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તેલ પાણીમાં ઓગળતું નથી અને પાણીની સપાટી પર તરવા લાગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી અને તેલ, કદી ન થાય મેળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લીંબુ સાદા પાણીમાં તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લીંબુ સાદા પાણીમાં ડૂબી જાય છે, પણ મીઠાવાળા પાણીમાં તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું પાણી અંદર લે, મીઠું એને ઉપર લે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ મીઠાનો સત્યાગ્રહ 1930 માં કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: બ્રિટિશ સરકારના મીઠા પરના ટેક્સના વિરોધમાં ગાંધીજીએ દાંડી કૂચ કરી હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1930 - મીઠાની ક્રાંતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મીઠું જમીનમાં ખાડો ખોદીને ઉગાડવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દરિયાના પાણીને અગરિયાઓ રેતીમાં ક્યારીઓ બનાવીને ભરે છે અને સૂર્યપ્રકાશમાં સુકવીને મીઠું મેળવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી સુકાય, મીઠું વરતાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાણીનું વરાળમાં રૂપાંતર થવાની ક્રિયાને બાષ્પીભવન કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: સૂર્યની ગરમીને લીધે પાણી વરાળ બનીને હવામાં ઉડે તેને બાષ્પીભવન કહેવાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું ઉડવું = બાષ્પીભવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ટીપું જે સ્લાઇડ પર ઝડપથી સરકે છે તેમાં ચીકાશ ઓછી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: પાણીનું ટીપું તેલ કે દૂધના ટીપા કરતા જલ્દી સરકે છે કારણ કે તે ઓછું ઘટ્ટ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાતળું પાણી, સ્પીડની રાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઈંડાને મીઠાવાળા પાણીમાં મુકતા તે ડૂબી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઈંડું સાદા પાણીમાં ડૂબે છે પણ મીઠાવાળા પાણીમાં તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું ઈંડાને ઉપર રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દૂધ પાણીમાં ભળી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: દૂધ અને પાણી એકબીજામાં સંપૂર્ણ ભળી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ-પાણીની પાકી દોસ્તી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગરમ ચામાં નાખેલી ખાંડ ઠંડી ચા કરતા જલ્દી ઓગળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: ગરમી દ્રાવ્યતાની ઝડપ વધારે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી એટલે ફાસ્ટ ટ્રેક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પથ્થર પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પથ્થર પાણી કરતા ભારે હોવાથી તે તરત જ ડૂબી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારે પથ્થર, તળિયે જશે સત્વર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાદલું પાણી પર તરે છે કારણ કે તેમાં હવા રહેલી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: શરૂઆતમાં તે હલકું હોય છે અને તેમાં હવા હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા છે ત્યાં સુધી મજા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રેતી પાણીમાં ઓગળી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: રેતી અદ્રાવ્ય છે, તે પાણીમાં ઓગળતી નથી પણ નીચે બેસી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતી રહે નીચે, ઓગળે નહીં કદીયે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાપડના ટુકડાને પાણીમાં પલાળવાથી તે ભારે થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: કાપડ પાણી શોષી લે છે તેથી તેનું વજન વધે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી શોષાય, વજન વધાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્ટીલની થાળી પાણીમાં ડૂબી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જો સ્ટીલની થાળીને સપાટી પર હળવેથી મૂકવામાં આવે તો તે તેના આકારને લીધે તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાળીનો આકાર, તરાવવામાં मददगार!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દાંડી યાત્રા અમદાવાદના સાબરમતી આશ્રમથી શરૂ થઈ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: ગાંધીજી અને તેમના સાથીઓએ મીઠાના કાયદાનો ભંગ કરવા આ યાત્રા શરૂ કરી હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબરમતીથી શરૂઆત, મીઠાની સામે લડત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સાબુદાની (Soap case) પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: પ્લાસ્ટિકની સાબુદાની હલકી હોવાથી અને તેના આકારને કારણે પાણી પર તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુદાની તરે, સાબુ ડૂબે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાણીમાં તેલના ટીપા નાખતા તે પાણીમાં તળિયે જઈને બેસે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તેલ પાણી કરતા હલકું હોવાથી તે પાણીની સપાટી પર તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ હલકું, ઉપર હલકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાચની લખોટી પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લખોટી નક્કર અને ભારે હોવાથી પાણીમાં ડૂબી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની પણ ભારે, પાણીમાં ડૂબે ત્યારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જે વસ્તુઓ પાણી કરતા હલકી હોય તે તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: પદાર્થની ઘનતા પાણી કરતા ઓછી હોય તો તે તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકું ઉપર, ભારે અંદર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મીઠું મેળવવા માટે દરિયાના પાણીનું બાષ્પીભવન કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: પાણી ઉડી જાય છે અને મીઠું ક્યારીઓમાં બાકી રહે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી પાણી ઉડાડે, મીઠું પકડાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ખાલી વાટકી પાણીમાં ડૂબી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ખાલી વાટકી તેના આકારને લીધે પાણી ખસેડે છે તેથી તે તરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાલી વાટકી - પાણીની હોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મીઠું પાણીમાં ઓગળ્યા પછી પાણીનો સ્વાદ બદલાતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મીઠું ઓગળ્યા પછી પાણી ખારું લાગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાય નહીં પણ સ્વાદમાં વરતાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પાણીને હલાવવાથી ખાંડ જલ્દી ઓગળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: હલાવવાથી ખાંડના કણો પાણીમાં ઝડપથી ફેલાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલાવો અને જલ્દી ઓગાળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મૃત દરિયાનું પાણી પીવામાં ખૂબ મીઠું લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મૃત દરિયાનું પાણી અત્યંત ખારું (કડવું લાગે એટલું) હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખારું એટલું કે કડવું લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કાદવ વાળું પાણી ફિલ્ટર પેપરથી સાફ કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: ફિલ્ટર પેપરના ઝીણા છિદ્રો માટીને રોકી લે છે અને ચોખ્ખું પાણી નીચે જવા દે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાળણક્રિયા - કચરો ઉપર, પાણી નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બરફ પાણી પર તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: બરફ પાણી કરતા હલકો હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ - પાણીનો હલકો ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મીઠાના કાયદાનો ભંગ કરવા ગાંધીજી દાંડી ગયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: દરિયાકિનારે જઈને તેમણે ચપટી મીઠું ઉપાડીને કાયદો તોડ્યો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંડી એટલે મીઠાનો સત્યાગ્રહ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લીંબુનું શરબત એ પાણીમાં વિવિધ પદાર્થો ઓગાળવાનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: શરબતમાં ખાંડ, મીઠું અને લીંબુનો રસ પાણીમાં ઓગળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરબત એટલે ઓગળેલો આનંદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો પાણીમાં માટી નાખીને તેને સ્થિર રાખવામાં આવે, તો માટી નીચે બેસી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: માટી ભારે હોવાથી ગુરુત્વાકર્ષણને લીધે તળિયે બેસી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર પાણી - બેઠેલી માટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દરિયાનું પાણી વરાળ બનીને આકાશમાં જાય છે તેને ઘનીભવન કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તેને બાષ્પીભવન કહેવાય, વરાળ ઠંડી થઈ પાણી બને તેને ઘનીભવન કહેવાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉડે તે બાષ્પીભવન, ઠરે તે ઘનીભવન!</p></div>"
+    }
+  ]
+}
