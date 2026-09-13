@@ -1812,3 +1812,161 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ચઢીએ ઊંચા ઊંચા શિખરો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્વતારોહણ ટુકડીના જૂથ નાયક (લીડર) એ સૌથી આગળ ચાલવાનું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જૂથ નાયકે જૂથના બધા સભ્યોની પાછળ રહેવાનું હોય છે અને જેઓ ચઢી ના શકતા હોય તેમને મદદ કરવાની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર હંમેશા પાછળ રહીને આખા જૂથનું ધ્યાન રાખે છે. 'લીડર પાછળ, જવાબદારી આગળ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પર્વતારોહણ દરમિયાન સવારના નાસ્તામાં વિટામિન-સી અને લોહતત્વની ગોળીઓ આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. આ ગોળીઓ શક્તિ મેળવવા અને ઠંડીમાં ગરમી જાળવી રાખવા માટે આપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં પર્વત ચઢવા માટે 'વિટામિન' અને 'લોખંડ' (લોહતત્વ) જેવી શક્તિ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નહેરુ ઇન્સ્ટિટ્યૂટ ઓફ માઉન્ટેનિયરિંગ ઉત્તરકાશીમાં આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરમાં પર્વતો છે, એટલે પર્વતારોહણ સંસ્થા પણ 'ઉત્તર'કાશીમાં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પર્વત ચઢતી વખતે આપણું શરીર 45 અંશના ખૂણે રાખવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પર્વત ચઢતી વખતે શરીર 90 અંશના ખૂણે (ટટ્ટાર) રાખવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર ટટ્ટાર રહેવું, ખૂણો 90 રાખવો (કાટખૂણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દોરડાની મદદથી ખડક પરથી નીચે ઉતરવાની ક્રિયાને 'રેપલિંગ' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પરથી રસ્સી વડે 'સરકવું' (ઉતરવું) એટલે 'રેપલિંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બચેન્દ્રી પાલ માઉન્ટ એવરેસ્ટ પર ચઢનાર પ્રથમ ભારતીય મહિલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની પ્રથમ નારી, એવરેસ્ટ પર પધારી - બચેન્દ્રી પાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પર્વતારોહણ વખતે લીડરે જૂથના સભ્યો માટે જમવાની વ્યવસ્થા કરવાની જવાબદારી હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જૂથના સભ્યો માટે જમવાની વ્યવસ્થા કરવી એ લીડરની મુખ્ય જવાબદારી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર એટલે આખા જૂથની 'મમ્મી' જેવું ધ્યાન રાખનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખડક પર ચઢતી વખતે આપણી પીઠ વળેલી રાખવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ખડક ચઢતી વખતે પીઠ સીધી (ટટ્ટાર) રાખવી જોઈએ, વળવી જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી પીઠ, સલામત ચઢાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "માઉન્ટ એવરેસ્ટને નેપાળમાં 'સાગરમથ્થા' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવરેસ્ટનું નેપાળી નામ = સાગરનું માથું (સાગરમથ્થા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્વતારોહણમાં શિસ્ત ખૂબ જ મહત્વની છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત ચઢવો હોય તો શિસ્ત પાળવી જ પડે, નહીં તો મુશ્કેલી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પર્વતારોહકોને વહેલી સવારે ગરમ ચોકલેટી દૂધ શક્તિ માટે આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં 'ચોકલેટ' એનર્જી આપે અને દૂધ શક્તિ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંગીતા અરોરા કેન્દ્રીય વિદ્યાલયના શિક્ષિકા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના લેખિકા પોતે ટીચર (શિક્ષિકા) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પર્વતો પર નદી પાર કરવા માટે માત્ર લાકડાના પુલનો જ ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પર્વતો પર નદી પાર કરવા જાડા દોરડા, પીટન (ખીલા) અને કડી (સ્લિંગ) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વતારોહકો પુલની રાહ નથી જોતા, પોતે દોરડા બાંધી રસ્તો બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પર્વતારોહકોના પગરખાં (બૂટ) માં ખીલા હોતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પર્વતારોહકોના બૂટમાં નીચે ખીલા હોય છે જેથી બરફ પર લપસી ન જવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ પર પકડ માટે 'ખીલાવાળા બૂટ' જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બચેન્દ્રી પાલ ગઢવાલના નાકુરી ગામના વતની હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઢવાલનું 'નાકુરી' ગામ - બચેન્દ્રીનું ધામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખડક પર ચઢતી વખતે સૌથી પહેલા સપાટ ખડકનું અવલોકન કરવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જ્યાં હાથ અને પગ મૂકી શકાય તે જગ્યાઓ (હોલ્ડ્સ) શોધવી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા 'જુઓ' પછી 'ચઢો' (અવલોકન પ્રથમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પર્વતારોહણ શિબિરમાં માર્ગદર્શક તરીકે બ્રિગેડિયર જ્ઞાનસિંઘ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત ચઢવાનું 'જ્ઞાન' આપનાર = જ્ઞાનસિંઘ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પર્વતારોહકોએ પોતાના થેલા (પિઠ્ઠુ બેગ) માં માત્ર રમકડાં રાખવાના હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. થેલામાં ખોરાકનું પડીકું, પાણીની બોટલ, દોરડું, પ્લાસ્ટિક સીટ, ડાયરી, ટોર્ચ જેવી જરૂરી વસ્તુઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેગમાં જીવનજરૂરી સામાન હોય, રમતનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મિઝોરમની ખાનદોનબીને હિન્દી બરાબર આવડતું ન હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તે માત્ર 'મિઝો' ભાષા બોલી શકતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમ - મિઝો ભાષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "માઉન્ટ એવરેસ્ટ પર ભારતનો તિરંગો ફરકાવનાર બચેન્દ્રી પાલ પાંચમી ભારતીય મહિલા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બચેન્દ્રી પાલ માઉન્ટ એવરેસ્ટ પર ચઢનાર 'પ્રથમ' ભારતીય મહિલા અને વિશ્વના 'પાંચમાં' મહિલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 'પહેલા' અને દુનિયામાં 'પાંચમા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખડક પર ચઢતી વખતે 'સ્લિંગ' (કડી) નો ઉપયોગ થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ખડક ચઢવા અને નદી પાર કરવા 'સ્લિંગ' અને દોરડાનો ઉપયોગ અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લિંગ (Sling) એટલે કડી, જે લટકવામાં મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પર્વતારોહણ એ સાહસિક અને પડકારરૂપ પ્રવૃત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચા પર્વત = મોટું સાહસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ફેબ્રુઆરી મહિનામાં પર્વતો પર ખૂબ જ બરફ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સંગીતા અરોરાની શિબિર પણ ફેબ્રુઆરીમાં જ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળો + પર્વત = બરફ જ બરફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જૂથના સભ્યો બીમાર પડે ત્યારે જૂથ નાયકે તેમનું ધ્યાન રાખવું પડતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બીમાર સભ્યોનું ધ્યાન રાખવું એ લીડરની ફરજ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર એટલે જૂથનો કેરટેકર (ધ્યાન રાખનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માઉન્ટ એવરેસ્ટની ઊંચાઈ આશરે 8600 મીટર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પાઠ્યપુસ્તક મુજબ માઉન્ટ એવરેસ્ટની ઊંચાઈ આશરે 8900 મીટર (ચોક્કસ 8848 મીટર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આશરે 'નવ હજાર' ની નજીક (8900 મીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પર્વતારોહણમાં કેમ્પ ફાયર એ મનોરંજન માટેનો કાર્યક્રમ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જેમાં નાચ-ગાન અને જોક્સ દ્વારા આનંદ મેળવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમ્પ ફાયર = રાતની જયાફત અને મજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પર્વત પર હવા પાતળી હોવાથી શ્વાસ લેવામાં તકલીફ પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તેથી ઘણીવાર ઓક્સિજન સિલિન્ડર સાથે રાખવા પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ ઉપર જઈએ, તેમ હવા ઓછી (પાતળી) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંગીતા અરોરાને તેમના પગમાં પડેલા ફોલ્લાને કારણે ચાલવામાં તકલીફ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ચાલવાથી અને નવા બૂટથી પગમાં ફોલ્લા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "માઉન્ટ એવરેસ્ટની ટોચ પર બચેન્દ્રી પાલે 43 મિનિટ વિતાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવરેસ્ટ પર '43' મિનિટની યાદગાર પળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પર્વતારોહણ કરતી વખતે પ્લાસ્ટિકની સીટ ઠંડીથી બચવા વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તે પાથરવા માટે અથવા વરસાદ-ઠંડીથી બચવા કામ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક સીટ = ઠંડી અને ભીનાશથી રક્ષણ.</p></div>"
+    }
+  ]
+}
