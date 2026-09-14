@@ -2128,3 +2128,136 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "સુનીતા અવકાશમાં",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીનો આકાર થાળી જેવો સપાટ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પૃથ્વીનો આકાર નારંગી જેવો ગોળ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી = દડો (ગોળ), થાળી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સુનીતા વિલિયમ્સ ભારતીય મૂળના બીજા મહિલા અવકાશયાત્રી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલું નામ કલ્પના ચાવલા, બીજું સુનીતા વિલિયમ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અવકાશમાં પાણીના ટીપાં હવામાં તરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં ગુરુત્વાકર્ષણ નથી, એટલે બધું 'તરતું' રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૃથ્વી પર આપણે જે વસ્તુ ઉપર ફેંકીએ છીએ તે નીચે જ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું ખેંચાણ (ગુરુત્વાકર્ષણ) વસ્તુને નીચે ખેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અવકાશમાં સુનીતા વિલિયમ્સના વાળ હંમેશા નીચે બેઠેલા રહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અવકાશમાં ગુરુત્વાકર્ષણ ન હોવાથી વાળ હંમેશા ઊભા રહેતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો ગ્રેવિટી = ઉભા વાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગ્લોબ (પૃથ્વીના ગોળા) પર વાદળી રંગ દરિયો સૂચવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લુ એટલે પાણી/દરિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અવકાશમાંથી પૃથ્વી પરના દેશોની સરહદો સ્પષ્ટ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સરહદો માણસોએ નકશામાં બનાવી છે, પૃથ્વી પરથી દેખાતી નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી પૃથ્વી પર લીટીઓ હોતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તારાઓ રાત્રે જ આકાશમાં હોય છે, દિવસે હોતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તારાઓ દિવસે પણ આકાશમાં જ હોય છે, પણ સૂર્યના તેજ પ્રકાશમાં દેખાતા નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારા કાયમી છે, સૂર્યનો પ્રકાશ તેમને છુપાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચંદ્ર પૃથ્વીની આસપાસ ફરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી = કેન્દ્ર, ચંદ્ર = ઉપગ્રહ (ફરનારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સુનીતા વિલિયમ્સ અવકાશમાં હેલિકોપ્ટરમાં ગયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેઓ સ્પેસ શટલ/અવકાશયાનમાં ગયા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશ માટે હંમેશા 'રોકેટ' કે 'શટલ' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પૃથ્વીના ગોળા નીચેના ભાગમાં રહેલા લોકો પડી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગુરુત્વાકર્ષણને કારણે કોઈ પડતું નથી, પૃથ્વી બધાને ખેંચી રાખે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેવિટી (ખેંચાણ) બચાવી લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચંદ્રના આકારમાં દરરોજ ફેરફાર થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ અને અમાસ યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અવકાશમાં ખાવા માટે ડાઇનિંગ ટેબલ પર બેસવું પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ત્યાં બધું ઉડતું હોવાથી ખોરાક પકડવો પડે છે, ટેબલ પર બેસી શકાતું નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશ = ફ્લોટિંગ લાઈફ (તરતું જીવન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૃથ્વી પરથી આકાશમાં જોવા મળતો ખરતો તારો હકીકતમાં ઉલ્કા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરતો તારો = ઉલ્કા (Meteor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સુનીતા વિલિયમ્સ છ મહિનાથી વધારે સમય અવકાશમાં રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનીતાનો રેકોર્ડ = 6 મહિનાથી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અવકાશમાં પણ પૃથ્વીની જેમ પવન ફૂંકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અવકાશમાં હવા હોતી નથી, તેથી પવન હોતો નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશ = શૂન્યાવકાશ (No Air).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પૂનમના દિવસે ચંદ્ર સંપૂર્ણ ગોળ દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ = પૂરો ચંદ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સુનીતા વિલિયમ્સ પૃથ્વીથી 360 કિમી દૂર અવકાશમાં ગયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડો યાદ રાખો: 3-6-0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અવકાશમાં સુનીતા વિલિયમ્સને ચાલવાની જરૂર પડતી નહોતી, તેઓ એક જગ્યાએથી બીજી જગ્યાએ તરીને જતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય ગુરુત્વાકર્ષણ = હવામાં તરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અમાસની રાત્રે આકાશમાં ચંદ્ર ખૂબ મોટો દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અમાસની રાત્રે આકાશમાં ચંદ્ર બિલકુલ દેખાતો નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમાસ = અંધારું (No Moon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૂર્ય એક તારો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની સૌથી નજીકનો તારો એટલે સૂર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અવકાશયાનમાં પાણી પીવા માટે ગ્લાસનો ઉપયોગ કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પાણીના ટીપાં હવામાં ઉડતા હોવાથી તેને ગ્લાસમાં ભરી શકાતા નથી, ટીપાં પકડવા પડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી = બલૂન (ટીપાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ભારતનો નકશો પૃથ્વીના ગોળા (ગ્લોબ) પર જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લોબ પર આખી દુનિયાના દેશો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સુનીતા વિલિયમ્સને અવકાશમાંથી પૃથ્વી ખૂબ જ સુંદર દેખાતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી આખી દુનિયામાં સૌથી સુંદર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પૃથ્વી પરથી ચંદ્ર તરફ કોઈ પણ વસ્તુ ફેંકીએ તો તે પાછી આવતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પૃથ્વીના ગુરુત્વાકર્ષણને કારણે તે વસ્તુ પૃથ્વી પર જ પાછી આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી બધું પોતાની તરફ ખેંચે છે.</p></div>"
+    }
+  ]
+}
