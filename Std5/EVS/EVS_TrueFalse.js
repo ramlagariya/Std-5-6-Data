@@ -2627,3 +2627,136 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "જ્યારે ધરતી ધ્રુજી ઊઠી",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધરતીકંપ એ માનવસર્જિત આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ધરતીકંપ એ કુદરતી આપત્તિ છે, જે પૃથ્વીના પેટાળમાં થતી હલચલને કારણે આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી (કુદરત) ધ્રૂજે એટલે કુદરતી આપત્તિ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જસમાના ગામમાં 26 જાન્યુઆરી, 2001 ના રોજ ધરતીકંપ આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતંત્ર દિવસ (26 જાન્યુઆરી) ના દિવસે જ ગુજરાતમાં ધરતી ધ્રૂજી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ધરતીકંપ આવે ત્યારે બહુમાળી મકાનોમાં લિફ્ટનો ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ધરતીકંપ વખતે વીજળી ગુલ થઈ શકે છે અને લિફ્ટમાં ફસાઈ જવાનો ભય રહે છે, તેથી સીડીનો ઉપયોગ કરવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત સમયે લિફ્ટ 'લિફ્ટ' નહીં પણ 'ગિફ્ટ' (જોખમ) બની જાય, એટલે સીડી જ વાપરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ધરતીકંપ સમયે જો તમે ઘરની બહાર ન જઈ શકો, તો મજબૂત ટેબલની નીચે બેસી જવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેબલની નીચે એટલે સુરક્ષાની છત નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જસમાનું ગામ ગુજરાતના કચ્છ વિસ્તારમાં આવેલું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જસમા' અને 'કચ્છ' બંનેમાં 'સ' અને 'ચ' જેવા વર્ણોનો નાતો યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ધરતીકંપના સમયે ઘરના ખૂણામાં ઊભા રહેવું સુરક્ષિત નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જો તમે બહાર ન જઈ શકો, તો ઘરના ખૂણામાં અથવા મજબૂત ટેબલ નીચે રહેવું સુરક્ષિત માનવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો અને ટેબલ - ધરતીકંપના રક્ષણના બે મુખ્ય સ્ટેબલ (Stable) રસ્તા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધરતીકંપ પછી લોકોની મદદ માટે શહેરથી ડોક્ટરો અને નર્સો આવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત સમયે માનવતા જાગે, શહેરથી ડોક્ટર ગામડે ભાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એન્જિનિયરો અને આર્કિટેક્સે ગામલોકોને ધરતીકંપમાં ન પડે તેવા ખાસ પ્રકારના મકાનોની ડિઝાઇન બતાવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિનિયરનું કામ, ધરતીકંપમાં સુરક્ષિત રહે ગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુષ્કાળ એટલે નદીઓમાં આવતું પુષ્કળ પાણી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (નદીઓમાં આવતા પુષ્કળ પાણીને પૂર કહેવાય. દુષ્કાળ એટલે વરસાદ ન પડવાને કારણે પાણી અને ખોરાકની અછત સર્જાવવી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દુષ્કાળ' માં 'દુ' એટલે દુઃખ (પાણી વગરનું) અને 'પૂર' માં બધું 'ભરપૂર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ધરતીકંપ વખતે ખુલ્લા મેદાનમાં જવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર આકાશ અને નીચે જમીન, ખુલ્લા મેદાનમાં જીવવાનું યકીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જસમાના ગામમાં મોટબાપાના મકાનને વધુ નુકસાન થયું ન હતું કારણ કે તે મજબૂત હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટબાપાનું ઘર મજબૂત, એટલે ધરતીકંપ થયો પરાસ્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો લાંબા સમય સુધી વરસાદ ન પડે તો ખેતી પાક નિષ્ફળ જાય છે, જેને પૂર કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેને પૂર નહીં પણ દુષ્કાળ કહેવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ નથી તો પૂર નથી, એ તો દુષ્કાળનું નૂર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ધરતીકંપમાં કાટમાળ નીચે દબાયેલા લોકોને બહાર કાઢવા માટે લશ્કરના (આર્મી) જવાનો આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીમા પર રક્ષા કરે કે આફત સમયે, લશ્કર હંમેશા સાથ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધરતીકંપના આંચકા અનુભવાય ત્યારે ગભરાઈને બૂમો પાડવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આફત સમયે ગભરાવાને બદલે શાંત રહીને સુરક્ષિત પગલાં ભરવા જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગભરાટથી મુસીબત વધે, શાંતિથી જીવ બચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વૈજ્ઞાનિકો એ જાણવાનો પ્રયત્ન કરે છે કે કયા વિસ્તારમાં ધરતીકંપ આવવાની શક્યતા વધુ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાનનો હેતુ છે ચેતવણી આપવી અને સાવચેત રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જસમાના ગામના લોકોએ એન્જિનિયરોની મદદ વગર જ ફરીથી મકાનો બનાવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગામલોકોએ એન્જિનિયરો અને આર્કિટેક્ટ્સના સૂચન મુજબ ધરતીકંપ-પ્રતિરોધક મકાનો બનાવ્યા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલાહ લીધી એક્સપર્ટની, ચિંતા ટળી ધરતીકંપની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ધરતીકંપ પછી લોકોએ તંબુમાં રહેવું પડ્યું હતું કારણ કે તેમના મકાનો પડી ગયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર ગયું પણ આશરો તંબુમાં મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પૂર આવે ત્યારે નીચેના લેવલ પર રહેવું વધુ હિતાવહ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પૂર વખતે પાણી નીચેના ભાગમાં ભરાય છે, તેથી ઊંચાઈવાળા સ્થળે જવું જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર એટલે પાણીનો ભરાવો, ઊંચાઈ એટલે જીવનો બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જસમાના ગામમાં પશુઓ માટે પણ ઘાસચારો ખૂટી પડ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત માણસ અને પશુ - બંને માટે મુશ્કેલ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ટીવી પર ધરતીકંપના સમાચાર જોઈને બીજા શહેરોમાંથી પણ લોકો મદદ માટે આવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર એ માત્ર ખબર નથી, મદદ પહોંચાડવાનું માધ્યમ પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ધરતીકંપ એ લાંબા ગાળા સુધી ચાલતી પ્રક્રિયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ધરતીકંપના આંચકા થોડી જ સેકન્ડો કે મિનિટો સુધી આવે છે, પરંતુ તેની અસર લાંબા ગાળાની હોઈ શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંચકો ક્ષણનો, પ્રભાવ વર્ષોનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દુષ્કાળ સમયે લોકો ભૂખને કારણે બીમાર પડી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ વગર શરીર નબળું પડે, રોગચાળો જલ્દી ચડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધરતીકંપમાં ઘરના કબાટ પાસે ઊભા રહેવું સૌથી વધુ સુરક્ષિત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કબાટ કે કાચની વસ્તુઓ તમારી ઉપર પડી શકે છે, તેથી તેનાથી દૂર રહેવું જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબાટ જેવી ભારે વસ્તુ - ધરતીકંપમાં જોખમની વસ્તુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગુજરાતમાં આવેલા 2001 ના ધરતીકંપનું કેન્દ્રબિંદુ ભુજ (કચ્છ) પાસે હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છડો બારે માસ, પણ 2001 માં થયો ભયનો ભાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ટીવી પર આવતા હવામાન સમાચાર દ્વારા પૂરની આગાહી જાણી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર જોશો વહેલા, તો બચી જશો પૂરથી પહેલા.</p></div>"
+    }
+  ]
+}
