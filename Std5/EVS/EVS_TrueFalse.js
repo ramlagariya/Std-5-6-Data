@@ -2261,3 +2261,211 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જો આ ખૂટી જાય તો?",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પેટ્રોલ અને ડીઝલનો જથ્થો પૃથ્વીના પેટાળમાં અખૂટ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પેટ્રોલ અને ડીઝલ પૃથ્વીના પેટાળમાં મર્યાદિત જથ્થામાં છે, તે ગમે ત્યારે ખૂટી શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અખૂટ' એટલે ક્યારેય ન ખૂટે તેવું, પણ જમીનની નીચેની વસ્તુઓ તો 'ખૂટી' જાય તેવી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ક્રૂડ ઓઈલ (પેટ્રોલિયમ) ગંધ વગરનું અને સફેદ રંગનું પ્રવાહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પેટ્રોલિયમ ગંધવાળું, ઘટ્ટ અને કાળા રંગનું પ્રવાહી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, કાચું તેલ હંમેશા 'કાળું અને ગંધ મારતું' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ટ્રાફિક સિગ્નલ પર લાલ લાઈટ થાય ત્યારે એન્જિન બંધ કરી દેવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ લાઈટ = થોભો અને તેલ (બળતણ) બચાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પેટ્રોલિયમને શુદ્ધ કરવા માટે રિફાઇનરીમાં મોકલવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિફાઇન કરવું એટલે ચોખ્ખું કરવું, જે રિફાઇનરીમાં જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સી.એન.જી. (CNG) નો ઉપયોગ કરવાથી પ્રદૂષણ ઓછું ફેલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CNG = Clean Natural Gas (સ્વચ્છ ગેસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બળતણ બચાવવા માટે આપણે હંમેશા વ્યક્તિગત કારનો જ ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બળતણ બચાવવા જાહેર બસ કે ટ્રેનનો ઉપયોગ કરવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બસ = પચાસ કાર. બસમાં મુસાફરી એટલે બળતણની બચત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પેટ્રોલિયમ જમીનની અંદર લાખો વર્ષોની પ્રક્રિયા પછી બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ બનવું એ મેગી બનાવવા જેવું નથી, તેમાં લાખો વર્ષો લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રોડ બનાવવા માટે ડામરનો ઉપયોગ થાય છે, જે પેટ્રોલિયમમાંથી જ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ્રોલિયમ એ 'ખજાનો' છે, તેમાંથી જ ડામર અને મીણ પણ નીકળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચૂલા પર રસોઈ બનાવવા માટે લાકડાનો ઉપયોગ કરવાથી ધુમાડો થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લાકડા બાળવાથી ખૂબ જ ધુમાડો થાય છે, જે ફેફસાં માટે હાનિકારક છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડું બળે ત્યારે 'ધુમાડો' કરે, જે ખાંસી અને રોગ લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સૂર્ય ઉર્જા એ ક્યારેય ન ખૂટે તેવું ઉર્જાનું સ્ત્રોત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય દાદા રોજ આવે, ક્યારેય તેલ પૂરવાની ચિંતા ન કરાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાહનોના ધુમાડાથી આપણને શ્વાસ લેવામાં તકલીફ થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ હવા = ખરાબ ફેફસાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કેરોસીન અને એલ.પી.જી. (LPG) નો ઉપયોગ રાંધણ બળતણ તરીકે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડામાં ગેસ (LPG) કે પ્રાઈમસ (કેરોસીન) બંને ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દરેક વાહન ડીઝલથી જ ચાલે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વાહનો પેટ્રોલ, ડીઝલ, સીએનજી, વીજળી કે ગેસથી ચાલી શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિક્ષા CNG થી, કાર પેટ્રોલથી અને બસ ડીઝલથી ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સાયકલ ચલાવવાથી વાયુ પ્રદૂષણ થતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકલ એટલે પર્યાવરણની મિત્ર, જેમાં ધુમાડો શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વીજળી ઉત્પન્ન કરવા માટે કોલસાનો ઉપયોગ કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મલ પાવર સ્ટેશનમાં કોલસો બાળીને જ વીજળી બનાવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પેટ્રોલ પંપ પર ગાડીમાં હવા ભરવા માટે પૈસા લેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સામાન્ય રીતે પેટ્રોલ પંપ પર હવા મફત ભરી આપવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા મફત, પણ તેલના પૈસા રોકડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વધારે પડતા વાહનોના અવાજથી કાનમાં તકલીફ થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોંઘાટ = કાન માટે જોખમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અડાલજની વાવ અમદાવાદથી આશરે 18 કિમી દૂર આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના પ્રવાસ મુજબ અંતર યાદ રાખો - 18 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગ્રીસ અને મીણ પેટ્રોલિયમમાંથી બનતી આડપેદાશો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ્રોલિયમ એક 'પેકેજ' છે, તેમાંથી ઘણું બધું નીકળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્લાસ્ટિક અને પેઇન્ટ્સ બનાવવા માટે તેલનો ઉપયોગ થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પ્લાસ્ટિક અને રંગો (પેઇન્ટ્સ) બનાવવા માટે પેટ્રોલિયમમાંથી મળતા ઘટકોનો ઉપયોગ થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારા રમકડાં (પ્લાસ્ટિક) પણ તેલની દેન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પૃથ્વીના પેટાળમાં તેલ ક્યાં છે તે વૈજ્ઞાનિકો મશીનો અને પાઈપો દ્વારા શોધી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની નીચે જોવાની શક્તિ વિજ્ઞાન પાસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "LPG નું પૂરું નામ 'લિક્વિફાઈડ પેટ્રોલિયમ ગેસ' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-P-G = Liquefied Petroleum Gas.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખેતીમાં ટ્રેક્ટર ચલાવવા માટે કેરોસીન વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ટ્રેક્ટર ચલાવવા માટે ડીઝલનો ઉપયોગ થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારે મશીનો અને ટ્રેક્ટર હંમેશા 'ડીઝલ' થી ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "છાલિયા (છાણા) બનાવવામાં ગાય કે ભેંસના ગોબરનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોબર + ઘાસ = છાણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભારતના કેટલાક રાજ્યોમાં તેલના કુવાઓ આવેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસામ અને ગુજરાતમાં તેલના ભંડારો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જંગલના લાકડા કાપીને બળતણ તરીકે વાપરવાથી પર્યાવરણને ફાયદો થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઝાડ કાપવાથી પર્યાવરણને નુકસાન થાય છે અને ધુમાડો પ્રદૂષણ ફેલાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડ કાપવા એ પર્યાવરણ માટે પાપ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તેલની બચત એ જ તેલનું ઉત્પાદન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બચાવ્યું, તે નવું બનાવ્યા બરાબર જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વાહનોમાં પેટ્રોલ ભરાવતી વખતે મોબાઈલ ફોનનો ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પેટ્રોલ પંપ પર મોબાઈલનો ઉપયોગ કરવાથી આગ લાગવાનું જોખમ રહે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ્રોલ અને મોબાઈલ - બંને એકબીજાથી દૂર રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આજના સમયમાં પણ ગામડાના ઘણા લોકો રસોઈ માટે લાકડા અને છાણા વાપરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના ડેટા મુજબ 2/3 ભાગના લોકો આ બળતણ વાપરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પેટ્રોલિયમ પૃથ્વીના પેટાળમાં માનવી દ્વારા બનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પેટ્રોલિયમ કુદરતી રીતે લાખો વર્ષો સુધી દબાયેલા અવશેષોમાંથી બને છે, તે ફેક્ટરીમાં બનતું નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ 'કુદરતી' છે, 'મેન-મેડ' નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિમાન ચલાવવા માટે ખાસ પ્રકારનું પેટ્રોલ (ફ્યુઅલ) વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ઉડવા માટે પાવરફુલ ફ્યુઅલ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ડ્રાયક્લિનિંગમાં પણ પેટ્રોલિયમનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘા કપડાં સાફ કરવા માટે તેલના ઘટકો વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "રસ્તા પર ચાલતી વખતે ટ્રાફિકના નિયમોનું પાલન કરવું જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ટ્રાફિકના નિયમોનું પાલન કરવું સુરક્ષા માટે ખૂબ જરૂરી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવચેતી એ જ સલામતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ડીઝલ એ પેટ્રોલ કરતાં સસ્તું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (સામાન્ય રીતે પેટ્રોલના ભાવ ડીઝલ કરતા વધારે હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેકટર અને બસ સસ્તામાં ચાલે એટલે ડીઝલ સસ્તું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ચૂલા પર રસોઈ બનાવતી સ્ત્રીઓને ફેફસાની બીમારી થવાની શક્યતા રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો + શ્વાસ = રોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કોલસો પૃથ્વીના ઉપરના પડમાં જ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કોલસો જમીનની અંદર ઉંડે ખાણોમાં જોવા મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળતણ હંમેશા જમીનમાં 'ઊંડે' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઈલેક્ટ્રિક બસ ચલાવવાથી હવાનું પ્રદૂષણ થતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીજળીથી ચાલતું વાહન એટલે ધુમાડા વગરનું વાહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એલ.પી.જી. (LPG) ગેસ સિલિન્ડરમાંથી આવતી ગંધ ખતરનાક હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (ગેસ ગળતર થાય ત્યારે તે ચેતવણી આપે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંધ આવે તો સમજવું કે ગેસ લીક છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પેટ્રોલિયમ ઉત્પાદનોનો ઉપયોગ પ્લાસ્ટિક બનાવવામાં થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલમાંથી જ પ્લાસ્ટિક બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો વાહનોની સંખ્યા વધશે તો ટ્રાફિકની સમસ્યા ઘટશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વાહનો વધવાથી ટ્રાફિકની સમસ્યા વધે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારે વાહન = લાંબી લાઈન = ટ્રાફિક જામ!</p></div>"
+    }
+  ]
+}
