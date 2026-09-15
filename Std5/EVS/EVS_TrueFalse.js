@@ -3234,3 +3234,161 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "હવે અમે ક્યાં જઈએ?",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અનુજભાઈના ખેડી ગામમાં લોકો એકબીજાની મદદથી સમૂહમાં રહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડું એટલે 'ગામ આખું પરિવાર', એટલે કે સમૂહ ભાવના હંમેશા સાચી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખેડી ગામમાં બાળકો માત્ર શાળાએ જઈને જ બધું શીખતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ખેડીમાં બાળકો વડીલો પાસેથી નૃત્ય કરવું, વાંસળી વગાડવી અને માટીના ઘડા બનાવતા પણ શીખતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડી = કલાનું ગામ. ત્યાં શાળા કરતા જીવનના પાઠ વધુ શીખવાતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નદી પર બંધ બાંધવા માટે ખેડી ગામના લોકોને ગામ છોડવું પડ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી પર બંધ = ગામનું સ્થળાંતર (વિસ્થાપન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેડી ગામમાં વહેતી નદીનો ખળખળ અવાજ લોકોને ગમતો નહોતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લોકોને નદીનો ખળખળ અવાજ અને પક્ષીઓનો કલરવ ખૂબ પ્રિય હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં કુદરતી અવાજ હંમેશા સંગીત જેવો લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સરકારી અધિકારીઓએ ખેડી ગામના લોકોને નવી જગ્યાએ વીજળી અને નળના પાણીની સુવિધાનું વચન આપ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા ગામની લાલચ = વીજળી + પાણી + રસ્તા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેડી ગામના લોકો જંગલમાંથી જડીબુટ્ટીઓ લાવીને શહેરમાં વેચતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ = કમાણીનું સાધન (મધ, લાકડા, જડીબુટ્ટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અનુજભાઈનું નવું ગામ સિંદુરી બધી જ સુવિધાઓથી સજ્જ અને સુંદર હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સિંદુરીમાં સુવિધાઓ અપૂરતી હતી, પતરાના છાપરામાં ગરમી થતી અને વીજળી પણ ક્યારેક જ આવતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંદુરીમાં 'સુવિધા' માત્ર નામની જ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સિંદુરી ગામમાં વીજળીનું બિલ ભરવાની જરૂર પડતી નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સિંદુરીમાં વીજળીના પણ પૈસા આપવા પડતા હતા જે ખેડીમાં નહોતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું ગામ = નવો ખર્ચ (બિલ + દવા + ખાતર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સિંદુરી ગામના લોકો ખેડી ગામના લોકોને 'વણનોતર્યા મહેમાન' કહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણનોતર્યા મહેમાન એટલે જેની કોઈને જરૂર નથી તેવા મહેમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અનુજભાઈએ ખેડી ગામ છોડીને પહેલા મુંબઈ જવાનું નક્કી કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેઓ ખેડી પછી સિંદુરી ગયા હતા, અને ત્યાં સફળતા ન મળતા છેલ્લે મુંબઈ ગયા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: ખેડી → સિંદુરી → મુંબઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મુંબઈમાં અનુજભાઈને રહેવા માટે મોટો બંગલો મળ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મુંબઈમાં તેઓ એક નાની અને સાંકડી એક જ રૂમની ખોલીમાં રહેતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું શહેર = નાનું ઘર (ખોલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખેડી ગામમાં લોકો માંદા પડતા ત્યારે હોસ્પિટલની ખૂબ જ સુવિધા હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ત્યાં કોઈ હોસ્પિટલ નહોતી, પરંતુ લોકો જંગલની જડીબુટ્ટીઓથી ઈલાજ કરતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડી = જંગલી દવા, સિંદુરી = મોંઘી દવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સિંદુરી ગામમાં જમીન ખેતી લાયક નહોતી કારણ કે તે પથ્થરોથી ભરેલી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર આપેલી જમીન = પથ્થરવાળી જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અનુજભાઈને મુંબઈમાં માછલી પકડવાની ફાટેલી જાળી સાંધવાનું કામ કરવું પડતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈમાં મજૂરી = જાળી સાંધવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખેડી ગામમાં વડીલો લગ્ન પ્રસંગે ઢોલ વગાડતા અને નૃત્ય કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોલ અને ડાન્સ = ખેડીની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સિંદુરી ગામમાં ખેડી ગામના લોકોની ભાષા અને રહેણીકરણી અલગ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનિક લોકો અને વિસ્થાપિતો વચ્ચે તફાવત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અનુજભાઈના પિતાજી ખેડી ગામ છોડીને જવા માટે ખૂબ જ ઉત્સાહિત હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેઓ ગામ છોડવા માંગતા નહોતા, તેઓ ખૂબ દુઃખી હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલોને પોતાની ધરતી અને મૂળ હંમેશા વહાલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નદી પર ડેમ બાંધવાથી પૂરનું જોખમ ઓછું થાય છે અને સિંચાઈ માટે પાણી મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેમનો ફાયદો = પાણી સંગ્રહ + વીજળી ઉત્પાદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મુંબઈમાં પણ અનુજભાઈને પીવાના શુદ્ધ પાણી માટે કોઈ તકલીફ નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મુંબઈમાં પણ પીવાનું પાણી ખરીદવું પડતું હતું અને ખૂબ તકલીફ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરમાં પાણીના પણ પૈસા, ખેડીમાં પાણી મફત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ખેડી ગામમાં ખેતી માટે બળદોનો ઉપયોગ થતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી અને બળદ = ગામડાની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સિંદુરીમાં વીજળી માત્ર થોડા જ કલાકો માટે આવતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી સગવડ = ક્યારેક હા, ક્યારેક ના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખેડી ગામના લોકો મરેલા માછલાઓને નદીમાં ફેંકી દેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેઓ માછલી પકડીને વેચતા અને ખોરાક તરીકે વાપરતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી = માછલી = કમાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્થળાંતર કરવાથી લોકોએ પોતાના સંબંધીઓ અને મિત્રોથી દૂર થવું પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળાંતર એટલે માત્ર ઘર બદલવું નહીં, પણ સંબંધોથી દૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ખેડી ગામમાં બાળકો જંગલમાંથી ફળો એકઠા કરવાનું કામ કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલનાં બાળકો = ફળ અને ફૂલોના મિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અનુજભાઈની દીકરી જીયા મુંબઈમાં જૂના ટાયર સળગાવીને રાંધવા માટે આગ કરતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અનુજભાઈ પોતે બળતણના લાકડાના પૈસા બચાવવા રબરના જૂના ટાયર બાળતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબી અને ટાયરનો ધુમાડો = શહેરની મજબૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સિંદુરી ગામમાં સ્કૂલના શિક્ષકો ખેડીથી આવેલા બાળકો પ્રત્યે ખૂબ સહાનુભૂતિ ધરાવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (શિક્ષકો તેમને બહુ ધ્યાન આપતા નહોતા અને તેમની ભાષા સમજતા નહોતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવી સ્કૂલ + નવી ભાષા = ભણવામાં મુશ્કેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અનુજભાઈ મુંબઈમાં માછલીની બજારમાં કામ કરવા સવારે વહેલા જતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈની સવાર = માછલી બજારની મજૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ડેમ બાંધવાથી ગામના લોકોનો વિકાસ થાય છે એવું સરકારી અધિકારીઓ માનતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેમ = રાષ્ટ્રનો વિકાસ, પણ ગામડાનું વિસ્થાપન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સિંદુરી ગામમાં ખેતી માટે રાસાયણિક ખાતર ખરીદવું પડતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરવાળી જમીન + મોંઘું ખાતર = ખેડૂત પર બોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અનુજભાઈને મુંબઈમાં પણ ખેડી ગામના સંબંધીઓ મદદ કરવા સાથે જ રહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મુંબઈમાં દરેક લોકો પોતપોતાની જિંદગીમાં વ્યસ્ત હતા, કોઈ પાસે સમય નહોતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ = ભીડમાં એકલા.</p></div>"
+    }
+  ]
+}
