@@ -3392,3 +3392,161 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "બીજ કહે છે ખેડૂતની વાર્તા",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બાજરીના બીજને જીવજંતુઓથી બચાવવા માટે લીમડાના પાનનો ઉપયોગ કરવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવો લીમડો = જીવજંતુનો દુશ્મન. ખેડૂતો કુદરતી દવા તરીકે લીમડાનો જ ઉપયોગ કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પહેલાના સમયમાં ખેડૂતો અનાજ અને શાકભાજીના બીજને સૂકાયેલી દૂધી પર માટીનો લેપ લગાવીને સાચવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધી + માટી = જૂના જમાનાનું કુદરતી સ્ટોરેજ બોક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દામજીભાઈના સમયમાં ખેતી માટે ટ્રેક્ટરનો ઉપયોગ કરવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દામજીભાઈના સમયમાં બળદ દ્વારા હળ ચલાવીને ખેતી થતી હતી, ટ્રેક્ટર હસમુખના સમયમાં આવ્યું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજીભાઈ = બળદ અને હળ; હસમુખભાઈ = ટ્રેક્ટર અને મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉંધીયું (ઉંબાળિયું) બનાવવા માટે માટલાને અંગારા પર સીધું મૂકવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઉંધીયું બનાવવા માટે માટલાને ઊંધું મૂકવામાં આવે છે, તેથી જ તેને 'ઉંધીયું' કહેવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે - ઉંધીયું એટલે ઊંધું માટલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અળસિયા જમીનને ફળદ્રુપ બનાવે છે, તેથી તેને ખેડૂતના મિત્ર કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયા = કુદરતી ખેડૂત. તે જમીનને પોચી અને હવાવાળી બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રાસાયણિક ખાતરો અને નવી દવાઓના ઉપયોગથી જમીન લાંબા ગાળે વધુ ફળદ્રુપ બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: રાસાયણિક ખાતરો અને દવાઓથી જમીનની શક્તિ ઘટે છે અને જમીન નકામી બની જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ એટલે ઝેર. તે શરૂઆતમાં પાક આપે પણ જમીન બગાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હસમુખભાઈએ ખેતીમાં થયેલા નફામાંથી જૂના ઘરનું નવીનીકરણ કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં હસમુખભાઈને મશીની ખેતીથી ફાયદો થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પહેલાના સમયમાં લોકો તહેવારો પર સાથે મળીને રાંધતા અને ખાતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની ખેતી એટલે સામાજિક એકતાનો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હસમુખભાઈના પુત્ર પરેશે ખેતી કરવાનું ચાલુ રાખ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પરેશ ખેતી છોડીને ટ્રક ડ્રાઈવર બની ગયો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતીમાં નુકસાન થયું એટલે પરેશે ટ્રક પકડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હાઈબ્રિડ બીજમાંથી ઉગેલા પાકને જીવજંતુઓ સરળતાથી નુકસાન કરી શકતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: નવા હાઈબ્રિડ બીજમાંથી ઉગેલા પાક પર જીવજંતુઓ ખૂબ જ જલ્દી હુમલો કરે છે, તેથી દવા છાંટવી પડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું બીજ = નાજુક પાક = વધુ દવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખેતરમાં સૂકા પાંદડા અને કચરો બાળી નાખવો એ જમીન માટે સૌથી શ્રેષ્ઠ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કચરો બાળવાને બદલે તેને જમીનમાં દટાય તો તે સડીને કુદરતી ખાતર બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળવું = નુકસાન, સડવું = ખાતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દામજીભાઈ પોતાના ખેતરમાં અલગ-અલગ પ્રકારના અનાજ અને શાકભાજી ઋતુ પ્રમાણે ઉગાડતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની ખેતી = વિવિધતાનો ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નવી ખેતી પદ્ધતિમાં ખેડૂતોને મોંઘા બીજ અને ખાતર ખરીદવા માટે બેંકમાંથી લોન લેવી પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘી ખેતી = બેંકનું દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક જ પ્રકારનો પાક વારંવાર લેવાથી જમીનની ફળદ્રુપતા વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: એક જ પ્રકારનો પાક વારંવાર લેવાથી જમીનમાંથી પોષક તત્વો ખતમ થઈ જાય છે અને જમીન કસ વગરની બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકની અદલાબદલી = જમીનનો સાચો ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બાજરીના દાણાએ પોતાની વાર્તા જાતે કહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'બીજ કહે છે ખેડૂતની વાર્તા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઉંધીયું ખાતી વખતે તેની સાથે બાજરીના રોટલા અને માખણ-છાસ લેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાનું ભોજન = ઉંધીયું + રોટલો + માખણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટ્રેક્ટર આવવાથી ખેતરમાં બળદનું કામ ઓછું થઈ ગયું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન આવ્યું, પ્રાણીઓ છૂટ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જંગલના લોકો બીજ સાચવવા માટે પ્લાસ્ટિકની થેલીઓનો ઉપયોગ કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તેઓ લાકડાની પેટીઓ કે માટીના વાસણોનો ઉપયોગ કરતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનો સમય એટલે કુદરતી ચીજો, પ્લાસ્ટિક નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્રોટોનનો છોડ જમીન સુકાઈ રહી છે તેની ચેતવણી આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોટોન = કુદરતી ઇન્ડિકેટર (સૂચક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ખેતીમાં સિંચાઈ માટે હવે નહેરો અને ઇલેક્ટ્રિક મોટરનો ઉપયોગ વધ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક ખેતી એટલે વિજળી અને પાણીની સગવડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દામજીભાઈના ભત્રીજા હસમુખે ખેતીમાં કોઈ ફેરફાર કર્યા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: હસમુખે ખેતીમાં મોટા ફેરફાર કર્યા હતા, જેમ કે ટ્રેક્ટર લાવ્યા, હાઈબ્રિડ બીજ વાપર્યા અને કેમિકલ ખાતરનો ઉપયોગ કર્યો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસમુખ = પરિવર્તનનો શોખીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઘઉં અને કપાસ જેવા પાકો બજારમાં વધુ ભાવ અપાવતા હોવાથી ખેડૂતો તે વધુ ઉગાડવા લાગ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોકડિયા પાક = વધુ પૈસાની લાલચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અગાઉના સમયમાં ખેડૂતો પોતાના વપરાશ માટે જ અનાજ ઉગાડતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની ખેતી એટલે સંતોષ, નવી ખેતી એટલે નફો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રાસાયણિક ખાતરોની વાસ ખૂબ જ સુગંધિત હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: રાસાયણિક ખાતરો અને દવાઓની વાસ ખૂબ જ ખરાબ અને તીવ્ર હોય છે, જે નુકસાનકારક છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલની ગંધ = ખતરાની નિશાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કૂવામાંથી પાણી કાઢવા માટે પહેલા મોટરનો ઉપયોગ થતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પહેલાના સમયમાં કોષ કે રેંટ દ્વારા બળદની મદદથી પાણી ખેંચવામાં આવતું હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનો કૂવો + બળદ = પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બીજને લાકડાની પેટીમાં ખાના પાડીને રાખવામાં આવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાની પેટી એ સમયનું બીજ બેંક (Seed Bank) હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નવી ખેતીમાં હવે બળદ માટે કોઈ કામ બચ્યું નથી, તેથી તેઓ બેકાર બન્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેક્ટરના પૈડાં ફર્યા, બળદના પગ થંભ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બાજરીના દાણાએ જોયું કે હસમુખભાઈની ખેતીથી જમીન વધુ સારી બની હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: હસમુખભાઈની પદ્ધતિથી જમીન નબળી પડી ગઈ હતી અને તેમાં કશું ઉગતું નહોતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજની વ્યથા - જમીન બની પથ્થર જેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઉંધીયું રાંધતી વખતે માટલાનું મોઢું મજબૂત રીતે બંધ કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ખરું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટલું સીલ કરો જેથી વરાળમાં શાક ચઢી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આધુનિક સમયમાં ખેડૂતો પોતે જ બીજ તૈયાર કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અત્યારે મોટાભાગના ખેડૂતો બજારમાંથી નવા મોંઘા બીજ ખરીદે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવે બીજ ખેતરમાં નહીં, દુકાનમાં બને છે.</p></div>"
+    }
+  ]
+}
