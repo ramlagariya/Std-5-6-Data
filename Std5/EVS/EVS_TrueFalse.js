@@ -2760,3 +2760,211 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "ઠંડું કે ગરમ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કઠિયારો તેના હાથ ગરમ કરવા માટે તેના પર ફૂંક મારતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળામાં બહારની હવા ઠંડી હોય અને મોઢાની હવા ગરમ, એટલે ગરમી મેળવવા ફૂંક મરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મિયાં બાલિશ્તિયે કદમાં ખૂબ જ ઊંચા માણસ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (મિયાં બાલિશ્તિયે ખૂબ જ ઠીંગણા - વેંત જેવડા માણસ હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાલિશ્તિયે' શબ્દ પરથી યાદ રાખો 'બાલિશ' એટલે નાનું અથવા વેંત જેવડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આપણે ગરમ બટાટાને ઠંડા કરવા માટે તેના પર ફૂંક મારીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ વસ્તુ પર ફૂંક મારવાથી તેની ગરમી હવામાં વહેંચાઈ જાય અને વસ્તુ ઠંડી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગરમ હવા ઠંડી હવા કરતા ભારે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ગરમ હવા હલકી હોય છે અને તે ઉપર તરફ જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ = હલકું (જેમ કે વરાળ હંમેશા ઉપર જાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્ટેથોસ્કોપનો ઉપયોગ હૃદયના ધબકારા માપવા માટે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટરના ગળામાં લટકતું સાધન એટલે ધબકારા સાંભળવાનું મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચશ્માના કાચ સાફ કરવા માટે તેના પર ફૂંક મારવાથી કાચ ભીના થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢામાંથી નીકળતી હવામાં ભેજ (પાણીના ટીપાં) હોય છે, જે કાચને ઝાંખો કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાને જોઈને ગભરાઈ ગયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કઠિયારાએ ગરમ બટાટાને ફૂંક મારીને ઠંડા કર્યા, ત્યારે મિયાં અચરજ પામી ગભરાયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શ્વાસ લેતી વખતે આપણી છાતી અંદરની તરફ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (શ્વાસ અંદર લેતી વખતે છાતી બહારની તરફ ફૂલે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુગ્ગામાં હવા ભરો તો તે ફૂલે, તેમ ફેફસામાં હવા ભરાય તો છાતી બહાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દોડ્યા પછી હૃદયના ધબકારા ધીમા પડી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (દોડ્યા પછી હૃદયના ધબકારા અને શ્વાસ લેવાની ગતિ વધી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેનત = વધુ ઓક્સિજનની જરૂર = ઝડપી ધબકારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વાંસળી વગાડવા માટે મોઢાની ફૂંકનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાના દબાણથી જ વાંસળીમાં મધુર સંગીત પેદા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આ પ્રકરણની વાર્તા ડૉ. ઝાકિર હુસેને લખી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતના પૂર્વ રાષ્ટ્રપતિ ડૉ. ઝાકિર હુસેન આ વાર્તાના લેખક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આપણા શરીરનું તાપમાન હંમેશા બહારની હવા કરતા ઓછું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (તે વાતાવરણ પર આધાર રાખે છે; શિયાળામાં આપણી ફૂંક બહારની હવા કરતા ગરમ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઠંડું કે ગરમ' એ સાપેક્ષ બાબત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અરીસા પર ફૂંક મારવાથી અરીસો ચોખ્ખો અને લિસો બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ફૂંક મારવાથી અરીસો ઝાંખો - ધૂંધળો બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંકમાં રહેલી વરાળ અરીસા પર જામી જાય એટલે તે ઝાંખો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઠંડી હવા ભારે હોવાથી નીચેની તરફ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ હવા ઉપર જાય (હલકી), ઠંડી હવા નીચે આવે (ભારે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કઠિયારો જંગલમાં લાકડાં કાપવાનું કામ કરતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠિયારો = લાકડાં કાપનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સીટી (વ્હિસલ) વગાડવા માટે આપણે મોઢેથી હવા ખેંચવી પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (સીટી વગાડવા માટે મોઢામાંથી હવા બહાર ફૂંકવી પડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ પેદા કરવા હવાને જોરથી બહાર કાઢવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગરમ ચાને ઠંડી કરવા માટે તેને રકાબીમાં ફેલાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી વધે તો ગરમી જલ્દી બહાર નીકળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કઠિયારાએ બટાટા શેકવા માટે પથ્થરનો ચૂલો બનાવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં ઈંટ ના મળે, એટલે પથ્થરથી જ કામ ચલાવવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આપણે ફક્ત ગરમ વસ્તુને ઠંડી કરવા જ ફૂંક મારીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (આપણે ઠંડી વસ્તુને ગરમ કરવા અને સંગીતના સાધનો વગાડવા પણ ફૂંક મારીએ છીએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંકના ઘણા ઉપયોગો છે: ગરમ કરવું, ઠંડું કરવું અને સંગીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે આપણે જોરથી શ્વાસ લઈએ છીએ ત્યારે આપણું પેટ થોડું ફૂલે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાફ્રામ નીચે જાય ત્યારે પેટ બહાર આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મિયાં બાલિશ્તિયેને કઠિયારો જાદુગર જેવો લાગ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિયાં મૂંઝાયા કે એક જ ફૂંકથી ઠંડું અને ગરમ કેવી રીતે થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઊનનો રૂમાલ પહેરવાથી હાથ ઠંડા થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ઊન ગરમી પકડી રાખે છે અને હાથ ગરમ રાખે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળો + ઊન = ગરમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ફૂંક મારીને આપણે કાગળની ફિરકી ફેરવી શકીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાનું દબાણ ફિરકીને ગતિ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ધબકારા માપવા માટે ઘડિયાળનો પણ ઉપયોગ થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (એક મિનિટમાં કેટલા ધબકારા થાય તે જોવા ઘડિયાળ જરૂરી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય + નાડીના ધબકારા = ધબકારાનો દર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કઠિયારાની ફૂંક બટાટા કરતા પણ વધુ ગરમ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (બટાટા ખૂબ ગરમ હતા, ફૂંક તેના કરતા ઠંડી હતી તેથી બટાટા ઠંડા થયા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ગરમથી ઓછી ગરમ તરફ ઉષ્મા વહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મોઢામાંથી નીકળતી હવા હંમેશા બહારના વાતાવરણ જેવી જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (શરીરની અંદરની હવા બહારની હવા કરતા અલગ તાપમાન ધરાવી શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર ઠંડી હોય તો મોઢાની હવા ગરમ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાના કામ પર નજર રાખી રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણામાં સંતાઈને મિયાં બધું ધ્યાનથી જોતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાપ (બીન) વગાડવા માટે મદારી ફૂંકનો ઉપયોગ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બીન' એ પવન-વાદ્ય (Wind instrument) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચૂલામાં લાકડા સળગાવવા માટે કઠિયારો ફૂંક મારતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંક મારવાથી અગ્નિને ઓક્સિજન મળે અને તે વધુ સળગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શાંતિથી બેઠા હોઈએ ત્યારે હૃદયના ધબકારા વધી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (શાંતિથી બેસતી વખતે ધબકારા સામાન્ય કે ધીમા હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ = ઓછા ધબકારા, કસરત = વધુ ધબકારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ફૂંક મારીને સળગતી મીણબત્તી ઓલવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંકની હવા જ્યોતની ગરમીને દૂર કરી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાના પ્રશ્નોના જવાબ આપતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (મિયાં પોતે કઠિયારાને સવાલ પૂછતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિયાં જિજ્ઞાસુ હતા, એટલે તે પ્રશ્નો પૂછતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "હવાને આપણે નરી આંખે જોઈ શકીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (હવા અદ્રશ્ય છે, આપણે તેને ફક્ત અનુભવી શકીએ છીએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા દેખાય નહીં, પણ વાગે ત્યારે ખબર પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કઠિયારો સવારમાં લાકડાં કાપવા જંગલમાં જતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠિયારાનો નિત્યક્રમ સવારથી શરૂ થતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ચશ્મા પર ફૂંક મારી તેને કપડાથી લૂછવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંકનો ભેજ ગંદકી સાફ કરવામાં મદદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "આપણા હૃદયના ધબકારા દર મિનિટે એક સમાન જ રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કામ કે કસરત મુજબ ધબકારા બદલાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરની ગતિ = હૃદયની ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ફૂંક મારવાથી ગરમ ચા ઠંડી થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારની હવા ચાની વરાળને ઉડાડી મૂકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મિયાં બાલિશ્તિયે ડરના માર્યા પાછળ હટવા લાગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિયાંને લાગ્યું કે કઠિયારો કોઈ ભૂત કે જાદુગર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ડોકટર છાતી પર પટ્ટી બાંધીને ધબકારા સાંભળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ડોકટર સ્ટેથોસ્કોપ મૂકીને ધબકારા સાંભળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેથોસ્કોપ સાંભળવા માટે છે, પટ્ટી બાંધવા માટે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ઠંડીમાં ધ્રુજારી ચડે ત્યારે આપણે હાથ ઘસીને ગાલ પર લગાડીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણથી ગરમી પેદા થાય છે.</p></div>"
+    }
+  ]
+}
