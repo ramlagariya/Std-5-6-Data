@@ -3550,3 +3550,161 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "જંગલો કોના?",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૂર્યમણિને નાનપણથી જ જંગલો ખૂબ જ ગમતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણિ = જંગલની દીકરી, તેને જંગલ સાથે જ પ્રેમ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સૂર્યમણિનું ગામ બિહાર રાજ્યમાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (સૂર્યમણિનું ગામ ઝારખંડ રાજ્યમાં આવેલું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝ' થી ઝારખંડ અને 'ઝ' થી ઝાડ (જંગલ) - સૂર્યમણિ ઝારખંડની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જંગલ એ આપણી સૌની સહિયારી બેંક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ એ કોઈ એકની નહીં, પણ આખી કુદરતની 'કોમન બેંક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કુડુક ભાષામાં 'તોરાંગ' નો અર્થ 'ખેતર' થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કુડુક ભાષામાં 'તોરાંગ' એટલે 'જંગલ' થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરાંગ = જંગલ (T-J યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૂર્યમણિ ભણીને બી.એ. (B.A.) પાસ કરનાર તેના ગામની પહેલી છોકરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણિએ ભણીને ચમકતા સિતારા જેવું કામ કર્યું, એટલે તે ગ્રેજ્યુએટ થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જંગલ હક્ક કાયદો વર્ષ 2007 માં અમલમાં આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હક્ક (H) માટે 'સાત' (7) આપવો પડે - 2007.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જે લોકો જંગલમાં ઓછામાં ઓછા 10 વર્ષથી રહેતા હોય તેમને જંગલની જમીન પર હક્ક મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (જે લોકો ઓછામાં ઓછા 25 વર્ષથી જંગલમાં રહેતા હોય તેમને હક્ક મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હક્ક માટે 'પચ્ચીસી' (25 વર્ષ) પૂરી કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઝૂમ ખેતીમાં જમીનને ખેડવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ઝૂમ ખેતીમાં જમીનને ખેડવામાં આવતી નથી, પણ હળવેથી ખોદવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝૂમ ખેતી એટલે 'નો ટિલીંગ' (ખેડ્યા વગરની ખેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મિઝોરમ રાજ્યના મોટાભાગના લોકો ખેતી સાથે જોડાયેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વતીય વિસ્તારોમાં ખેતી અને જંગલ જ મુખ્ય આધાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચેરાવ (Cheraw) નૃત્ય મિઝોરમનું જાણીતું નૃત્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમમાં મજા કરવા 'ચેરાવ' (વાંસનું નૃત્ય) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઝૂમ ખેતીમાં એક જ ખેતરમાં જુદા જુદા પ્રકારના પાક ઉગાડી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝૂમ = મિક્સ પાક (મકાઈ, શાકભાજી, મરચાં બધું સાથે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સૂર્યમણિનું 'તોરાંગ' કેન્દ્ર ફક્ત ડાન્સ શીખવવા માટે હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (તોરાંગ કેન્દ્ર કુડુક જાતિની સંસ્કૃતિ, સંગીત અને પરંપરાઓને જીવંત રાખવા માટે હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરાંગ એટલે કલ્ચરલ હબ, માત્ર ડાન્સ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મિઝોરમમાં કોના ખેતરમાં ખેતી કરવી તેના માટે ચિઠ્ઠી નાખીને લોટરી કાઢવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યાય માટે લોટરી - મિઝોરમની પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઝૂમ ખેતીમાં જંગલ કાપ્યા પછી લાકડાને બહારથી લાવીને સળગાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (તે જ ખેતરના ઘાસ અને છોડને કાપીને ત્યાં જ સળગાવવામાં આવે છે, જે ખાતર બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકલ સળગાવો - રાખ બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક ટીન બીજ જે જમીનમાં વાવી શકાય તેને 'એક ટીન જમીન' કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ડબ્બો (ટીન) બીજ = એક ટીન જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સૂર્યમણિના પિતાને ગામ છોડવાનું કારણ ઠેકેદાર (કોન્ટ્રાક્ટર) હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠેકેદાર શંભુએ જંગલ પર કબજો જમાવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બુધિયા માઈ કહેતા હતા કે 'જંગલ એ આપણી સહિયારી મિલકત છે'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલની વાત - જંગલ સૌનું સાથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સૂર્યમણિએ પત્રકાર વાસવી દીદીની મદદથી 'તોરાંગ' કેન્દ્ર ખોલ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસવી દીદી = સપોર્ટર પત્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મિઝોરમમાં ખેતી માટે લોટરીમાં પહેલું નામ જીમુઈના કુટુંબનું આવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીમુઈ = ફર્સ્ટ ઈન લોટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જંગલમાં રહેતા લોકો જંગલના રક્ષકો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિવાસીઓ = જંગલના સાચા મિત્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૂર્યમણિના ગામમાં લોકો ઠેકેદારના ડરથી બોલી શકતા ન હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠેકેદાર પાસે સત્તા હતી એટલે લોકો ડરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મિઝોરમમાં ચોખાનો પાક લણ્યા પછી તહેવાર મનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લણણી = ઉત્સવ (ચેરાવ ડાન્સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઝૂમ ખેતીમાં જમીનને 10 વર્ષ સુધી ખાલી રાખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (જમીનને થોડા વર્ષો માટે ખાલી રાખવામાં આવે છે, જેનો ચોક્કસ સમય 10 વર્ષ જ હોવો જરૂરી નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થોડા વર્ષ' એટલે રિલેક્સેશન પિરિયડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કુડુક લોકો તેમના જૂના ગીતો અને વાદ્યો ભૂલી જવા માંગતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (તેઓ તેમના ગીતો અને પરંપરાઓને જીવંત રાખવા માંગતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃતિ = ઓળખ, તેને કોઈ ભૂલવા ન માંગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સૂર્યમણિની મહેનતથી બાળકો જંગલની જડીબુટ્ટીઓ વિશે શીખ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કૂલ બહારનું શિક્ષણ - કુદરત સાથે શિક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચેરાવ નૃત્યમાં લોકો વાંસની લાકડીઓ પકડીને જોડીમાં બેસે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસ + તાલ = ચેરાવ નૃત્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મિઝોરમ ભારતના પશ્ચિમ ભાગમાં આવેલું રાજ્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (મિઝોરમ ભારતના પૂર્વ (ઉત્તર-પૂર્વ) ભાગમાં આવેલું રાજ્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેવન સિસ્ટર્સ' પૂર્વમાં છે, મિઝોરમ તેમાંનું એક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઝૂમ ખેતીમાં રાખ (Ash) જમીન માટે ખાતરનું કામ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાખ = નેચરલ ફર્ટિલાઇઝર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સૂર્યમણિએ ગામમાં રહીને જંગલ બચાવવાનું આંદોલન કર્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/?જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ બચાવો - સૂર્યમણિનો નારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સૂર્યમણિના કાકા તેને ભણાવવા માટે શહેરમાં મોકલવા માંગતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે તો જ લડશે - કાકાની દૂરંદેશી.</p></div>"
+    }
+  ]
+}
