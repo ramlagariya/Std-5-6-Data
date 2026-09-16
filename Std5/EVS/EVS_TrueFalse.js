@@ -3841,3 +3841,136 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "ફરી ઊપડ્યા",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધનુના ઘરે દશેરાના તહેવાર પર મીઠી પૂરી (પુરણપોળી) બનાવવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરા = ધનુના ઘરે ગળી રસોઈ (પુરણપોળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મુકાદમ એ ફેક્ટરીનો પ્રતિનિધિ છે જે પરિવારોને લોન પેટે પૈસા આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુકાદમ = પૈસા આપનાર એજન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ધનુના પિતા તેમના ત્રણ ભાઈઓમાં સૌથી નાના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ધનુના પિતા તેમના ભાઈઓમાં સૌથી મોટા છે, તેથી બધા તહેવારો તેમના ઘરે જ ઉજવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતા મોટા = તહેવારની હોસ્ટિંગ તેમના ઘરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વરસાદ ન હોય તેવા છ મહિના દરમિયાન ધનુનો પરિવાર બીજાના ખેતરમાં કામ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ નથી = બીજાના ખેતરમાં મજૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શેરડીના ખેતરમાં કામ કરવા માટે પરિવારો દશેરા પછી સ્થળાંતર કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરા પછી 'ફરી ઊપડ્યા' શેરડી કાપવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ધનુની દાદી અને કાકી પણ તેમની સાથે શેરડીના ખેતરમાં કામ કરવા જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ધનુની દાદી જે જોઈ શકતા નથી, તેની બીમાર કાકી અને બે મહિનાની નાની બહેન ગામમાં ઘરે જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધ અને બીમાર લોકો ગામમાં જ રોકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મુકાદમ પરિવારોને આગળના થોડા મહિનાના ખર્ચ માટે પૈસા ઉછીના આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉછીના પૈસા = મુકાદમની લોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ધનુના પરિવારના લોકો શેરડીના પાન અને ખાલી થયેલી શેરડીના સાઠાંમાંથી ઝૂંપડીઓ બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીનું ખેતર = શેરડીના પાનની ઝૂંપડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ધનુ જ્યારે સ્થળાંતર કરે છે ત્યારે પણ તેની શાળા ચાલુ રહે છે અને તે નિયમિત ભણી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, જ્યારે તેઓ સ્થળાંતર કરે છે ત્યારે ધનુ અને તેના જેવા બીજા બાળકો છ મહિના સુધી શાળાએ જઈ શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળાંતર એટલે ભણતરમાં ભંગાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પુરુષો સવારે વહેલા ઉઠીને શેરડીના ખેતરમાં શેરડી કાપવાનું કામ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનું કામ = શેરડીનું કટિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શેરડીના ભારા બાંધવાનું કામ માત્ર સ્ત્રીઓ જ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, સ્ત્રીઓ અને પુરુષો બંને મળીને શેરડીના ભારા બાંધવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીના ભારા = સ્ત્રી-પુરુષ બંનેની મહેનત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ધનુના મામી ઈચ્છે છે કે ધનુ ભણીને મોટો માણસ બને અને ખેતી મજૂરી ન કરવી પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામીની ઈચ્છા = ધનુનું ઉજ્જવળ ભવિષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બળદગાડાનો ઉપયોગ શેરડીને સુગર ફેક્ટરી સુધી લઈ જવા માટે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિવહન = બળદગાડા અને ટ્રક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ફેક્ટરીમાં શેરડીનું વજન કરીને તેની રસીદ આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજનની રસીદ = કામનો પુરાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ધનુના પિતાને લોન ચૂકવવા માટે મુકાદમ પાસે હિસાબ કરાવવો પડતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, લોનની ચુકવણી માટે મુકાદમ પાસે દર થોડા અઠવાડિયે હિસાબ કરાવવો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોન લીધી એટલે હિસાબ તો આપવો જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધનુ ફેક્ટરી પાસેના બળદગાડા પાસે રમીને અને બળદો સાથે સમય વિતાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધનુનો વિરામ = બળદો સાથેની રમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ધનુના પરિવાર પાસે પોતાની ઘણી બધી જમીન છે તેથી તેઓ આખું વર્ષ ખેતી કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, તેમની પાસે બહુ ઓછી જમીન છે અને વરસાદ વગર તેઓ ખેતી કરી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી જમીન + ઓછો વરસાદ = સ્થળાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્થળાંતર કરનારા પરિવારોના બાળકો ભણી શકતા નથી કારણ કે તેમની શાળા બદલાતી રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરતા ઘર = છૂટતું ભણતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શેરડીમાંથી ગોળ અને ખાંડ બનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી = મીઠાશ (ગોળ/ખાંડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ધનુ તેના દાદીને ખૂબ યાદ કરે છે અને તેમની સંભાળ રાખવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધનુનો પ્રેમ = તેની દાદી માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો નહેર કે પિયતની સગવડ હોય તો વરસાદ વગર પણ ખેતી થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિયત (સિંચાઈ) = બારેમાસ ખેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુકાદમ એ ગામનો સરપંચ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, મુકાદમ એ ફેક્ટરીનો એજન્ટ છે, સરપંચ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુકાદમ = એજન્ટ (પૈસા આપનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધનુના ગામમાં માત્ર ધનુનો પરિવાર જ શેરડી કાપવા જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ગામના ઘણા પરિવારો સાથે મળીને આ સ્થળાંતર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજૂરી માટે આખું કાફલું નીકળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શેરડી કાપતી વખતે હાથમાં ચિરા કે જખમ થવાનો ડર રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીના પાન ધારદાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધનુના મામી તેને ભણાવવા માટે શહેરમાં એકલો મૂકવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, તેઓ ઈચ્છે છે કે ધનુ ગામમાં રહીને ભણે અને તેના દાદીની સેવા કરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતર માટે ગામમાં રહેવું જરૂરી છે.</p></div>"
+    }
+  ]
+}
