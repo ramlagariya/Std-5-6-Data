@@ -255,3 +255,86 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "બીજ, બીજ, બીજ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) મરચાં (2) કોબીજ (3) ભીંડા (4) સોયાબીન \nવિભાગ 'બ': (A) આફ્રિકા (B) ચીન (C) દક્ષિણ અમેરિકા (D) યુરોપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મરચાં અમેરિકાના, કોબીજ યુરોપની, ભીંડા આફ્રિકાના અને સોયાબીન ચીનનું' - આ રીતે દેશ અને વસ્તુ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બીજના ફેલાવાના માધ્યમો જોડો: \nવિભાગ 'અ': (1) હલકા અને રુવાંટીવાળા બીજ (2) કાંટાવાળા બીજ (3) તરતા બીજ (4) ફાટીને ફેલાતા બીજ \nવિભાગ 'બ': (A) નાળિયેર (B) આંકડો (C) વટાણા (D) ગોખરુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-D, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકું હોય તે ઉડે (આંકડો), કાંટાવાળું તે ચોંટે (ગોખરુ), હલકું હોય તે તરે (નાળિયેર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બીજના પ્રકાર સાથે ઉદાહરણ જોડો: \nવિભાગ 'અ': (1) એકદળ બીજ (2) દ્વિદળ બીજ (3) તેલીબિયાં (4) મસાલા તરીકે વપરાતા બીજ \nવિભાગ 'બ': (A) મગ (B) રાયડો (C) ઘઉં (D) ધાણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની બે ફાડ થાય તે દ્વિદળ (મગ), જેનો લોટ થાય તે એકદળ (ઘઉં)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાસ પ્રકારના છોડ અને તેની વિશેષતા જોડો: \nવિભાગ 'અ': (1) કળશપર્ણ (2) વેલ્ક્રોની શોધ (3) ફણગાવેલા બીજ (4) બીજનું અંકુરણ \nવિભાગ 'બ': (A) જ્યોર્જ મેસ્ટ્રલ (B) પૌષ્ટિક આહાર (C) કીટહારી છોડ (D) હવા, પાણી અને ગરમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળશપર્ણ કીડા ખાય, મેસ્ટ્રલ વેલ્ક્રો બનાવે, અંકુરણ માટે ત્રણ સાથી - હવા, પાણી અને ગરમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બીજની સપાટીના આધારે જોડો: \nવિભાગ 'અ': (1) લીસી સપાટીવાળું બીજ (2) ખરબચડી સપાટીવાળું બીજ (3) સપાટ બીજ (4) ગોળ બીજ \nવિભાગ 'બ': (A) ચણા (B) વટાણા (C) રાયડો (D) તરબૂચનું બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા લીસા, ચણા ખરબચડા, તરબૂચ ચપટા અને રાયડો ગોળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ફળો અને શાકભાજીના મૂળ વતનને જોડો: \nવિભાગ 'અ': (1) ટામેટાં (2) વટાણા (3) કોફી (4) કેરી \nવિભાગ 'બ': (A) યુરોપ (B) દક્ષિણ અમેરિકા (C) ભારત (D) આફ્રિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટા-બટાકા અમેરિકાના, વટાણા યુરોપના અને કેરી આપણી દેશી ભારતની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વપરાશના આધારે બીજનું વર્ગીકરણ જોડો: \nવિભાગ 'અ': (1) અનાજ (2) કઠોળ (3) મસાલા (4) તેલીબિયાં \nવિભાગ 'બ': (A) તુવેર (B) બાજરી (C) તલ (D) જીરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજથી રોટલો થાય, કઠોળ દાળ બનાવે, મસાલા સ્વાદ વધારે અને તેલીબિયાં તેલ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બીજના રંગ સાથે જોડકાં જોડો: \nવિભાગ 'અ': (1) રાજમા (2) મગ (3) વટાણા (4) રાયડો \nવિભાગ 'બ': (A) લીલો (B) લાલચોળ / બદામી (C) કાળો (D) લીલો / પીળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજમા લાલ, મગ લીલા, વટાણા લીલા-પીળા અને રાયડો કાળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બીજના ફેલાવામાં પ્રાણીઓ અને પક્ષીઓનો ફાળો જોડો: \nવિભાગ 'અ': (1) પ્રાણીઓના વાળમાં ચોંટીને (2) પક્ષીઓની હગાર (ચણ) દ્વારા (3) મનુષ્યો દ્વારા (4) પાણીમાં વહીને \nવિભાગ 'બ': (A) બીજને બીજે લઈ જવા (B) કમળનું બીજ (C) જાંબુ કે પીપળાનું બીજ (D) ગાડરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-C, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાડરું પ્રાણી સાથે ચોંટે, પક્ષીઓ ઝાડ ઉગાડે અને માણસ જાણીજોઈને વાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શોધ અને તેના સ્ત્રોતને જોડો: \nવિભાગ 'અ': (1) જ્યોર્જ મેસ્ટ્રલ (2) વેલ્ક્રોનો વિચાર (3) શિકારી છોડ (4) સ્વિટ્ઝર્લેન્ડ \nવિભાગ 'બ': (A) ઓસ્ટ્રેલિયા, ઇન્ડોનેશિયા (B) કૂતરાના શરીર પર ચોંટેલા બીજ (C) જ્યોર્જ મેસ્ટ્રલનું વતન (D) વેલ્ક્રોના શોધક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-B, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરો + બીજ = વેલ્ક્રોની શોધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બીજના આકાર અને પ્રકાર જોડો: \nવિભાગ 'અ': (1) સોયાબીન (2) રાયડો (3) જીરું (4) પપૈયાના બીજ \nવિભાગ 'બ': (A) નાના અને ગોળ (B) શીંગ ફાટીને ફેલાય (C) નાના અને કાળા (D) લંબગોળ અને ચપટા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોયાબીન ધડાકા સાથે ફાટે અને પપૈયાના બીજ નાના કાળા હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કઠોળ અને તેના લક્ષણો જોડો: \nવિભાગ 'અ': (1) ફણગાવેલું કઠોળ (2) બાફેલું કઠોળ (3) સૂકું કઠોળ (4) પલાળેલું કઠોળ \nવિભાગ 'બ': (A) ફૂલેલા બીજ (B) ફણગો ફૂટે (C) કઠણ બીજ (D) પોચું બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-D, (3)-C, (4)-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફણગાવેલું એટલે સફેદ પૂંછડી (ફણગો) નીકળે તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "છોડના વિકાસ માટેના પરિબળો જોડો: \nવિભાગ 'અ': (1) હવા (2) પાણી (3) સૂર્યપ્રકાશ (4) માટી \nવિભાગ 'બ': (A) અંકુરણને પોષણ આપે (B) ગરમી પૂરી પાડે (C) શ્વાસ લેવા માટે (D) બીજને ફૂલવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-B, (4)-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા શ્વાસ માટે, પાણી ફૂલવા માટે અને સૂરજ ગરમી માટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બીજના જુદા જુદા નામ જોડો: \nવિભાગ 'અ': (1) વરિયાળી (2) કપાસિયા (3) મકાઈ (4) અડદ \nવિભાગ 'બ': (A) કઠોળ (B) તેલીબિયાં (C) અનાજ (D) મસાલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-B, (3)-C, (4)-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરિયાળી મુખવાસ-મસાલો, કપાસિયાનું તેલ, મકાઈનો રોટલો અને અડદની દાળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શાકભાજીના પિયર (મૂળ સ્થાન) જોડો: \nવિભાગ 'અ': (1) ભીંડા (2) પરવળ (3) સોયાબીન (4) ટામેટા \nવિભાગ 'બ': (A) ચીન (B) ભારત (C) આફ્રિકા (D) દક્ષિણ અમેરિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-B, (3)-A, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગણ-પરવળ-કેરી ભારતીય છે, ભીંડા આફ્રિકન છે!</p></div>"
+    }
+  ]
+}
