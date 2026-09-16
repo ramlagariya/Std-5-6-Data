@@ -114,3 +114,61 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સ્વાદથી પાચન સુધી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) લીંબુ (2) કારેલું (3) ખાંડ (4) મરચું <br>વિભાગ 'બ': (A) ગળ્યો (B) ખાટો (C) તીખો (D) કડવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદની ઓળખ: લીંબુ-ખાટું, કારેલું-કડવું, ખાંડ-ગળી અને મરચું-તીખું! બસ આટલું યાદ રાખો એટલે માર્ક પાકો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (અંગ) ને વિભાગ 'બ' (કાર્ય) સાથે જોડો:<br>વિભાગ 'અ': (1) મોં (2) અન્નનળી (3) જઠર (4) લાળરસ <br>વિભાગ 'બ': (A) ખોરાકને વલોવવાનું કાર્ય (B) ખોરાકને પોચો બનાવવો (C) ખોરાક ચાવવાનું કાર્ય (D) ખોરાકને જઠર સુધી પહોંચાડવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: મોં ચાવે -> નળી પહોંચાડે -> જઠર વલોવે -> લાળ પોચો કરે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જીભના ભાગ અને સ્વાદ પારખવાની ક્ષમતા જોડો:<br>વિભાગ 'અ': (1) જીભનો આગળનો ભાગ (2) જીભનો પાછળનો ભાગ (3) જીભની બંને બાજુ (4) જીભની સપાટી <br>વિભાગ 'બ': (A) કડવો સ્વાદ (B) ગળ્યો સ્વાદ (C) સ્વાદ કલિકાઓ (D) ખાટો અને ખારો સ્વાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ ગળ્યું, પાછળ કડવું, આજુબાજુ ખાટું-ખારું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાચન સમય (જઠરમાં) મુજબ જોડો:<br>વિભાગ 'અ': (1) કાચું દૂધ (2) ઉકાળેલું દૂધ (3) આખું બાફેલું ઇંડું (4) કાચું ઇંડું (ફેંટેલું) <br>વિભાગ 'બ': (A) 2 કલાક (B) 2 કલાક 15 મિનિટ (C) 2 કલાક (D) 3 કલાક 30 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડો. બ્યુમોન્ટનો ચાર્ટ યાદ કરો: કાચું દૂધ સવા બે કલાક અને આખું બાફેલું ઇંડું સાડા ત્રણ કલાક લે છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાત્ર અને તેમાં થતું પાચન (સમય) જોડો:<br>વિભાગ 'અ': (1) જઠરમાં ખોરાકનું પાચન (2) પ્યાલાના પાચકરસમાં પાચન (3) ડૉ. બ્યુમોન્ટ (4) માર્ટિન <br>વિભાગ 'બ': (A) વધારે સમય લાગે (B) ઓછો સમય લાગે (C) પેટમાં બારીવાળો સૈનિક (D) પાચન પર પ્રયોગ કરનાર વૈજ્ઞાનિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટમાં પાચન ઝડપી થાય કારણ કે ત્યાં ખોરાક વલોવાય છે, જ્યારે ગ્લાસમાં વાર લાગે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાત્ર અને તેની શારીરિક સ્થિતિ જોડો:<br>વિભાગ 'અ': (1) રશ્મિ (2) કૈલાશ (3) યોગ્ય આહાર (4) જંક ફૂડ <br>વિભાગ 'બ': (A) ઘરનું રાંધેલું તાજું ભોજન (B) ખૂબ જ પાતળી અને નબળી (C) ચિપ્સ, પિઝા, બર્ગર (D) શરીર જાડું અને બેડોળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રશ્મિ = ગરીબ/નબળી, કૈલાશ = આળસુ/જાડો. સાચો આહાર એટલે ઘરનું જમવાનું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વસ્તુ અને તેના ગુણધર્મ જોડો:<br>વિભાગ 'અ': (1) ગ્લુકોઝ (2) પાચકરસ (3) વરિયાળી (4) મીઠું <br>વિભાગ 'બ': (A) એસિડ જેવો ગુણધર્મ (B) તુરંત શક્તિ આપે (C) ખારો સ્વાદ (D) પાચનમાં મદદરૂપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ એટલે ઇન્સ્ટન્ટ એનર્જી અને જઠરનો રસ એસિડિક હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્વાદ અને તેના ઉદાહરણ જોડો:<br>વિભાગ 'અ': (1) તીખો સ્વાદ (2) કડવો સ્વાદ (3) ખારો સ્વાદ (4) તુરો સ્વાદ <br>વિભાગ 'બ': (A) મેથીના દાણા (B) લવિંગ / મરી (C) આમળાં / હળદર (D) સંચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આમળું ખાઓ તો જીભ થોડી જકડાય એટલે તે તુરો સ્વાદ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખોરાક અને પાચનની સ્થિતિ જોડો:<br>વિભાગ 'અ': (1) ખોરાક ખૂબ ચાવવો (2) ભૂખ લાગવી (3) ઝાડા-ઊલટી (4) મીઠું-ખાંડનું દ્રાવણ <br>વિભાગ 'બ': (A) પેટમાં ગુડગુડ થવું (B) શરીરમાં પાણી ઘટવું (C) પાચન સરળ બને (D) ઓ.આર.એસ (ORS)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 32 વખત ચાવો તો પાચન સુધરે અને ઊલટી થાય તો ખાંડ-મીઠું પીવું પડે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખોરાકના પ્રકાર અને શરીર પર અસર જોડો:<br>વિભાગ 'અ': (1) પ્રોટીનયુક્ત આહાર (2) ગ્લુકોઝના ટીપાં (ડ્રિપ) (3) જંક ફૂડ (4) સંતુલિત આહાર <br>વિભાગ 'બ': (A) થાક અને નબળાઈ દૂર કરવા (B) શરીરની વૃદ્ધિ માટે (C) નિરોગી શરીર (D) પાચન બગાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા ભોજનથી નિરોગી રહેવાય અને ગ્લુકોઝથી શક્તિ મળે! (NJ Classes)</p></div>"
+    }
+  ]
+}
