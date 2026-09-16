@@ -3708,3 +3708,136 @@ var Std5_EVS_TrueFalse = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "જેવા પિતા, તેવી દીકરી",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આશિમા તેના પિતાની જેમ જ જોરથી છીંક ખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીંકવાની આદત કે અવાજ ઘણીવાર વારસામાં પિતા કે પરિવારના સભ્યો જેવો હોઈ શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પોલિયો એ વારસામાં મળતો રોગ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે પોલિયો એ વાયરસથી થતો રોગ છે, તે વારસામાં મળતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિયો = વાયરસ (V), વારસો (W) નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગ્રેગર મેન્ડલે વટાણાના છોડ પર પ્રયોગો કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ + વટાણા = આનુવંશિકતાના પિતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બાળકના વાળનો પ્રકાર (સીધા કે વાંકડિયા) તેના માતા-પિતાના વારસા પર આધાર રાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાળ, આંખો અને ઊંચાઈ એ જીન્સ (વારસા) ની કમાલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગ્રેગર મેન્ડલ એક ગરીબ ખેડૂત પરિવારના હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ ખેડૂત પુત્ર હતા એટલે જ તેમને છોડવામાં રસ પડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો માતા-પિતાને પોલિયો હોય, તો તેમના બાળકને પણ જન્મથી પોલિયો થાય જ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે પોલિયો ચેપી રોગ છે, આનુવંશિક (વારસાગત) નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોગ વાયરસથી હોય તો વારસામાં ન ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વટાણાના છોડમાં આવતી પેઢીના છોડ કાં તો પીળા હોય અથવા લીલા હોય, મિશ્ર રંગના હોતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલનો નિયમ - મિશ્રણ નહીં, પણ લક્ષણોની પસંદગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીલમ અને તેની પિતરાઈ બહેન આયના જોડિયા બહેનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આયના નીલમની માસીની દીકરી (પિતરાઈ) છે, જોડિયા ભાઈ-બહેન નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંબંધોમાં ગૂંચવણ ટાળવી, માસીની દીકરી એટલે બહેન, જોડિયા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગ્રેગર મેન્ડલ ઓસ્ટ્રિયાના સાધુ (મઠના સાધુ) હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = ઓસ્ટ્રિયા + મઠ (Monastery).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આપણી ઊંચાઈ ફક્ત આપણા ખોરાક પર જ આધાર રાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઊંચાઈ વારસામાં મળતા લક્ષણો (જીન્સ) અને ખોરાક બંને પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ = મમ્મી-પપ્પાના ગુણ + પૌષ્ટિક આહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વટાણાના છોડમાં બીજ કાં તો ખરબચડા હોય છે અથવા લીસા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલે જોયું કે લક્ષણો જોડીમાં (લીસા-ખરબચડા) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આપણને કેટલાક લક્ષણો દૂરના સગા (દાદા-દાદી કે નાના-નાની) માંથી પણ મળી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારસો માત્ર મમ્મી-પપ્પાનો જ નહીં, આખા પરિવારનો હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મેન્ડલે લગભગ ૨૮,૦૦૦ છોડ પર ૭ વર્ષ સુધી પ્રયોગો કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૮ હજાર છોડ અને સાત વર્ષની મહેનત એટલે મેન્ડલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જોડિયા બાળકો હંમેશા દરેક બાબતમાં એકસરખા જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જોડિયા બાળકો દેખાવમાં સમાન હોઈ શકે, પણ તેમની આદતો કે આવડત અલગ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાવ સમાન, પણ આદતો અલગ હોઈ શકે (દા.ત. નીલમ અને આરતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બાળકને ગાવાની કળા કે ભાષા શીખવી એ વારસામાં મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કળા કે ભાષા એ વાતાવરણમાંથી શીખવામાં આવે છે, તે જન્મજાત વારસામાં મળતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાવ વારસામાં, આવડત મહેનત અને વાતાવરણમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શીતલના પિતાના હાથમાં ચાર જ આંગળીઓ છે, તો શીતલને પણ ચાર જ આંગળીઓ હશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અકસ્માત કે બીમારીથી આવેલી ખોડખાંપણ વારસામાં ઉતરતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય ફેરફાર (ઈજા) વારસામાં જતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વારસાગત લક્ષણોને વિજ્ઞાનની ભાષામાં 'આનુવંશિકતા' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારસો = આનુવંશિકતા (Heredity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આંખનો રંગ કાળો કે ભૂરો હોવો એ વારસા પર આધારિત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખની કીકીનો રંગ હંમેશા વારસાની દેન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગ્રેગર મેન્ડલની શોધ તેમની જીવિત અવસ્થામાં ખૂબ પ્રખ્યાત થઈ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેમના મૃત્યુના ઘણા વર્ષો પછી અન્ય વૈજ્ઞાનિકોએ તેમના કામનું મહત્વ સમજ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલની કદર તેમના ગયા પછી થઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નવી પેઢીના વટાણાના છોડમાં પીળા બીજવાળા છોડ વધુ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીળો રંગ વટાણામાં પ્રભાવી લક્ષણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો મમ્મીને હસતી વખતે ગાલમાં ખંજન (ડિમ્પલ) પડતા હોય, તો બાળકને પણ પડી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાલના ખંજન પણ એક વારસાગત લક્ષણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લોહીનું જૂથ (બ્લડ ગ્રુપ) એ વારસામાં મળતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. લોહીનું જૂથ હંમેશા માતા-પિતાના વારસા દ્વારા નક્કી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લડ ગ્રુપ = સંપૂર્ણ વારસાગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આપણી બોલવાની રીત પણ ઘણીવાર આપણા પરિવારના સભ્યો જેવી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદતો અને બોલવાની ઢબ પરિવારના અનુકરણ અને વારસાથી આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જે છોડના બીજ લીસા હોય તેની બીજી પેઢીમાં ખરબચડા બીજ હોઈ શકે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મેન્ડલે સાબિત કર્યું કે વારસામાં સુષુપ્ત લક્ષણો પછીની પેઢીમાં દેખાઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છુપાયેલા ગુણો બીજી પેઢીમાં બહાર આવી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માતા તરફના સગાને પિતરાઈ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. માતા તરફના સગાને મોસાળ પક્ષના સગા કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા એટલે મોસાળ, પિતા એટલે પિતરાઈ.</p></div>"
+    }
+  ]
+}
