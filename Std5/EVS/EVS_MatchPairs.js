@@ -172,3 +172,86 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "કેરીઓ આખું વર્ષ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' માં આપેલા ખોરાકને વિભાગ 'બ' માં આપેલી તેની સાચવવાની રીત સાથે જોડો:<br>વિભાગ 'અ': (1) દૂધ, (2) રાંધેલા ભાત, (3) લીલા ધાણા<br>વિભાગ 'બ': (A) વાટકામાં રાખી તે વાટકું પાણી ભરેલા વાસણમાં રાખવું, (B) ઉકાળવું, (C) ભીના કપડામાં વીંટાળીને રાખવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધને 'ઉકાળો', ભાત 'પાણી' માં (વાટકા દ્વારા) ઠારો, અને ધાણા 'ભીના' કપડે સાચવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' માં આપેલા ખોરાકને વિભાગ 'બ' માં તેની બગડવાની નિશાની સાથે જોડો:<br>વિભાગ 'અ': (1) બ્રેડ કે રોટલી, (2) દૂધ, (3) બટાટાનું શાક<br>વિભાગ 'બ': (A) ખાટી ગંધ આવવી, (B) ઉપર સફેદ ફૂગ જામવી, (C) ચીકણું થઈ જવું અને દુર્ગંધ આવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેડ પર 'ફૂગ' (રૂ જેવી), દૂધ 'ખાટું' અને શાક 'ચીકણું'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કેરીના પાપડ (મામીડી તાંડ્રા) બનાવવા માટેની સામગ્રી જોડો:<br>વિભાગ 'અ': (1) કેરીનો રસ, (2) ગોળ અને ખાંડ, (3) તડકો<br>વિભાગ 'બ': (A) ગળપણ અને જાળવણી માટે, (B) સુકવવા માટે, (C) મુખ્ય સામગ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ એ 'મુખ્ય' છે, ગળપણ (ગોળ-ખાંડ) 'સ્વાદ' છે, તડકો 'સુકાઈ' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કેરીની વિવિધ વાનગીઓ અને તેના સમયગાળાને જોડો:<br>વિભાગ 'અ': (1) કેરીનું અથાણું, (2) તાજી કેરીનો રસ, (3) કેરીના પાપડ<br>વિભાગ 'બ': (A) એક દિવસમાં વાપરવો, (B) આખું વર્ષ ચાલે, (C) લાંબો સમય સાચવી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથાણું 'બારેમાસ', રસ 'તરત' અને પાપડ 'લાંબો સમય'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વસ્તુઓ અને તેના સંગ્રહના સ્થળને જોડો:<br>વિભાગ 'અ': (1) ડુંગળી-લસણ, (2) રાંધેલો ખોરાક, (3) અથાણું<br>વિભાગ 'બ': (A) રેફ્રિજરેટરમાં (ફ્રીજ), (B) સૂકી અને ખુલ્લી જગ્યામાં, (C) કાચની બરણીમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસણ 'ખુલ્લે' આમ, રાંધેલું 'ફ્રીજ' માં, અથાણું 'બરણી' માં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કેરીના પાપડ બનાવવા વપરાતા સાધનો જોડો:<br>વિભાગ 'અ': (1) માછડો બનાવવા માટે, (2) ચટાઈ બનાવવા માટે, (3) રસ ગાળવા માટે<br>વિભાગ 'બ': (A) તાડના ઝાડના પાન, (B) નીલગિરીના થાંભલા, (C) પાતળું સુતરાઉ કાપડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાંભલાનો 'માછડો', પાનની 'ચટાઈ', અને કાપડથી 'ગાળણ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખોરાક સાચવવાની રીતો અને તેના ઉદાહરણ જોડો:<br>વિભાગ 'અ': (1) સુકવણી, (2) મીઠું ઉમેરવું, (3) તેલ ઉમેરવું<br>વિભાગ 'બ': (A) કેરીનું અથાણું, (B) પાપડ કે કાતરી, (C) આમળાં કે આંબલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકે 'સુકાઈ' પાપડ, 'મીઠું' આમળાંમાં, અને 'તેલ' અથાણાંમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કેરીના પાપડ (મામીડી તાંડ્રા) ની પ્રક્રિયાના ક્રમ જોડો:<br>વિભાગ 'અ': (1) પ્રથમ અઠવાડિયું, (2) ચાર અઠવાડિયા પછી, (3) અંતિમ સ્થિતિ<br>વિભાગ 'બ': (A) પાપડના થર પર થર જામવા, (B) કેરીના રસના થરની શરૂઆત, (C) સોનેરી કેક જેવું દેખાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત 'થર' થી, મહેનત '4 અઠવાડિયા' અને છેલ્લે 'સોનેરી કેક'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખોરાક બગડવા માટેના જવાબદાર પરિબળો જોડો:<br>વિભાગ 'અ': (1) ભેજ, (2) ગરમી, (3) હવા<br>વિભાગ 'બ': (A) ફૂગ ઉગવા માટે અનુકૂળતા, (B) ખોરાક જલ્દી બગાડે, (C) સૂક્ષ્મ જીવો ફેલાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજથી 'ફૂગ', ગરમીથી 'બગાડ', હવાથી 'જીવજંતુ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કેરીની વાનગીઓ અને તે બનાવવાની રીત જોડો:<br>વિભાગ 'અ': (1) મુરબ્બો, (2) અથાણું, (3) છુંદો<br>વિભાગ 'બ': (A) કેરીના છીણમાં ખાંડ નાખી તડકે રાખવી, (B) તેલ અને મસાલા સાથે લાંબો સમય રાખવી, (C) ખાંડની ચાસણીમાં કેરીના ટુકડા ઉકાળવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - B, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુરબ્બો 'ચાસણી' માં, અથાણું 'તેલ' માં, અને છુંદો 'છીણ' માં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તારીખ અને પેકેટની વિગતો જોડો:<br>વિભાગ 'અ': (1) પેકિંગ તારીખ, (2) એક્સપાયરી ડેટ, (3) કિંમત<br>વિભાગ 'બ': (A) વાપરવાની અંતિમ તારીખ, (B) MRP (મહત્તમ છૂટક કિંમત), (C) ઉત્પાદન થયાનો સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેકિંગ એટલે 'બનવું', એક્સપાયરી એટલે 'પૂરું', અને કિંમત એટલે 'MRP'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાઠના પાત્રો અને તેમના કાર્યો જોડો:<br>વિભાગ 'અ': (1) અલ્પેશ અને મહેન્દ્ર, (2) પિતાજી, (3) માતા<br>વિભાગ 'બ': (A) કેરીના પાપડ માટે ગોળ-ખાંડ લાવ્યા, (B) કેરીના પાપડ બનાવવામાં મદદ કરી, (C) કેરીના રસમાં ગોળ-ખાંડ ભેળવી ચટાઈ પર ફેલાવ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાજી 'સામગ્રી' લાવ્યા, મમ્મીએ 'રસ' ફેલાવ્યો, ભાઈઓએ 'મદદ' કરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્થળ અને તેની વિશેષતા જોડો:<br>વિભાગ 'અ': (1) આત્રેયપુરમ, (2) તડકો, (3) રસોડું<br>વિભાગ 'બ': (A) આંધ્રપ્રદેશનું ગામ, (B) ભેજવાળી અને ગરમ જગ્યા, (C) બાષ્પીભવન માટે જરૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આત્રેયપુરમ 'આંધ્ર' માં, તડકો 'સુકવવા' માં, રસોડું 'બગાડ' માં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઋતુ અને ખોરાક બગડવાની શક્યતા જોડો:<br>વિભાગ 'અ': (1) ઉનાળો, (2) ચોમાસું, (3) શિયાળો<br>વિભાગ 'બ': (A) ખોરાક સૌથી ઓછો બગડે, (B) ગરમીને કારણે ખોરાક જલ્દી બગડે, (C) ભેજને કારણે ફૂગ જલ્દી લાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળે 'ગરમી', ચોમાસે 'ભેજ', શિયાળે 'નિરાંત'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અન્ય અથાણાંની વસ્તુઓ અને તેની સામગ્રી જોડો:<br>વિભાગ 'અ': (1) લીંબુનું અથાણું, (2) ગાજરનું અથાણું, (3) ગુંદાનું અથાણું<br>વિભાગ 'બ': (A) રાયડાના કુરિયા અને તેલ, (B) ખાંડ કે મીઠું, (C) મીઠું અને હળદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીંબુ 'ખાટા-મીઠા', ગાજર 'પીળા-નમકીન' (હળદર), ગુંદા 'તેલીયા'!</p></div>"
+    }
+  ]
+}
