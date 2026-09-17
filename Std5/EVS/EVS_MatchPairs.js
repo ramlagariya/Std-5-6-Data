@@ -998,3 +998,61 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સ્વચ્છતા આપણું કામ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. મહાત્મા ગાંધી <br> 2. મહાદેવભાઈ દેસાઈ <br> 3. નારાયણ (બાબલા) <br> --- <br> (A) ગાંધીજીના મિત્ર <br> (B) સાબરમતી આશ્રમના પ્રણેતા <br> (C) મહાદેવભાઈના પુત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) સાબરમતી આશ્રમના પ્રણેતા <br>2 - (A) ગાંધીજીના મિત્ર <br>3 - (C) મહાદેવભાઈના પુત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી 'મેઈન', મહાદેવ 'મિત્ર' અને બાબલા તેમનો 'બાળક' (પુત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સાબરમતી આશ્રમ <br> 2. વર્ધા <br> 3. ગોરેગામ <br> --- <br> (A) મહારાષ્ટ્રનું એક શહેર <br> (B) અમદાવાદ (ગુજરાત) <br> (C) મહારાષ્ટ્ર (ભીમરાવની મુલાકાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) અમદાવાદ (ગુજરાત) <br>2 - (A) મહારાષ્ટ્રનું એક શહેર <br>3 - (C) મહારાષ્ટ્ર (ભીમરાવની મુલાકાત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબરમતી - અમદાવાદ, વર્ધા - મહારાષ્ટ્ર અને ગોરેગામ - ભીમરાવનું નાનપણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. ડૉ. બાબાસાહેબ આંબેડકર <br> 2. ગાંધીજી <br> 3. સફાઈ કામદારો <br> --- <br> (A) અસ્પૃશ્યતા નિવારણ <br> (B) ભારતનું બંધારણ <br> (C) સમાજની ગંદકી સાફ કરનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ભારતનું બંધારણ <br>2 - (A) અસ્પૃશ્યતા નિવારણ <br>3 - (C) સમાજની ગંદકી સાફ કરનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાબા સાહેબ - બંધારણ, ગાંધીજી - છૂતાછૂત દૂર કરવી (અસ્પૃશ્યતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. જૂના સમયના શૌચાલય <br> 2. અત્યારના શૌચાલય <br> 3. આશ્રમમાં શૌચાલયની સફાઈ <br> --- <br> (A) દરેક વ્યક્તિએ પોતે કરવી પડતી <br> (B) ડબ્બા/બાસ્કેટવાળા <br> (C) ફ્લશ કે ખાડાવાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ડબ્બા/બાસ્કેટવાળા <br>2 - (C) ફ્લશ કે ખાડાવાળા <br>3 - (A) દરેક વ્યક્તિએ પોતે કરવી પડતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું એટલે ડબ્બા, નવું એટલે ફ્લશ, અને ગાંધીજીનો નિયમ એટલે 'પોતાનું કામ પોતે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. નારાયણભાઈ દેસાઈ <br> 2. ભીમરાવ આંબેડકર <br> 3. મહેમાન (આશ્રમમાં) <br> --- <br> (A) શૌચાલય સાફ કરતા શીખવું પડતું <br> (B) સાબરમતી આશ્રમમાં બાળપણ <br> (C) નાનપણમાં અન્યાયનો અનુભવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) સાબરમતી આશ્રમમાં બાળપણ <br>2 - (C) નાનપણમાં અન્યાયનો અનુભવ <br>3 - (A) શૌચાલય સાફ કરતા શીખવું પડતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારાયણ = બાબલાનું બાળપણ, ભીમરાવ = અન્યાય સામે લડત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સફાઈ <br> 2. અસ્પૃશ્યતા <br> 3. શ્રમનું સન્માન <br> --- <br> (A) દરેક વ્યવસાયને માન આપવું <br> (B) આપણું જ કામ છે <br> (C) એક ગંભીર સામાજિક બદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) આપણું જ કામ છે <br>2 - (C) એક ગંભીર સામાજિક બદી <br>3 - (A) દરેક વ્યવસાયને માન આપવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા એટલે આપણું કામ, ભેદભાવ એટલે બદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સાવરણી <br> 2. ડસ્ટબિન (કચરાપેટી) <br> 3. માસ્ક અને ગ્લવ્ઝ <br> --- <br> (A) સફાઈ કામદારોની સુરક્ષા <br> (B) કચરો વાળવા માટે <br> (C) કચરો એકઠો કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) કચરો વાળવા માટે <br>2 - (C) કચરો એકઠો કરવા માટે <br>3 - (A) સફાઈ કામદારોની સુરક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવરણી વાળે, પેટી રાખે, અને માસ્ક બચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. 'સંત ચરણરજ સેવિત' પુસ્તક <br> 2. નારાયણભાઈના પિતા <br> 3. ગાંધીજીના આધ્યાત્મિક વિચારો <br> --- <br> (A) મહાદેવભાઈ દેસાઈ <br> (B) સત્ય અને અહિંસા <br> (C) નારાયણભાઈ દેસાઈ લિખિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) નારાયણભાઈ દેસાઈ લિખિત <br>2 - (A) મહાદેવભાઈ દેસાઈ <br>3 - (B) સત્ય અને અહિંસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક બાબલાનું, પિતા મહાદેવભાઈ અને વિચારો ગાંધીજીના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. મહારાષ્ટ્રનું વર્ધા શહેર <br> 2. ભીમરાવની ઉંમર (ઘટના સમયે) <br> 3. બાબલાની ઉંમર (આશ્રમમાં) <br> --- <br> (A) આશરે 7 વર્ષ <br> (B) ગાંધીજી ત્યાં રહેવા ગયા હતા <br> (C) 9 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ગાંધીજી ત્યાં રહેવા ગયા હતા <br>2 - (C) 9 વર્ષ <br>3 - (A) આશરે 7 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો બાબલો (7), મોટો ભીમ (9), વર્ધામાં ગાંધીજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. હરિજન <br> 2. દલિત <br> 3. સમાનતા <br> --- <br> (A) કચડાયેલા કે પીડિત <br> (B) ભેદભાવ વગરનો વ્યવહાર <br> (C) ઈશ્વરના માણસો (ગાંધીજીએ આપેલું નામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) ઈશ્વરના માણસો (ગાંધીજીએ આપેલું નામ) <br>2 - (A) કચડાયેલા કે પીડિત <br>3 - (B) ભેદભાવ વગરનો વ્યવહાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિ એટલે ભગવાનના માણસો, સમાનતા એટલે બધા સરખા.</p></div>"
+    }
+  ]
+}
