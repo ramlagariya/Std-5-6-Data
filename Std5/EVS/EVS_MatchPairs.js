@@ -784,3 +784,86 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "પહાડી રહેઠાણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લેહ<br>2. મુંબઈ<br>3. ચાંગથાંગ<br><br>વિભાગ B:<br>A. ભીડભાડવાળું શહેર<br>B. ઠંડુ રણ<br>C. દરિયાની સપાટીથી 5000 મીટર ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેહમાં ઠંડી એટલે ઠંડુ રણ, મુંબઈમાં ભીડ અને ચાંગથાંગ એટલે ઉંચાઈ (5000m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રેબો<br>2. લેખા<br>3. ડોંગા<br><br>વિભાગ B:<br>A. પથ્થરોથી બનેલી પ્રાણીઓની જગ્યા<br>B. ચાંગપા જાતિના શંકુ આકારના તંબુ<br>C. શ્રીનગરમાં પાણીમાં રહેતું મકાન (બોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેબો'માં રહો, 'લેખા'માં લાખો (પ્રાણીઓ) રાખો, અને 'ડોંગા' એટલે ડાલ સરોવરની હોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પશ્મીના શાલ<br>2. ખતમબંદ<br>3. ડબ<br><br>વિભાગ B:<br>A. લાકડામાં કોતરણીની ડિઝાઈન (જિગસો પઝલ જેવી)<br>B. 6 સ્વેટર જેટલી ગરમી આપતી શાલ<br>C. જૂના મકાનોની બહાર નીકળતી બારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્મીના = 6 ગણી ગરમ, ખતમબંદ = લાકડાની કોતરણી બંધ (ફિટ), ડબ = બહાર નીકળતી બારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. શિકારા<br>2. લોનર<br>3. ચાંગપા<br><br>વિભાગ B:<br>A. ગૌરવ જાનીની મોટરસાયકલ<br>B. પ્રવાસીઓ માટેની ખાસ હોડી<br>C. પહાડોમાં રહેતી ભટકતી જાતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકારામાં સવારી, લોનર એટલે એકલી બાઈક, ચાંગપા એટલે પહાડી લોકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લદ્દાખના મકાનો<br>2. મુંબઈના મકાનો<br>3. હાઉસબોટ<br><br>વિભાગ B:<br>A. પથ્થર, ગારો અને ચૂનાના બનેલા બે માળના મકાન<br>B. 80 ફૂટ લાંબી અને 8-9 ફૂટ પહોળી<br>C. બહુમાળી ઈમારતો અને સિમેન્ટના મકાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લદ્દાખ = ગારો/ચૂનો, મુંબઈ = ફ્લેટ, હાઉસબોટ = 80 ફૂટની લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લદ્દાખમાં સ્વાગત<br>2. પશ્મીના બકરીઓ<br>3. લાકડાની છત<br><br>વિભાગ B:<br>A. ખૂબ જ ઊંચાઈ અને ઠંડી જગ્યાએ રહે છે<br>B. 'જૂલે-જૂલે' શબ્દનો પ્રયોગ<br>C. ઠંડીથી બચવા જાડા લાકડાનો ઉપયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂલે-જૂલે એટલે વેલકમ, બકરીઓ ઊંચાઈ પર, અને છત લાકડાની ગરમી માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ચાંગથાંગની ઊંચાઈ<br>2. પશ્મીના શાલ વણવાનો સમય<br>3. શ્રીનગરથી લદ્દાખનો રસ્તો<br><br>વિભાગ B:<br>A. અંદાજે 250 કલાક<br>B. 5000 મીટર<br>C. પહાડી અને પથરાળ રસ્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5000 મીટર (ચાંગથાંગ), 250 કલાક (વણાટ), અને કાશ્મીર એટલે પહાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. મેદાન વિસ્તારના ઘર<br>2. પર્વતીય વિસ્તારના ઘર<br>3. રેબોની અંદરની જગ્યા<br><br>વિભાગ B:<br>A. ઢાળવાળી છત અને લાકડાના બનેલા<br>B. મુંબઈના ફ્લેટ જેવી મોટી રૂમ જેટલી<br>C. પાકી ઈંટો અને સિમેન્ટના બનેલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદાન = ઈંટો, પર્વત = ઢાળવાળી છત (બરફ પડે એટલે), રેબો = મોટો તંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ચાંગપા સ્ત્રીઓ<br>2. ઘેટા-બકરીઓ<br>3. લદ્દાખનો ખોરાક<br><br>વિભાગ B:<br>A. ચાંગપા લોકોની મૂડી અને સંપત્તિ<br>B. પનીર અને દૂધ જેવી વસ્તુઓ<br>C. પશુપાલન અને વણાટકામમાં નિપુણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બકરીઓ = બેંક બેલેન્સ (સંપત્તિ), ખોરાક = દૂધ/પનીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લેહમાં પ્રથમ માળ<br>2. લેહમાં ભોંયતળિયું<br>3. ઘરની છત<br><br>વિભાગ B:<br>A. પ્રાણીઓ અને જરૂરી સામાન માટે<br>B. કુટુંબના રહેવા માટે<br>C. ફળ અને શાકભાજી સૂકવવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે પ્રાણી, ઉપર માણસ, અને છત પર શાકભાજીનો તડકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. યાક ના વાળ<br>2. શંકુ આકારનો તંબુ<br>3. ગૌરવ જાની<br><br>વિભાગ B:<br>A. મુસાફર અને લેખક<br>B. પટ્ટીઓ બનાવીને ગૂંથવા માટે<br>C. પવનથી રક્ષણ મેળવવા માટેની રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાકના વાળની પટ્ટી મજબૂત હોય છે, ગૌરવ જાની આપણો હીરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પશ્મીના બકરીના વાળ<br>2. ગૂંથેલી પટ્ટીઓ<br>3. લાકડાની કોતરણી<br><br>વિભાગ B:<br>A. મકાનની છતની સજાવટ<br>B. માણસના એક વાળ કરતાં 6 ગણા પાતળા<br>C. તંબુ બાંધવા માટે ઉપયોગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્મીનાનો વાળ સાવ ઝીણો (1/6), કોતરણી એટલે સજાવટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ડાલ સરોવર<br>2. પથ્થરના ઘર<br>3. રેબોના ખાડા<br><br>વિભાગ B:<br>A. લદ્દાખ અને કાશ્મીરના ગામડામાં<br>B. શ્રીનગરનું પ્રખ્યાત સરોવર<br>C. જમીનમાં 2 ફૂટ ઊંડા ખોદવામાં આવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ સરોવર શ્રીનગરમાં, રેબો માટે ખાડો ખોદવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. બકરવાલ લોકો<br>2. ચાંગપા લોકો<br>3. ટૂરિસ્ટ (પ્રવાસીઓ)<br><br>વિભાગ B:<br>A. હાઉસબોટ અને શિકારામાં રહેવાનું પસંદ કરે<br>B. લાકડાના અને પથ્થરના ઘરમાં રહે (ઘેટાં ચરાવે)<br>C. ઊંચાઈ પર તંબુમાં રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બકરવાલ નીચા પહાડો પર, ચાંગપા સૌથી ઉંચા પહાડો પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. જિગસો પઝલ<br>2. ઝાલર<br>3. પથ્થર પર કોતરણી<br><br>વિભાગ B:<br>A. જૂના મકાનોના દરવાજા અને બારીઓ પર<br>B. ખતમબંદની ડિઝાઈન જેવી લાગે<br>C. છતની ધાર પર જોવા મળતી ડિઝાઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પઝલ = ખતમબંદ, ઝાલર = છતની કિનારી.</p></div>"
+    }
+  ]
+}
