@@ -306,3 +306,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સાપ અને મદારી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આર્યનાથ કયા વ્યવસાય સાથે જોડાયેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યનાથ મદારીના વ્યવસાય સાથે જોડાયેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્યનાથ = મદારી (બીન વગાડનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આર્યનાથને બીન વગાડવાની કળા કોની પાસેથી શીખવા મળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યનાથને બીન વગાડવાની કળા તેના કુટુંબના સભ્યો (દાદાજી) પાસેથી શીખવા મળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળા હંમેશા વડીલો (વારસો) પાસેથી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મદારીઓના સમુદાયને કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓના સમુદાયને 'કાલબેલિયા' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલબેલિયા = કાળો સાપ પકડનાર બેલિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આર્યનાથના દાદાજીનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યનાથના દાદાજીનું નામ રોશનનાથજી હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્યના દાદા 'રોશન' (પ્રખ્યાત) હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'નાગ ગૂંફન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌરાષ્ટ્ર, ગુજરાત અને દક્ષિણ ભારતમાં રંગોળીમાં, ભરતગૂંથણમાં અને દીવાલ શણગારવામાં વપરાતી નાગ પ્રકારની ડિઝાઈનને 'નાગ ગૂંફન' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગની ડિઝાઇન = નાગ ગૂંફન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મદારીઓ સાપને પકડવા માટે કયા વાંસની ટોપલીનો ઉપયોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓ સાપને રાખવા માટે વાંસની ટોપલીનો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપનું ઘર = વાંસની ટોપલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મદારીઓ સાપના કરડવાના નિશાન પરથી શું જાણી શકતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓ સાપના કરડવાના નિશાન પરથી તે કયા પ્રકારના સાપે કરડ્યું છે તે જાણી શકતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશાન = સાપની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મદારીઓ દવા બનાવવા માટેની સામગ્રી ક્યાંથી મેળવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓ દવા બનાવવા માટેની સામગ્રી જંગલમાંથી એકઠા કરેલા છોડમાંથી મેળવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલના છોડ = દેશી દવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સરકારે જંગલી પ્રાણીઓ માટે કયો કાયદો બનાવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકારે કાયદો બનાવ્યો છે કે કોઈ પણ વ્યક્તિ જંગલી પ્રાણીઓને પકડી શકશે નહીં કે તેમને પાસે રાખી શકશે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન પકડવા + ન રાખવા = વન્યજીવ સુરક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લોકો પ્રાણીઓને શા માટે મારી નાખતા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકો પ્રાણીઓને તેમની ચામડી, દાંત કે અન્ય અંગો મોંઘા ભાવે વેચવા માટે મારી નાખતા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગો વેચવા = પ્રાણીઓની હત્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાલબેલિયા નૃત્યમાં કેવા પ્રકારનું હલનચલન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાલબેલિયા નૃત્યમાં સાપના હલનચલન જેવું જ હલનચલન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલબેલિયા ડાન્સ = સાપ જેવો ડાન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મદારીઓના 'બીન પાર્ટી' ના વાદ્યો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીન પાર્ટીના વાદ્યો બીન, તુંબા, ખંજરી અને ઢોલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બી-તુ-ખં-ઢો (બીન, તુંબા, ખંજરી, ઢોલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બીન, તુંબા અને ખંજરી શામાંથી બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીન, તુંબા અને ખંજરી સુકવેલી દૂધીમાંથી બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદ્યો = સુકવેલી દૂધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારતમાં જોવા મળતા કેટલા પ્રકારના સાપ ઝેરી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મુખ્યત્વે ચાર પ્રકારના સાપ ઝેરી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર 4 સાપ જ ઝેરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારતના ચાર ઝેરી સાપના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોબ્રા (નાગ), કાળોતરો, રસેલ વાઈપર (ખડચિતલો) અને સો-સ્કેલ્ડ વાઈપર (ફુરસા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગ, કાળોતરો, ખડચિતલો અને ફુરસા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સાપને કેટલા ઝેરી દાંત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપને બે પોલા ઝેરી દાંત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે દાંત = ઝેરના ઇન્જેક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાપના ઝેરથી બચવાની દવા શામાંથી બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપના ઝેરથી બચવાની દવા (સીરમ) સાપના ઝેરમાંથી જ બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝેર જ ઝેરને મારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સાપ કરડવાની દવા ક્યાં ઉપલબ્ધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ કરડવાની દવા સરકારી હોસ્પિટલોમાં ઉપલબ્ધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી દવાખાનું = સાપની દવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાપ ખેડૂતનો મિત્ર શા માટે ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ ખેતરમાંથી ઉંદરોને ખાઈ જાય છે, જેથી ઉંદરો પાકને નુકસાન કરતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંદર ખાનાર = ખેડૂતનો મિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મદારીઓ દીકરીના લગ્નમાં ભેટ તરીકે શું આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓ તેમની દીકરીના લગ્નમાં સાપ ભેટમાં આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મદારીની અનોખી ભેટ = સાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શું સાપ બીનનો અવાજ સાંભળી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સાપ બીનનો અવાજ સાંભળી શકતો નથી, તે માત્ર બીનના હલનચલન મુજબ નાચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ બહેરો છે, તે ધ્રુજારી અનુભવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મદારીઓના વ્યવસાય પર પ્રતિબંધ કેમ મૂકવામાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓની રક્ષા કરવા અને તેમના પર થતી ક્રૂરતા રોકવા માટે સરકારે તેમના વ્યવસાય પર પ્રતિબંધ મૂક્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓની સુરક્ષા માટે કાયદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સાપને પકડવા માટે મદારી કયા સાધનનો ઉપયોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપને પકડવા માટે મદારી લાકડી અથવા સીધી રીતે હાથ અને પકડવાની કળાનો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિપુણ હાથ અને કળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નાગ કયા રંગનો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાગ સામાન્ય રીતે કાળા અથવા ઘાટા કથ્થઈ રંગનો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગ = કાળો રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાલબેલિયા જ્ઞાતિના લોકો સાપને શું માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાલબેલિયા લોકો સાપને પોતાનો ખજાનો અને કુટુંબના સભ્યો માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ = મદારીનો ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કયા વાદ્યમાં ચામડાનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢોલ બનાવવામાં ચામડાનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોલ = ચામડું (બાકીના વાદ્યો દૂધીના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સાપના ઝેરી દાંતને અંગ્રેજીમાં શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપના ઝેરી દાંતને 'ફેંગ્સ' (Fangs) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fangs = ઝેરી દાંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શું બધા જ સાપ કરડવાથી માણસ મરી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ભારતમાં મોટાભાગના સાપ બિનઝેરી હોય છે, માત્ર થોડા જ સાપના કરડવાથી મૃત્યુ થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિનઝેરી સાપ = ડરવાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મદારીઓ સાપને ક્યાં પ્રદર્શન કરવા લઈ જતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદારીઓ સાપને એક ગામથી બીજા ગામ પ્રદર્શન કરવા લઈ જતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામે-ગામ ખેલ બતાવવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આર્યનાથે તેના પિતા પાસેથી શું નવું શીખ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યનાથે તેના પિતા પાસેથી સાપના ઝેરી દાંત કાઢવાની અને ઝેરની નળી બંધ કરવાની કળા શીખી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત કાઢવા + નળી બંધ કરવી.</p></div>"
+    }
+  ]
+}
