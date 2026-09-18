@@ -464,3 +464,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સ્વાદથી પાચન સુધી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મુખ્ય સ્વાદો કેટલા છે અને કયા કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્ય છ સ્વાદ છે: ગળ્યો, ખારો, ખાટો, કડવો, તીખો અને તૂરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ-ખા-ખ-ક-તી-તૂ' (બધાના પહેલા અક્ષર યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જીભના કયા ભાગમાં ગળ્યો સ્વાદ જલ્દી પરખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભના સૌથી આગળના ભાગમાં ગળ્યો સ્વાદ જલ્દી પરખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગળ - ગળપણ' (A-G યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જીભના કયા ભાગમાં કડવો સ્વાદ પરખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભના પાછળના ભાગમાં કડવો સ્વાદ પરખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવી દવા ગળે ઉતારતી વખતે 'પાછળ' અસર કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાટો અને ખારો સ્વાદ જીભના કયા ભાગમાં પરખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાટો અને ખારો સ્વાદ જીભની બંને બાજુના ભાગમાં પરખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાજુમાં ખાટું-ખારું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લાળરસ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઢામાં ખોરાક ચાવતી વખતે જે પ્રવાહી ભળે છે તેને લાળરસ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાકનું 'નેચરલ લુબ્રિકન્ટ' એટલે લાળરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખોરાકને ચાવવાનું કાર્ય કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકને ચાવવાનું અને બારીક ભૂકો કરવાનું કાર્ય 'દાંત' કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢામાં આવેલી 'મિક્સર મશીન' એટલે આપણા દાંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખોરાક ચાવવાથી શું ફાયદો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાક ચાવવાથી તેમાં લાળરસ ભળે છે અને તેનું પાચન સરળ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ચાવો = ઝડપી પાચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આપણને ભૂખ લાગે ત્યારે કેવું અનુભવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂખ લાગે ત્યારે પેટ ખાલી લાગે છે, ક્યારેક માથું દુખે છે અથવા ગુસ્સો આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટમાં ઉંદર દોડવા (રૂઢિપ્રયોગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગ્લુકોઝ ડ્રિપ ક્યારે ચઢાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શરીરમાં ખૂબ જ અશક્તિ હોય અથવા સતત ઉલટી-દસ્ત થતા હોય ત્યારે ગ્લુકોઝ ડ્રિપ અપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ = ઇન્સ્ટન્ટ શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ડૉ. બ્યુમોન્ટે કયા સૈનિક પર પાચનના પ્રયોગો કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૉ. બ્યુમોન્ટે 'માર્ટિન' નામના સૈનિક પર પાચનના પ્રયોગો કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉ. બ્યુમોન્ટ + માર્ટિન = પેટનું રહસ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આપણા પેટના પાચકરસનો સ્વભાવ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા પેટનો પાચકરસ એસિડિક (તેજાબી) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાચકરસ = નેચરલ એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખોરાકનું પાચન ક્યાંથી શરૂ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકનું પાચન મોઢાથી જ શરૂ થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલું સ્ટેપ = મોઢું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાચું દૂધ પચતા અંદાજે કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાચું દૂધ પેટમાં પચતા અંદાજે 2 કલાક અને 15 મિનિટ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ પીવામાં 'સવા બે' કલાક લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઉકાળેલું દૂધ પચતા પેટમાં કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉકાળેલું દૂધ પેટમાં પચતા અંદાજે 2 કલાક લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉકાળેલું = 2 કલાક ફિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આખું બાફેલું ઈંડું પચતા પેટમાં કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આખું બાફેલું ઈંડું પેટમાં પચતા 3 કલાક અને 30 મિનિટ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈંડું = સાડા ત્રણ કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જંક ફૂડ એટલે કેવો ખોરાક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિપ્સ, પિઝા, બર્ગર જેવો બહારનો ખોરાક જે સ્વાસ્થ્ય માટે હાનિકારક છે તેને જંક ફૂડ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેકેટ વાળો ખોરાક = જંક ફૂડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "યોગ્ય આહાર કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે આહારમાંથી શરીરને જરૂરી બધા જ પોષક તત્વો મળી રહે તેને યોગ્ય આહાર કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરનું શુદ્ધ ખાણું = યોગ્ય આહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઓડકાર કેમ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટમાં ખોરાકના પાચન દરમિયાન વાયુ ઉત્પન્ન થાય ત્યારે ઓડકાર આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓડકાર = પેટની હવા બહાર આવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આપણું પેટ ખોરાકને પચાવવા માટે શું કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણું પેટ ખોરાકને વલોવવાનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ = કુદરતી વલોણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા પ્રકારનો ખોરાક ખાવાથી શરીરમાં લોહીની ઉણપ (એનિમિયા) થતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલા પાંદડાવાળા શાકભાજી અને પૌષ્ટિક ખોરાક ખાવાથી એનિમિયા થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલા શાકભાજી = લોહી વધારવાનું મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જીભ પરના નાના ટેકરા જેવા ભાગને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભ પરના નાના ટેકરા જેવા ભાગને 'રસાંકુરો' (Taste Buds) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભના ડોટ્સ = રસાંકુરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વરિયાળી ચાવવાથી મોઢામાં શું અનુભવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરિયાળી ચાવવાથી મોઢામાં ઠંડક અને મીઠાશનો અનુભવ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરિયાળી = મોઢાનું ફ્રેશનર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આપણને કઈ કઈ વસ્તુઓ સુગંધથી ઓળખી શકીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે ડુંગળી, લસણ, વરિયાળી, માછલી વગેરે વસ્તુઓ સુગંધથી ઓળખી શકીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુગંધ = નાકનું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પેટમાં ખોરાક પચવાની ક્રિયા બહારના ગ્લાસ કરતા કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટમાં ખોરાક પચવાની ક્રિયા બહારના ગ્લાસ કરતા ખૂબ જ ઝડપી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ = સુપર ફાસ્ટ પ્રોસેસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તળેલું ભોજન પચવામાં કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળેલું ભોજન પચવામાં ભારે હોય છે અને તે વધુ સમય લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલવાળું = ભારે કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જીભનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભનું મુખ્ય કાર્ય સ્વાદ પારખવાનું અને બોલવામાં મદદ કરવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભ = સ્વાદ + સંવાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એસિડિટી ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ખોરાક બરાબર પચે નહીં અથવા ખૂબ તીખું-તળેલું ખાધું હોય ત્યારે એસિડિટી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોટું ખાણું = એસિડિટીનું તાણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "માર્ટિન નામના સૈનિકને ક્યાં ઈજા થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માર્ટિન નામના સૈનિકને પેટના ભાગમાં ગોળી વાગવાથી ઈજા થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્ટિનનું 'કાણું' પેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મીઠા અને ખાંડનું દ્રાવણ ક્યારે પીવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરીરમાં પાણી ઘટી જાય ત્યારે એટલે કે ઝાડા-ઉલટી વખતે મીઠા-ખાંડનું દ્રાવણ પીવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું + ખાંડ = ORS જેવું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આપણને ભાવતી વસ્તુ જોઈને મોઢામાં શું આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાવતી વસ્તુ જોઈને મોઢામાં પાણી (લાળ) આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનપસંદ વસ્તુ = લાળરસ એક્ટિવ.</p></div>"
+    }
+  ]
+}
