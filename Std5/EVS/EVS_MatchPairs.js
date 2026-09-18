@@ -1313,3 +1313,86 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "જેવા પિતા, તેવી દીકરી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પિતાના પિતા<br>2. પિતાની બહેન<br>3. માતાની બહેન<br>4. માતાના ભાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. પિતાના પિતા - દાદા<br>2. પિતાની બહેન - ફોઈ<br>3. માતાની બહેન - માસી<br>4. માતાના ભાઈ - મામા<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતા પક્ષ એટલે 'પ' (પપ્પા-દાદા-ફોઈ) અને માતા પક્ષ એટલે 'મ' (મમ્મી-નાના-માસી-મામા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વટાણાના છોડના લક્ષણો (મેન્ડલનો પ્રયોગ):<br>1. બીજનો રંગ<br>2. બીજની સપાટી<br>3. છોડની ઊંચાઈ<br>4. વારસાગત રોગ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. બીજનો રંગ - પીળો અથવા લીલો<br>2. બીજની સપાટી - લીસી અથવા ખરબચડી<br>3. છોડની ઊંચાઈ - ઊંચા અથવા નીચા<br>4. વારસાગત રોગ નથી - પોલિયો<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા એટલે 'ગ્રેગર મેન્ડલ' અને પોલિયો એ વાયરસથી થાય છે, વારસાથી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પરિવારના સભ્યોના સંબંધો:<br>1. પિતાના ભાઈ<br>2. પિતાના ભાઈની પત્ની<br>3. માતાના પિતા<br>4. માતાની માતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. પિતાના ભાઈ - કાકા<br>2. પિતાના ભાઈની પત્ની - કાકી<br>3. માતાના પિતા - નાના<br>4. માતાની માતા - નાની<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મીના મમ્મી-પપ્પા એટલે 'નાના-નાની' (Nani/Nana start with 'N' for Nanu).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વારસાગત લક્ષણો ઓળખો:<br>1. આંખોનો રંગ<br>2. અવાજ<br>3. ચામડીનો રંગ<br>4. ગીત ગાવાની કળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. આંખોનો રંગ - વારસાગત (માતા-પિતા જેવો)<br>2. અવાજ - વારસાગત (કુટુંબના સભ્ય જેવો)<br>3. ચામડીનો રંગ - વારસાગત લક્ષણ<br>4. ગીત ગાવાની કળા - શીખેલું કૌશલ્ય (વારસાગત નથી)<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જન્મથી મળે તે વારસાગત, જે શીખવું પડે તે કૌશલ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રકરણના પાત્રો અને વિશેષતા:<br>1. આશના<br>2. ગ્રેગર મેન્ડલ<br>3. સતિયા અને કરુણા<br>4. પોલિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. આશના - અરીસા સામે છીંક ખાતી છોકરી<br>2. ગ્રેગર મેન્ડલ - વટાણાના પ્રયોગો કરનાર વૈજ્ઞાનિક<br>3. સતિયા અને કરુણા - જોડિયા બહેનો<br>4. પોલિયો - જે વારસામાં મળતો નથી<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = મઠ-વટાણાના માસ્ટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શારીરિક રચનાનું સામ્ય:<br>1. વાંકડિયા વાળ<br>2. ઊંચાઈ<br>3. નાકનો આકાર<br>4. અંગૂઠા પરની છાપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. વાંકડિયા વાળ - માતા કે પિતા જેવા<br>2. ઊંચાઈ - કુટુંબના સભ્યો જેવી<br>3. નાકનો આકાર - દાદા કે નાના જેવો હોઈ શકે<br>4. અંગૂઠા પરની છાપ - દરેક વ્યક્તિની આગવી ઓળખ<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરમાં સામ્યતા હોય પણ ફિંગરપ્રિન્ટ હંમેશા અલગ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગ્રેગર મેન્ડલ વિશે:<br>1. જન્મ દેશ<br>2. અભ્યાસનું સ્થળ<br>3. પ્રયોગના છોડની સંખ્યા<br>4. મુખ્ય તારણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. જન્મ દેશ - ઓસ્ટ્રિયા<br>2. અભ્યાસનું સ્થળ - મઠ (Monastery)<br>3. પ્રયોગના છોડની સંખ્યા - ૨૮,૦૦૦ વટાણાના છોડ<br>4. મુખ્ય તારણ - લક્ષણો જોડીમાં હોય છે<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૮ હજાર વટાણા, ઓસ્ટ્રિયામાં કર્યા ગણતરીના બાણા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંબંધોનું સાચું નામ:<br>1. ભાઈનો પુત્ર<br>2. બહેનનો પુત્ર<br>3. ફોઈનો પતિ<br>4. માસીનો પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. ભાઈનો પુત્ર - ભત્રીજો<br>2. બહેનનો પુત્ર - ભાણેજ<br>3. ફોઈનો પતિ - ફુવા<br>4. માસીનો પતિ - માસા<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહેનનો ભાણેજ અને ભાઈનો ભત્રીજો – આટલું યાદ રાખજો બીજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આદતો અને લક્ષણો:<br>1. જોરથી હસવું<br>2. છીંક ખાવી<br>3. ભાષા બોલવી<br>4. નૃત્ય કરવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. જોરથી હસવું - પિતા કે માતા જેવી આદત<br>2. છીંક ખાવી - વારસાગત લક્ષણ હોઈ શકે<br>3. ભાષા બોલવી - આસપાસના વાતાવરણમાંથી શીખેલું<br>4. નૃત્ય કરવું - પ્રયત્ન દ્વારા કેળવેલું કૌશલ્ય<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કુદરતી છે તે વારસો, જે મહેનતથી છે તે કૌશલ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બીજની વિશેષતાઓ (મેન્ડલ પ્રયોગ):<br>1. પીળું બીજ X લીલું બીજ<br>2. ખરબચડું બીજ X લીસું બીજ<br>3. ઊંચો છોડ X નીચો છોડ<br>4. નવી પેઢીના વટાણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. પીળું બીજ X લીલું બીજ - રંગના લક્ષણો<br>2. ખરબચડું બીજ X લીસું બીજ - સપાટીના લક્ષણો<br>3. ઊંચો છોડ X નીચો છોડ - ઊંચાઈના લક્ષણો<br>4. નવી પેઢીના વટાણા - વધુ પીળા અને લીસા હોવાની શક્યતા<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણામાં મિશ્રણ થતું નથી, કાં તો લક્ષણ આ હોય કાં તો પેલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માતા પક્ષના સંબંધો:<br>1. માતાના ભાઈની પત્ની<br>2. માતાની માતાના પતિ<br>3. માસીનો પુત્ર<br>4. મામાની પુત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. માતાના ભાઈની પત્ની - મામી<br>2. માતાની માતાના પતિ - નાના<br>3. માસીનો પુત્ર - માસિયાઈ ભાઈ<br>4. મામાની પુત્રી - મમાઈ બહેન<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાના પિયર પક્ષના બધા જ સંબંધોમાં 'મા' શબ્દ આવે (મામા, મામી, માસી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પિતા પક્ષના સંબંધો:<br>1. પિતાના મોટા ભાઈ<br>2. પિતાના નાના ભાઈ<br>3. પિતાના મોટા ભાઈની પત્ની<br>4. પિતાની માતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. પિતાના મોટા ભાઈ - મોટા પપ્પા / બાપુજી<br>2. પિતાના નાના ભાઈ - કાકા<br>3. પિતાના મોટા ભાઈની પત્ની - મોટી મમ્મી / ભાભુ<br>4. પિતાની માતા - દાદી<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાના પરિવારમાં 'દાદા-દાદી' અને 'કાકા-કાકી' મુખ્ય સ્તંભ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વારસાગત લક્ષણો અને અસરો:<br>1. પોલિયો<br>2. વટાણાના પ્રયોગો<br>3. ચહેરાનું નૂર<br>4. ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. પોલિયો - વાયરસજન્ય બીમારી (વારસાગત નથી)<br>2. વટાણાના પ્રયોગો - ગ્રેગર મેન્ડલ<br>3. ચહેરાનું નૂર - વારસાગત સામ્યતા<br>4. ઊંચાઈ - માતા-પિતાના જીન્સ પર આધારિત<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પોલિયો વારસામાં ન મળે' - આ વાક્ય પરીક્ષા માટે ગોખી નાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પરિવારમાં સામ્યતા:<br>1. હસતી વખતે પડતા ખંજન<br>2. વાત કરવાની ઢબ<br>3. ચાલવાની રીત<br>4. વાળનો જથ્થો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. હસતી વખતે પડતા ખંજન - વારસાગત લક્ષણ<br>2. વાત કરવાની ઢબ - અનુકરણ અને વારસો<br>3. ચાલવાની રીત - પિતા કે માતા જેવી હોઈ શકે<br>4. વાળનો જથ્થો - વારસાગત બંધારણ<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખંજન (Dimples) હંમેશા પરિવારના કોઈ સભ્ય પાસેથી જ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જોડિયા બાળકો (સતિયા-કરુણા):<br>1. દેખાવ<br>2. રહેણી-કહેણી<br>3. અભ્યાસ<br>4. ભાષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1. દેખાવ - એકસમાન (જોડિયા હોવાથી)<br>2. રહેણી-કહેણી - અલગ અલગ હોઈ શકે<br>3. અભ્યાસ - રુચિ મુજબ અલગ હોય<br>4. ભાષા - જે વાતાવરણમાં ઉછર્યા હોય તે મુજબ<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાવ વારસો છે, પણ આવડત અને ભાષા એ વાતાવરણની દેન છે.</p></div>"
+    }
+  ]
+}
