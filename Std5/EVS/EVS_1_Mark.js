@@ -622,3 +622,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "કેરીઓ આખું વર્ષ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "હર્ષના ટિફિનમાં કયું શાક બગડી ગયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હર્ષના ટિફિનમાં બટાટાનું શાક બગડી ગયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હર્ષના બટાટા બગડ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખોરાક બગડી ગયો છે તે તમને કેવી રીતે ખબર પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકની વાસ (ગંધ) બદલાઈ જાય અને તેના પર ફૂગ કે ડાઘ જોવા મળે ત્યારે ખબર પડે કે તે બગડી ગયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંધ અને રંગ = બગડેલો સંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રુચિએ હર્ષને બટાટાનું શાક ખાવાની કેમ ના પાડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે બટાટાનું શાક બગડી ગયું હતું અને તે ખાવાથી હર્ષ બીમાર પડી શકે તેમ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગડેલો ખોરાક એટલે માંદગીને આમંત્રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાદ્ય પદાર્થના પેકેટ પર કઈ વિગતો લખેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેકેટ પર કિંમત, વજન, પેકિંગની તારીખ અને એક્સપાયરી ડેટ (વાપરવાની છેલ્લી તારીખ) લખેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવ, ભાર અને તારીખ - આ ત્રણ મુખ્ય વાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દૂધને બગડતું અટકાવવા માટે શું કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂધને બગડતું અટકાવવા માટે તેને ઉકાળવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ કરો, બગડતા રોકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રાંધેલા ભાતને એક દિવસ તાજા રાખવા તમે શું કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાંધેલા ભાતને વાટકીમાં ભરી, તે વાટકીને પાણી ભરેલા વાસણમાં રાખીશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાત માટે પાણીનું કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લીલા ધાણાને તાજા રાખવા કઈ રીત અપનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલા ધાણાને ભીના કપડામાં વીંટાળીને રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાણા + ભીનું કપડું = તાજગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડુંગળી અને લસણને તાજા રાખવા ક્યાં રાખવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડુંગળી અને લસણને સૂકી અને ખુલ્લી જગ્યામાં રાખવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂકું અને ખુલ્લું, ડુંગળી માટે ભલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મામીડી તાંડ્રા બનાવવા માટે કઈ બે વસ્તુઓ કેરીના રસમાં ભેળવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મામીડી તાંડ્રા બનાવવા માટે કેરીના રસમાં ગોળ અને ખાંડ ભેળવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ + ખાંડ = ગળ્યો પાપડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કેરીના પાપડ (મામીડી તાંડ્રા) તૈયાર થતા કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના પાપડ તૈયાર થતા ચાર અઠવાડિયા જેટલો સમય લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 અઠવાડિયાની મહેનત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કેરીના રસમાંથી રેસા જુદા કરવા શાનો ઉપયોગ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના રસમાંથી રેસા જુદા કરવા માટે તેને પાતળા સુતરાઉ કાપડથી ગાળવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપડથી ગાળણ, રેસાનું નિવારણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચિટ્ટીબાબુ અને ચિન્નાબાબુ કયા રાજ્યમાં રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિટ્ટીબાબુ અને ચિન્નાબાબુ આંધ્રપ્રદેશના આત્રેયપુરમ ગામમાં રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંધ્રપ્રદેશના કેરી પ્રેમી ભાઈઓ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બ્રેડ પર ફૂગ લાગવાનું મુખ્ય કારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાં રહેલો ભેજ અને ગરમી બ્રેડ પર ફૂગ લાગવાનું મુખ્ય કારણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ + ગરમી = ફૂગની મોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મામીડી તાંડ્રા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલુગુ ભાષામાં કેરીના પાપડને 'મામીડી તાંડ્રા' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામીડી એટલે કેરી, તાંડ્રા એટલે પાપડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કેરીને આખું વર્ષ માણવા માટે તેમાંથી કઈ કઈ વસ્તુઓ બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીમાંથી અથાણું, મુરબ્બો, છૂંદો, કેરીના પાપડ અને શરબત બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથાણું અને પાપડ, બારેમાસ કેરીની લિજ્જત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મામીડી તાંડ્રા બનાવવા માટે કયા ઝાડના થાંભલા લાવવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મામીડી તાંડ્રા બનાવવા માટે નીલગિરી (Casuarina) ના ઝાડના થાંભલા લાવવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલગિરીના થાંભલાનો ટેકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અથાણાની બરણીમાં મીઠું કેમ નાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠું કુદરતી જાળવણીકાર (Preservative) છે, જે અથાણાને બગડતું અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું એટલે સિક્યોરિટી ગાર્ડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ખાદ્ય પદાર્થો બગડવા પાછળનું મુખ્ય જવાબદાર પરિબળ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂક્ષ્મ જીવાણુઓ (બેક્ટેરિયા) અને ફૂગ ખાદ્ય પદાર્થો બગડવા માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરી આંખે ન દેખાય તેવા દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાચી કેરીમાંથી કઈ વાનગી બને છે જે લાંબો સમય ટકી રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાચી કેરીમાંથી બનતું અથાણું લાંબો સમય ટકી રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચી કેરીનું અથાણું, આખું વર્ષ ખાણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અથાણું ભરવાની બરણીને સૂર્યપ્રકાશમાં કેમ સૂકવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરણીમાં રહેલો ભેજ દૂર કરવા માટે તેને સૂર્યપ્રકાશમાં સૂકવવામાં આવે છે જેથી અથાણું બગડે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ જાય, અથાણું જીતી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કેરીના પાપડ સુકાઈ ગયા પછી તેને શામાં વીંટાળવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના પાપડ સુકાઈ ગયા પછી તેના ટુકડા કરી તેને સાચવવામાં આવે છે (પાઠ મુજબ તેને તાડની ચટાઈ પર સુકવ્યા બાદ ઉતારી લેવાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર પર થર, પાપડ જબ્બર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખોરાકનો બગાડ અને ખોરાક બગડવો એ બંને વચ્ચે શું તફાવત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાક બગડવો એટલે તે ખાવા લાયક ન રહેવો, જ્યારે ખોરાકનો બગાડ એટલે જરૂર કરતાં વધુ રાંધીને તેને ફેંકી દેવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગડવું = કેમિકલ ફેરફાર, બગાડ = વેડફાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચિટ્ટીબાબુએ ગોળ અને ખાંડ કેવી રીતે ભેળવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિટ્ટીબાબુએ ગોળને પહેલાં કચડી નાખ્યો અને પછી ખાંડ સાથે સરખી રીતે ભેળવી દીધો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચડેલો ગોળ + ખાંડ = મિશ્રણ તૈયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કેરીના પાપડ બનાવવા કઈ કેરીનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના પાપડ બનાવવા માટે પાકી અને સૌથી વધુ સારી કેરીઓનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકી કેરી, પાપડ વેરી (Best)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક અઠવાડિયા સુધી તાજી રહી શકે તેવી કોઈ એક વાનગીનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાટા અને ડુંગળી એક અઠવાડિયા સુધી તાજા રહી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટા-ડુંગળી = લોંગ લાઈફ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કેરીના પાપડના થરની જાડાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના પાપડના થરની જાડાઈ લગભગ 4 સેન્ટીમીટર જેટલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 અઠવાડિયા, 4 સેન્ટીમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શાકભાજી ક્યારે બગડેલા ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શાકભાજી પોચા પડી જાય, તેમાંથી દુર્ગંધ આવે કે તેના પર ફૂગ દેખાય ત્યારે તે બગડેલા ગણાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોચું અને ગંધાતું = બગડતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કેરીના પાપડ સુકવવા માટે કઈ જગ્યા પસંદ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરીના પાપડ સુકવવા માટે આંગણામાં તડકો હોય તેવી જગ્યા પસંદ કરવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો એટલે કુદરતી ડ્રાયર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દાદીએ બ્રેડનું પેકેટ કેમ પાછું આપી દીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે બ્રેડ પર લીલા ડાઘ (ફૂગ) જોવા મળ્યા હતા અને તેની વાપરવાની તારીખ પણ પૂરી થઈ ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાઘ દેખાયા, પેકેટ હટાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કેરીના પાપડના થર પર શું ઢાંકવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધૂળ ના પડે તે માટે કેરીના પાપડના થર પર સાંજે સાફ સાડી ઢાંકવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાડી = ધૂળથી સુરક્ષા.</p></div>"
+    }
+  ]
+}
