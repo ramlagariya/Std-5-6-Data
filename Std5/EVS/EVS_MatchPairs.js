@@ -1197,3 +1197,61 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "બીજ કહે છે, ખેડૂતની વાર્તા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> 1. સૂકી દૂધીનો ઉપયોગ <br> 2. લીમડાના પાન <br> 3. અળસિયા <br> 4. ઊંધિયું (ઉંબાડિયું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - બીજ સંગ્રહ કરવા માટે</li><li>2 - બીજને જીવાતથી બચાવવા</li><li>3 - જમીનને ફળદ્રુપ બનાવે</li><li>4 - માટલામાં બનતી વાનગી</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયા = ખેડૂતના ભાઈબંધ, લીમડો = કડવો (જીવાત ભાગે), દૂધી = બીજનું ઘર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખેતીના સાધનો અને તેના કાર્યો જોડો: <br> 1. ટ્રેક્ટર <br> 2. થ્રેસર <br> 3. ઈલેક્ટ્રિક મોટર <br> 4. હળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - જમીન ખેડવા માટે (ઝડપી)</li><li>2 - અનાજ છૂટું પાડવા</li><li>3 - કુવામાંથી પાણી ખેંચવા</li><li>4 - પરંપરાગત રીતે ખેડ કરવા</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેક્ટર એટલે સ્પીડ, થ્રેસર એટલે દાણા છૂટા પાડવાનું મશીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પરંપરાગત વિરુદ્ધ આધુનિક પદ્ધતિઓ જોડો: <br> 1. ગાયનું છાણ <br> 2. કેમિકલ ખાતર <br> 3. બળદ <br> 4. મોટર પંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - કુદરતી ખાતર</li><li>2 - કૃત્રિમ (મોંઘું) ખાતર</li><li>3 - જૂની ખેતીનું પ્રતીક</li><li>4 - નવી સિંચાઈ પદ્ધતિ</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય = કુદરતી, કેમિકલ = ફેક્ટરીમાં બનેલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાક અને તેના પ્રકાર જોડો: <br> 1. બાજરી-ઘઉં <br> 2. કપાસ <br> 3. શાકભાજી <br> 4. કઠોળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - અનાજ</li><li>2 - રોકડિયો પાક</li><li>3 - બગીચાની ખેતી</li><li>4 - પ્રોટીનનો સ્ત્રોત (તુવેર, મગ)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ વેચીને રોકડા પૈસા મળે એટલે રોકડિયો પાક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાનગીઓ અને વિશેષતા જોડો: <br> 1. ઊંધિયું <br> 2. રોટલો <br> 3. માખણ-ઘી <br> 4. ગોળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - ઊંધા માટલામાં બનેલું શાક</li><li>2 - બાજરીના લોટમાંથી બને</li><li>3 - દૂધની પેદાશ</li><li>4 - શેરડીમાંથી બને</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ એનું કામ - માટલું ઊંધું એટલે 'ઊંધિયું'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેતીના બદલાતા સમયના પાત્રો જોડો: <br> 1. દામજીભાઈ <br> 2. હસમુખ <br> 3. પરેશ <br> 4. બાજરીનું બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - જૂની પદ્ધતિના ખેડૂત</li><li>2 - આધુનિક ખેતી કરનાર પુત્ર</li><li>3 - ભણેલો (ટ્રક ડ્રાઈવર બનનાર) પૌત્ર</li><li>4 - વાર્તા કહેનાર પાત્ર</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજીભાઈ = જૂની પેઢી, હસમુખ = નવી પેઢી, પરેશ = ખેતી છોડનાર પેઢી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જમીન અને પર્યાવરણ જોડો: <br> 1. રાસાયણિક ખાતર <br> 2. લાકડાની પેટી <br> 3. નહેર <br> 4. અનાજની જાળવણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - જમીનનો કસ ઘટાડે છે</li><li>2 - બીજ રાખવાની જૂની જગ્યા</li><li>3 - નદીનું પાણી લાવવા</li><li>4 - કીટકોથી રક્ષણ જરૂરી</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ કેમિકલ વાપરો તો જમીન 'થાકી' જાય (કસ ઘટે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખેતીમાં થયેલા ફેરફાર જોડો: <br> 1. પહેલા <br> 2. અત્યારે <br> 3. સિંચાઈ માટે પહેલા <br> 4. સિંચાઈ માટે અત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - તહેવારોની ઉજવણી સાથે ખેતી</li><li>2 - દેવું કરીને ખેતી</li><li>3 - રેટ અને કુવા</li><li>4 - મોટર પંપ અને નહેર</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા ખુશી હતી, અત્યારે ખર્ચ અને દેવું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બીજની વિશેષતાઓ જોડો: <br> 1. હાઈબ્રિડ બીજ <br> 2. જૂના બીજ <br> 3. કપાસનું બીજ <br> 4. બાજરીનું બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - દર વર્ષે નવા ખરીદવા પડે</li><li>2 - ખેડૂત જાતે સાચવી શકતા</li><li>3 - તેમાંથી કાપડ બને</li><li>4 - ગુજરાતનો મુખ્ય ખોરાક</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈબ્રિડ બીજ એટલે 'ખર્ચાળ બીજ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગામડાની જીવનશૈલી જોડો: <br> 1. માટીનું લીંપણ <br> 2. વણકર <br> 3. ખેત મજૂર <br> 4. સહકારી બેંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>1 - કાચા મકાનની દીવાલો</li><li>2 - કપડાં વણવાનું કામ</li><li>3 - બીજાના ખેતરમાં કામ કરનાર</li><li>4 - લોન આપતી સંસ્થા</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટીનું લીંપણ એ ગામડાની શાન, બેંક આપે લોનનું દાન!</p></div>"
+    }
+  ]
+}
