@@ -1255,3 +1255,61 @@ var Std5_EVS_MatchPairs = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "જંગલો કોનાં?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સૂર્યમણી (2) તોરંગ (3) કુડુક<br>વિભાગ 'બ': (A) એક ભાષા (B) સ્ટાર ગર્લ (C) કેન્દ્રનું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂર્ય' આકાશમાં 'સ્ટાર' છે, 'તોરંગ' એ સંસ્થાનું 'કેન્દ્ર' છે અને 'કુડુક' બોલાતી 'ભાષા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) મિઝોરમ (2) ઝારખંડ (3) જંગલ હકનો કાયદો<br>વિભાગ 'બ': (A) સૂર્યમણીનું રાજ્ય (B) વર્ષ 2007 (C) ઝૂમ ખેતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મિઝોરમ' માં 'ઝૂમ', 'ઝારખંડ' માં 'સૂર્યમણી' અને સાત (2007) એ જંગલનો 'સાથ' (હક) આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ચેરાવ (2) એક ટીન જમીન (3) જંગલો<br>વિભાગ 'બ': (A) કુદરતી સંપત્તિ (B) નૃત્ય (C) જમીન માપવાનો એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચેરાવ' માં ડાન્સ થાય, 'ટીન' માં બીજ મપાય, અને 'જંગલ' એ સૌની મિલકત ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) વાસવી દીદી (2) મિર્ચ (3) બુદ્ધિયા માઈ<br>વિભાગ 'બ': (A) સૂર્યમણીનો પાલતુ પોપટ (B) પત્રકાર (C) જંગલ બચાવવા માટે લડનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસવી 'લખે' (પત્રકાર), મિર્ચ 'બોલે' (પોપટ), અને બુદ્ધિયા માઈ જંગલ માટે 'લડે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ઝૂમ ખેતીમાં રાખ (2) લૉટરી પદ્ધતિ (3) જંગલ હક કાયદો - વર્ષો<br>વિભાગ 'બ': (A) ખેતી માટે જમીનની ફાળવણી (B) ખાતર તરીકે ઉપયોગી (C) ઓછામાં ઓછા 25 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાખ' એ કુદરતી ખાતર, 'લૉટરી' એ નસીબની જમીન અને '25 વર્ષ' એ કાયદાની શરત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) 'તોરંગ' નો અર્થ (2) સૂર્યમણીનું ગામ (3) જંગલ<br>વિભાગ 'બ': (A) સાઝી (B) જંગલ (C) કુદરતી બેંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરંગ એટલે 'જંગલ', ગામ એટલે 'સાઝી' અને જંગલ એ 'આપણી સહિયારી બેંક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) જંગલના લોકો (2) જંગલ કાપવા માટેના કોન્ટ્રાક્ટર (3) જંગલ બચાવવા આંદોલન<br>વિભાગ 'બ': (A) સૂર્યમણીની લડત (B) આદિવાસી (C) જંગલના દુશ્મન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિવાસી જંગલમાં 'રહે', કોન્ટ્રાક્ટર જંગલ 'કાપે', અને સૂર્યમણી જંગલ 'બચાવે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) વાંસ (2) જંગલના ફળ (3) જંગલના પાન<br>વિભાગ 'બ': (A) ખાવા માટે (B) પતરાળાં બનાવવા (C) ટોપલીઓ બનાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસની ટોપલી, ફળની જ્યાફત, અને પાનના પતરાળાં - જંગલની ભેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ઝૂમ ખેતીમાં નીંદણ (2) લણણી પછીનો તહેવાર (3) જંગલનું સંરક્ષણ<br>વિભાગ 'બ': (A) આખું ગામ સાથે ઉજવે (B) જમીનમાં દબાવી દેવું (C) ગ્રામસભા દ્વારા નિર્ણય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીંદણ 'દબાવો', તહેવાર 'ઉજવો', અને ગ્રામસભામાં જંગલ 'બચાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) બિજોય (2) શમ્મી (3) સૂર્યમણીના પિતા<br>વિભાગ 'બ': (A) નાની ખેતી (B) સૂર્યમણીનો મિત્ર (C) સૂર્યમણીનો પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - B, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિજોય 'પતિ', શમ્મી 'મિત્ર', અને પિતા પાસે 'નાની ખેતી'.</p></div>"
+    }
+  ]
+}
