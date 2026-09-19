@@ -2402,3 +2402,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "જ્યારે ધરતી ધ્રુજી ઊઠી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધરતીકંપ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી અચાનક ધ્રુજી ઊઠે તેને ધરતીકંપ કે ભૂકંપ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી + કંપ (ધ્રુજારી) = ધરતીકંપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કચ્છમાં ભયાનક ધરતીકંપ ક્યારે આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છમાં 26 જાન્યુઆરી, 2001 ના દિવસે ભયાનક ધરતીકંપ આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રજાસત્તાક પર્વ (26 જાન્યુઆરી) ના દિવસે ધરતી ધ્રુજી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જસ્મા કયા ગામની રહેવાસી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જસ્મા કચ્છ વિસ્તારના જામનગર પાસેના 'કુંભારીયા' (પુસ્તક મુજબ કચ્છના ગામડા) ની રહેવાસી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જસ્મા - કચ્છની દીકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ધરતીકંપ સમયે સૌથી પહેલા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ સમયે ગભરાયા વગર ઘરની બહાર ખુલ્લા મેદાનમાં નીકળી જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુજારી આવે - ખુલ્લામાં ભાગો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો તમે ઘરની બહાર ન જઈ શકો, તો ધરતીકંપમાં બચવા શું કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજબૂત ટેબલ નીચે બેસી જવું અને તેના પાયા મજબૂતીથી પકડી રાખવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેબલ પકડો - માથું બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કુદરતી આપત્તિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરત દ્વારા આવતી આફતો જેવી કે ધરતીકંપ, પૂર કે વાવાઝોડું તેને કુદરતી આપત્તિ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આફત કુદરત લાવે તે કુદરતી આપત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધરતીકંપ પછી લોકોની મદદ માટે કોણ કોણ આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ પછી લશ્કરના જવાનો, ડૉક્ટરો, નર્સ, વૈજ્ઞાનિકો અને સ્વૈચ્છિક સંસ્થાઓના લોકો મદદ માટે આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મદદગાર = લશ્કર + ડૉક્ટર + સેવકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એન્જિનિયરોએ ધરતીકંપ પછી કેવા મકાનો બનાવવાની સલાહ આપી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્જિનિયરોએ ધરતીકંપમાં ઓછું નુકસાન થાય તેવા ખાસ પ્રકારના 'ભૂકંપ-પ્રતિરોધક' મકાનો બનાવવાની સલાહ આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજબૂત પાયા - ભૂકંપથી રક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ધરતીકંપમાં કાટમાળ નીચે દબાયેલા લોકોને બહાર કાઢવા કોની મદદ લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાટમાળ નીચે દબાયેલા લોકોને બહાર કાઢવા માટે જેસીબી (JCB) અને લશ્કરના જવાનોની મદદ લેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટમાળ હટાવો - જીવ બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પૂર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદીમાં આવતા પાણીના ધસમસતા પ્રવાહને અથવા અતિશય વરસાદને લીધે પાણી ભરાય તેને પૂર કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પાણી = પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુષ્કાળ ક્યારે પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે લાંબા સમય સુધી વરસાદ ન પડે અને ખેતીના પાક સુકાઈ જાય ત્યારે દુષ્કાળ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદની ગેરહાજરી = દુષ્કાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ધરતીકંપ વખતે કયા પ્રાણીઓ જલ્દી જાણી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ આવતા પહેલાં કૂતરા, પક્ષીઓ અને અન્ય પ્રાણીઓ અજીબ વર્તન કરવા લાગે છે કારણ કે તેઓ ધ્રુજારી પારખી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓની સેન્સ - ધરતીની ધ્રુજારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સુનામી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રના પેટાળમાં ધરતીકંપ આવવાથી સમુદ્રમાં જે વિશાળ મોજાં ઉછળે છે તેને સુનામી કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાનો ભૂકંપ = સુનામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધરતીકંપ પછી જસ્માના ગામે મકાનો બનાવવા કઈ સામગ્રીનો ઉપયોગ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાણ, માટી, ભૂસું અને પથ્થરોનો ઉપયોગ કરીને ફરીથી મજબૂત મકાનો બનાવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયનું છાણ + માટી = કુદરતી ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાવાઝોડું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ ઝડપથી ફૂંકાતા પવનને વાવાઝોડું કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનની સ્પીડ = વાવાઝોડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધરતીકંપમાં ઘરના કયા ખૂણામાં બેસવું સુરક્ષિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપમાં ઘરના મજબૂત ખૂણામાં અથવા મજબૂત ટેબલની નીચે બેસવું સુરક્ષિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો કે ટેબલ - સુરક્ષા ડબલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટીવી પર આવતા સમાચારમાં કયા શહેરની તારાજીની વાત હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીવીના સમાચારમાં અમદાવાદ અને ભુજ શહેરની તારાજીની વાત કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચારમાં અમદાવાદ અને કચ્છ (ભુજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ધરતીકંપ આવ્યા પછી ભોજન અને કપડાંની મદદ કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેવાભાવી સંસ્થાઓ અને સરકાર દ્વારા ભોજન અને કપડાંની મદદ પૂરી પાડવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મદદ કરનાર - સેવાભાવી સંસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આપત્તિ સમયે કયો ફોન નંબર તાત્કાલિક મદદ માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિ સમયે એમ્બ્યુલન્સ માટે 108 અને ફાયર બ્રિગેડ માટે 101 પર ફોન કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 108 = જીવ બચાવનારી એમ્બ્યુલન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ધરતીકંપ માપવાના સાધનને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ માપવાના સાધનને 'સિસ્મોગ્રાફ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુજારીનો ગ્રાફ - સિસ્મોગ્રાફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ધરતીકંપમાં તૂટી પડેલી ઇમારતોને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપમાં તૂટી પડેલી ઇમારતોના ઢગલાને 'કાટમાળ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તૂટેલા ઘર = કાટમાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જસ્માના પિતાજીએ ઘર બનાવવા માટે શું આપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જસ્માના પિતાજીએ નવું ઘર બનાવવા માટે ગોળ અને સિમેન્ટ (જૂના મકાનની સામગ્રી) જેવી ચીજોમાં મદદ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરપંચ અને પિતાજીની ભાગીદારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કુદરતી આપત્તિના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ધરતીકંપ અને (2) પૂર એ કુદરતી આપત્તિના ઉદાહરણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી આફત = ધરતીકંપ + પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ધરતીકંપમાં ઘાયલ થયેલા લોકોની સારવાર કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપમાં ઘાયલ થયેલા લોકોની સારવાર ડૉક્ટરો અને નર્સ દ્વારા હોસ્પિટલો કે કામચલાઉ કેમ્પમાં કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉક્ટર - દર્દીનો ભગવાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભૂકંપ પછી ગામમાં કયા લોકો તંબુ લઈને આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ પછી શહેરમાંથી વૈજ્ઞાનિકો અને સેવાભાવી સંસ્થાઓના લોકો પ્લાસ્ટિકના તંબુ લઈને આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહેવા માટે પ્લાસ્ટિકના તંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ધરતીકંપ બાદ રોગચાળો ન ફેલાય તે માટે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતીકંપ બાદ સફાઈ રાખવી જોઈએ અને પીવાનું પાણી ઉકાળીને પીવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોખ્ખાઈ - બીમારીથી બચાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જ્યારે ધરતી ધ્રુજે ત્યારે લિફ્ટનો ઉપયોગ કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ધરતીકંપ સમયે લિફ્ટનો ઉપયોગ ક્યારેય ન કરવો જોઈએ, દાદર (સીડી) ઉતરીને નીચે આવવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ બંધ - સીડી ચાલુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ધરતીકંપ પછી લોકો કેમ રડતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકોએ પોતાનાં સ્વજનો ગુમાવ્યા હતા અને તેમનાં ઘર-સામાન બધું જ નાશ પામ્યું હતું, તેથી તેઓ રડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નુકસાન + દુઃખ = રુદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ધરતીકંપથી ઘર બચાવવા પાયામાં શું નાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મકાન બાંધતી વખતે એન્જિનિયરની સલાહ મુજબ લોખંડના સળિયા અને કોંક્રિટનો મજબૂત પાયો નાખવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડના સળિયા - મજબૂત પાયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ધરતીકંપ વખતે કયા સ્થળે ઊભા રહેવું જોખમી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટી ઇમારતો, વીજળીના થાંભલા કે ઝાડ નીચે ઊભા રહેવું જોખમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાંભલા અને ઝાડથી દૂર રહો.</p></div>"
+    }
+  ]
+}
