@@ -2036,3 +2036,211 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જો આ ખૂટી જાય તો?",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બસ, કાર અને મોટરસાઇકલ ચલાવવા માટે કયા બળતણની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બસ, કાર અને મોટરસાઇકલ ચલાવવા માટે પેટ્રોલ, ડીઝલ કે સી.એન.જી (CNG) ની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'ગાડીમાં તેલ (બળતણ), તો જ થાય ખેલ (મુસાફરી)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વીના પેટાળમાં રહેલું ખનિજ તેલ કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના પેટાળમાં રહેલું ખનિજ તેલ ઘટ્ટ, કાળું અને ગંધ મારતું પ્રવાહી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ખનિજ તેલ = કાળું + ઘટ્ટ + ગંધવાળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખનિજ તેલ કેવી રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાખો વર્ષો પહેલા જમીન અને સમુદ્રમાં દટાયેલા જીવો અને વનસ્પતિના અવશેષોમાંથી ખનિજ તેલ કુદરતી રીતે બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: લાખો વર્ષ + દટાયેલા જીવો = ખનિજ તેલનો ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખનિજ તેલને શુદ્ધ કરવા માટે ક્યાં મોકલવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનિજ તેલને શુદ્ધ કરવા માટે 'રિફાઇનરી' (Refinery) માં મોકલવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: તેલનું ફિલ્ટર એટલે 'રિફાઇનરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખનિજ તેલમાંથી કયા કયા પદાર્થો મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનિજ તેલમાંથી પેટ્રોલ, ડીઝલ, કેરોસીન, એન્જિન ઓઈલ, વિમાન માટેનું ઇંધણ, એલ.પી.જી, મીણ, ડામર અને ગ્રીસ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'પેટ્રો-ડીઝી-કેરો-મીણ' (આ યાદ રાખવા માટેનું સૂત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "CNG નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CNG નું પૂરું નામ 'કોમ્પ્રેસ્ડ નેચરલ ગેસ' (Compressed Natural Gas) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: C=Compressed, N=Natural, G=Gas.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "LPG નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LPG નું પૂરું નામ 'લિક્વિફાઇડ પેટ્રોલિયમ ગેસ' (Liquefied Petroleum Gas) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: રસોડાનો ગેસ એટલે LPG (L=Liquefied).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાહનોના ધુમાડાથી આપણને કેવા પ્રકારની તકલીફો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનોના ધુમાડાથી ઉધરસ, માથાનો દુખાવો, આંખોમાં બળતરા અને ફેફસાના રોગ જેવી શ્વાસની તકલીફો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ધુમાડો = શ્વાસ અને આંખોનો શત્રુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટ્રાફિક સિગ્નલ પર લાલ લાઈટ હોય ત્યારે આપણે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રાફિક સિગ્નલ પર લાલ લાઈટ હોય ત્યારે વાહનનું એન્જિન બંધ કરી દેવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'એન્જિન બંધ, તેલની બચત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા વાહનોમાં પેટ્રોલ કે ડીઝલની જરૂર પડતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયકલ, પેડલ રિક્ષા અને ઈલેક્ટ્રિક વાહનો (E-bikes/Cars) માં પેટ્રોલ કે ડીઝલની જરૂર પડતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: જે પગથી ચાલે કે વીજળીથી, તેમાં તેલ ના જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વધુ પડતા હોર્ન વગાડવાથી શું નુકસાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ પડતા હોર્ન વગાડવાથી અવાજનું પ્રદૂષણ થાય છે અને કાનની સાંભળવાની શક્તિ ઘટે છે તથા માનસિક તણાવ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'વધારે શોર, કાનમાં જોર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભારતના કયા રાજ્યોમાં તેલના ક્ષેત્રો આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં આસામ, ગુજરાત, મહારાષ્ટ્ર અને આંધ્રપ્રદેશ જેવા રાજ્યોમાં તેલના ક્ષેત્રો આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: આ-ગુ-મ-આ (આસામ, ગુજરાત, મહારાષ્ટ્ર, આંધ્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ચૂલો સળગાવવા માટે કયા બળતણનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂલો સળગાવવા માટે લાકડા, છાણાં અને સૂકા પાંદડા કે ડાળખીઓનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ગામડાનું જૂનું બળતણ = લાકડા + છાણાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અડાલજની વાવ અમદાવાદથી કેટલા કિમી દૂર આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડાલજની વાવ અમદાવાદથી આશરે 18 કિમી દૂર આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'અડાલજની અઢાર' (18).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સૌર ઉર્જાથી ચાલતા સાધનોના બે નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌર કૂકર અને સોલર વોટર હીટર સૌર ઉર્જાથી ચાલતા સાધનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: સૂર્યનો તાપ + ટેકનોલોજી = સોલર સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્લાસ્ટિક અને પેઇન્ટ્સ બનાવવા માટે શેનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસ્ટિક અને પેઇન્ટ્સ બનાવવા માટે પેટ્રોલિયમ (ખનિજ તેલ) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: તેલ માત્ર બળતણ નથી, કલર પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાહનોમાં કયા બળતણનો ઉપયોગ કરવાથી ઓછું પ્રદૂષણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનોમાં સી.એન.જી (CNG) અને વીજળી (Electricity) નો ઉપયોગ કરવાથી ઓછું પ્રદૂષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'ગ્રીન ફ્યુઅલ' એટલે CNG.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કેરોસીનનો ઉપયોગ ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરોસીનનો ઉપયોગ સ્ટવ સળગાવવા માટે અને ફાનસમાં અજવાળું મેળવવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'સ્ટવ અને ફાનસ, કેરોસીન વિના માંદસ (નકામા)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આપણે તેલનો બચાવ શા માટે કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે ખનિજ તેલનો જથ્થો મર્યાદિત છે અને તેને બનતા લાખો વર્ષો લાગે છે, તેથી ભવિષ્ય માટે તેનો બચાવ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'ખૂટી જાય તેવું, સાચવીને વાપરવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દુનિયામાં તેલ ક્યાં મળે છે તે શોધવા માટે કોણ કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૈજ્ઞાનિકો ખાસ પદ્ધતિઓ અને યંત્રોનો ઉપયોગ કરીને પૃથ્વીના પેટાળમાં તેલ ક્યાં છે તે શોધવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: વૈજ્ઞાનિક + મશીન = તેલની શોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લાકડાના ધુમાડાથી રસોઈ કરનારને કયા રોગની શક્યતા રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાકડાના ધુમાડાથી રસોઈ કરનારને ફેફસાના રોગ અને લાંબા સમય સુધી ઉધરસ રહેવાની શક્યતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ધુમાડો ફેફસાનો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ડીઝલનો ઉપયોગ કયા મોટા વાહનોમાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડીઝલનો ઉપયોગ બસ, ટ્રક અને ટ્રેક્ટર જેવા ભારે વાહનોમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ભારે કામ, ડીઝલનું નામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તેલના ભાવ કેમ સતત વધતા રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલનું ઉત્પાદન મર્યાદિત છે અને તેનો વપરાશ દિવસ-દિવસે વધતો જાય છે, તેથી તેના ભાવ વધતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ઓછી વસ્તુ + વધુ લોકો = મોંઘવારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વીજળી પેદા કરવા માટે કયા ખનિજનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીજળી પેદા કરવા માટે મુખ્યત્વે કોલસાનો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: કાળો કોલસો, ધોળી વીજળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક જગ્યાએથી બીજી જગ્યાએ જવા માટે સૌથી સસ્તું સાધન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જગ્યાએથી બીજી જગ્યાએ જવા માટે સાયકલ સૌથી સસ્તું સાધન છે કારણ કે તેમાં કોઈ બળતણની જરૂર પડતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 'સાયકલ ચલાવો, પૈસા બચાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ડ્રાય ક્લીનિંગ કરવા માટે કયા બળતણનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડ્રાય ક્લીનિંગ માટે પેટ્રોલ (પેટ્રોલિયમનું એક રૂપ) નો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: પેટ્રોલ માત્ર ગાડી માટે નહીં, કપડાં માટે પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રસ્તા બનાવવા માટે કયા પદાર્થનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ્તા બનાવવા માટે ડામર (બિટ્યુમેન) નો ઉપયોગ થાય છે જે ખનિજ તેલમાંથી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: તેલનો કચરો એટલે રસ્તાનો ડામર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "છેલ્લા 20 વર્ષમાં ભારતમાં કયા બળતણનો વપરાશ ઘટ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેલ્લા 20 વર્ષમાં ભારતમાં રાંધવા માટે વપરાતા લાકડા અને છાણાંનો વપરાશ ઘટ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ધુમાડો ઘટ્યો, ગેસ વધ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભારતના આશરે કેટલા ટકા લોકો છાણાં અને લાકડાનો ઉપયોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના આશરે બે તૃતિયાંશ (2/3) ભાગના લોકો છાણાં અને લાકડાનો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: 100 માંથી આશરે 66-67 લોકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સૌર ઉર્જા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમાંથી મળતી શક્તિ કે ગરમીને સૌર ઉર્જા કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: સૂર્યની શક્તિ = સૌર ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વધુ ટ્રાફિકના કારણે કયા પ્રકારનું પ્રદૂષણ વધે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ ટ્રાફિકના કારણે વાયુ પ્રદૂષણ (ધુમાડો) અને ધ્વનિ પ્રદૂષણ (હોર્નનો અવાજ) વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ટ્રાફિક = ધુમાડો + ઘોંઘાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો પેટ્રોલ અને ડીઝલ પૃથ્વી પરથી ખતમ થઈ જાય તો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પેટ્રોલ-ડીઝલ ખતમ થઈ જાય તો વાહનવ્યવહાર બંધ થઈ જાય અને જીવન અસ્તવ્યસ્ત થઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: પેટ્રોલ નથી, તો ગતિ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઈંધણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થને સળગાવવાથી શક્તિ કે ગરમી મળે તેને ઈંધણ અથવા બળતણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: સળગે એ બળતણ (ઈંધણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પેટ્રોલ પંપ પર શું લખેલું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટ્રોલ પંપ પર 'તેલ (પેટ્રોલ/ડીઝલ) નો જથ્થો મર્યાદિત છે, તેનો કરકસરપૂર્વક ઉપયોગ કરો' તેવું લખેલું જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: તેલ બચાવો, દેશ બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વીજળીથી ચાલતા વાહનોને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીજળીથી ચાલતા વાહનોને ઈલેક્ટ્રિક વાહનો (Electric Vehicles) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: પેટ્રોલ નહીં, પ્લગ લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ખનિજ તેલ જમીનમાંથી બહાર કાઢવા માટે શેનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનિજ તેલ બહાર કાઢવા માટે પાઇપ અને પંપ (મશીન) નો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: પાઇપ લાઇન, તેલની લાઇન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મોટા શહેરોમાં વાયુ પ્રદૂષણ રોકવા કયો ગેસ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુ પ્રદૂષણ રોકવા રિક્ષા અને બસોમાં CNG ગેસનો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: પ્રદૂષણ મુક્ત ગેસ = CNG.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગ્રીસ અને મીણ ક્યાંથી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રીસ અને મીણ પેટ્રોલિયમ (ખનિજ તેલ) ને શુદ્ધ કરતી વખતે આડપેદાશ તરીકે મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ખનિજ તેલનો ખજાનો બહુ મોટો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ખેતીના કયા સાધનો બળતણથી ચાલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રેક્ટર, હાર્વેસ્ટર અને પિયત માટેના પંપ સેટ બળતણ (ડીઝલ) થી ચાલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: ખેડૂતનો સાથી ટ્રેક્ટર, ડીઝલ છે એનું ફેક્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "છોકરાઓએ અડાલજની વાવ જતી વખતે રસ્તા પર શું ગણ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોકરાઓએ રસ્તા પર પસાર થતા જુદા જુદા વાહનો (સાયકલ, બસ, કાર, મોટરસાઇકલ) ગણ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: વાહનોની ગણતરી, પાઠની શરૂઆત.</p></div>"
+    }
+  ]
+}
