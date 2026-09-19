@@ -938,3 +938,261 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "જળ એ જ જીવન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગડસીસર તળાવ કયા રાજ્યમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર તળાવ રાજસ્થાન રાજ્યના જેસલમેર શહેરમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગડસી' રાજા + 'સર' એટલે તળાવ = જેસલમેર (રાજસ્થાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગડસીસર તળાવ કોણે બંધાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર તળાવ જેસલમેરના રાજા 'ગડસી' એ લોકોની મદદથી 650 વર્ષ પહેલાં બંધાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે: 'ગડસી'સર = રાજા ગડસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગડસીસર તળાવની શું વિશેષતા હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર તળાવની વિશેષતા એ હતી કે જ્યારે એક તળાવ ભરાઈ જતું ત્યારે વધારાનું પાણી નીચેની સપાટીએ બનાવેલા બીજા તળાવમાં જતું, આમ કુલ 9 તળાવો એકબીજા સાથે જોડાયેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગડસીસર = 9 તળાવોની સાંકળ (Chain of 9 lakes).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અલ-બિરુની કયા દેશમાંથી ભારત આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ-બિરુની ઉઝબેકિસ્તાન દેશમાંથી ભારત આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ - ઉ (અલ-બિરુની - ઉઝબેકિસ્તાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અલ-બિરુનીએ ભારતના લોકોની કઈ આવડતના વખાણ કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ-બિરુનીએ ભારતના લોકોની તળાવો બનાવવાની કુશળતા અને પથ્થરોના ચબૂતરા બનાવવાની આવડતના વખાણ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલ-બિરુની + તળાવના વખાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાવ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવ એટલે પગથિયાં વાળો કૂવો, જેમાં પાણી સુધી પહોંચવા માટે પગથિયાં બનાવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવ = પગથિયાં વાળો કૂવો (Step-well).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પહેલાના સમયમાં મુસાફરો માટે પાણીની કેવી વ્યવસ્થા કરવામાં આવતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહેલાના સમયમાં મુસાફરો માટે પરબ (પિયાઉ), મશક અને વાવ દ્વારા પાણીની વ્યવસ્થા કરવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરબ અને મશક = મુસાફરોની તરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મશક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મશક એટલે પાણી ભરવા માટેની ચામડાની કોથળી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશક = ચામડાની બેગ (Leather Water Bag).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉત્તરાખંડમાં નવી પરણેલી સ્ત્રી પાણીના કયા સ્ત્રોતને પૂજવા જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તરાખંડમાં નવી પરણેલી સ્ત્રી ઝરણા અથવા તળાવને પૂજવા જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ દેવ છે, તેથી પૂજા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જમીન પર પડેલું વરસાદનું પાણી ક્યાં ક્યાં એકઠું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદનું પાણી તળાવ, નદી, ખાબોચિયાં, વાવ અને જમીનની નીચે ટાંકામાં એકઠું થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હંમેશા નીચાણવાળા ભાગમાં ભેગું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પાણીનો મુખ્ય સ્ત્રોત કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીનો મુખ્ય સ્ત્રોત વરસાદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેઘરાજા' = પાણીના રાજા (મુખ્ય સ્ત્રોત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જોધપુર (રાજસ્થાન) માં 1986 માં દુકાળ પડ્યો ત્યારે લોકોએ શું કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકોએ ભેગા મળીને જૂની અને પુરાણી વાવમાંથી કચરો સાફ કરીને 200 ટ્રક કરતાં વધારે કચરો બહાર કાઢ્યો અને વાવને જીવંત કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવની સફાઈ = પાણીની કમાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગામડાઓમાં વરસાદનું સ્વાગત કઈ રીતે કરવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તળાવ વરસાદના પાણીથી ભરાઈ જતું ત્યારે લોકો ઉત્સવ મનાવતા અને વધામણાં (પૂજા) કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘ લાડુ અને પૂજા = પાણીનું સ્વાગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પહેલાના જમાનામાં મુસાફરો શા માટે વાવ બંધાવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુસાફરોને તરસ ન લાગે અને તેમને મુસાફરીમાં આરામ તેમજ પાણી મળી રહે તે માટે પુણ્યનું કામ સમજીને વાવ બંધાવવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ્યાને પાણી આપવું એ મોટું પુણ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જેસલમેરમાં વર્ષ દરમિયાન કેટલો વરસાદ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેસલમેરમાં વર્ષ દરમિયાન ખૂબ જ ઓછો વરસાદ પડે છે, ક્યારેક તો આખા વર્ષમાં માંડ 10-12 દિવસ જ વરસાદ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ પ્રદેશ = ઓછો વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાવના પ્રકારોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવના મુખ્ય ચાર પ્રકાર છે: નંદા, ભદ્રા, જયા અને વિજયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન-ભ-જ-વિ (નંદા, ભદ્રા, જયા, વિજયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નંદા પ્રકારની વાવમાં કેટલા પ્રવેશદ્વાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નંદા પ્રકારની વાવમાં એક જ પ્રવેશદ્વાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નંદા = 1 (નંબર 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભદ્રા પ્રકારની વાવમાં કેટલા પ્રવેશદ્વાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભદ્રા પ્રકારની વાવમાં બે પ્રવેશદ્વાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભદ્રા = બે (બ થી બે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જયા પ્રકારની વાવમાં કેટલા પ્રવેશદ્વાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જયા પ્રકારની વાવમાં ત્રણ પ્રવેશદ્વાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયા = ત્રણ અક્ષર = 3 દ્વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિજયા પ્રકારની વાવમાં કેટલા પ્રવેશદ્વાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજયા પ્રકારની વાવમાં ચાર પ્રવેશદ્વાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયા = સૌથી વધુ એટલે કે 4 દ્વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રેઈન વોટર હાર્વેસ્ટિંગ (વરસાદી પાણીનો સંગ્રહ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરના છાપરા પર પડતા વરસાદના પાણીને પાઈપ દ્વારા જમીનમાં બનાવેલી ટાંકીમાં એકઠું કરવાની પદ્ધતિને વરસાદી પાણીનો સંગ્રહ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગાશીનું પાણી -> પાઈપ -> ટાંકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ટાંકા (Tanka) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાંકા એ જમીનની અંદર બનાવેલી પાકી ટાંકી છે જેમાં આખું વર્ષ પીવા માટે વરસાદનું પાણી સંગ્રહિત કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાંકા = ઘરની અંદરનું નાનું 'સર' (તળાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાણીનો વપરાશ ઘટાડવા માટે આપણે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીનો વપરાશ ઘટાડવા માટે આપણે પાણીનો કરકસરપૂર્વક ઉપયોગ કરવો જોઈએ અને ટપકતા નળ રિપેર કરાવવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપે ટીપે સરોવર ભરાય અને ટીપે ટીપે ખાલી પણ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ડરકી માઈ કયા રાજ્યના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડરકી માઈ રાજસ્થાન રાજ્યના અલવર જિલ્લાના એક ગામમાં રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડરકી માઈ = રાજસ્થાનની હિંમતવાન માજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'તરુણ ભારત સંઘ' નામની સંસ્થાએ ડરકી માઈને કેવી રીતે મદદ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરુણ ભારત સંઘ સંસ્થાએ ગ્રામજનો સાથે મળીને નવું તળાવ બનાવ્યું, જેથી પશુઓ માટે પાણી અને દૂધની સમસ્યા હલ થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્થા + લોકો = નવું તળાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કયા કારણોસર કુવાઓ સૂકાઈ રહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલેક્ટ્રિક મોટરથી પાણી ખેંચવામાં આવતું હોવાથી અને વરસાદી પાણી જમીનમાં ઉતરતું અટકવાથી કુવાઓ સૂકાઈ રહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચાણ વધુ + સંગ્રહ ઓછો = કુવા ખાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તળાવના કિનારે પથ્થરોની થાંભલીઓ અને ઓટલાઓ કેમ બનાવવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકો ત્યાં બેસી શકે, તહેવારો ઉજવી શકે અને સંગીત કે નૃત્યના કાર્યક્રમો માણી શકે તે માટે ઓટલા બનાવવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ = જળ + મનોરંજનનું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આજે આપણે પાણી કેવી રીતે મેળવીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આજે આપણે નળ, હેન્ડપંપ, ટ્યુબવેલ (બોર) અને પાણીના ટેન્કર દ્વારા પાણી મેળવીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક સાધનો = નળ અને બોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વરસાદનું પાણી ક્યાં જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદનું પાણી ગટરો, નદીઓ અને તળાવોમાં વહી જાય છે અને કેટલુંક પાણી જમીનમાં ઉતરી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહેતું પાણી નદીમાં, સ્થિર પાણી તળાવમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અલ-બિરુનીના પુસ્તકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ-બિરુનીએ લખેલા પુસ્તકનું નામ 'કિતાબ-ઉલ-હિંદ' (તારીખ-એ-હિંદ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિતાબ (પુસ્તક) + હિંદ (ભારત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સ્ટેપવેલ (Stepwell) માં પાણી ઉપર લાવવાને બદલે લોકો શું કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેપવેલમાં પાણી ઉપર ખેંચવાને બદલે લોકો પોતે પગથિયાં ઉતરીને પાણી સુધી નીચે જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂવામાં દોરડું નીચે જાય, વાવમાં માણસ નીચે જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પાણી એ કેવી સંપત્તિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી એ કુદરતી અને સહિયારી સંપત્તિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતની ભેટ = પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પાણી ચોખ્ખું કરવા માટે શું નાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીને જંતુરહિત કરવા માટે તેમાં પોટેશિયમ પરમેંગેનેટ અથવા ક્લોરીનની ગોળીઓ નાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ દવા (પોટેશિયમ) અથવા ક્લોરીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ગડસીસર તળાવની પાળ પર શું શું આવેલું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર તળાવની પાળ પર સુંદર ઘાટ, શાળાઓ, મંડપ અને મોટા ઓરડાઓ આવેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાટ + શાળા = ગડસીસરની પાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગડસીસર તળાવમાં ક્યારે મેળાવડા જામતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડસીસર તળાવમાં તહેવારોના સમયે સંગીત અને નૃત્યના કાર્યક્રમો માટે મેળાવડા જામતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સવ = આનંદનો મેળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પાણી બચાવવા માટેનો મુખ્ય મંત્ર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી બચાવવા માટેનો મુખ્ય મંત્ર છે: 'જળ એ જ જીવન છે' અને 'પાણીને બચાવો, પાણી આપણને બચાવશે'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવ વોટર, સેવ લાઈફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શું જૂના જમાનામાં લોકો પાણી માટે પૈસા આપતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, જૂના જમાનામાં પાણી મફત મળતું હતું અને તરસ્યાને પાણી પીવડાવવું એ ધર્મનું કાર્ય ગણાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું - સેવા, નવું - સોદાબાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "તામ્રપત્ર અને શિલાલેખ પરથી આપણને શેની માહિતી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તામ્રપત્ર અને શિલાલેખ પરથી આપણને જૂના સમયના રાજાઓ દ્વારા બંધાવેલા તળાવો અને વાવ વિશેની માહિતી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પર લખાણ = શિલાલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચામડાની મશકનો ઉપયોગ કોણ કરતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચામડાની મશકનો ઉપયોગ ખાસ કરીને મુસાફરો અને પખાલીઓ (પાણી પૂરૂં પાડનારા) કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પખાલી + મશક = પાણીની ડિલિવરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વાવની દીવાલો પર શું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવની દીવાલો પર સુંદર કોતરણી, મૂર્તિઓ અને કલાત્મક ભાત જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવ = પાણીનો મહેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "આજે નદીઓ કેમ ગંદી થઈ રહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારખાનાઓના કેમિકલવાળા પાણી અને શહેરના ગંદા પાણીને નદીમાં છોડવાથી નદીઓ ગંદી થઈ રહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી + કચરો = પ્રદૂષિત નદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વરસાદના પાણીને જમીનમાં ઉતારવા માટે શું બનાવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદના પાણીને જમીનમાં ઉતારવા માટે સોક પીટ (શોષખાડા) અથવા રિચાર્જ વેલ બનાવી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીને જમીનમાં પાછું આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "અમદાવાદમાં આવેલી પ્રખ્યાત વાવનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમદાવાદમાં અડાલજની વાવ અને દાદા હરિની વાવ પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડાલજ = અમદાવાદ પાસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પાટણની કઈ વાવને વર્લ્ડ હેરિટેજ સાઈટનો દરજ્જો મળ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાટણની 'રાણીની વાવ' (રાણકી વાવ) ને વર્લ્ડ હેરિટેજ સાઈટનો દરજ્જો મળ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણીની વાવ = પાટણનું ગૌરવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ગડસીસર તળાવના 9 તળાવો શા માટે બનાવ્યા હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદનું એક પણ ટીપું વેડફાય નહીં અને લાંબા સમય સુધી પાણીનો સંગ્રહ થઈ શકે તે માટે 9 તળાવો બનાવ્યા હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ તળાવ = વધુ પાણીનો સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કુવાનું પાણી ડોલ વડે ખેંચવા માટે શાનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુવાનું પાણી ખેંચવા માટે ગરગડી (Pulleys) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરગડી કામ સરળ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પાણીના વેડફાટથી ભવિષ્યમાં શું મુશ્કેલી આવી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીના વેડફાટથી ભવિષ્યમાં પીવાના પાણીની તીવ્ર અછત સર્જાઈ શકે અને દુકાળ જેવી પરિસ્થિતિ આવી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેડફાટ = અછત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વરસાદી પાણીના સંગ્રહ માટે ઘરના કયા ભાગનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદી પાણીના સંગ્રહ માટે ઘરના ધાબા (છાપરા) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છત પરથી પાણી ટાંકીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જૂના કુવાઓ કેમ પુરાઈ ગયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના કુવાઓ કચરો નાખવાથી અને જાળવણીના અભાવે પુરાઈ ગયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો + બેદરકારી = બંધ કુવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "આપણા પૂર્વજો જળ વ્યવસ્થાપન માટે કેવા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા પૂર્વજો જળ વ્યવસ્થાપન માટે ખૂબ જ કુશળ અને દીર્ઘદ્રષ્ટા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વજોની બુદ્ધિ = પાણીની સમૃદ્ધિ.</p></div>"
+    }
+  ]
+}
