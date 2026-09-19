@@ -780,3 +780,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "બીજ, બીજ, બીજ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બીજના ફણગા ફૂટવા માટે કયા ત્રણ પરિબળોની જરૂર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજના ફણગા ફૂટવા માટે હવા, પાણી અને ગરમી (યોગ્ય તાપમાન) ની જરૂર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હ-પા-ગ' યાદ રાખો: હ-હવા, પા-પાણી, ગ-ગરમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જે બીજની બે સરખી ફાડ થાય તેને કેવા બીજ કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બીજની બે સરખી ફાડ થાય તેને 'દ્વિદળ બીજ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ' એટલે બે, 'દળ' એટલે ભાગ. બે ભાગ એટલે દ્વિદળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે બીજની બે સરખી ફાડ ન થાય તેને કેવા બીજ કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બીજની બે સરખી ફાડ ન થાય તેને 'એકદળ બીજ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક' એટલે માત્ર એક જ આખો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કઠોળના બીજ કયા પ્રકારના બીજ છે: એકદળ કે દ્વિદળ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે બધા જ કઠોળના બીજ 'દ્વિદળ બીજ' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠોળ = મગ, ચણા, દાળ. દાળ હંમેશા બે ભાગમાં વહેંચાય (દ્વિદળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હલકા અને પાંખવાળા બીજનો ફેલાવો કયા માધ્યમ દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલકા અને પાંખવાળા બીજનો ફેલાવો 'પવન' દ્વારા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકું હોય તે ઉડે, અને ઉડાડે કોણ? પવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શિકારી છોડ તરીકે ઓળખાતા છોડનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિકારી છોડનું નામ 'કળશપર્ણ' (Nepenthes) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડા (કળશ) જેવો આકાર એટલે 'કળશપર્ણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કળશપર્ણ છોડ કયા જીવજંતુઓનો શિકાર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કળશપર્ણ છોડ દેડકા, ઉંદર અને નાના જીવજંતુઓનો શિકાર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું મોઢું (કળશ), નાના જીવડાં અંદર ફસાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વેલ્ક્રો (Velcro) ની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેલ્ક્રોની શોધ 'જ્યોર્જ મેસ્ટ્રલ' નામના વૈજ્ઞાનિકે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્યોર્જ' - જેણે ચોંટાડ્યું (વેલ્ક્રો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જ્યોર્જ મેસ્ટ્રલને વેલ્ક્રો બનાવવાનો વિચાર કઈ રીતે આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૂતરાના વાળ અને પોતાના કપડાં પર ચોંટી ગયેલા 'બીજ' (ગૉખરુ જેવા) જોઈને તેમને વેલ્ક્રોનો વિચાર આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજના હૂક - વેલ્ક્રોની લૂપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં મરચાં કયા દેશમાંથી આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મરચાં 'દક્ષિણ અમેરિકા' થી આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અમેરિકાના મરચાં' - તીખાં તમતમતાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભારતમાં મરચાં લાવનાર કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ અમેરિકાથી 'પોર્ટુગીઝ' વેપારીઓ ભારતમાં મરચાં લાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોર્ટુગીઝ = પૌષ્ટિક નહીં પણ તીખા મરચા લાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોયાબીનની શિંગો પાકી જાય ત્યારે શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોયાબીનની શિંગો પાકી જાય ત્યારે તે ફાટી જાય છે અને બીજ બહાર ફેંકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોયાબીન એટલે 'ધડાકો' (બીજ ફેંકવાની રીત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભીંડા અને કોબીજ મૂળ કયા દેશના વતની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીંડા આફ્રિકાથી અને કોબીજ યુરોપથી ભારતમાં આવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીંડા-આફ્રિકા, કોબીજ-યુરોપ (ભ-આ, કો-યુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાણી દ્વારા ફેલાતા બીજનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાળિયેરના બીજ પાણી દ્વારા ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર દરિયાકિનારે થાય, પાણીમાં તરીને જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બીજની ઉપરના પડને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજની ઉપરના પડને 'બીજાવરણ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ + આવરણ = બીજાવરણ (બીજનું કવર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રાઈના બીજ કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાઈના બીજ કદમાં નાના, ગોળ અને લીસા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈ-નાની પણ રાઈ જેવી (ઝીણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કપાસના બીજનો ફેલાવો કઈ રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કપાસના બીજ હલકા હોવાથી પવન દ્વારા તેનો ફેલાવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ (રૂ) પવનમાં ઉડે, એટલે બીજ પણ ઉડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચણા કયા પ્રકારનું બીજ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચણા એ દ્વિદળ અને અંકુરિત થઈ શકે તેવું કઠોળનું બીજ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચણાને પલાળીને દબાવો, બે ફાડ થશે (દ્વિદળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા ફળમાં બીજ હોતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેળામાં બીજ હોતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળાં ખાઓ, બીજ કાઢવાની ચિંતા છોડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગૉખરુ જેવા કાંટાવાળા બીજનો ફેલાવો કઈ રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંટાવાળા બીજ પ્રાણીઓના શરીર કે મનુષ્યના કપડાં સાથે ચોંટીને એક જગ્યાએથી બીજી જગ્યાએ ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંટા = ચોંટવું (સ્ટિકર જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કયા મસાલાનો ઉપયોગ બીજ તરીકે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીરું, વરિયાળી, ધાણા અને મેથી મસાલા પણ છે અને બીજ પણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડાના ડબ્બામાં જે આખા મસાલા છે, તે બીજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મગને ફણગાવવા માટે શું કરવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મગને આખી રાત પાણીમાં પલાળી રાખી, પછી ભીના કપડામાં બાંધી રાખવાથી તે ફણગી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલાળવું + બાંધવું = ફણગાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એકદળ બીજના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘઉં, મકાઈ અને બાજરી એકદળ બીજના ઉદાહરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ (ધાન્ય) = એકદળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શેના બીજ સૌથી મોટા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાળિયેરના બીજ (ફળ) કદમાં ઘણા મોટા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર આખું એક બીજ જેવું જ વર્તે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બીજને અંકુરણ માટે હવા ક્યાંથી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીનના કણો વચ્ચે રહેલી જગ્યામાંથી બીજને હવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોચી જમીન = વધારે હવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સોયાબીન મૂળ કયા દેશનું વતની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોયાબીન મૂળ 'ચીન' દેશનું વતની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોયાબીન – ચીન (સ-ચી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા બીજને વનસ્પતિના 'પ્રજનન અંગ' તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ એ નવી વનસ્પતિ ઉત્પન્ન કરવાનું કામ કરતું હોવાથી તેને પ્રજનનનું માધ્યમ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજમાંથી નવો છોડ, એટલે વંશવેલો વધારનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પક્ષીઓ બીજનો ફેલાવો કઈ રીતે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પક્ષીઓ ફળ ખાય છે અને તેના બીજ અપાચિત અવસ્થામાં ચરક (હગાર) દ્વારા બીજી જગ્યાએ ફેલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાધું ક્યાંક, કાઢ્યું ક્યાંક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ટમેટાં કયા દેશમાંથી ભારતમાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટમેટાં પણ 'દક્ષિણ અમેરિકા' થી જ ભારતમાં આવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચાં + ટમેટાં + બટાટા = અમેરિકા ત્રિપુટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બીજની અંદર શું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજની અંદર 'ભ્રૂણ' (નનકડો છોડ) અને ખોરાકનો સંગ્રહ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ = છોડનું નાનું ઘર.</p></div>"
+    }
+  ]
+}
