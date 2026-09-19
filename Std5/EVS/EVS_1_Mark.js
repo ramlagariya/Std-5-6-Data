@@ -1329,3 +1329,136 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "મચ્છર, રોગો અને સારવાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મલેરિયા કયા પ્રકારના મચ્છર કરડવાથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલેરિયા માદા એનોફિલીસ મચ્છર કરડવાથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માદા એનોફિલીસ' યાદ રાખવા માટે: 'એ-નો-ફીલ' (બીમારીમાં સારું ફીલ ન થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લોહીની તપાસમાં મલેરિયા થયો છે તે કેવી રીતે ખબર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહીની તપાસમાં જ્યારે મલેરિયાના જીવાણુ (પેરાસાઇટ્સ) જોવા મળે ત્યારે મલેરિયા થયો છે તેમ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીમાં સૂક્ષ્મ જીવ = મલેરિયા કન્ફર્મ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મલેરિયાના મુખ્ય લક્ષણો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી લાગવી અને ધ્રુજારી સાથે તાવ આવવો એ મલેરિયાના મુખ્ય લક્ષણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુજારી + ઠંડી = મલેરિયાની એન્ટ્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પહેલાના સમયમાં મલેરિયાની દવા બનાવવા કયા વૃક્ષનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહેલાના સમયમાં મલેરિયાની દવા બનાવવા સિંકોના વૃક્ષની સૂકી છાલના પાવડરનો ઉપયોગ થતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિંકોના' - સી એટલે સીરિયસ બીમારીની કોના (કોઈ) પાસે દવા નથી પણ સિંકોના પાસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાંડુરોગ (એનિમિયા) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શરીરમાં લોહીમાં હિમોગ્લોબિન કે લોહતત્વનું પ્રમાણ ઓછું થઈ જાય ત્યારે તે સ્થિતિને પાંડુરોગ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછું લોહતત્વ = પાંડુરોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાંડુરોગને દૂર કરવા કેવા પ્રકારનો ખોરાક ખાવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંડુરોગ દૂર કરવા ગોળ, આમળા અને લીલા પાંદડાવાળા શાકભાજી જેવા લોહતત્વથી ભરપૂર ખોરાક લેવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગોળ-આમળા-શાક, લોહીમાં લાવે તાક (તાકાત)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાણીમાં મચ્છરોના પોરાનો નાશ કરવા માટે માછલીઓ શા માટે નાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલીઓ પાણીમાં રહેલા મચ્છરના ઈંડા અને પોરાને ખાઈ જાય છે, તેથી પોરાનો નાશ કરવા માટે માછલીઓ નાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી છે મચ્છરની દુશ્મન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણી ઉપર તેલ છાંટવાથી મચ્છરોનો ઉપદ્રવ કેવી રીતે ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી પર તેલ છાંટવાથી તેલનું પડ હવાને પાણીમાં જતાં અટકાવે છે, જેથી મચ્છરના પોરાને ઓક્સિજન મળતો નથી અને તે મરી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલનું લેયર = ઓક્સિજન જેલ (બહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મચ્છરના બચ્ચાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છરના બચ્ચાને 'પોરા' (લારવા) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના મચ્છર = પોરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માખીઓ દ્વારા કયા પ્રકારના રોગો ફેલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માખીઓ ગંદકી પર બેસે છે, તેથી તે મુખ્યત્વે પેટના રોગો જેવા કે ડાયરિયા અને કોલેરા ફેલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખી = પેટની પાખી (બીમારી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રોનાલ્ડ રોસને કઈ શોધ માટે નોબેલ પારિતોષિક મળ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોનાલ્ડ રોસને 'મલેરિયા મચ્છર દ્વારા ફેલાય છે' તે શોધવા માટે ઈ.સ. 1902 માં નોબેલ પારિતોષિક મળ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રોસ' ને મચ્છર સામે 'જોશ' આવ્યો અને શોધ કરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મચ્છર ક્યાં ઈંડા મૂકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર સ્થિર અને ગંદા પાણીમાં (જેમ કે ખાડા, કુલર, ટાંકી) ઈંડા મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર પાણી = મચ્છરનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આરતીના રિપોર્ટમાં 'હિમોગ્લોબિન 8 gm/dl' હતું, તો તે સામાન્ય કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે બાળકોમાં સામાન્ય હિમોગ્લોબિનનું પ્રમાણ 12 થી 16 gm/dl હોવું જોઈએ, 8 gm/dl એ ઓછું કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 16 = ઓકે, તેનાથી ઓછું = પાંડુરોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાંડુરોગના કારણે બાળકના સ્વાસ્થ્ય પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંડુરોગના કારણે બાળકનો શારીરિક અને માનસિક વિકાસ બરાબર થતો નથી અને તેનામાં ઉર્જાનું સ્તર ઘટી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછું લોહી = ઓછી શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માદા એનોફિલીસ મચ્છર દેખાવમાં કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માદા એનોફિલીસ મચ્છર દેખાવમાં બદામી રંગના અને તેની પાંખો પર ટપકાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બદામી રંગ + ટપકાં = એનોફિલીસ માદા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પોરાને જોવા માટે શું કરવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર ભરાઈ રહેલા પાણીને કાચની બરણીમાં ભરીને જોતા તેમાં નાના દોરા જેવા તરતા પોરા જોઈ શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદા પાણીમાં 'નાના દોરા' એટલે પોરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શાળામાં કયા હેલ્થ કાર્ડ બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળામાં આરોગ્ય તપાસણી દરમિયાન બાળકોના 'આરોગ્ય કાર્ડ' (Health Card) બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક-અપ કાર્ડ = હેલ્થ કાર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા મચ્છરો કરડવાથી ડેન્ગ્યુ થઈ શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડિસ ઇજિપ્તી (Aedes) મચ્છર કરડવાથી ડેન્ગ્યુ થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એડિસ' થી 'ડેન્ગ્યુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાણીની ટાંકી અને કુલરની સફાઈ કેટલા સમયે કરવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીની ટાંકી અને કુલરની સફાઈ દર અઠવાડિયે કરવી જોઈએ અને તેને સુકવવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપ્તાહમાં એક વાર સફાઈ, મચ્છરોની થશે વિદાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લોહતત્વની ઉણપ દૂર કરવા કઈ દવાઓ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહતત્વની ઉણપ દૂર કરવા 'આયર્ન' (Iron) ની ગોળીઓ આપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયર્ન એટલે લોખંડ (લોહતત્વ) ની ગોળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મલેરિયા કઈ ઋતુમાં વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલેરિયા ચોમાસાની ઋતુમાં અને તે પછીના સમયમાં વધુ જોવા મળે છે કારણ કે ત્યારે ઠેર ઠેર પાણી ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદનું પાણી = મચ્છરની મિજબાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માદા એનોફિલીસ મચ્છર શા માટે લોહી ચૂસે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માદા મચ્છરને ઈંડા મૂકવા માટે પોષણની જરૂર હોય છે, તેથી તે લોહી ચૂસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈંડા માટે પોષણ = લોહીની જરૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચોમાસામાં મચ્છરથી બચવા માટે કયા ઉપાય કરવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છરદાનીનો ઉપયોગ કરવો જોઈએ અને આસપાસ પાણી ભરાવા દેવું જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નેટ (જાળી) અને સફાઈ = મચ્છરની સામે લડાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ડોક્ટરો દર્દીના લોહીની તપાસ કરવા માટે લોહી ક્યાંથી લે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડોક્ટરો મલેરિયાની તપાસ માટે આંગળીના ટેરવે સોય ભોંકીને લોહીના ટીપાં લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંગળીના ટેરવેથી ટેસ્ટ શરૂ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રોનાલ્ડ રોસે મચ્છરના પેટમાં શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોનાલ્ડ રોસે મચ્છરના પેટમાં કાળા રંગના નાના જીવાણુઓ જોયા જે મલેરિયાના દર્દીના લોહીમાં હતા તેવા જ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટમાં કાળા જીવાણુ = મલેરિયાનું કારણ.</p></div>"
+    }
+  ]
+}
