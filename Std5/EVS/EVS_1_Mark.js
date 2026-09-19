@@ -1462,3 +1462,211 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ચડીએ ઊંચા શિખરો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્વતારોહણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતો પર ચઢવાના સાહસિક કાર્યને પર્વતારોહણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત + આરોહણ (ચઢવું) = પર્વતારોહણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નેહરુ ઇન્સ્ટિટ્યૂટ ઓફ માઉન્ટેનિયરિંગ ક્યાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેહરુ ઇન્સ્ટિટ્યૂટ ઓફ માઉન્ટેનિયરિંગ ઉત્તરકાશીમાં આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નેહરુ' ગયા 'ઉત્તર'માં (ઉત્તરકાશી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંગીતા અરોરા કયા વિષયના શિક્ષિકા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગીતા અરોરા કેન્દ્રીય વિદ્યાલયના પૃથ્વી વિજ્ઞાન (Geography/Science) ના શિક્ષિકા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગીતા ટીચર = વિજ્ઞાનના નિષ્ણાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પર્વતારોહણ માર્ગદર્શક (ઇન્સ્ટ્રક્ટર) તરીકે કોણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહણ માર્ગદર્શક તરીકે બ્રિગેડિયર જ્ઞાનસિંહ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્ગદર્શક પાસે 'જ્ઞાન' હોય, એટલે 'જ્ઞાનસિંહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જૂથ - 7 માં કયા કયા રાજ્યોની છોકરીઓ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂથ - 7 માં આસામ, મણિપુર, મિઝોરમ, મેઘાલય અને નાગાલેન્ડની છોકરીઓ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ ભારતના 'સાત બહેનો' (Seven Sisters) જેવા રાજ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પર્વતારોહણ વખતે જૂથના નાયકે (ગ્રુપ લીડર) શું કરવાનું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂથના નાયકે જૂથના સભ્યોનું ધ્યાન રાખવાનું અને તેમને મદદ કરવાની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર એટલે 'સેવા અને જવાબદારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખોન્દોનબી કઈ ભાષા બોલતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોન્દોનબી મિઝો ભાષા બોલતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમની ખોન્દોનબી = મિઝો ભાષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પર્વતારોહણ માટેના રકસેક (થોભી) માં કઈ કઈ વસ્તુઓ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રકસેકમાં ખાવાના પેકેટ, પાણીની બોટલ, દોરડું, હૂક, પ્લાસ્ટિક શીટ, ડાયરી, ટોર્ચ જેવી વસ્તુઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રકસેક = પર્વતારોહણનું મીની ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પર્વતારોહણમાં 'ખીલા' (Pitons) નો શો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખીલાને ખડકોમાં ભરાવીને તેની સાથે દોરડું બાંધીને ચઢવામાં કે નદી ઓળંગવામાં ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખીલો = મજબૂત પકડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્વતારોહકોને સવારના નાસ્તામાં શું આપવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહકોને સવારના નાસ્તામાં વિટામિન C, લોહતત્વની ગોળીઓ અને ગરમ ચોકલેટી દૂધ આપવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C + લોહ + દૂધ = ફૂલ એનર્જી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિટામિન C અને ગરમ ચોકલેટી દૂધ કેમ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડીમાં ગરમી અને શક્તિ જાળવી રાખવા માટે વિટામિન C અને ગરમ ચોકલેટી દૂધ આપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડી ભગાવો, શક્તિ લાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રેપલિંગ (Rappelling) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દોરડાની મદદથી ખડક પરથી નીચે ઉતરવાની ક્રિયાને રેપલિંગ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેપલિંગ = નીચે ઉતરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પર્વત પર ચઢતી વખતે શરીરનો ખૂણો કેટલો રાખવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વત પર ચઢતી વખતે શરીરનો ખૂણો 90 અંશ (90°) રાખવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટટ્ટાર શરીર એટલે 90 ડિગ્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખડક પર ચઢતી વખતે પીઠ કેવી રાખવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખડક પર ચઢતી વખતે પીઠ સીધી રાખવી જોઈએ, વાળવી જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી પીઠ, સેફ ચઢાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નદી ઓળંગવા માટે પર્વતારોહકો શું વાપરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી ઓળંગવા માટે જાડું દોરડું, હૂક અને ટ્રોલીનો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરડું + હૂક = નદી પાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પર્વતો પર ખેતરો કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતો પર ખેતરો પગથિયાં જેવા (સીડીદાર) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વતના ખેતર = દાદર (પગથિયાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ફેબ્રુઆરી 14 ના રોજ સંગીતા અરોરાને શા માટે હસવું આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોન્દોનબી સાથેની વાતચીત અને તેની મિઝો ભાષાને કારણે સંગીતા અરોરાને હસવું આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણી ભાષા = રમુજી પ્રસંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બરફમાં સૂવા માટે પર્વતારોહકો શું વાપરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફમાં સૂવા માટે પર્વતારોહકો 'સ્લીપિંગ બેગ' (સૂવાની બેગ) નો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીથી બચવા 'સ્લીપિંગ બેગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્લીપિંગ બેગની અંદર શું ભરેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લીપિંગ બેગની અંદર મુલાયમ પીંછાં ભરેલા હોય છે, જે ગરમી જાળવવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીંછાં = કુદરતી ગરમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પર્વતારોહણ કેમ્પનો છેલ્લો દિવસ કેવી રીતે ઉજવવામાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહણ કેમ્પનો છેલ્લો દિવસ 'કેમ્પ ફાયર' (તાપણું) કરીને ઉજવવામાં આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતિમ ઉજવણી = કેમ્પ ફાયર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "માઉન્ટ એવરેસ્ટ પર ચઢનાર પ્રથમ ભારતીય મહિલા કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માઉન્ટ એવરેસ્ટ પર ચઢનાર પ્રથમ ભારતીય મહિલા બચેન્દ્રી પાલ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ ભારતીય નારી = બચેન્દ્રી પાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બચેન્દ્રી પાલનો જન્મ કયા ગામમાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલનો જન્મ ઉત્તરાખંડના ગઢવાલ વિસ્તારના 'નાકુરી' ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાકુરીનું નાનું બાળક = બચેન્દ્રી પાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "માઉન્ટ એવરેસ્ટને નેપાળમાં કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માઉન્ટ એવરેસ્ટને નેપાળમાં 'સાગરમાથા' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગરનું માથું (સૌથી ઊંચું) = સાગરમાથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બચેન્દ્રી પાલે માઉન્ટ એવરેસ્ટની ટોચ પર ક્યારે પગ મૂક્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલે 23 મે, 1984 ના રોજ બપોરે 1 કલાક અને 7 મિનિટે માઉન્ટ એવરેસ્ટની ટોચ પર પગ મૂક્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 23 મે, 1:07 - ઈતિહાસ રચાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માઉન્ટ એવરેસ્ટની ઊંચાઈ આશરે કેટલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માઉન્ટ એવરેસ્ટની ઊંચાઈ આશરે 8900 મીટર (ચોકસાઈથી 8848 મીટર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9000 માં 100 ઓછા = 8900.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બચેન્દ્રી પાલે ટોચ પર જઈને સૌ પ્રથમ શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલે ટોચ પર જઈને પોતાનું માથું નમાવ્યું, ભારતનો રાષ્ટ્રધ્વજ ફરકાવ્યો અને ફોટા લીધા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝંડા ઊંચા રહે હમારા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બચેન્દ્રી પાલ દુનિયાના કેટલામાં નંબરના મહિલા બન્યા જેમણે એવરેસ્ટ સર કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલ માઉન્ટ એવરેસ્ટ સર કરનાર દુનિયાના પાંચમા મહિલા બન્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની પહેલી, દુનિયાની પાંચમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પર્વત પર હવા કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વત પર હવા પાતળી હોય છે અને ઓક્સિજનનું પ્રમાણ ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ વધે, ઓક્સિજન ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પર્વતારોહકો સાથે ઓક્સિજન સિલિન્ડર કેમ રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતો પર ઓક્સિજન ઓછો હોવાથી શ્વાસ લેવામાં તકલીફ ન પડે તે માટે ઓક્સિજન સિલિન્ડર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવવા માટે ઓક્સિજન જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બચેન્દ્રી પાલને 'એવરેસ્ટ અભિયાન' માટે કોણે પસંદ કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલને એવરેસ્ટ અભિયાન માટે બ્રિગેડિયર જ્ઞાનસિંહે પસંદ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્ઞાનસિંહ = ટેલેન્ટ પારખનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સંગીતા અરોરાને કયો એવોર્ડ મળ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગીતા અરોરાને બ્રિગેડિયર જ્ઞાનસિંહ દ્વારા 'બેસ્ટ પરફોર્મન્સ એવોર્ડ' માટે જાહેર કરવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારું કામ = બેસ્ટ પરફોર્મન્સ એવોર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પર્વતારોહણ દરમિયાન કઈ મુશ્કેલીઓ આવી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહણ દરમિયાન શ્વાસ લેવાની તકલીફ, ઠંડી, થાક અને લપસી જવાનો ડર રહી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડી, થાક અને ઓછો ઓક્સિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કેમ્પ ફાયરમાં કઈ કઈ પ્રવૃત્તિઓ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેમ્પ ફાયરમાં જોક્સ, ગીતો, નૃત્ય અને નાટક જેવી મનોરંજક પ્રવૃત્તિઓ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમ્પ ફાયર = આનંદનો મેળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બચેન્દ્રી પાલના માર્ગદર્શક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચેન્દ્રી પાલના માર્ગદર્શક બ્રિગેડિયર જ્ઞાનસિંહ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ જ્ઞાનસિંહ, શિષ્યા બચેન્દ્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પર્વતારોહણ વખતે જૂથ નાયક ક્યાં ચાલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહણ વખતે જૂથ નાયક સૌથી છેલ્લે ચાલે છે જેથી બધાનું ધ્યાન રાખી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર હંમેશા પાછળ રહીને રક્ષણ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બરફના પર્વત પર ખોરાક રાંધવા શું વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફના પર્વત પર પથ્થરોથી ચૂલો બનાવીને અથવા સ્ટવ વાપરીને ખોરાક રાંધવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરનો ચૂલો = દેશી જુગાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પર્વતારોહણ માટે જૂથ નાયકની પસંદગી કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમનામાં જવાબદારી લેવાના અને બીજાને મદદ કરવાના ગુણો હોય તેમની પસંદગી જૂથ નાયક તરીકે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણવાન વ્યક્તિ = જૂથ નાયક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નદી ઓળંગતી વખતે દોરડું ક્યાં બાંધવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી ઓળંગતી વખતે દોરડું નદીની બંને બાજુના મજબૂત ખીલા (Pitons) સાથે બાંધવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને છેડા મજબૂત તો રસ્તો સેફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "માઉન્ટ એવરેસ્ટની ટોચ પર કેટલા લોકો ઊભા રહી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માઉન્ટ એવરેસ્ટની ટોચ એટલી સાંકડી છે કે ત્યાં બે વ્યક્તિઓ પણ માંડ ઊભી રહી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંકડી ટોચ, ઓછી જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પર્વતારોહકો બરફમાં તંબુ કેવી રીતે બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતારોહકો બે પડવાળી પ્લાસ્ટિક શીટના તંબુ બનાવે છે જેથી અંદર ગરમી જળવાઈ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ લેયર પ્લાસ્ટિક = હૂંફાળું ઘર.</p></div>"
+    }
+  ]
+}
