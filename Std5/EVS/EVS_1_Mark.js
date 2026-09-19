@@ -1196,3 +1196,136 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પાણી સાથેના પ્રયોગો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જ્યારે પૂરી તેલમાં તળવામાં આવે છે ત્યારે તે કેમ ફૂલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂરીની અંદર ગરમ હવા (વરાળ) ભરાવાને કારણે પૂરી ફૂલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અંદર, પૂરી ઉપર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાણીમાં લોખંડની ખીલીનું શું થાય છે: તે તરે છે કે ડૂબે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોખંડની ખીલી પાણીમાં ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખીલી નકકર એટલે નીચે જાય (ડૂબે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્લાસ્ટિકની ખાલી બોટલ પાણી પર તરે છે કે ડૂબે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસ્ટિકની ખાલી બોટલ પાણી પર તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક હલકું, પાણી પર મલકતું (તરતું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાણીમાં મીઠું ઓગળે છે કે નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, મીઠું પાણીમાં સંપૂર્ણપણે ઓગળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું + પાણી = અદ્રશ્ય જાદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રેતી પાણીમાં ઓગળે છે કે નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, રેતી પાણીમાં ઓગળતી નથી, તે નીચે બેસી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતી જીદ્દી છે, પાણીમાં ક્યારેય ન ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દુનિયાનો સૌથી ખારો સાગર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃત સાગર (Dead Sea) દુનિયાનો સૌથી ખારો સાગર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ 'મૃત' પણ મીઠું 'જીવંત' (સૌથી વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મૃત સાગરમાં એક લિટર પાણીમાં આશરે કેટલા ગ્રામ મીઠું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃત સાગરમાં એક લિટર પાણીમાં આશરે 300 ગ્રામ મીઠું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લિટર = 300 ગ્રામ ખારાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મૃત સાગરની સૌથી મોટી ખાસિયત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃત સાગરમાં માણસ પાણી પર સૂતા હોય તેમ તરી શકે છે, તે ડૂબતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખારું પાણી ભારે, માણસને ઉપર રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગાંધીજીએ મીઠાનો સત્યાગ્રહ ક્યારે કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ ઈ.સ. 1930માં મીઠાનો સત્યાગ્રહ (દાંડી યાત્રા) કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું 30નું (1930 યાદ રાખવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દાંડી યાત્રા ક્યાંથી ક્યાં સુધી યોજાઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાંડી યાત્રા અમદાવાદના સાબરમતી આશ્રમથી ગુજરાતના દરિયા કિનારે આવેલા દાંડી સુધી યોજાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદથી દાંડી, ગાંધીજીની લાકડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મીઠું કેવી રીતે બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરિયાના પાણીને જમીન પરના છીછરા ક્યારાઓમાં ભરી સૂર્યના તાપમાં સૂકવીને મીઠું બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો પાણી ઉડાડે, મીઠું પાછળ રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચોક પાવડર પાણીમાં ઓગળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ચોક પાવડર પાણીમાં ઓગળતો નથી, પણ થોડો સમય પાણીમાં તરતો દેખાય છે અને પછી નીચે બેસી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ પાવડર નીચે બેસે, ઓગળે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દૂધ પાણીમાં ભળી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, દૂધ પાણીમાં સંપૂર્ણ રીતે ભળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ અને પાણી, એક જ કહાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તેલના ટીપાં પાણી પર કેમ તરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ પાણીમાં ભળતું નથી અને તે પાણી કરતા હલકું હોવાથી ઉપર તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ છે તોફાની, ભળે નહીં પાણીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાણીમાં સાબુ અને સાબુદાની (Soap case) માંથી શું તરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીમાં સાબુદાની તરે છે, જ્યારે સાબુ ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુ ભારે, કેસ હલકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લીંબુ સાદા પાણીમાં ડૂબી જાય છે, પણ કયા પાણીમાં તરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીંબુ મીઠાવાળા ખારા પાણીમાં તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખારું પાણી = તરવાનો સપોર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મીઠું પાણીમાં જલદી ઓગાળવા માટે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠું જલદી ઓગાળવા માટે પાણીને હલાવવું જોઈએ અથવા ગરમ કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલાવો અથવા ગરમ કરો, જલદી ઓગાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણીમાં ઓગળે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ પાણીમાં ઓગળે તેને 'દ્રાવ્ય' પદાર્થ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓગળે તે દ્રાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાણીમાં ન ઓગળે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ પાણીમાં ન ઓગળે તેને 'અદ્રાવ્ય' પદાર્થ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન ઓગળે તે અદ્રાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ટીફિનના ઢાંકણ પર કયા ટીપાં સૌથી ઝડપથી સરકશે: પાણી, તેલ કે ખાંડની ચાસણી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીફિનના ઢાંકણ પર પાણીના ટીપાં સૌથી ઝડપથી સરકશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાતળું તે વધુ ઝડપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કપડાં ધોયા પછી સૂર્યના તાપમાં જલદી કેમ સુકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યના તાપને કારણે કપડાંમાં રહેલા પાણીનું 'બાષ્પીભવન' (વરાળ) થાય છે, તેથી કપડાં સુકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આવી, પાણી ઉડી ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શું પાણીમાં હળદર ઓગળી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, હળદર પાણીમાં પૂરી ઓગળતી નથી, તે ફક્ત પાણીનો રંગ બદલી નાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ આપે પણ ઓગળે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બ્રિટિશરોએ કઈ જીવનજરૂરી વસ્તુ પર ટેક્સ (કર) નાખ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્રિટિશરોએ મીઠા (Salt) પર ભારે કર નાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી મીઠા પર અંગ્રેજોનો ટેક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તળાવ કે નદીનું પાણી ગંદુ હોય તો તેને સાફ કરવા માટે શું વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી સાફ કરવા માટે ફટકડી અથવા ફિલ્ટરનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફટકડી ફેરવો, કચરો નીચે બેસાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એલ્યુમિનિયમ ફોઈલને (પડને) પાણીમાં નાખતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો ફોઈલ ફેલાયેલી હોય તો તરે છે, પણ તેનો ગોળો બનાવી દબાવીને નાખતા તે ડૂબી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેલાવો તો તરે, દબાવો તો ડૂબે.</p></div>"
+    }
+  ]
+}
