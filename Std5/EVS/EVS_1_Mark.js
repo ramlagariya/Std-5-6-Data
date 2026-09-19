@@ -1670,3 +1670,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દિવાલોની કહાણી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઉપરકોટનો કિલ્લો ગુજરાતના કયા શહેરમાં આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટનો કિલ્લો ગુજરાતના જૂનાગઢ શહેરમાં આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂનાગઢનો ઉપરકોટ' - જૂના શહેરમાં ઉપર કિલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કિલ્લાની દીવાલમાં અમુક અંતરે બહારની બાજુએ કાઢેલા ગોળાકાર ભાગને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિલ્લાની દીવાલમાં બહારની બાજુએ કાઢેલા ગોળાકાર ભાગને 'ગઢ' (બુરજ) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળાકાર દીવાલ = ગઢ (બુરજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કિલ્લામાં ગઢ કેમ બનાવવામાં આવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિલ્લાની સુરક્ષા વધારવા અને દૂર સુધી નજર રાખી શકાય તે માટે ગઢ બનાવવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઢ = સુરક્ષા અને લાંબી નજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉપરકોટના કિલ્લાના મુખ્ય પ્રવેશદ્વાર પર શું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટના કિલ્લાના મુખ્ય પ્રવેશદ્વાર પર સુંદર કોતરણી અને મજબૂત લોખંડના અણીદાર ભાલા જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરવાજો = કોતરણી + અણીદાર ભાલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કિલ્લાની બહારની બાજુએ ઊંડી ખાઈ કેમ બનાવવામાં આવતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુશ્મન સૈન્ય કિલ્લામાં આસાનીથી પ્રવેશી ન શકે તે માટે સુરક્ષા માટે કિલ્લાની બહાર ઊંડી ખાઈ બનાવવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાઈ = દુશ્મનને રોકવા માટેનો ખાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીલમ અને માણેક તોપ કયા સ્થળેથી લાવવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીલમ અને માણેક તોપ દીવ મુકામેથી લાવવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલમ-માણેક 'દીવ' થી આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીલમ તોપ કોણ જૂનાગઢ લાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુર્કીના નૌકાદળના સેનાપતિ લિયેકત પાશા નીલમ તોપ જૂનાગઢ લાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલમ = લિયેકત પાશા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉપરકોટમાં આવેલી 'અડી-કડી વાવ' ની ખાસિયત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડી-કડી વાવ એક જ પથ્થરમાંથી કોતરીને બનાવેલી છે અને તેમાં 166 પગથિયાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડી-કડી = એક પથ્થર + 166 પગથિયાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નવઘણ કૂવો કોણે બનાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવઘણ કૂવો ચુડાસમા વંશના નવઘણ રાજાઓના સમયમાં બનાવવામાં આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવઘણ કૂવો = રા' નવઘણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઉપરકોટના કિલ્લામાં પાણીની સુવિધા માટે શું શું આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટના કિલ્લામાં પાણી માટે અડી-કડી વાવ, નવઘણ કૂવો અને નૌઘણ રાજાના સમયના ટાંકા આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી = વાવ + કૂવો + ટાંકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બૌદ્ધ ગુફાઓ જૂનાગઢમાં ક્યાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૌદ્ધ ગુફાઓ ઉપરકોટના કિલ્લાની અંદર આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરકોટની અંદર 'બૌદ્ધ ગુફા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કિલ્લામાં અનાજનો સંગ્રહ કરવા માટે શું બનાવવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિલ્લામાં અનાજનો સંગ્રહ કરવા માટે 'કોઠાર' બનાવવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ = કોઠાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જૂનાગઢના સંગ્રહાલય (મ્યુઝિયમ) માં કઈ કઈ વસ્તુઓ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મ્યુઝિયમમાં જૂના વાસણો, આભૂષણો, તલવારો, હાથી પર મૂકવાની અંબાડી અને પાલખીઓ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુઝિયમ = ઇતિહાસનો ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તાંબા અને જસતના મિશ્રણમાંથી કઈ ધાતુ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાંબા અને જસતના મિશ્રણમાંથી 'પિત્તળ' બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાંબુ + જસત = પિત્તળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તાંબા અને કલાઈ (ટીન) ના મિશ્રણમાંથી કઈ ધાતુ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાંબા અને કલાઈના મિશ્રણમાંથી 'કાંસું' (બ્રોન્ઝ) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાંબુ + કલાઈ = કાંસું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઉપરકોટના કિલ્લામાં કયા કયા રાજાઓના શાસનકાળના પુરાવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટમાં મૌર્ય વંશ (ચંદ્રગુપ્ત મૌર્ય), ચુડાસમા વંશ અને ગુજરાતના સુલતાનોના શાસનના પુરાવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૌર્ય -> ચુડાસમા -> સુલતાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નવઘણ કૂવાની ઊંડાઈ કેટલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવઘણ કૂવો આશરે 171 ફૂટ ઊંડો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવઘણ = 171 ફૂટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કિલ્લાના ગઢમાં હોલ (કાણાં) કેમ રાખવામાં આવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૈનિકો દુશ્મનો પર નજર રાખી શકે અને તેમાંથી બંદૂક કે તોપ ફોડી શકે તે માટે હોલ રાખવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોલ = નિશાન લગાવવા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગઢની ઊંચાઈ દીવાલ કરતાં વધુ કેમ રાખવામાં આવતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચાઈ વધુ હોવાથી સૈનિકો દૂર સુધી જોઈ શકતા અને કિલ્લાનું રક્ષણ વધુ સારી રીતે કરી શકતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચો ગઢ = વધુ દૂરની નજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લશ્કર હુમલો કરવા માટે કયા પ્રાણીઓનો ઉપયોગ કરતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લશ્કર હુમલો કરવા માટે હાથી અને ઘોડાઓનો ઉપયોગ કરતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈન્ય = હાથી + ઘોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જૂના જમાનામાં કિલ્લામાં અંધારામાં પ્રકાશ માટે શેનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના જમાનામાં કિલ્લામાં અંધારામાં પ્રકાશ માટે મશાલ કે દીવાઓનો ઉપયોગ થતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારું = મશાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગિરનાર પર્વત કયા શહેરની નજીક આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગિરનાર પર્વત જૂનાગઢ શહેરની નજીક આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરનાર - જૂનાગઢની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચુડાસમા વંશના રાજાઓએ ઉપરકોટમાં કયા બે સ્થળો બંધાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુડાસમા વંશના રાજાઓએ અડી-કડી વાવ અને નવઘણ કૂવો બંધાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુડાસમા = વાવ + કૂવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કિલ્લાના મોટા દરવાજામાં નાનો દરવાજો કેમ રાખવામાં આવતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય લોકોની અવરજવર માટે અને સુરક્ષા જાળવવા માટે મોટા દરવાજામાં નાનો દરવાજો (બારી જેવો) રાખવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો દરવાજો = રોજિંદી અવરજવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાવ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પગથિયાંવાળા કૂવાને 'વાવ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવ = પગથિયાંવાળો કૂવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઉપરકોટનો કિલ્લો કેટલા ગઢ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટના કિલ્લાની દીવાલમાં કુલ 84 ગઢ આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરકોટ = 84 ગઢ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પહેલાના સમયમાં સૈનિકો તોપમાં ગોળા તરીકે શેનો ઉપયોગ કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહેલાના સમયમાં તોપમાં લોખંડના ગોળા અથવા પથ્થરના ગોળાનો ઉપયોગ થતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોપ = લોખંડના ગોળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શા માટે કિલ્લાઓ પહાડો કે ઊંચી ટેકરીઓ પર બાંધવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરક્ષાના કારણોસર અને દુશ્મન પર ઊંચાઈએથી નજર રાખી શકાય તે માટે કિલ્લાઓ ઊંચાઈ પર બાંધવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ = બેસ્ટ સુરક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઇમારતોમાં હવા-ઉજાસ માટે શું વ્યવસ્થા કરવામાં આવતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇમારતોમાં મોટા જરૂખા, બારીઓ અને જાળીદાર કોતરણીવાળી બારીઓ રાખવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા-ઉજાસ = જરૂખા + બારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કિલ્લાના સંગ્રહાલયમાં રાખેલી વસ્તુઓથી આપણને શું જાણવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગ્રહાલયની વસ્તુઓથી આપણને તે સમયના લોકોની રહેણીકરણી, પહેરવેશ અને ખોરાક વિશે જાણવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુઓ = ઇતિહાસની ઓળખ.</p></div>"
+    }
+  ]
+}
