@@ -2244,3 +2244,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "પહાડી રહેઠાણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગૌરવ જાનીએ તેની મુસાફરી કયા સાધન પર કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૌરવ જાનીએ તેની મુસાફરી તેની મોટરસાયકલ 'લોનર' પર કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોનર' એટલે એકલો - જે ગૌરવનો કાયમી સાથી હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગૌરવ જાનીએ પોતાની મુસાફરી કયા શહેરથી શરૂ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૌરવ જાનીએ પોતાની મુસાફરી મુંબઈ શહેરથી શરૂ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની આર્થિક રાજધાની મુંબઈથી સફરની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેહને કેવો વિસ્તાર કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેહને 'ઠંડું રણ' (Cold Desert) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેહ = ઠંડુ + રણ (જ્યાં ઓછો વરસાદ પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચાંગપા જાતિના લોકો કેવા પ્રકારના તંબુમાં રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગપા જાતિના લોકો 'રેબો' (Rebo) નામના મોટા શંકુ આકારના તંબુમાં રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાંગપાનો 'રે'બો - યાદ રાખો રેમ્બોની જેમ બહાદુર લોકોનો તંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચાંગપા લોકો તેમના પ્રાણીઓને રાખવાની જગ્યાને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગપા લોકો તેમના પ્રાણીઓને રાખવાની જગ્યાને 'લેખા' (Lekha) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરોની 'લેખા' (લીટી/દીવાલ) બનાવીને પ્રાણી રખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પશ્મીના ઊન કયા પ્રાણીમાંથી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્મીના ઊન ખાસ પ્રકારની બકરીઓમાંથી મળે છે જે ઊંચાઈવાળા પહાડો પર રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્મીના = પહાડી બકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક પશ્મીના શાલ કેટલા સ્વેટર જેટલી ગરમી આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પશ્મીના શાલ છ (6) સ્વેટર જેટલી ગરમી આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 શાલ = 6 સ્વેટર (યાદ રાખો: છક્કો માર્યો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શ્રીનગરમાં પ્રવાસીઓ કયા પ્રકારના ઘરમાં રહેવાનું પસંદ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીનગરમાં પ્રવાસીઓ 'હાઉસબોટ' (Houseboat) માં રહેવાનું પસંદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી પરનું ઘર એટલે હાઉસબોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચાંગપા જાતિમાં અંદાજે કેટલા લોકો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગપા જાતિમાં માત્ર આશરે 5000 જેટલા જ લોકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ હજારની નાની વસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેહમાં ઘરોના છાપરાં કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેહમાં ઘરોના છાપરાં સપાટ (Flat) હોય છે, જેનો ઉપયોગ ફળ અને શાકભાજી સુકવવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટ છાપરું = વસ્તુઓ સુકવવાની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લદ્દાખમાં આવકાર આપવા માટે કયો શબ્દ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લદ્દાખમાં આવકાર આપવા માટે 'જુલે' (Juley) શબ્દ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુલે = સુસ્વાગતમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રેબો તંબુ બનાવવા માટે કયા પ્રાણીના વાળનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેબો તંબુ બનાવવા માટે યાક (Yak) ના વાળમાંથી વણેલી પટ્ટીઓનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહાડી ગાય એટલે યાક, તેના વાળ એટલે મજબૂત તંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખતમબંદ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઉસબોટની છત પર જોવા મળતી લાકડાની કોતરણી જે જીગસો પઝલ જેવી દેખાય છે તેને 'ખતમબંદ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાની ડિઝાઇન એટલે ખતમબંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેહમાં ઘરોના ભોંયતળિયે બારીઓ કેમ નથી હોતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડીથી બચવા અને પ્રાણીઓને હૂંફ આપવા માટે ભોંયતળિયે બારીઓ હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો બારી = નો ઠંડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચાંગથાંગ દરિયાની સપાટીથી કેટલી ઊંચાઈ પર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગથાંગ દરિયાની સપાટીથી આશરે 5000 મીટરની ઊંચાઈ પર આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 કિમી ઊંચું આકાશમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ડાલ સરોવર કયા શહેરમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાલ સરોવર શ્રીનગર (કાશ્મીર) માં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રીનગરમાં ડાલ અને શિકારાની સવારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શ્રીનગરમાં પાણી પર તરતા ઘર જેવા ડોંગામાં કોણ રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીનગરમાં ડોંગામાં ત્યાંના સ્થાનિક પરિવારો રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાસીઓ માટે હાઉસબોટ, સ્થાનિકો માટે ડોંગા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પશ્મીના બકરીઓના વાળ આપણા વાળ કરતા કેટલા પાતળા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્મીના બકરીના છ વાળ ભેગા કરીએ ત્યારે આપણા એક વાળ જેટલી જાડાઈ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 બકરીના વાળ = 1 માણસનો વાળ (ખૂબ જ બારીક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મુસાફરી દરમિયાન ગૌરવ જાની રાત્રે ક્યાં સુતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૌરવ જાની મુસાફરી દરમિયાન રાત્રે પોતાના નાનકડા નાયલોનના તંબુમાં સુતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખિસ્સામાં ઘર એટલે નાયલોન તંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક વણકરને એક પશ્મીના શાલ વણતા કેટલા કલાક લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક વણકરને એક પશ્મીના શાલ વણતા આશરે 250 કલાક લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 250 કલાકની સખત મહેનત = 1 સુંદર પશ્મીના શાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેહમાં ઘરોની દીવાલો શાની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેહમાં ઘરોની દીવાલો પથ્થરોની બનેલી હોય છે અને તેના પર ગારો તથા ચૂનાનું પડ લગાવેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર + ગારો + ચૂનો = મજબૂત ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શ્રીનગરમાં આવતા પ્રવાસીઓ કઈ હોડીમાં મુસાફરીનો આનંદ માણે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીનગરમાં આવતા પ્રવાસીઓ 'શિકારા' (Shikara) નામની હોડીમાં મુસાફરીનો આનંદ માણે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રીનગરમાં ફરવા માટે 'શિકારા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચાંગપા લોકો માટે સૌથી મોટું ધન શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગપા લોકો માટે તેમના ઘેટાં અને બકરીઓ જ તેમનું સૌથી મોટું અને એકમાત્ર ધન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બકરી એ જ બેંક બેલેન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તાશીના ઘરની છત પર શું શું સુકવવામાં આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાશીના ઘરની છત પર લાલ મરચાં, નારંગી કોળા અને સોનેરી પીળી મકાઈ સુકવવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળા માટે ખોરાકનો સંગ્રહ છત પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઊંચાઈ પર જવાથી શ્વાસ લેવામાં કેમ તકલીફ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચાઈ પર હવામાં ઓક્સિજનનું પ્રમાણ ઓછું હોવાથી શ્વાસ લેવામાં તકલીફ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ઊંચાઈ = ઓછો ઓક્સિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાશ્મીરી લોકો રોટલી ક્યાંથી ખરીદે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાશ્મીરી લોકો ઘરમાં રોટલી બનાવતા નથી, તેઓ બેકરીમાંથી રોટલી ખરીદે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાશ્મીરમાં બેકરીની ગરમાગરમ રોટલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મેહરાબ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના ઘરોની બારીઓ પર જોવા મળતી સુંદર પથ્થરની કમાનને 'મેહરાબ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાન આકારની ડિઝાઇન એટલે મેહરાબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મુંબઈથી દિલ્હીનું અંતર કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈથી દિલ્હીનું અંતર 1400 કિલોમીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ-દિલ્હી = 1400 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લદ્દાખમાં કયા કયા રાજ્યોમાંથી પસાર થઈને પહોંચી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાષ્ટ્ર, ગુજરાત, રાજસ્થાન, હરિયાણા અને હિમાચલ પ્રદેશ જેવા રાજ્યોમાંથી પસાર થવું પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમથી ઉત્તર ભારતની સફર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ચાંગપા લોકો હંમેશા તેમની સાથે શું રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંગપા લોકો હંમેશા તેમની સાથે ઘોડા અને યાક રાખે છે જેના પર તેઓ પોતાનો સામાન લાદે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડા-યાક એ જ એમની ગાડી.</p></div>"
+    }
+  ]
+}
