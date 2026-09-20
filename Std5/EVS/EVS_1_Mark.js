@@ -2560,3 +2560,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "ઠંડું કે ગરમ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ઠંડું કે ગરમ' પાઠના લેખક કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠના લેખક ભારતના ભૂતપૂર્વ રાષ્ટ્રપતિ ડો. ઝાકિર હુસેન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિએ લખ્યો પાઠ, પર્યાવરણમાં એમનો ઠાઠ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મિયાં બાલિશ્તિયે દેખાવમાં કેવા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિયાં બાલિશ્તિયે ખૂબ જ ઠીંગણા (વેંત જેટલા ઊંચા) હતા.</p><hr><p style='content:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાલિશ્તિયે = વેંત જેટલા (નાનકડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કઠિયારો ઠંડીમાં તેના હાથ ગરમ કરવા શું કરતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઠિયારો ઠંડીમાં થીજી ગયેલા તેના હાથ પર મોઢાથી ફૂંક મારતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંક મારો - ગરમી મેળવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કઠિયારાને બટાટા ખૂબ ગરમ લાગ્યા ત્યારે તેણે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઠિયારાએ ગરમ બટાટાને ઠંડા કરવા માટે તેના પર જોરથી ફૂંકો મારી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ વસ્તુ + ફૂંક = ઠંડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાને જોઈને કેમ આશ્ચર્યચકિત થઈ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિયાંએ જોયું કે કઠિયારો ફૂંક મારીને વસ્તુને ગરમ પણ કરે છે અને ઠંડી પણ કરે છે, તેથી તેઓ આશ્ચર્યચકિત થઈ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ મોઢું, બે કામ (ઠંડું અને ગરમ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આપણા મોઢામાંથી નીકળતી ફૂંક આજુબાજુની હવા કરતા કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા મોઢામાંથી નીકળતી ફૂંક આજુબાજુની હવાના તાપમાનના આધારે ગરમ કે ઠંડી હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસની હવા = શરીરનું તાપમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હૃદયના ધબકારા સાંભળવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદયના ધબકારા સાંભળવા માટે 'સ્ટેથોસ્કોપ' નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટરનું ગળાનું ઘરેણું એટલે 'સ્ટેથોસ્કોપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તમે જ્યારે ખૂબ ઝડપથી દોડો છો ત્યારે તમારા ધબકારામાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપથી દોડવાથી હૃદયના ધબકારા વધી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ મહેનત = ફાસ્ટ ધબકારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ફૂંક મારીને વગાડી શકાય તેવા કોઈ પણ બે સંગીતના સાધનોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંસળી અને મોરલી (બીન) ફૂંક મારીને વગાડી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા + કાણાં = સંગીત (વાંસળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અરીસા પર ફૂંક મારતા તે કેમ ઝાંખો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસમાં રહેલી વરાળ અરીસાની ઠંડી સપાટીને અડતા પાણીના ટીપાંમાં ફેરવાય છે, તેથી અરીસો ઝાંખો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ વરાળ + ઠંડો કાચ = ઝાંખો અરીસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચૂલામાં લાકડા સળગાવવા માટે કઠિયારો કેમ ફૂંક મારતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આગને સળગવા માટે હવા (ઓક્સિજન) ની જરૂર હોય છે, તેથી કઠિયારો ફૂંક મારીને આગ તેજ કરતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા આપો, આગ જગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તમારા શ્વાસ બહાર કાઢતી વખતે છાતીની સ્થિતિમાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસ બહાર કાઢતી વખતે છાતી અંદરની તરફ જાય છે (સંકોચાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા બહાર = છાતી અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કપમાં રહેલી ગરમ ચાને પીવાલાયક બનાવવા તમે શું કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ ચા પર મોઢાથી ફૂંક મારીને તેને ઠંડી કરીશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચા ગરમ હોય તો 'ફૂં' કરીને પીવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શા માટે શિયાળામાં આપણું મોઢું ખોલીએ ત્યારે તેમાંથી વરાળ જેવું દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરીરની અંદરની ગરમ હવા બહારની અતિશય ઠંડી હવાના સંપર્કમાં આવતા વરાળ સ્વરૂપે દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ શ્વાસ + બહારની ઠંડી = ધુમાડો/વરાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મોરલી (બીન) કયા સમુદાયના લોકોનું મુખ્ય વાદ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોરલી એ કાલબેલિયા (મદારી) સમુદાયના લોકોનું મુખ્ય વાદ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીન = મદારીની મજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્યારે કઠિયારો જંગલમાં લાકડા કાપતો હતો ત્યારે તેને કોણ જોઈ રહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલમાં લાકડા કાપતી વખતે કઠિયારાને ખૂણે બેઠેલા મિયાં બાલિશ્તિયે જોઈ રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠિયારાનો જાસૂસ = મિયાં બાલિશ્તિયે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચશ્મા સાફ કરવા માટે લોકો કાચ પર ફૂંક કેમ મારે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂંક મારવાથી કાચ પર ભેજ (પાણીના ટીપાં) જમા થાય છે, જેનાથી કાચ સરળતાથી સાફ કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂંક + કપડું = ચોખ્ખા ચશ્મા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શું ફૂંક મારીને આપણે કાગળની સિસોટી બનાવી શકીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, કાગળને ચોક્કસ રીતે વાળીને ફૂંક મારતા તેમાંથી સિસોટી જેવો અવાજ કાઢી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળની કરામત, ફૂંકની રમત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "તંદુરસ્ત માણસ એક મિનિટમાં આશરે કેટલી વાર ધબકારા અનુભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે તંદુરસ્ત માણસના હૃદયના ધબકારા એક મિનિટમાં 72 થી 80 ની આસપાસ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મિનિટ = 72 ધબકારા (આશરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાને શું પૂછવા માંગતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિયાં પૂછવા માંગતા હતા કે કઠિયારો તેના હાથ પર વારંવાર ફૂંક કેમ મારે છે?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિયાંની જિજ્ઞાસા = ફૂંકનું રહસ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શ્વાસ લેતી વખતે આપણી છાતીનું શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસ લેતી વખતે (હવા અંદર લેતી વખતે) આપણી છાતી બહારની તરફ ફૂલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અંદર = છાતી બહાર (ફૂલે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગરમ વસ્તુ પર ફૂંક મારતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ વસ્તુ પર ફૂંક મારતા તે વસ્તુ ઠંડી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોટ થી કૂલ = ફૂંકની ફૂલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કયા વાદ્યમાં ફૂંક મારવા માટે 'ધમણ' (Bellows) નો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાર્મોનિયમ જેવા વાદ્યોમાં હવા ભરવા માટે ધમણનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથથી હાર્મોનિયમ, હવા પંપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શા માટે કઠિયારાને બટાટા બાફવા માટે પથ્થરનો ચૂલો બનાવવો પડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તે જંગલમાં હતો અને તેની પાસે ગેસ કે સગડીની સુવિધા નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલી જુગાડ = પથ્થરનો ચૂલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મિયાં બાલિશ્તિયે કઠિયારાથી ગભરાઈને કેમ ભાગી ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેમને લાગ્યું કે કઠિયારો કોઈ ભૂત કે જિન્ન છે જે એક જ મોઢેથી ગરમ અને ઠંડી હવા કાઢે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજ્ઞાનતા = ડર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તમારા નાકની નીચે હાથ રાખી શ્વાસ બહાર કાઢો, તે હવા કેવી લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહાર કાઢેલી હવા શરીરમાંથી આવતી હોવાથી સહેજ ગરમ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોડી ટેમ્પરેચર = વોર્મ એર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ફૂંકનો ઉપયોગ આગ બુઝાવવા માટે પણ થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, નાની આગ જેવી કે મીણબત્તીની જ્યોત ફૂંક મારીને બુઝાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોરદાર ફૂંક = મીણબત્તી ઓફ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ડોક્ટર સ્ટેથોસ્કોપનો છેડો ક્યાં મૂકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડોક્ટર સ્ટેથોસ્કોપનો છેડો દર્દીની છાતી પર હૃદયના ભાગે મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેસ્ટ પર મશીન, ધબકારા કન્ફર્મ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આપણા શરીરમાં કયું અંગ સતત ધબકતું રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા શરીરમાં હૃદય (Heart) સતત ધબકતું રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈફ એન્જિન = હૃદય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ચૂલામાં ફૂંક મારવા માટે પાઇપનો ઉપયોગ કેમ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઇપ દ્વારા હવા સીધી આગના કેન્દ્રમાં પહોંચે છે અને મોઢું આગથી દૂર રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઇપ = સેફ્ટી + ડાયરેક્ટ એર.</p></div>"
+    }
+  ]
+}
