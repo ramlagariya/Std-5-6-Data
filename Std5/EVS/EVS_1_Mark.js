@@ -2851,3 +2851,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "દીવાલ ઓળંગી લીધી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અફસાના કઈ રમતની સ્ટાર ખેલાડી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાના બાસ્કેટબોલ રમતની સ્ટાર ખેલાડી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફસાના = બાસ્કેટબોલ (અફસાના બાસ્કેટમાં બોલ નાખે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નાગપાડા બાસ્કેટબોલ એસોસિયેશન (NBA) કયા શહેરમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાગપાડા બાસ્કેટબોલ એસોસિયેશન મુંબઈ શહેરમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈનું 'નાગપાડા' - યાદ રાખવું 'મુંબઈ નાગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાઠના શીર્ષક મુજબ 'દીવાલ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં 'દીવાલ' એટલે છોકરા અને છોકરીઓ વચ્ચેનો ભેદભાવ અને સમાજની મર્યાદાઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ = જાતિગત ભેદભાવની આડશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અફસાનાની માતા તેને રમવા માટે કેમ ના પાડતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાનાની માતા કહેતી હતી કે છોકરીઓથી બાસ્કેટબોલ ન રમાય, તે માટે ના પાડતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુના વિચારો = 'છોકરીઓ ન રમે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાસ્કેટબોલની ટીમમાં કઈ બાબત સૌથી મહત્વની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાસ્કેટબોલની ટીમમાં ટીમ ભાવના અને એકતા સૌથી મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીમ છે તો એકતા છે (Team = Unity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેલાડીની ઓળખ શાનાથી થવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેલાડીની ઓળખ તેની રમતથી થવી જોઈએ, નહીં કે તેની જાતિ કે આર્થિક સ્થિતિથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત એ જ ખેલાડીની ખરી ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટીમના કોચનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીમના કોચનું નામ નૂરખાન હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૂરખાન = બાસ્કેટબોલના જ્ઞાનનું નૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અફસાનાની ટીમમાં બીજી કઈ છોકરીઓ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાનાની ટીમમાં ઝરીન, ખુશનૂર અને આફરીન જેવી છોકરીઓ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝ-ખુ-આ-અ (ઝરીન, ખુશનૂર, આફરીન, અફસાના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટીમ સ્પિરિટ (ટીમ ભાવના) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોતાના વ્યક્તિગત પ્રદર્શન કરતા ટીમની જીત માટે એકબીજાને ટેકો આપીને રમવું એટલે ટીમ સ્પિરિટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હું નહીં, 'અમે' એટલે ટીમ સ્પિરિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "છોકરીઓને રમવા દેવા માટે અફસાનાના પિતાએ કેમ ટેકો આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેના પિતા પોતે સારા ખેલાડી બનવા માંગતા હતા પણ સુવિધાના અભાવે બની શક્યા ન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાનું અધૂરું સ્વપ્ન પુત્રી દ્વારા પૂર્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રમતગમતમાં કઈ બાબતો શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રમતગમતમાં શિસ્ત, સહકાર અને હાર-જીત સ્વીકારવાની ભાવના શીખવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત = શિસ્ત + સહકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જયારે કોઈ ખેલાડી ભૂલ કરે ત્યારે બાકીની ટીમે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીમે ખેલાડીની મજાક ઉડાવવાને બદલે તેને પ્રોત્સાહન આપીને ભૂલ સુધારવામાં મદદ કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીકા નહીં, પણ ટેકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નૂરખાને ટીમ વિશે શું કહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નૂરખાને કહ્યું હતું કે તમારી રમત મહત્વની છે, તમે છોકરા છો કે છોકરી તે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેન્ડર (લિંગ) કરતા ગેમ મોટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આફરીનના દાદા તેમને રમવાની કેમ ના પાડતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેઓ જૂના વિચારો ધરાવતા હતા અને માનતા હતા કે છોકરીઓએ રમત ન રમવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદા = રૂઢિચુસ્ત વિચારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અફસાનાના પિતાને રમત શીખવનાર કોચ કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાનાના પિતાને નૂરખાને (જેમને મુસ્તફા ખાન તરીકે પણ ઓળખવામાં આવતા) રમત શીખવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસ્તફા ખાન = જૂના કોચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રમત રમીને આપણે શું મેળવીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રમત રમીને આપણું શરીર તંદુરસ્ત બને છે અને આપણામાં આત્મવિશ્વાસ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત = તંદુરસ્તી + કોન્ફિડન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટીમના દરેક સભ્યએ કેવી રીતે રમવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીમના દરેક સભ્યએ પોતે કોઈ ખાસ ખેલાડી છે તેવું વિચાર્યા વગર ટીમ માટે રમવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હું નહીં, ટીમ જીતવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાસ્કેટબોલ મેદાનમાં રેખા શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેદાનની રેખા રમતની મર્યાદા અને કોર્ટનો વિસ્તાર દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખા = રમતની હદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અફસાનાની માતા શું કામ કરતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાનાની માતા બીજાના ઘરે જઈને વાસણ સાફ કરવાનું અને ઘરકામ કરવાનું કામ કરતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરકામ = આજીવિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઝરીનનો ભાઈ શું કહેતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝરીનનો ભાઈ કહેતો હતો કે છોકરીઓ આવી રીતે મેદાનમાં રમતી સારી નથી લાગતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાઈનો ભેદભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શું રમતમાં છોકરા-છોકરીઓના નિયમો અલગ હોવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, રમતમાં દરેક માટે નિયમો સમાન હોવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત સમાન, નિયમ સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખુશનૂરે તેના માતા-પિતાને કેવી રીતે મનાવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુશનૂરે મક્કમતાથી પોતાની વાત કહી અને રમત પ્રત્યેની રુચિ બતાવીને માતા-પિતાને મનાવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મક્કમતા = સફળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બાસ્કેટબોલ રમવા માટે કયા પગરખાં (shoes) જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાસ્કેટબોલ રમવા માટે સારા સ્પોર્ટ્સ શૂઝની જરૂર હોય છે જે લપસી ન જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પોર્ટ્સ શૂઝ = મજબૂત પકડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "છોકરીઓને રમત માટે મેદાન સુધી પહોંચતા કઈ મુશ્કેલી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોકરીઓને સામાજિક બંધનો, ઘરકામની જવાબદારી અને રક્ષણની ચિંતા જેવી મુશ્કેલીઓ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાજિક બંધનોની દીવાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રમત દરમિયાન ખેલાડીએ કઈ વાતનું ધ્યાન રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રમત દરમિયાન ખેલાડીએ નિયમોનું પાલન કરવું જોઈએ અને ખેલદિલી બતાવવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમ + ખેલદિલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અફસાનાએ તેની માતાની કઈ દીવાલ ઓળંગી લીધી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફસાનાએ તેની માતાની 'છોકરીઓ ન રમી શકે' તેવા વિચારોની દીવાલ ઓળંગી લીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂઢિચુસ્ત વિચારોની દીવાલ તોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો તમને કોઈ ટીમમાં કેપ્ટન બનાવવામાં આવે તો તમે શું કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હું દરેક ખેલાડીને સાથે લઈને ચાલીશ અને તેમનામાં આત્મવિશ્વાસ વધારીશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર = પ્રોત્સાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સોલાપુરની ટીમમાં છોકરીઓને કેવો અનુભવ થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોલાપુરની ટીમમાં છોકરીઓને સહકારનો અભાવ જોવા મળ્યો, ત્યાંની છોકરીઓ એકબીજાને ટેકો આપતી ન હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહકાર વગર હાર નિશ્ચિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બાસ્કેટબોલની રમતમાં પોઈન્ટ ક્યારે મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બોલ સામેની ટીમના બાસ્કેટમાં પડે ત્યારે પોઈન્ટ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાસ્કેટ = પોઈન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આ પાઠ દ્વારા આપણને શું પ્રેરણા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠથી પ્રેરણા મળે છે કે મહેનત અને મક્કમતાથી ગમે તેવા સામાજિક બંધનોને તોડી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોશિશ કરનારાઓની હાર થતી નથી.</p></div>"
+    }
+  ]
+}
