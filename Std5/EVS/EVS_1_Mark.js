@@ -3350,3 +3350,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "કોના જંગલો?",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૂર્યમણિ કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિ એક આદિવાસી 'ગર્લ સ્ટાર' છે, જેણે જંગલો બચાવવા માટે આંદોલન કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય જેવો પ્રકાશ ફેલાવે તેવી દીકરી એટલે 'ગર્લ સ્ટાર' સૂર્યમણિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કુડુક ભાષામાં 'તોરાંગ' નો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુડુક ભાષામાં 'તોરાંગ' નો અર્થ 'જંગલ' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરાંગ = જંગલ (તોરાંગ માં 'રંગ' જંગલનો છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સૂર્યમણિનું નાનપણનું સાથી કોણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિનું નાનપણનું સાથી તેની પાળેલી પોપટ 'બીજલી' હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણિ પાસે 'બીજલી' જેવો પોપટ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કુડુક કયા રાજ્યના લોકોની ભાષા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુડુક ઝારખંડ રાજ્યના આદિવાસી લોકોની ભાષા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝારખંડ = કુડુક (ઝાડ ઉપર કુડુક બોલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જંગલના હકનો કાયદો કઈ સાલમાં અમલમાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલના હકનો કાયદો વર્ષ 2007 માં અમલમાં આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હક માટે 'સાત' (૭) આપ્યો - ૨૦૦૭.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જંગલના હકના કાયદા મુજબ કેટલા વર્ષથી જંગલમાં રહેતા લોકોને ત્યાંની જમીન પર હક મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લોકો ઓછામાં ઓછા 25 વર્ષથી જંગલમાં રહેતા હોય તેમને ત્યાંની જમીન પર હક મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિલ્વર જ્યુબિલી (25 વર્ષ) = જંગલનો હક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સૂર્યમણિએ કઈ સંસ્થા ખોલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિએ 'તોરાંગ' નામનું કેન્દ્ર (સંસ્થા) ખોલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણિનું 'તોરાંગ' એટલે જંગલ બચાવો અભિયાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આદિવાસીઓ માટે જંગલ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિવાસીઓ માટે જંગલ એ તેમની 'સહિયારી બેંક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ = સહિયારી બેંક (બધાની સંપત્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઝૂમ ખેતી ભારતના કયા ભાગમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂમ ખેતી ભારતના ઉત્તર-પૂર્વ રાજ્યો (મુખ્યત્વે મિઝોરમ) માં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમમાં લોકો 'ઝૂમ' કરીને ખેતી કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મિઝોરમનું મુખ્ય નૃત્ય કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમનું મુખ્ય નૃત્ય 'ચેરાવ' (Cheraw) નૃત્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમમાં 'ચેરાવ' નો ચાર્મ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઝૂમ ખેતીમાં જમીનને કેવી રીતે તૈયાર કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂમ ખેતીમાં જમીનને ખેડવામાં આવતી નથી, પરંતુ તેના પરના ઘાસ કે ઝાડને કાપીને ત્યાં જ સળગાવી દેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો ખેડાણ, ઓન્લી સળગાવણ (ઝૂમ ખેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મિઝોરમમાં જમીન કોની માલિકીની ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં જમીન કોઈ એક વ્યક્તિની નહીં, પરંતુ આખા ગામની ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમ = આખા ગામની જમીન (ટીમ વર્ક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મિઝોરમમાં ખેતી માટે જમીન કેવી રીતે વહેંચવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં લોટરી (ચિઠ્ઠીઓ) દ્વારા ખેતી માટે જમીન વહેંચવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નસીબની રમત એટલે લોટરી અને મિઝોરમની જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક ટીન જમીન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ટીન બીજ જે જમીન પર વાવી શકાય તેટલી જમીનને 'એક ટીન જમીન' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ટીન બીજ = એક ટીન જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઝૂમ ખેતીમાં રાખનો શું ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂમ ખેતીમાં રાખનો ઉપયોગ જમીનને ફળદ્રુપ બનાવવા (ખાતર તરીકે) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાખ = કુદરતી ખાતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચેરાવ નૃત્યમાં લોકો કેવી રીતે જોડાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેરાવ નૃત્યમાં લોકો જોડીમાં વાંસની લાકડીઓ પકડીને જમીન પર પછાડે છે અને તાલ સાથે નૃત્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસ + તાલ = ચેરાવ નૃત્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સૂર્યમણિને ભણવા માટે કોણે પ્રોત્સાહન આપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિને ભણવા માટે તેના કાકા (મણિમય) એ પ્રોત્સાહન આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણિના ભણતર પાછળ કાકાનો હાથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સૂર્યમણિના પિતા શું કામ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિના પિતા જંગલમાંથી પાંદડા અને જડીબુટ્ટીઓ એકઠી કરી બજારમાં વેચવાનું કામ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ એ જ પિતાની આજીવિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મિઝોરમમાં મુખ્યત્વે કયો પાક લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં મુખ્યત્વે ચોખાનો (Rice) પાક લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમના લોકો ભાત (ચોખા) ખાઈને 'ઝૂમ' ખેતી કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શંભુ કોન્ટ્રાક્ટર જંગલમાં શું કરતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંભુ કોન્ટ્રાક્ટર જંગલના લાકડા કાપીને બહાર લઈ જતો હતો અને આદિવાસીઓને જંગલમાં જતા રોકતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંભુ = જંગલનો વિરોધી (લાકડા કાપનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૂર્યમણિ કયા આંદોલન સાથે જોડાયેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિ ઝારખંડ જંગલ બચાવો આંદોલન સાથે જોડાયેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝારખંડ = જંગલ બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તોરાંગ કેન્દ્રમાં શું શીખવવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તોરાંગમાં આદિવાસી ગીતો, ભાષા, સંસ્કૃતિ અને વાંસની વસ્તુઓ બનાવવાનું શીખવવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરાંગ = સંસ્કૃતિની પાઠશાળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જંગલોને 'પૃથ્વીના ફેફસાં' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે જંગલો આપણને શુદ્ધ ઓક્સિજન આપે છે અને હવાને ચોખ્ખી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ હવા = જંગલ રૂપી ફેફસાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મિઝોરમમાં લોટરીમાં પહેલી ચિઠ્ઠી કોની નીકળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં જમીન વહેંચણી વખતે પહેલી ચિઠ્ઠી જી.મુઈ (GD-Mui) ના પરિવારની નીકળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો નંબર જી.મુઈનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આદિવાસીઓ જંગલમાંથી કઈ કઈ વસ્તુઓ એકઠી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિવાસીઓ જંગલમાંથી મધ, લાકડા, ફળ અને ઔષધીય છોડ (જડીબુટ્ટીઓ) એકઠી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી ખજાનો જંગલમાંથી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બીજલી કોણ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજલી સૂર્યમણિની પાળેલી અને સમજદાર પોપટ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યની સાથે 'બીજલી' હંમેશા રહેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વાંસના લાકડાનો શું ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંસના લાકડાનો ઉપયોગ ટોપલીઓ બનાવવા, ઘર બાંધવા અને હસ્તકલાની વસ્તુઓ બનાવવામાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસ = આદિવાસીઓનું સોનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જંગલના રક્ષણની જવાબદારી કોની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલના રક્ષણની જવાબદારી ગ્રામસભાની (લોકોની) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકોની સભા (ગ્રામસભા) જંગલની રક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સૂર્યમણિએ કયા વર્ષમાં કોલેજ પૂરી કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણિએ તે ગામની પહેલી યુવતી હતી જેણે કોલેજ પાસ કરી બી.એ. (B.A.) ની પદવી મેળવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિવાસી ગર્લ પાવર = બી.એ. પાસ સૂર્યમણિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઝૂમ ખેતીને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂમ ખેતીને 'સ્થળાંતરિત ખેતી' (Shifting Cultivation) તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝૂમ = જગ્યા બદલીને ખેતી (સ્થળાંતર).</p></div>"
+    }
+  ]
+}
