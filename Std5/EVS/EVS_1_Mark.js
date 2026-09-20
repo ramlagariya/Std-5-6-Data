@@ -2718,3 +2718,136 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સ્વચ્છતા આપણું કામ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીના મતે કયું કામ સૌથી પહેલું શીખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના મતે સફાઈનું કામ એ સૌથી પહેલું શીખવાનું કામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = ગંદકી દૂર (સફાઈ) પ્રથમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નારાયણ (બાબલા) કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નારાયણ (બાબલા) ગાંધીજીના મિત્ર મહાદેવભાઈ દેસાઈના પુત્ર હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારાયણનો 'ન' અને મહાદેવભાઈના દીકરાનો 'દ' - ન-દ જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાબરમતી આશ્રમ ક્યાં આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાબરમતી આશ્રમ અમદાવાદમાં આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબરમતી નદી એટલે અમદાવાદ શહેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીના આશ્રમમાં આવતા દરેક મહેમાને કયું કામ શીખવું પડતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના આશ્રમમાં આવતા દરેક મહેમાને શૌચાલય સાફ કરવાનું કામ શીખવું પડતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેમાન બનો પણ સફાઈ તો કરવી જ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જૂના જમાનામાં શૌચાલયની સફાઈનું કામ કઈ રીતે કરવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના જમાનામાં ટોપલીઓમાં મળ ઊંચકીને ગંદકી દૂર કરવાનું કામ કરવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની પદ્ધતિ = ટોપલીથી ગંદકીની હેરફેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મહારાષ્ટ્રના વર્ધા શહેર પાસે ગાંધીજીએ કયો આશ્રમ સ્થાપ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાષ્ટ્રના વર્ધા પાસે ગાંધીજીએ 'સેવાગ્રામ' આશ્રમની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધામાં 'સેવા' - સેવાગ્રામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ડૉ. ભીમરાવ આંબેડકરના બાળપણનો કયો પ્રસંગ આ પ્રકરણમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત વર્ષના ભીમરાવે જ્યારે જોયું કે હજામ ગાયના વાળ કાપે છે પણ માણસના વાળ કાપવાની ના પાડે છે, તે અસ્પૃશ્યતાનો પ્રસંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયના વાળ કાપે પણ ભીમના નહીં - આ જ અન્યાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતનું બંધારણ કોના નેતૃત્વ હેઠળ તૈયાર કરવામાં આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનું બંધારણ ડૉ. ભીમરાવ આંબેડકરના નેતૃત્વ હેઠળ તૈયાર કરવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણના ઘડવૈયા = બાબાસાહેબ આંબેડકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાજમાં અસ્પૃશ્યતા નિવારવા માટે કોણે આજીવન સંઘર્ષ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી અને ડૉ. બાબાસાહેબ આંબેડકરે અસ્પૃશ્યતા નિવારવા માટે આજીવન સંઘર્ષ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધી + બાબા = અસ્પૃશ્યતાનો અંત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આપણું ઘર અને આંગણું કોણે સાફ રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણું ઘર અને આંગણું આપણે પોતે જ સાફ રાખવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મારું ઘર, મારી સફાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગંદકી દૂર કરવા માટે કયા આધુનિક સાધનો વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગંદકી દૂર કરવા માટે વેક્યૂમ ક્લીનર, રોડ સ્વીપર મશીન અને જેટ પંપ જેવા સાધનો વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન આવે એટલે ગંદકી ભાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજી કયા સૂત્રમાં માનતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી 'સ્વચ્છતા ત્યાં પ્રભુતા' અને 'દરેક વ્યક્તિ પોતાનું કામ જાતે કરે' તેવા સૂત્રમાં માનતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા = પ્રભુતા (ભગવાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો કોઈ સફાઈ કામદાર સફાઈ ન કરે તો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો સફાઈ કામદાર સફાઈ ન કરે તો ચારેબાજુ ગંદકીના ઢગલા થાય અને રોગચાળો ફેલાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો સફાઈ = ઓન્લી ગંદકી અને બીમારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લોકો સફાઈનું કામ કેમ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકો પોતાની આજીવિકા (પેટ) રળવા માટે અને મજબૂરીના કારણે સફાઈનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટનો ખાડો પૂરવા સફાઈ કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નારાયણ દેસાઈના પુસ્તકનું નામ શું છે જેનો અંશ પાઠમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નારાયણ દેસાઈના પુસ્તક 'સંત સેવત સુકૃત કરની' માંથી આ પ્રસંગ લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારાયણની કૃતિ એટલે 'સુકૃત કરની'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આશ્રમમાં મહેમાને કરેલી સફાઈ બાબતે નારાયણને શું નવાઈ લાગી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નારાયણને નવાઈ લાગી કે આશ્રમમાં મહેમાનોએ પણ પોતાનું મળ-મૂત્ર પોતે જ સાફ કરવું પડતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મારું ગંદુ કામ, હું પોતે જ કરું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ડૉ. આંબેડકર કયા રાજ્યના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૉ. આંબેડકર મહારાષ્ટ્ર રાજ્યના રત્નાગિરી જિલ્લાના વતની હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રનું રત્ન એટલે ભીમરાવ રત્નાગિરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ અસ્પૃશ્ય લોકોને કયું નામ આપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ અસ્પૃશ્ય લોકોને 'હરિજન' (ભગવાનના માણસ) નામ આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિના જન = હરિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શું સફાઈનું કામ માત્ર કોઈ એક જ જાતિના લોકોનું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સફાઈનું કામ એ કોઈ એક જાતિનું નહીં પણ દરેક નાગરિકની નૈતિક ફરજ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ કોઈ પણ હોય, જાતિ સાથે સંબંધ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભીમરાવને નાનપણમાં હજામે વાળ કાપવાની કેમ ના પાડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીમરાવ નીચલી જાતિના હતા એટલે હજામને લાગ્યું કે તેના વાળ કાપવાથી અસ્ત્રો ગંદો થઈ જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્પૃશ્યતાનું અંધારું એટલે ના પાડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહાદેવભાઈ દેસાઈ કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવભાઈ દેસાઈ ગાંધીજીના અંગત સચિવ અને ગાઢ મિત્ર હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીના પડછાયા એટલે મહાદેવભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગાંધીજીએ સાબરમતી આશ્રમમાં કયા નિયમોનું પાલન કરાવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી આશ્રમમાં સફાઈ, પ્રાર્થના અને શ્રમદાન જેવા કડક નિયમોનું પાલન કરાવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાર્થના + શ્રમ = સાબરમતી આશ્રમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આપણી આસપાસ સફાઈ જાળવવા આપણે શું ન કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે ગમે ત્યાં કચરો ફેંકવો ન જોઈએ અને જાહેર સ્થળોએ ગંદકી કરવી ન જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો માત્ર કચરાપેટીમાં જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગાંધીજીના મતે કયું કાર્ય 'પૂજા' સમાન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના મતે 'સેવા' અને 'સફાઈ' નું કાર્ય પૂજા સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ એ જ પૂજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સાબરમતી આશ્રમમાં શૌચાલય કયા પ્રકારના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાબરમતી આશ્રમમાં શૌચાલય ખાડાવાળા હતા, જેમાં ગંદકી માટે નીચે ડબ્બા મૂકવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની સ્ટાઈલ = ખાડા અને ડબ્બા.</p></div>"
+    }
+  ]
+}
