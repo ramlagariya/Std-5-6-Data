@@ -3508,3 +3508,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "જેવા પિતા, તેવી દીકરી",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આશીમાને કોની જેમ જોરથી છીંક આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશીમાને તેના પિતાની જેમ જ જોરથી છીંક આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખો - આશીમાની છીંક = પપ્પાની છીંક (વારસાગત લક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આપણા શરીરના લક્ષણો કોને મળતા આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા શરીરના લક્ષણો આપણા માતા-પિતા અથવા નજીકના સગા-સંબંધીઓ (પરિવાર) ને મળતા આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષણો = ફેમિલી કનેક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગ્રેગર મેન્ડલે કયા છોડ પર પ્રયોગો કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રેગર મેન્ડલે વટાણાના છોડ પર પ્રયોગો કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલના 'વ'હાલા 'વ'ટાણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વટાણાના છોડના બીજ કેવા પ્રકારના હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વટાણાના છોડના બીજ કાં તો લીસા અથવા ખરબચડા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ = લીસા કે રફ (ખરબચડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગ્રેગર મેન્ડલ કયા દેશના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રેગર મેન્ડલ ઓસ્ટ્રિયા દેશના વતની હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = ઓસ્ટ્રિયા (યાદ રાખો: A for Austria, M for Mendel).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શું પોલિયો વારસામાં મળતો રોગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, પોલિયો વારસામાં મળતો રોગ નથી, તે વાયરસથી થતો રોગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિયો = વાયરસ (No Heredity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જોડિયા બાળકો કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ સમયે એક જ માતાના ગર્ભમાંથી જન્મેલા બે બાળકોને જોડિયા બાળકો કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક સાથે બે = જોડિયા (Twins).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીલમની મમ્મીએ તેને જોઈને કેમ કહ્યું કે 'તેની છીંક તેના પપ્પા જેવી છે'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે નીલમની છીંકવાની રીત અને અવાજ તેના પિતાના છીંકવા જેવો જ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીત અને અવાજ સમાન હોય ત્યારે લક્ષણ વારસાગત ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વારસાગત લક્ષણો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લક્ષણો આપણને જન્મથી જ આપણા માતા-પિતા કે પૂર્વજો તરફથી મળે છે તેને વારસાગત લક્ષણો કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારસો = મમ્મી-પપ્પા તરફથી મળેલી ભેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મેન્ડલે વટાણાના કેટલા છોડ પર પ્રયોગો કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેન્ડલે સાત વર્ષ સુધી બગીચાના 28,000 છોડ પર પ્રયોગો કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 28 હજાર - મોટો આંકડો યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શરીરનો રંગ કોના જેવો હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરીરનો રંગ માતા અથવા પિતાના રંગ જેવો અથવા બંનેના મિશ્રણ જેવો હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કીન કલર = પેરેન્ટ્સ કલર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કયા અંગો કે લક્ષણો વારસામાં મળી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંખોનો રંગ, વાળનો પ્રકાર (વાંકડિયા કે સીધા), ઊંચાઈ અને નાકનો આકાર વારસામાં મળી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચહેરો અને દેખાવ = વારસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સુવાસિની અને આરતી એકબીજાના શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુવાસિની અને આરતી એકબીજાની જોડિયા બહેનો થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુવાસિની + આરતી = જોડિયા (Twins).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મેન્ડલે વટાણાના છોડમાં કઈ બાબત નોંધી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેન્ડલે નોંધ્યું કે વટાણાના લક્ષણો જોડીમાં આવે છે (જેમ કે છોડ ઊંચો હોય અથવા નીચો હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = લક્ષણોની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વટાણાના છોડની નવી પેઢીમાં કેવા બીજ વધુ જોવા મળતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે છોડના બીજ લીસા અને ખરબચડા હોય, તેની બીજી પેઢીમાં પણ બીજ લીસા જ વધુ જોવા મળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીસા બીજવાળા છોડની નવી પેઢી લીસી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આપણે જે વાતો અને ભાષા બોલીએ છીએ તે ક્યાંથી શીખીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે જે ભાષા બોલીએ છીએ તે આપણા પર્યાવરણ અને જે લોકો સાથે રહીએ છીએ તેમની પાસેથી શીખીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાષા = પર્યાવરણ (શીખેલું લક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીલમની કાકી તેને ઓળખવામાં કેમ થાપ ખાઈ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે નીલમ અને તેની પિતરાઈ બહેન જોડિયા ન હોવા છતાં દેખાવમાં ખૂબ સમાન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન દેખાવ = કન્ફ્યુઝન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શું વિજ્ઞાનના આધારે કહી શકાય કે કોના સંતાન કેવા થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, મેન્ડલના પ્રયોગો અને જનીન વિજ્ઞાન દ્વારા લક્ષણોનું અનુમાન કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયન્સ + મેન્ડલ = લક્ષણોનું અનુમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગ્રેગર મેન્ડલનો જન્મ કયા પ્રકારના પરિવારમાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રેગર મેન્ડલનો જન્મ એક ગરીબ ખેડૂત પરિવારમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = ગરીબ ખેડૂત પુત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આરતીને કોણે દત્તક લીધી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરતીને તેના માસી-માસાએ દત્તક લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરતી = માસીનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શીખેલા લક્ષણો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે આવડત કે કૌશલ્ય આપણે જન્મ પછી મહાવરા કે તાલીમથી મેળવીએ છીએ તેને શીખેલા લક્ષણો કહેવાય છે (દા.ત. ગાવું, તરવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેનિંગ = શીખેલા લક્ષણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વટાણાના છોડના ફૂલો કયા રંગના હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેન્ડલે જોયું કે વટાણાના ફૂલો કાં તો સફેદ અથવા જાંબલી રંગના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણાના ફૂલ = સફેદ/જાંબલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પોલિયોની અસર શરીરના કયા ભાગ પર વધુ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોલિયોની અસર મુખ્યત્વે હાથ અને પગના સ્નાયુઓ પર થાય છે, જેનાથી ચાલવામાં તકલીફ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિયો = પગની નબળાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વારસાગત રીતે કઈ બીમારીઓ આવી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધુપ્રમેહ (ડાયાબિટીસ) જેવી કેટલીક બીમારીઓ વારસાગત હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાબિટીસ = વારસાગત શક્યતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શું દરેક જોડિયા બાળકો એકસરખા જ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, બધા જ જોડિયા બાળકો એકસરખા દેખાતા નથી, કેટલાક અલગ પણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડિયા બે પ્રકારના: સમાન અને અસમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તમારા વાળ કેવા છે તે કોના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા વાળ વાંકડિયા છે કે સીધા, તે આપણા માતા-પિતાના જનીનો (વારસા) પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાળ = વારસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "માણસની ઊંચાઈ કોના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માણસની ઊંચાઈ તેના પરિવારના સભ્યોની ઊંચાઈ અને મળતા ખોરાક પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ = ફેમિલી + ફૂડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગ્રેગર મેન્ડલ ક્યાં રહેતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રેગર મેન્ડલ ઓસ્ટ્રિયાના એક મઠમાં સાધુ (Monk) તરીકે રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડલ = મઠના સાધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આરતી અને સુવાસિનીના ઉછેરમાં શું તફાવત હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરતી પુણેમાં તેના માસી-માસા પાસે રહી જ્યાં તે કરાટે શીખી, જ્યારે સુવાસિની તેના પિતા પાસે રહી જ્યાં તેણે સંગીત શીખ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરતી-કરાટે vs સુવાસિની-સંગીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'જેવા પિતા, તેવી દીકરી' પાઠનો મુખ્ય હેતુ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠનો મુખ્ય હેતુ બાળકોને વારસાગત લક્ષણો અને પર્યાવરણની અસર વિશે સમજાવવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારસો + ઉછેર = આપણું વ્યક્તિત્વ.</p></div>"
+    }
+  ]
+}
