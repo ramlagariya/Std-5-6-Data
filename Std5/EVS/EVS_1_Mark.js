@@ -3217,3 +3217,136 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "બીજ કહે છે, ખેડૂતની વાર્તા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આ પ્રકરણમાં કયું બીજ પોતાની વાર્તા કહી રહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રકરણમાં બાજરીનું નાનકડું બીજ પોતાની વાર્તા કહી રહ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજરીનું બીજ = વાર્તાનો હીરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બાજરીના બીજની મુસાફરી કયા વર્ષમાં શરૂ થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજરીના બીજની મુસાફરી ઈ.સ. 1940 માં શરૂ થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદીના 7 વર્ષ પહેલા (1947 - 7 = 1940).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાજરીના બીજનું જન્મસ્થળ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજરીના બીજનું જન્મસ્થળ ગુજરાતનું વાનગામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાનગામ - જ્યાં બાજરીનું ગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જૂના સમયમાં ખેડૂતો બીજને સુરક્ષિત રાખવા શેનો ઉપયોગ કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના સમયમાં ખેડૂતો સુકાયેલી દૂધીને માટીનો લેપ લગાવી તેની અંદર બીજને સુરક્ષિત રાખતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધી + માટી = કુદરતી તિજોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બીજને જીવજંતુઓથી બચાવવા માટે તેની સાથે કયા પાન રાખવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજને જીવજંતુઓથી બચાવવા માટે તેની સાથે લીમડાના પાન રાખવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવો લીમડો = જીવાતનો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુજરાતીમાં 'ઉંધિયું' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉંધિયું એ શિયાળાનું ખાસ શાક છે, જેને માટીના ઘડામાં ભરીને કોલસાના અંગારામાં ઊંધું મૂકીને રાંધવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંધો ઘડો = ઉંધિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઉંધિયા સાથે કયો રોટલો ખાવાની મજા આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉંધિયા સાથે ચૂલા પર બનાવેલા બાજરીના ગરમાગરમ રોટલા ખાવાની મજા આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજરીનો રોટલો + ઉંધિયું = દેશી જયાફત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દામજીભાઈના દીકરાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દામજીભાઈના દીકરાનું નામ હસમુખ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દામજીભાઈનો 'હસતો' મુખ એટલે હસમુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હસમુખે ખેતીમાં કયા કયા આધુનિક ફેરફારો કર્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હસમુખે ખેતી માટે ટ્રેક્ટર, ઇલેક્ટ્રિક મોટર અને કૃત્રિમ ખાતરનો ઉપયોગ શરૂ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું યુગ = ટ્રેક્ટર અને મોટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હસમુખે કયા કયા પાક લેવાનું શરૂ કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હસમુખે ઘઉં અને કપાસ જેવા પાક લેવાનું શરૂ કર્યું જેનાથી બજારમાં વધુ પૈસા મળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ નફો = કપાસ અને ઘઉં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બજારમાંથી ખરીદેલા બીજમાં શું તફાવત હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજારમાંથી ખરીદેલા બીજ હાઇબ્રિડ હતા, જેમાંથી પાક તો સારો થતો પણ બીજા વર્ષે તેમાંથી નવા બીજ બનાવી શકાતા નહોતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું બીજ = એકવારનું જ કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હસમુખે ખેતી માટે નાણાં ક્યાંથી મેળવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હસમુખે ટ્રેક્ટર અને આધુનિક સાધનો ખરીદવા માટે બેંકમાંથી લોન (ધિરાણ) લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક સાધનો = બેંકની લોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વધુ પડતા કૃત્રિમ ખાતર અને દવાઓના ઉપયોગથી જમીન પર શું અસર થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ પડતા કેમિકલના ઉપયોગથી જમીન નબળી પડી ગઈ અને તેની ફળદ્રુપતા ઘટવા લાગી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ દવા = જમીનનો ઘટાડો (સત્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "હસમુખનો દીકરો પરેશ અત્યારે શું કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હસમુખનો દીકરો પરેશ ખેતી છોડીને ટ્રક ચલાવવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતીમાં નુકસાન = ટ્રક ડ્રાઈવર પરેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જૂના સમયમાં ખેડૂતો એકબીજાને કઈ રીતે મદદ કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના સમયમાં ખેડૂતો લણણી વખતે એકબીજાને મદદ કરતા અને સાથે મળીને તહેવારો ઉજવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથ-સહકાર = ગામની એકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હસમુખે ખેતીમાં પાણી માટે કઈ વ્યવસ્થા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હસમુખે ખેતીમાં પાણી માટે ઇલેક્ટ્રિક મોટર દ્વારા જમીનમાંથી પાણી ખેંચવાની વ્યવસ્થા કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટર = પાતાળનું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હસમુખને ખેતીમાંથી મળતો નફો ક્યાં વપરાઈ જતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીમાંથી મળતો બધો જ નફો બેંકની લોન ભરવામાં અને મોંઘા ખાતર-દવાઓ ખરીદવામાં વપરાઈ જતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાણી ગઈ લોનમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દામજીભાઈ ખેતીમાં કયા કયા ઓજારો વાપરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દામજીભાઈ ખેતીમાં લાકડાનું હળ અને બળદોનો ઉપયોગ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હળ + બળદ = જૂની પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શું પરેશ ખેતી કરવા માંગતો હતો? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, પરેશ ખેતી કરવા માંગતો ન હતો કારણ કે તેમાં ઘણું નુકસાન થતું હતું અને દેવું વધી રહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો નથી એટલે ખેતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠમાં 'પ્રગતિ' શબ્દ વિશે બીજ શું વિચારે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ વિચારે છે કે જો જમીન નબળી પડતી હોય અને ખેડૂત દેવામાં ડૂબતો હોય, તો તેને સાચી પ્રગતિ કહી શકાય નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેવું વધે એ પ્રગતિ નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કેમિકલ યુક્ત ખેતીને કારણે કઈ જીવાતોનો ઉપદ્રવ વધ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેમિકલ યુક્ત ખેતી અને એક જ પ્રકારના પાક લેવાને કારણે પાક પર હાનિકારક જીવાતોનો ઉપદ્રવ વધ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ પાક + કેમિકલ = વધુ જીવાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગામમાં કેનાલનું પાણી બધે જ કેમ પહોંચી શકતું નહોતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેનાલનું પાણી બધે જ પહોંચી શકતું નહોતું કારણ કે પાણીનો જથ્થો ઓછો હતો અથવા દૂરના ખેતરો સુધી વ્યવસ્થા નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેનાલ લિમિટેડ = પાણી અછત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જૂના સમયમાં ખેડૂતો કેવા ખાતરનો ઉપયોગ કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના સમયમાં ખેડૂતો છાણીયું ખાતર અને ખેતરનો કચરો સડાવીને બનાવેલું કુદરતી ખાતર વાપરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયનું છાણ = ઉત્તમ ખાતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લણણી પછી બાજરીના બીજને ક્યાં રાખવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લણણી પછી સારા બીજને આવતા વર્ષ માટે લાકડાની પેટીમાં ભરીને રાખવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાની પેટી = બીજનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કપાસના પાકને કારણે જમીન પર શું અસર થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કપાસના મૂળ જમીનમાંથી બહુ પોષણ ખેંચતા હોવાથી અને સતત તે જ પાક લેવાથી જમીન કસ વગરની થઈ ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ = જમીનનો કસ ખેંચે.</p></div>"
+    }
+  ]
+}
