@@ -3009,3 +3009,211 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "હવે અમે ક્યાં જઈએ?",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અનુજભાઈનો જન્મ કયા ગામમાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજભાઈનો જન્મ ગાઢ લીલા જંગલો અને પર્વતોની વચ્ચે આવેલા 'ખેડી' ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી અને જંગલ એટલે 'ખેડી' ગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખેડી ગામના લોકો જંગલમાંથી કઈ કઈ વસ્તુઓ એકઠી કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામના લોકો જંગલમાંથી ફળો, મૂળ, સૂકા લાકડા અને ઔષધિય છોડ એકઠા કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલની ચાર ચીજ: ફળ, મૂળ, લાકડા અને ઔષધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખેડી ગામમાં બાળકો વડીલો પાસેથી શું શું શીખતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળકો સાથે નૃત્ય કરવાનું, વાંસળી અને ઢોલ વગાડવાનું, માટીના અને વાંસના ઘડા બનાવવાનું તથા પક્ષીઓને ઓળખવાનું શીખતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગીત + કલા + પ્રકૃતિ = ખેડીના બાળકોનું શિક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેડી ગામના લોકો જંગલમાંથી ભેગી કરેલી વસ્તુઓનું શું કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે વસ્તુઓ નદીની પેલે પાર મોટા શહેરમાં વેચી દેતા અને તે પૈસાથી મીઠું, તેલ, ચોખા અને કપડાં ખરીદતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલની વસ્તુ વેચીને શહેરની જરૂરિયાત ખરીદવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખેડી ગામમાં લોકો વચ્ચે કેવો સંબંધ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામમાં લોકો એક પરિવારની જેમ રહેતા હતા અને સુખ-દુઃખમાં એકબીજાને મદદ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ગામ = એક પરિવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સરકારી કર્મચારીઓએ ખેડી ગામની મુલાકાત કેમ લીધી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી પર મોટો બંધ બાંધવાનો હોવાથી જમીન, જંગલો અને ઘરોની માપણી કરવા માટે મુલાકાત લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો બંધ = માપણી અને ખાલી કરાવવાની તૈયારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખેડી ગામ કેમ ખાલી કરવું પડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામની પાસેની નદી પર મોટો બંધ બાંધવાનો હોવાથી ગામ અને આસપાસની જમીન પાણીમાં ડૂબી જવાની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી પર બંધ + પાણીમાં ડૂબ = ગામ ખાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નદી પર બંધ બાંધવાથી શું ફાયદો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી પર બંધ બાંધવાથી પાણીનો સંગ્રહ કરી શકાય છે, વીજળી પેદા કરી શકાય છે અને નહેર દ્વારા ખેતી માટે પાણી પહોંચાડી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ = વીજળી + સિંચાઈ (ખેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નવા સ્થળે ખેડી ગામના લોકોને શું શું સુવિધા મળવાની ખાતરી આપવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમને વીજળી, નળ દ્વારા પાણી, શાળા, હોસ્પિટલ અને બસ-ટ્રેનની સુવિધા વાળા પાકાં ઘર મળવાની ખાતરી અપાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપનાનું નવું ગામ = બધી જ આધુનિક સુવિધાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અનુજે ખેડી ગામ છોડ્યા પછી કયા ગામમાં વસવાટ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજે ખેડી ગામ છોડ્યા પછી 'સિંદુરી' ગામમાં વસવાટ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડીથી સિંદુરી (K to S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિંદુરી ગામમાં અનુજને કેવી જમીન મળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરી ગામમાં અનુજને ખેતી માટે પથ્થરો અને ખડકોવાળી બિનફળદ્રુપ જમીન મળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંદુરીની જમીન = પથ્થર અને મુશ્કેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સિંદુરી ગામમાં વીજળીની શું સમસ્યા હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં વીજળી દિવસમાં થોડો સમય જ આવતી હતી અને તેનું બિલ પણ ચૂકવવું પડતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીજળી ઓછી, બિલ વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સિંદુરી ગામના લોકો ખેડીના લોકોને શું કહીને ખીજવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરી ગામના લોકો તેમને 'વણનોતર્યા મહેમાન' કહીને ખીજવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણનોતર્યા મહેમાન = જેને બોલાવ્યા ન હોય તેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અનુજ સિંદુરી ગામ છોડીને ક્યાં ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજ સિંદુરી ગામમાં પણ સુખ ન મળતા પોતાની જમીન અને જાનવરો વેચીને 'મુંબઈ' શહેરમાં ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંદુરીથી સપનાના શહેર મુંબઈ તરફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મુંબઈમાં અનુજભાઈ પોતાનું ગુજરાન ચલાવવા શું કામ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈમાં અનુજભાઈ માછલી પકડવાની ફાટેલી જાળીઓ સાંધવાનું (રીપેર કરવાનું) કામ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈ + માછલીની જાળી = અનુજનું ગુજરાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મુંબઈમાં અનુજને કઈ બાબતે વધુ પૈસા ખર્ચવા પડતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈમાં ખોરાક, દવાઓ, રહેઠાણનું ભાડું, પાણી અને બાળકોની શાળાની ફી માટે પૈસા ખર્ચવા પડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરમાં હર ડગલે ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મુંબઈમાં અનુજના ઘરના નળમાં કેવું પાણી આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈમાં મ્યુનિસિપાલિટીના નળમાં ગંદુ અને દુર્ગંધવાળું પાણી આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈનું પાણી = ગંદુ અને મોંઘું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અનુજને મુંબઈમાં કેવું લાગતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજને મુંબઈમાં ભીડભાડ હોવા છતાં એકલતા લાગતી હતી અને તેને પોતાનું જૂનું ગામ ખેડી યાદ આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડમાં પણ એકલતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સીંદુરી ગામમાં હોસ્પિટલની શું સ્થિતિ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં હોસ્પિટલ તો હતી, પરંતુ ત્યાં ડોક્ટરો મળતા ન હતા અને દવાઓની પણ અછત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્પિટલ છે પણ ડોક્ટર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સીંદુરીમાં અનુજ રસોઈ બનાવવા માટે શાનો ઉપયોગ કરતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીંદુરીમાં લાકડા મોંઘા હોવાથી અનુજ રસોઈ માટે જૂના ટાયરના રબરના ટુકડા સળગાવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાયરનો ધુમાડો અને ગરીબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિકાસના નામે લોકોને ગામમાંથી કેમ ખસેડવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ બાંધવા, હાઈવે બનાવવા કે ફેક્ટરીઓ સ્થાપવા જેવા વિકાસના કામો માટે લોકોને ખસેડવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો પ્રોજેક્ટ = લોકોનું સ્થળાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અનુજ મુંબઈમાં કોના ઘરે રોકાયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજ મુંબઈમાં તેના દૂરના સંબંધીના ઘરે રોકાયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંબઈમાં સંબંધીનો આશરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખેડી ગામમાં ખેતી સિવાય કયા વ્યવસાયો થતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામમાં માટીના ઘડા બનાવવા, વાંસની ટોપલીઓ બનાવવી અને પશુપાલન જેવા વ્યવસાયો થતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી + હસ્તકલા = ગામડાનું જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અનુજના પત્નીનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠ મુજબ અનુજના પત્નીનું નામ સુમ્યા (અથવા ઉલ્લેખિત પાત્ર) હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુજનો પરિવાર ખેડીથી મુંબઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મુંબઈમાં અનુજને કયા વાતની ચિંતા રહેતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંબઈમાં અનુજને ઘરનું ભાડું ભરવાની અને પરિવારના ગુજરાનની સતત ચિંતા રહેતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરની ચિંતા = ભાડું અને ભોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સ્થળાંતર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ કારણસર એક જગ્યા છોડીને બીજી જગ્યાએ જઈને વસવાટ કરવો તેને 'સ્થળાંતર' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળ + અંતર = જગ્યા બદલવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ખેડી ગામમાં શાંતિ હતી પણ 'મૌન' નહોતું, કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે ત્યાં નદીનો ખળખળ અવાજ, પક્ષીઓનો કલરવ અને વૃક્ષોના પાંદડાનો અવાજ સતત સંભળાતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતિ એટલે કુદરતી સંગીત, મૌન એટલે અવાજ વગરનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સિંદુરીમાં ઘરના છાપરા શાના બનેલા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં ઘરના છાપરા પતરાના બનેલા હતા, જે ઉનાળામાં ખૂબ ગરમ થઈ જતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતરાના છાપરા = ગરમીની ભઠ્ઠી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખેડી ગામમાં બીમાર પડતા ત્યારે લોકો શું કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામમાં લોકો જંગલની જડીબુટ્ટીઓ અને ઔષધિય છોડમાંથી બનાવેલી દવાઓનો ઉપયોગ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ એ જ હોસ્પિટલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સિંદુરી ગામમાં શાળાના શિક્ષકો ખેડીના બાળકો સાથે કેવું વર્તન કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં શિક્ષકો ખેડીના બાળકો પર બહુ ધ્યાન આપતા ન હતા અને તેમને અલગ સમજતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેદભાવભર્યું વર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અનુજ મુંબઈમાં પ્લાસ્ટિકની ખાલી થેલીઓ કેમ વીણતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજ મુંબઈમાં પ્લાસ્ટિકની થેલીઓ વેચીને થોડા પૈસા કમાઈ શકે તે માટે વીણતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરામાંથી કમાણીની મજબૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નદી પર બંધ બાંધવાથી પ્રાણીઓ પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી પર બંધ બાંધવાથી જંગલો પાણીમાં ડૂબી જાય છે, જેથી વન્ય પ્રાણીઓના રહેઠાણ છીનવાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહેઠાણની તબાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ખેડી ગામમાં વડીલો શા માટે રડતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડી ગામમાં વડીલો પોતાની પૂર્વજોની જમીન અને વર્ષોથી રહેતા ગામને છોડવાના દુઃખમાં રડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જન્મભૂમિ પ્રત્યેનો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "અનુજની પુત્રીનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજની પુત્રીનું નામ 'ઝિયા' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુજ + સુમ્યા + ઝિયા + ગોલુ (પરિવાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અનુજના પુત્રનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજના પુત્રનું નામ 'ગોલુ' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલુ એટલે અનુજનો દીકરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સિંદુરી ગામમાં અનુજને કેવી મુશ્કેલીઓનો સામનો કરવો પડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં પાણીની તંગી, વીજળીનું બિલ, બિનફળદ્રુપ જમીન અને સ્થાનિક લોકોના ભેદભાવનો સામનો કરવો પડ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ સુવિધાઓ માત્ર કાગળ પર હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બંધ બાંધવાથી ખેડૂતોને શું લાભ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ બાંધવાથી નહેરો દ્વારા ખેતરો સુધી પાણી પહોંચે છે, જેથી ખેડૂતો વર્ષમાં વધુ પાક લઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી = સમૃદ્ધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "અનુજના પિતાજી મુંબઈમાં શું કામ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુજના પિતાજી ખેડી ગામમાં ખેતી કરતા હતા, પરંતુ મુંબઈ આવ્યા ત્યારે તેઓ વૃદ્ધ થઈ ગયા હતા અને કામ કરી શકતા નહોતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડે રાજા, શહેરમાં લાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સિંદુરીમાં બળતણ માટે લાકડા ન મળે ત્યારે શું વપરાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંદુરીમાં બળતણ માટે જૂના ટાયરના રબરના ટુકડા કે કેરોસીન (જો મળે તો) વાપરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાયર એ જ બળતણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પાઠના શીર્ષક 'હવે અમે ક્યાં જઈએ?' નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ શીર્ષક વિસ્થાપિત લોકોની લાચારી અને અનિશ્ચિત ભવિષ્યની વેદના દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર વગરના લોકોનો સવાલ.</p></div>"
+    }
+  ]
+}
