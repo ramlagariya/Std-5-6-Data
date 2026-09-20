@@ -3666,3 +3666,161 @@ var Std5_EVS_1_Mark = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "ફરી ઉપડ્યા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધનુના ઘરે બધા સંબંધીઓ કયા તહેવાર પર આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના ઘરે બધા સંબંધીઓ દશેરાના તહેવાર પર આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરા = ધનુના ઘરે મહેમાનનો ઘેરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દશેરાના દિવસે ધનુના ઘરે જમવામાં શું બનાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દશેરાના દિવસે ધનુના ઘરે જમવામાં પુરણપોળી (વેઢમી) અને તીખી કઢી બનાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠી પોળી + તીખી કઢી = મોજ પડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પુરણપોળી શામાંથી બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુરણપોળી ચણાની દાળ અને ગોળને બાફીને બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ + દાળ = પુરણપોળી તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુકાદમ કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુકાદમ એટલે એવો માણસ કે જે પ્રતિનિધિ તરીકે કામ કરે છે અને મજૂરોને પૈસા ઉછીના આપે છે તથા કામ અપાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુકાદમ = મજૂરોનો મદદગાર (પણ વ્યાજખોર!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધનુના ગામના પરિવારો દશેરા પછી શા માટે સ્થળાંતર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના ગામના પરિવારો શેરડીના ખેતરોમાં અને ખાંડની ફેક્ટરીઓમાં કામ કરવા માટે સ્થળાંતર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામની શોધમાં ગામથી દુર, શેરડી કાપવા મજબૂર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદ ન હોય તેવા છ મહિના દરમિયાન ધનુના ગામના લોકો ગુજરાન કેવી રીતે ચલાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છ મહિના દરમિયાન લોકો મુકાદમ પાસેથી પૈસા ઉછીના લઈને ગુજરાન ચલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ નથી તો ખેતી નથી, મુકાદમ વગર ગતિ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધનુના ઘરે કોણ કોણ રોકાય છે જ્યારે બાકીના લોકો કામ પર જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના દાદી (જે જોઈ શકતા નથી), કાકી (જે અપંગ છે) અને બે મહિનાની નાની બહેન ઘરે રોકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધ, માંદા અને નાના બાળક = ઘરના રક્ષક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્થળાંતર કરતા પરિવારોના બાળકોના શિક્ષણ પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થળાંતર કરતા પરિવારોના બાળકો શાળાએ જઈ શકતા નથી અને તેમનો અભ્યાસ છૂટી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળાંતર એટલે ભણતરમાં અંતર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શેરડીના ખેતરોની નજીક મજૂરો કેવા ઘરમાં રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરડીના ખેતરોની નજીક મજૂરો સૂકી શેરડી અને તેના પાંદડામાંથી બનેલી ઝૂંપડીઓ (કોપી) માં રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીના પાન = મજૂરનું મકાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સવારે વહેલા ઉઠીને પુરુષો ખેતરમાં શું કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારે વહેલા ઉઠીને પુરુષો શેરડીના ખેતરમાં શેરડી કાપવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર પડે ને શેરડી કપાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્ત્રીઓ અને બાળકો શેરડીના ખેતરમાં શું મદદ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીઓ અને બાળકો શેરડીના ભારા બાંધવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપે પુરુષ, બાંધે સ્ત્રી - કામ પૂરું થાય ફટાફટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાપેલી શેરડીને ક્યાં લઈ જવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાપેલી શેરડીને ખાંડની ફેક્ટરીમાં લઈ જવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરથી ફેક્ટરી = ખાંડની સફારી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ફેક્ટરીમાંથી મળેલી રસીદ (પાંચી) મુકાદમને કેમ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસીદ મુકાદમને આપવામાં આવે છે જેથી તે હિસાબ રાખી શકે કે મજૂરોએ કેટલી શેરડી કાપી અને કેટલું દેવું બાકી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસીદ એટલે હિસાબની પાકી યાદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધનુના પિતા તેને કેમ ભણાવવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના પિતા ઈચ્છે છે કે ધનુ ભણી-ગણીને મોટો માણસ બને અને તેને પરિવારની જેમ સ્થળાંતર ન કરવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે ધનુ, તો સુધરશે તેનું જીવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગામમાં પાણીની સગવડ ન હોય તો ખેતી કેવી રીતે થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો વરસાદ ન હોય અને નહેરની સગવડ ન હોય, તો ટ્યુબવેલ કે કેનાલ દ્વારા ખેતી કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ વગર ટ્યુબવેલનો સહારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કયા મહિનાઓ દરમિયાન ધનુનો પરિવાર ખેતરમાં કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુનો પરિવાર દશેરાથી હોળી સુધી (અંદાજે છ મહિના) શેરડીના ખેતરોમાં કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશેરાથી હોળી = કામની ટોળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ધનુના મામી શું ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના મામી ઈચ્છે છે કે ધનુ આખું વર્ષ શાળાએ જાય અને તેને બીજા સ્થળે ભટકવું ન પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામીની એક જ આશ, ધનુ ન થાય નપાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્થળાંતર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોજીરોટી કમાવવા કે અન્ય કારણોસર એક જગ્યાએથી બીજી જગ્યાએ રહેવા જવું તેને સ્થળાંતર કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળ + આંતર = જગ્યા બદલવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધનુના ગામના લોકો કયા પ્રાણીનો ઉપયોગ માલસામાન ફેરવવા કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના ગામના લોકો બળદગાડાનો ઉપયોગ માલસામાન અને શેરડી ફેરવવા માટે કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળદગાડું = ગામડાનું ટ્રક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે મોટા પરિવારો સ્થળાંતર કરે ત્યારે વૃદ્ધોની સંભાળ કોણ રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટાભાગે વૃદ્ધો ગામમાં જ રહે છે અને ક્યારેક કોઈ સંબંધી તેમની સંભાળ રાખવા રોકાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરડા મા-બાપ, ગામમાં જ સુરક્ષિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શેરડીમાંથી શું શું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરડીમાંથી ગોળ અને ખાંડ બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીનો રસ = મીઠો ગોળ ને ખાંડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મજૂરોને લોન કેમ લેવી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ખેતીમાં કામ ન હોય ત્યારે ઘર ચલાવવા અને જરૂરિયાતો પૂરી કરવા મજૂરોને લોન લેવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ ન મળે ત્યારે લોન જ બચાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધનુના પિતાનું પરિવારમાં શું સ્થાન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુના પિતા પરિવારમાં સૌથી મોટા છે, તેથી બધા તહેવારો તેમના ઘરે જ ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું નામ, મોટા પિતા, મોટું કામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મજૂરોને રાત્રે શેરડીના ખેતરમાં શું મુશ્કેલી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાત્રે અંધારામાં શેરડી કાપવી અને જંગલી જનાવરોનો ડર રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાતનું કામ, જોખમનું નામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધનુના પિતા અને મુકાદમ વચ્ચે શું વાતચીત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુકાદમ મજૂરોને લીધેલા પૈસાનો હિસાબ આપે છે અને આવતા છ મહિનાના કામની સમજણ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિસાબ-કિતાબ = મુકાદમનો રોબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ધનુ કઈ બાબતથી દુઃખી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુ તેની શાળા છોડવાને કારણે અને તેના મિત્રોથી દૂર જવાને કારણે દુઃખી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાળા છૂટી = ખુશી લૂંટાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શું ધનુના ગામમાં બધા જ લોકો શેરડી કાપવા જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, જે પરિવાર પાસે પોતાની જમીન છે અથવા બીજા કામ છે તે લોકો ગામમાં જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન પોતાની, તો મજા પોતાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ધનુ ભણીને શું બનવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધનુ ભણીને કંઈક મોટું બનવા માંગે છે જેથી તેને મજૂરી ન કરવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતર = સારી જિંદગીનું અંતર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મજૂરોને પીવાના પાણીની વ્યવસ્થા કેવી રીતે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજૂરો નદી કે નજીકના હેન્ડપંપમાંથી પાણી ભરીને લાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી માટે પણ દોડધામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ખાંડની ફેક્ટરી પાસે કયા વાહનોની લાઈન લાગેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાંડની ફેક્ટરી પાસે શેરડી ભરેલા બળદગાડા અને ટ્રકોની લાંબી લાઈન લાગેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીની ગાડીઓ = ફેક્ટરીની લાઈનો!</p></div>"
+    }
+  ]
+}
