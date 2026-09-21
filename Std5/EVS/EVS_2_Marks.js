@@ -114,3 +114,61 @@ var Std5_EVS_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સ્વાદથી પાચન સુધી",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જીભના કયા ભાગમાં કયા સ્વાદ જલ્દી પરખાય છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભના આગળના ભાગમાં ગળ્યો સ્વાદ, પાછળના ભાગમાં કડવો સ્વાદ અને બંને બાજુએ ખાટો અને ખારો સ્વાદ જલ્દી પરખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગળ ગળ્યું, પાછળ કડવું, સાઈડમાં ખાટું-ખારું' - બસ આટલું યાદ રાખો એટલે સ્વાદનો નકશો તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખોરાકને ખૂબ ચાવીને શા માટે ખાવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકને ચાવવાથી તેમાં લાળરસ ભળે છે, જે ખોરાકને પોચો અને મીઠો બનાવે છે. લાળરસ ખોરાકના પાચનમાં મદદ કરે છે, જેથી પાચનતંત્ર પર વધુ ભાર પડતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ચાવશો = લાળ ભળશે = સરળ પાચન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તમને ભૂખ લાગી છે તે તમને કેવી રીતે ખબર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આપણને ભૂખ લાગે છે ત્યારે પેટમાં અજીબ લાગણી થાય છે (જેને આપણે પેટમાં ઉંદર દોડવા કહીએ છીએ), ક્યારેક માથું દુખે છે, ગુસ્સો આવે છે અથવા થાક અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ ખાલી + માથું ભારે + ગુસ્સો = ભૂખનું સિગ્નલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીતુને ગ્લુકોઝ ટપક (Glucose Drip) શા માટે આપવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીતુને ખૂબ ઉલટી અને ઝાડા થયા હતા, જેના કારણે તેના શરીરમાં પાણી અને શક્તિનું પ્રમાણ ઘટી ગયું હતું. ગ્લુકોઝ ચડાવવાથી ખાધા-પીધા વગર પણ શરીરમાં તરત જ શક્તિ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ = ઇન્સ્ટન્ટ શક્તિનો ડોઝ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ડૉ. બ્યુમોન્ટે માર્ટિનના પેટના પ્રયોગો પરથી પાચન વિશે શું શોધી કાઢ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૉ. બ્યુમોન્ટે જોયું કે બહારના વાતાવરણ કરતા પેટની અંદર ખોરાક ઝડપથી પચે છે. તેમણે એ પણ નોંધ્યું કે આપણું પેટ ખોરાકને પચાવવા માટે તેને વલોવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ એક મિક્સર છે જે ખોરાકને વલોવીને ફાસ્ટ પચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કેવો ખોરાક 'યોગ્ય આહાર' ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ખોરાકમાં દાળ, ભાત, રોટલી અને શાકભાજી જેવા તાજા અને ઘરના બનેલા ઘટકો હોય, જે શરીરના વિકાસ માટે જરૂરી પોષક તત્વો પૂરા પાડે, તેને યોગ્ય આહાર કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરનું ખાવાનું = હેલ્ધી રહેવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જંક ફૂડ (બહારનો ખોરાક) ખાવાથી શું નુકસાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંક ફૂડ ખાવાથી શરીરમાં ચરબી વધે છે અને વ્યક્તિ આળસુ બને છે. લાંબા ગાળે મેદસ્વીતા (જાડાપણું) અને પાચનની સમસ્યાઓ ઉભી થાય છે, તેમજ શરીર નબળું પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંક ફૂડ = શરીર માટે 'કચરો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આપણા પેટમાં રહેલો પાચક રસ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા પેટમાં રહેલો પાચક રસ 'એસિડિક' (તેજાબ જેવો) હોય છે. તે ખોરાકને તોડવામાં અને સૂક્ષ્મ જીવાણુઓનો નાશ કરવામાં મદદરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટનો રસ = એસિડ (જે ખોરાકને ઓગાળે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રશ્મિ 5 વર્ષની છે છતાં 3 વર્ષની હોય તેવી કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રશ્મિને દિવસમાં આખા દિવસનું એક પણ ટંક પૂરતું જમવાનું મળતું નથી. તેને પૂરતું પોષણ ન મળવાના કારણે તેના હાથ-પગ પાતળા છે અને તે ઉંમર કરતા નાની દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછો ખોરાક = કુપોષણ (વિકાસ અટકી જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લાળરસનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાળરસ મોંમાં ખોરાકને ભીનો અને પોચો કરે છે, જેથી ખોરાક ગળવામાં સરળતા રહે છે. ઉપરાંત, તે ખોરાકમાં રહેલા સ્ટાર્ચનું શર્કરામાં રૂપાંતર કરી પાચનની શરૂઆત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાળ = લુબ્રિકેશન + પાચનની શરૂઆત!</p></div>"
+    }
+  ]
+}
