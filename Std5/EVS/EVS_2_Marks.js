@@ -230,3 +230,61 @@ var Std5_EVS_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "બીજ, બીજ, બીજ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બીજને ફણગાવવા માટે કઈ કઈ બાબતોની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજને ફણગાવવા માટે મુખ્યત્વે હવા, પાણી અને યોગ્ય પ્રમાણમાં ગરમીની જરૂર પડે છે. જો બીજને ભીના કપડામાં બાંધીને રાખવામાં આવે, તો તેને આ ત્રણેય વસ્તુઓ મળી રહે છે અને તેમાંથી અંકુર ફૂટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હ-પા-ગ' (હવા, પાણી, ગરમી) એટલે બીજનું ફણગાવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દ્વિદલ બીજ અને એકદલ બીજ વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બીજની બે સરખી ફાડ (ભાગ) થઈ શકે તેને દ્વિદલ બીજ કહેવાય છે (દા.ત. મગ, ચણા). જ્યારે જે બીજની બે સરખી ફાડ ન થઈ શકે તેને એકદલ બીજ કહેવાય છે (દા.ત. ઘઉં, મકાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ફાડ = દ્વિદલ, એક જ ભાગ = એકદલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પવન દ્વારા બીજનો ફેલાવો કેવી રીતે થાય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બીજ વજનમાં ખૂબ જ હલકા અને પાંખોવાળા કે રૂંવાટીવાળા હોય છે, તે પવન આવતાની સાથે હવામાં ઊડીને દૂર સુધી ફેલાય છે. દા.ત. આંકડો, કણજી અને સીમળાના બીજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકા બીજ પવનની સવારી કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શિકારી છોડ (કલશપર્ણ) વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલશપર્ણ એક એવો છોડ છે જે નાના જીવજંતુઓનો શિકાર કરે છે. તેનો આકાર ઘડા જેવો હોય છે અને ઉપર પર્ણનું ઢાંકણ હોય છે. તેમાંથી ખાસ પ્રકારની સુગંધ આવતી હોવાથી જીવડાં ખેંચાઈ આવે છે અને અંદર ફસાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડા જેવો આકાર + ખાસ સુગંધ = શિકારી છોડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જ્યોર્જ મેસ્ટ્રલે 'વેલ્ક્રો' બનાવવાનો વિચાર કઈ રીતે આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યોર્જ મેસ્ટ્રલ જ્યારે કુતરા સાથે ચાલતા હતા, ત્યારે તેમણે જોયું કે તેમના કપડાં અને કુતરાની રૂંવાટી પર કોઈ બીજ ચોંટી ગયા હતા. આ બીજ પર નાના-નાના હૂક હતા. આ જોઈને તેમને કપડાં કે બેગમાં વપરાતા 'વેલ્ક્રો' બનાવવાનો વિચાર આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજના હૂક + અવલોકન = વેલ્ક્રોની શોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાણી દ્વારા કયા બીજનો ફેલાવો થાય છે? કેવી રીતે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે છોડ કે વૃક્ષ નદી અથવા દરિયાકિનારે હોય છે, તેના બીજ પાણીમાં પડીને તરીને એક જગ્યાએથી બીજી જગ્યાએ જાય છે. દા.ત. નાળિયેર. નાળિયેરનું ઉપરનું કવચ રેસાવાળું હોવાથી તે પાણીમાં સરળતાથી તરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી-દરિયાના કિનારે હોય, તે પાણીમાં તરીને જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દક્ષિણ અમેરિકાથી ભારતમાં કયા કયા બીજ (શાકભાજી) આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ અમેરિકાથી વેપારીઓ દ્વારા ભારતમાં મરચાં, બટેટા અને ટામેટા જેવા બીજ આવ્યા છે. આજે આ શાકભાજી વગરની રસોઈની આપણે કલ્પના પણ કરી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ-મ-ટા' (બટેટા, મરચાં, ટામેટા) = દક્ષિણ અમેરિકાની ભેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કેટલીકવાર બીજ પોતાની જાતે કેવી રીતે ફેલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોયાબીન જેવી કેટલીક વનસ્પતિની શિંગો જ્યારે પાકી જાય છે, ત્યારે તે ફાટે છે અને બીજ જોરથી બહાર ફેંકાય છે. આ રીતે બીજ છોડથી દૂર જઈને પડે છે અને કુદરતી રીતે ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકીને ફાટવું = જાતે ફેલાવું (સોયાબીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મસાલા તરીકે વપરાતા ચાર બીજના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસોડામાં મસાલા તરીકે વપરાતા મુખ્ય બીજ નીચે મુજબ છે: (1) જીરું, (2) વરિયાળી, (3) રાઈ અને (4) મેથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડાના ડબ્બામાં જે દેખાય, તે મસાલા બીજ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રાણીઓ બીજનો ફેલાવો કેવી રીતે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓ ફળ ખાઈને બીજ ગમે ત્યાં ફેંકી દે છે અથવા તેમના મળ વાટે બીજ જમીન પર પહોંચે છે. વળી, ગોખરુ જેવા કાંટાવાળા બીજ પ્રાણીઓની રૂંવાટીમાં ચોંટીને એક જગ્યાએથી બીજી જગ્યાએ પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂંવાટીમાં ચોંટીને અથવા ફળ ખાઈને ફેલાવો.</p></div>"
+    }
+  ]
+}
