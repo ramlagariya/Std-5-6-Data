@@ -404,3 +404,61 @@ var Std5_EVS_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "મચ્છર, રોગો અને સારવાર",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મેલેરિયા કયા મચ્છરના કરડવાથી ફેલાય છે? તેની તપાસ કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેલેરિયા માદા એનોફિલીસ મચ્છર કરડવાથી ફેલાય છે. મેલેરિયાની ખાતરી કરવા માટે દર્દીના લોહીનો ટેસ્ટ (Blood Test) કરવામાં આવે છે, જેમાં લોહીમાં મેલેરિયાના જંતુઓ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માદા એનોફિલીસ = મેલેરિયાની માસી (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મેલેરિયા રોગના મુખ્ય લક્ષણો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેલેરિયામાં દર્દીને ખૂબ જ ઠંડી લાગે છે અને ધ્રુજારી સાથે તાવ આવે છે. તાવ ચઢ-ઉતર થયા કરે છે અને શરીરમાં નબળાઈ અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડી + ધ્રુજારી + તાવ = મેલેરિયાનો પ્રભાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાંડુરોગ (એનિમિયા) એટલે શું? તે શેના કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે લોહીમાં હિમોગ્લોબિન અથવા લોહતત્ત્વ (Iron) નું પ્રમાણ ઓછું થઈ જાય ત્યારે તેને પાંડુરોગ (એનિમિયા) કહેવામાં આવે છે. આ રોગ મુખ્યત્વે પૌષ્ટિક આહારના અભાવે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછું લોખંડ (Iron) = પાંડુરોગની એન્ટ્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાંડુરોગ મટાડવા માટે કયો ખોરાક લેવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંડુરોગ મટાડવા માટે લોહતત્ત્વથી ભરપૂર ખોરાક લેવો જોઈએ. જેમ કે: ગોળ, આમળા, બીટ અને લીલા પાંદડાવાળા શાકભાજી (પાલક, મેથી વગેરે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GAP (G=Goat/Jaggery, A=Amla, P=Palak) - આટલું ખાઓ પાંડુરોગ ભગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મચ્છરના બચ્ચાં (પોરા) એટલે શું? તે ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર પાણીમાં જે ઇંડા મૂકે છે, તેમાંથી નીકળતા નાના ભૂખરા રંગના જીવડાંને મચ્છરના બચ્ચાં અથવા 'પોરા' કહે છે. તે ટાંકી, કૂલર, કુંડા કે ભરાઈ રહેલા જૂના પાણીમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીના પોરા = મચ્છરના છોરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઘરની આસપાસ પાણી કેમ જમા થવા દેવું જોઈએ નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરાયેલા ગંદા કે સ્થિર પાણીમાં મચ્છરો ઇંડા મૂકે છે અને પોતાનો વંશ વધારે છે. જો પાણી જમા થાય તો મચ્છરોનો ઉપદ્રવ વધે છે અને મેલેરિયા, ડેન્ગ્યુ કે ચિકનગુનિયા જેવા રોગો ફેલાવવાનો ભય રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર પાણી = મચ્છરોનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રોનાલ્ડ રોસે મેલેરિયા વિશે કઈ મહત્ત્વની શોધ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૈજ્ઞાનિક રોનાલ્ડ રોસે શોધ્યું હતું કે મેલેરિયા એ મચ્છરો દ્વારા ફેલાય છે. તેમણે મચ્છરના પેટમાં મેલેરિયાના જંતુઓ જોયા હતા અને સાબિત કર્યું કે બધા મચ્છર નહીં પણ ચોક્કસ પ્રકારના મચ્છર જ આ રોગ ફેલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોનાલ્ડ 'રોસ' એ પકડ્યો મચ્છરનો 'દોષ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ટાંકી કે ખાડાના પાણીમાં તેલ અથવા કેરોસીન કેમ છાંટવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી પર તેલ કે કેરોસીન છાંટવાથી પાણીની સપાટી પર એક પડ બની જાય છે. આ પડને કારણે મચ્છરના બચ્ચાં (પોરા) ને હવા મળતી બંધ થઈ જાય છે અને તેઓ મરી જાય છે, જેથી મચ્છરનો ફેલાવો અટકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલનું પડ = પોરાનું મોત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાંડુરોગ ધરાવતા બાળકોના સ્વાસ્થ્ય પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંડુરોગને લીધે બાળકોનો શારીરિક અને માનસિક વિકાસ બરાબર થતો નથી. તેઓ જલદી થાકી જાય છે, તેમની શક્તિ ઓછી થાય છે અને ભણવામાં ધ્યાન આપી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એનિમિયા = નબળાઈ અને થાકનો વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માછલીઓ રાખવાથી મચ્છરનો ફેલાવો કેવી રીતે અટકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પાણીના હોજ કે ટાંકીમાં માછલીઓ મૂકવામાં આવે, તો તે મચ્છરના ઇંડા અને તેમના બચ્ચાં (પોરા) ને ખાઈ જાય છે. આ રીતે કુદરતી રીતે જ મચ્છરોની સંખ્યા વધતી અટકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી છે મચ્છરના પોરાની દુશ્મન!</p></div>"
+    }
+  ]
+}
