@@ -636,3 +636,61 @@ var Std5_EVS_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જો આ ખૂટી જાય તો...",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ખનીજ તેલ કેવી રીતે બને છે? તે બનતા કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનીજ તેલ જમીનમાં ખૂબ ઊંડે લાખો વર્ષો પહેલાં દટાયેલા મૃત પ્રાણીઓ અને વનસ્પતિઓના અવશેષોમાંથી કુદરતી રીતે બને છે. તે ખૂબ જ ધીમી પ્રક્રિયા છે અને તેને બનતા લાખો વર્ષો લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - 'કુદરતી પ્રોસેસ + લાખો વર્ષ' = ખનીજ તેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખનીજ તેલ (પેટ્રોલિયમ) માંથી કઈ કઈ વસ્તુઓ મેળવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનીજ તેલને રિફાઇનરીમાં શુદ્ધ કરીને તેમાંથી પેટ્રોલ, ડીઝલ, કેરોસીન, એન્જિન ઓઈલ, વિમાન માટેનું ઇંધણ, એલ.પી.જી. (LPG), મીણ, ગ્રીસ અને ડામર જેવી વસ્તુઓ મેળવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પે-ડી-કે-મી-ડા' (પેટ્રોલ, ડીઝલ, કેરોસીન, મીણ, ડામર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ટ્રાફિક સિગ્નલ પર લાલ લાઈટ હોય ત્યારે એન્જિન શા માટે બંધ કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રાફિક સિગ્નલ પર એન્જિન બંધ રાખવાથી બે મુખ્ય ફાયદા થાય છે: ૧. પેટ્રોલ કે ડીઝલ જેવા મૂલ્યવાન બળતણની બચત થાય છે અને ૨. હવાનું પ્રદૂષણ તથા અવાજનું પ્રદૂષણ ઘટાડી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન બંધ = બળતણ બચાવ + પ્રદૂષણ હટાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રસ્તા પર વાહનોની સંખ્યા વધવાથી કઈ કઈ મુશ્કેલીઓનો સામનો કરવો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનોની સંખ્યા વધવાથી નીચે મુજબની મુશ્કેલીઓ થાય છે:<br>૧. ટ્રાફિક જામની સમસ્યા વધે છે.<br>૨. અકસ્માતો થવાનું જોખમ વધી જાય છે.<br>૩. હવાનું અને અવાજનું પ્રદૂષણ વધે છે, જેનાથી સ્વાસ્થ્ય બગડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વાહન = વધુ ટ્રાફિક, વધુ ધુમાડો, વધુ ઘોંઘાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાહનોમાંથી નીકળતા ધુમાડાથી આપણને કેવા પ્રકારની તકલીફો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનોના ધુમાડાથી આપણને ઉધરસ, માથાનો દુખાવો, આંખોમાં બળતરા અને ફેફસાં સંબંધિત રોગો (જેમ કે અસ્થમા) જેવી સ્વાસ્થ્ય સંબંધી તકલીફો થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો એટલે રોગનો પડો (ઉધરસ + આંખની બળતરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બળતણ બચાવવા માટે આપણે કયા ઉપાયો કરવા જોઈએ? (કોઈપણ બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. વ્યક્તિગત વાહનોને બદલે બસ કે ટ્રેન જેવા જાહેર પરિવહનનો ઉપયોગ કરવો જોઈએ.<br>૨. ટૂંકા અંતર માટે સાયકલનો ઉપયોગ કરવો અથવા પગપાળા જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બસ પકડો કે સાયકલ ચલાવો' - બળતણ બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પેટ્રોલ અને ડીઝલના ભાવ કેમ સતત વધી રહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટ્રોલ અને ડીઝલનો જથ્થો મર્યાદિત છે (ખૂટી જાય તેવો છે) અને તેની સામે વપરાશ દિન-પ્રતિદિન વધી રહ્યો છે. જમીનમાંથી તેલ કાઢવાનો ખર્ચ પણ વધુ હોય છે, આથી તેના ભાવ સતત વધી રહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછો જથ્થો + વધુ વપરાશ = મોંઘા ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગામડામાં લોકો રસોઈ બનાવવા માટે કયા બળતણનો ઉપયોગ કરે છે? તેની શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામડામાં ઘણા લોકો હજુ પણ રસોઈ માટે લાકડાં અને છાણાંનો ઉપયોગ કરે છે. તેનાથી નીકળતા ધુમાડાને કારણે મહિલાઓને ઉધરસ અને શ્વાસ સંબંધિત બીમારીઓ થવાની શક્યતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડા-છાણાં = વધુ ધુમાડો = શ્વાસની તકલીફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સૌર ઊર્જા (Solar Energy) ના બે ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. સૌર ઊર્જા ક્યારેય ખૂટે નહીં તેવી અખૂટ ઊર્જા છે.<br>૨. તેના ઉપયોગથી બળતણની બચત થાય છે અને પર્યાવરણને કોઈ પ્રદૂષણ થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ દાદાની શક્તિ = નો પ્રદૂષણ + નો ટેન્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "CNG અને LPG ના પૂરા નામ લખો. તેઓ પેટ્રોલ-ડીઝલ કરતા કઈ રીતે ચડિયાતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CNG એટલે કોમ્પ્રેસ્ડ નેચરલ ગેસ અને LPG એટલે લિક્વિફાઇડ પેટ્રોલિયમ ગેસ. તેઓ પેટ્રોલ-ડીઝલ કરતા ઓછા પ્રદૂષણકારી છે અને સ્વચ્છ બળતણ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસ વાપરો, હવા સાફ રાખો.</p></div>"
+    }
+  ]
+}
