@@ -1100,3 +1100,61 @@ var Std5_EVS_2_Marks = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "જંગલો કોનાં?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૂર્યમણીનું સ્વપ્ન શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણીનું સ્વપ્ન હતું કે તેના કુડુક જાતિના લોકો આદિવાસી હોવા માટે ગર્વ અનુભવે. તે ઇચ્છતી હતી કે લોકો તેમની સંસ્કૃતિ, પરંપરાગત જ્ઞાન અને જંગલો સાથેનો તેમનો સંબંધ જાળવી રાખે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમણી = આદિવાસી ગૌરવ + જંગલ બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કુડુક ભાષામાં 'તોરંગ' (Torang) નો અર્થ શું થાય છે? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુડુક ભાષામાં 'તોરંગ' નો અર્થ 'જંગલ' થાય છે. સૂર્યમણીએ આ કેન્દ્રની સ્થાપના કુડુક સંસ્કૃતિ, સંગીત અને પરંપરાગત વાદ્યો (જેમ કે વાંસળી અને ઢોલ) ને જીવંત રાખવા માટે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોરંગ = કુડુક જંગલ + સંસ્કૃતિ કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'જંગલ હકનો કાયદો - ૨૦૦૭' વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ કાયદા મુજબ જે લોકો ઓછામાં ઓછા ૨૫ વર્ષથી જંગલમાં રહેતા હોય, તેમનો જંગલની જમીન અને ત્યાં ઊગતી પેદાશો પર અધિકાર છે. તેમને જંગલમાંથી કાઢી શકાય નહીં અને જંગલોના રક્ષણનું કામ તેમની ગ્રામસભાએ કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૫ વર્ષ રહેઠાણ = જંગલ પર હક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઝૂમ ખેતી (Jhoom Farming) માં પાકની લણણી પછી જમીન સાથે શું કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂમ ખેતીમાં એક પાક લીધા પછી જમીનને થોડા વર્ષો માટે ખેતી વગરની રાખવામાં આવે છે. ત્યાં ઊગતા વાંસ કે ઘાસને કાઢવામાં આવતા નથી, પણ તેને કાપીને ત્યાં જ સળગાવી દેવામાં આવે છે, જેની રાખ જમીનને ફળદ્રુપ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપો + સળગાવો + આરામ આપો = ઝૂમ ખેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જંગલોને 'સહિયારી બેંક' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલો કોઈ એક વ્યક્તિની માલિકીના નથી, પરંતુ આખા સમાજની સહિયારી મિલકત છે. આદિવાસીઓ તેમાંથી માત્ર પોતાની જરૂરિયાત મુજબ જ વસ્તુઓ લે છે અને તેનો સંગ્રહ કરતા નથી, તેથી તેને સહિયારી બેંક કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ = બધાની સંપત્તિ (સહિયારી બેંક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મિઝોરમમાં ખેતી માટે જમીનની ફાળવણી કઈ રીતે કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં ખેતી માટે લૉટરી (ચિઠ્ઠી) પદ્ધતિનો ઉપયોગ થાય છે. ગામના દરેક પરિવારને વારાફરતી ખેતી કરવા માટે જમીન મળે છે. જમીન કોઈ એકની હોતી નથી, પણ આખા ગામની ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિઝોરમ = લૉટરી સિસ્ટમ + વારાફરતી ખેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'એક ટીન જમીન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિઝોરમમાં જમીન માપવાનો આ એક અનોખો એકમ છે. એક ટીન (ડબ્બો) ભરીને બીજ જેટલી જમીનમાં વાવી શકાય, તેટલી જમીનને 'એક ટીન જમીન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ ટીન બીજ = ૧ ટીન જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જંગલો બચાવવા માટે સૂર્યમણીએ કયા કાર્યો કર્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યમણીએ 'ઝારખંડ જંગલ બચાવો આંદોલન' માં જોડાઈને જંગલો કાપતા અટકાવ્યા. તેણે 'તોરંગ' કેન્દ્ર ખોલ્યું અને ગામના લોકોને તેમના જંગલ પરના હક્કો વિશે જાગૃત કર્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંદોલન + તોરંગ + જાગૃતિ = સૂર્યમણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આદિવાસીઓ માટે જંગલનું શું મહત્વ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિવાસીઓ માટે જંગલ એ જ તેમનું જીવન છે. જંગલો તેમને ખોરાક, બળતણ, ઔષધિઓ અને આજીવિકા પૂરી પાડે છે. જંગલો વગર આદિવાસીઓ જીવી શકે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ = આદિવાસીનું અસ્તિત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જંગલો કેમ ઓછા થઈ રહ્યા છે? કોઈપણ બે કારણો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. મોટા ડેમ (બંધો) બાંધવાને કારણે અને ૨. ખાણો ખોદવા તેમજ ફેક્ટરીઓ સ્થાપવા માટે જંગલોના વૃક્ષો મોટા પાયે કાપવામાં આવી રહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેમ + ખાણકામ = જંગલનો નાશ.</p></div>"
+    }
+  ]
+}
