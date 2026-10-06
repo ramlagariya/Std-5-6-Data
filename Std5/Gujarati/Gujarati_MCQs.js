@@ -206,3 +206,136 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બે વરસાદ અને પાંચ પીપર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકરણ 2 માં મુખ્યત્વે કયા બે પાત્રોની વાત કરવામાં આવી છે? \n(A) આકાશ અને ધરતી \n(B) સાગર અને સમુદ્ર \n(C) સૂરજ અને ચાંદો \n(D) નદી અને તળાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સાગર અને સમુદ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાગર' અને 'સમુદ્ર' બંને વાદળાંના નામ છે, જે આ વાર્તાના હીરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સાગર અને સમુદ્ર કોણ હતા? \n(A) બે માછલાં \n(B) બે પર્વત \n(C) બે વાદળાં \n(D) બે મિત્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બે વાદળાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં રખડતા અને પાણી વરસાવતા એટલે 'વાદળાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાદળાંઓને ક્યાં જવાનું મન થયું? \n(A) દરિયામાં \n(B) પૃથ્વી પર સફર કરવા \n(C) સૂરજ પાસે \n(D) ચંદ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૃથ્વી પર સફર કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ હંમેશા આકાશથી પૃથ્વી (ધરતી) તરફ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાગર કેવો સ્વભાવ ધરાવતો હતો? \n(A) આળસુ \n(B) ગુસ્સાવાળો \n(C) મહેનતુ અને હિંમતવાન \n(D) ડરપોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મહેનતુ અને હિંમતવાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગર હંમેશા કામ કરવા તૈયાર રહેતો, એટલે તે 'મહેનતુ' ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમુદ્રને શું કરવાનું ગમતું હતું? \n(A) દોડવાનું \n(B) ઊંઘવાનું અને આળસ કરવાનું \n(C) વરસવાનું \n(D) રમવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઊંઘવાનું અને આળસ કરવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં સમુદ્રને 'આળસુ' ચીતરવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આકાશમાં ગડગડાટ કોણ કરે છે? \n(A) પક્ષીઓ \n(B) વાદળાં \n(C) માણસો \n(D) વિમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાદળાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળાં અથડાય ત્યારે 'ગડગડાટ' અવાજ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પીપરના કેટલાં ઝાડની વાત આ પાઠમાં છે? \n(A) ત્રણ \n(B) ચાર \n(C) પાંચ \n(D) સાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે - 'પાંચ પીપર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાદળાંઓએ વરસવા માટે શું કર્યું? \n(A) નાચવા લાગ્યા \n(B) ગડગડાટ કરી એકબીજા સાથે અથડાયા \n(C) શાંત બેસી રહ્યા \n(D) પવનને બોલાવ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગડગડાટ કરી એકબીજા સાથે અથડાયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથડામણ (ગડગડાટ) = વરસાદની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'મુશળધાર' એટલે કેવો વરસાદ? \n(A) ધીમો \n(B) બહુ જ ભારે \n(C) ફોરાં જેવો \n(D) પવન જેવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહુ જ ભારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશળધાર એટલે જાણે સાંબેલા જેવી જાડી ધાર પડતી હોય તેવો વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વરસાદ આવવાથી ધરતી કેવી બની જાય છે? \n(A) સુકી \n(B) લાલ \n(C) લીલીછમ \n(D) કાળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લીલીછમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી + ધરતી = હરિયાળી (લીલો રંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'સાગર' શબ્દનો સાચો સમાનાર્થી શબ્દ જણાવો. \n(A) નદી \n(B) સરોવર \n(C) દરિયો \n(D) વાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દરિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગર, રત્નાકર, જલધિ - આ બધા દરિયાના નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પંખીઓ ક્યાં આશરો લેતા હતા? \n(A) ઘરની અંદર \n(B) પીપરના ઝાડ પર \n(C) ગુફામાં \n(D) આકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પીપરના ઝાડ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડ એ પંખીઓનું કુદરતી ઘર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વરસાદના ટીપાંને શું કહી શકાય? \n(A) કરા \n(B) ફોરાં \n(C) બરફ \n(D) ધૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફોરાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં વરસાદના ટીપાં માટે 'ફોરાં' શબ્દ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વીજળી કેવી રીતે થાય છે? \n(A) અવાજ કરવાથી \n(B) વાદળાંના ઘર્ષણ/અથડાવાથી \n(C) પવન ફૂંકાવવાથી \n(D) તડકો પડવાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાદળાંના ઘર્ષણ/અથડાવાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળાં ટકરાય એટલે વીજળી થાય અને અવાજ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'આકાશ' શબ્દનો વિરોધી શબ્દ કયો છે? \n(A) ગગન \n(B) પાતાળ \n(C) ધરતી \n(D) વાદળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર આકાશ, નીચે ધરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાદળાં ક્યારે વરસે? \n(A) જ્યારે તેઓ હલકા હોય \n(B) જ્યારે તેઓ પાણીથી ભરાઈને ભારે થાય \n(C) જ્યારે રાત પડે ત્યારે \n(D) ગમે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યારે તેઓ પાણીથી ભરાઈને ભારે થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારે પાણી = વધારે વજન = વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાઠમાં 'પલળવું' શબ્દનો અર્થ શું થાય? \n(A) સુકાવું \n(B) ભીંજાવું \n(C) ગરમ થવું \n(D) ઠંડુ થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભીંજાવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદમાં નાચીએ એટલે પલળીએ (ભીંજાઈએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાદળાંની સવારી કઈ કહેવાય? \n(A) વિમાન \n(B) પવન \n(C) વીજળી \n(D) સૂર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન જે દિશામાં જાય, વાદળાં તે દિશામાં દોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પીપરના પાનનો અવાજ કેવો આવે છે? \n(A) ખડખડ \n(B) સળસળ/પીપ પીપ \n(C) ગડગડાટ \n(D) છબછબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સળસળ/પીપ પીપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન વાગે ત્યારે પાન સળવળે અને 'સળસળ' અવાજ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરસાદ આવ્યા પછી કોણ સૌથી વધુ ખુશ થાય છે? \n(A) પથ્થર \n(B) ખેડૂત અને પક્ષીઓ \n(C) રસ્તો \n(D) ગાડીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખેડૂત અને પક્ષીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજીવોને પાણીની જરૂર હોય છે, એટલે તેઓ ખુશ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પાઠના આધારે જણાવો: સમુદ્ર કેમ વરસી શક્યો નહીં? \n(A) કારણ કે તે બીમાર હતો \n(B) કારણ કે તે આળસુ હતો અને પાણી ભરવા ન ગયો \n(C) કારણ કે તેની પાસે વાદળ નહોતું \n(D) કારણ કે તે ડરી ગયો હતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કારણ કે તે આળસુ હતો અને પાણી ભરવા ન ગયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કામ (મહેનત) ન કરે તે વરસી (ફળ મેળવી) ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'ગડગડાટ' શબ્દ કઈ ઇન્દ્રિય દ્વારા અનુભવી શકાય? \n(A) આંખ \n(B) નાક \n(C) કાન \n(D) જીભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ હંમેશા કાનથી જ સંભળાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વરસાદની ઋતુનું બીજું નામ શું છે? \n(A) ઉનાળો \n(B) શિયાળો \n(C) ચોમાસું \n(D) વસંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોમાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર માસની ઋતુ જેમાં વરસાદ આવે એટલે ચોમાસું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વાદળાં શાના બનેલા હોય છે? \n(A) કપાસના \n(B) ધુમાડાના \n(C) પાણીની વરાળના \n(D) મીઠાના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાણીની વરાળના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યની ગરમીથી પાણીની વરાળ બને અને તેમાંથી વાદળાં બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'ઝબૂક' શબ્દ કોની સાથે જોડાયેલો છે? \n(A) પવન \n(B) વીજળી \n(C) વાદળ \n(D) પક્ષી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વીજળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીજળી થાય ત્યારે પ્રકાશ ઝબકે એટલે 'ઝબૂક'.</p></div>"
+    }
+  ]
+}
