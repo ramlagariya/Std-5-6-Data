@@ -497,3 +497,161 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "પાંચડું પાંચ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પાંચડું પાંચ’ પ્રકરણમાં મુખ્યત્વે કયા અંક પર ભાર મૂકવામાં આવ્યો છે?",
+      "options": "A. એક \nB. ત્રણ \nC. પાંચ \nD. સાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણના ટાઈટલ 'પાંચડું પાંચ' માં જ જવાબ છુપાયેલો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માણસના એક હાથમાં કુલ કેટલી આંગળીઓ (અંગૂઠા સાથે) હોય છે?",
+      "options": "A. ચાર \nB. પાંચ \nC. છ \nD. દસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજો જુઓ = પાંચ આંગળા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘પંજો’ શબ્દ કઈ સંખ્યા સાથે જોડાયેલો છે?",
+      "options": "A. 2 \nB. 5 \nC. 10 \nD. 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પંજો અને 'પ' થી પાંચ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાવ્યમાં ‘પાંચડું પાંચ’ ને કોની સાથે સરખાવવામાં આવ્યો છે અથવા કોના જેવો કહ્યો છે?",
+      "options": "A. લાકડી જેવો \nB. દડા જેવો \nC. વળાંકવાળો \nD. સીધો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વળાંકવાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ લખતી વખતે વળાંક લેવો પડે છે તે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયા ફળની ચીરીઓ પાંચ જેવી દેખાઈ શકે?",
+      "options": "A. સફરજન \nB. કેળું \nC. ચીકુ \nD. પપૈયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સફરજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજનને વચ્ચેથી કાપો તો પાંચ પાંખડી જેવી ભાત દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "‘હથેળી’ શબ્દનો સમાનાર્થી શબ્દ પાઠના આધારે જણાવો.",
+      "options": "A. કરતલ \nB. ચરણ \nC. નયન \nD. મસ્તક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કરતલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કર' એટલે હાથ, અને હાથની તલ એટલે 'કરતલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આ પ્રકરણમાં 'આંગળીઓ' માટે કયો પ્રાસ બેસતો શબ્દ વપરાયો છે?",
+      "options": "A. સાંગળીઓ \nB. પાંગળીઓ \nC. રંગોળીઓ \nD. બંગડીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. બંગડીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં પ્રાસ (Rhyming words) હંમેશા છેલ્લે સરખા અવાજ વાળા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગણિતમાં '5' ને ગુજરાતી અંકમાં કેવી રીતે લખાય?",
+      "options": "A. ૫ \nB. ૪ \nC. ૬ \nD. ૭",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીનો '૫' એ ઉંધા 'h' જેવો લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તમારા બંને હાથની મળીને કુલ કેટલી આંગળીઓ થાય?",
+      "options": "A. ૫ \nB. ૧૦ \nC. ૧૫ \nD. ૨૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 (ડાબો) + 5 (જમણો) = 10!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કયા ફૂલને પાંચ પાંખડીઓ હોય છે (સામાન્ય રીતે)?",
+      "options": "A. ગુલાબ \nB. ગલગોટો \nC. જાસૂદ \nD. સૂર્યમુખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જાસૂદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશી જાસૂદ ગણો, હંમેશા 5 પાંખડી મળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘મુઠ્ઠી’ વાળતી વખતે કેટલી આંગળીઓ અંદર તરફ વળે છે?",
+      "options": "A. ૨ \nB. ૩ \nC. ૪ \nD. ૫",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. ૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગૂઠો પણ આંગળીઓ ભેગો જ ગણાય છે મુઠ્ઠીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘અંગૂઠો’ શબ્દમાં કયો અક્ષર અનુસ્વારવાળો છે?",
+      "options": "A. અ \nB. ગૂ \nC. ઠો \nD. કોઈ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ-ની ઉપર બિંદુ (અં) છે, એટલે તે અનુસ્વાર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાંચડું પાંચ કાવ્યમાં બાળક શું ગણવાની વાત કરે છે?",
+      "options": "A. તારા \nB. પૈસા \nC. આંગળા \nD. પગલાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આંગળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચનો આંકડો સીધો આપણી હથેળી સાથે જોડાયેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘પાંચ’ શબ્દને સંસ્કૃતમાં શું કહેવાય?",
+      "options": "A. એકમ્ \nB. દ્વે \nC. ત્રીણી \nD. પંચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. પંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચ-તત્વ, પંચ-પાંડવ - આ બધામાં પાંચ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘પાંચડું પાંચ’ પ્રકરણમાં ભાષાની કઈ રમત રમવામાં આવી છે?",
+      "options": "A. અંતાક્ષરી \nB. શબ્દ રમત \nC. અંક રમત \nD. ખો-ખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અંક રમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેકારવમાં અંકો સાથે શબ્દોની મજા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયા પ્રાણીને પાંચ પગ હોય છે?",
+      "options": "A. ગાય \nB. કુતરો \nC. હાથી \nD. એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. એકપણ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય રીતે પ્રાણીઓને 2 અથવા 4 પગ હોય છે, 5 નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘હથેળી’ માં સૌથી ટૂંકી આંગળી કઈ છે?",
+      "options": "A. અંગૂઠો \nB. ટચલી \nC. અનામિકા \nD. મધ્યમા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ટચલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટચલી એટલે 'સૌથી નાની' અને છેલ્લી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાંચમાં એક ઉમેરતા કયો અંક બને?",
+      "options": "A. ચાર \nB. છ \nC. સાત \nD. આઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 + 1 = 6 (છગડો છ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘પાંચડું પાંચ’ માં ‘ડું’ પ્રત્યય લગાડવાથી શબ્દ કેવો બને છે?",
+      "options": "A. ભારે \nB. નાનકડું/વહાલું \nC. મોટું \nD. અઘરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાનકડું/વહાલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં 'ડું' પ્રત્યય વહાલ અથવા નાનપ દર્શાવે છે (દા.ત. એકડું, બગડું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પંજાની મધ્યમાં રહેલી આંગળીને શું કહેવાય?",
+      "options": "A. અંગૂઠો \nB. ટચલી \nC. મધ્યમા \nD. તર્જની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મધ્યમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય એટલે વચ્ચે, એટલે મધ્યમા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘પાંચડું પાંચ’ પાઠમાં કઈ ક્રિયા કરવાની મજા આવે છે?",
+      "options": "A. રડવાની \nB. ગાવાની અને ગણવાની \nC. ઊંઘવાની \nD. લડવાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગાવાની અને ગણવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીત હોય એટલે ગાવાનું અને અંક હોય એટલે ગણવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાચી જોડણી શોધો:",
+      "options": "A. આંગળી \nB. આંગલી \nC. આઁગળી \nD. અંગળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. આંગળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' ઉપર અનુસ્વાર અને પાછળ 'ળી' (દીર્ઘ) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાંચ આંગળા ભેગા થાય ત્યારે શું બને?",
+      "options": "A. પંજો/મુઠ્ઠી \nB. પગ \nC. કાન \nD. નાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. પંજો/મુઠ્ઠી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકતામાં બળ છે, પાંચેય ભેગા થાય તો મુઠ્ઠી બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘પાંચડું પાંચ’ માં કયો વર્ણ વારંવાર આવે છે?",
+      "options": "A. પ \nB. જ \nC. લ \nD. ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. પ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ, પંજો, પાંખડી - બધું 'પ' થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ પ્રકરણમાં 'સંખ્યા' માટે બીજો કયો શબ્દ વપરાયો હોઈ શકે?",
+      "options": "A. અંક \nB. અક્ષર \nC. વાક્ય \nD. ફકરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં નંબરને ગુજરાતીમાં 'અંક' કહેવાય.</p></div>"
+    }
+  ]
+}
