@@ -1016,3 +1016,191 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "એક જાદુગર જોઈએ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકરણ 7 'એક જાદુગર જોઈએ' માં મુખ્યત્વે શાની વાત કરવામાં આવી છે?",
+      "options": "A. રમતગમતની, B. જાદુ અને યુક્તિઓની, C. પક્ષીઓની, D. ખેતીકામની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાદુ અને યુક્તિઓની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના શીર્ષકમાં જ 'જાદુગર' છે, એટલે જવાબ જાદુ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જાદુગર પોતાની પાસે કઈ લાકડી રાખે છે?",
+      "options": "A. લોખંડની, B. વાંસની, C. જાદુઈ, D. પ્લાસ્ટિકની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જાદુઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુગરના હાથમાં હંમેશા 'મેજિક સ્ટિક' એટલે કે જાદુઈ લાકડી શોભે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિતામાં બાળકને કેવો જાદુગર જોઈએ છે?",
+      "options": "A. મોટો, B. નાનો, C. ડોસો, D. અદ્રશ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની શરૂઆતમાં જ 'નાનો એવો જાદુગર જોઈએ' એવી ભાવના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'ગાયબ' શબ્દનો સમાન અર્થ નીચેનામાંથી કયો છે?",
+      "options": "A. હાજર, B. અદ્રશ્ય, C. દેખાવું, D. મોટું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અદ્રશ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયબ એટલે જે આંખે દેખાય નહીં તે 'અદ્રશ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જાદુગર ખાલી હાથે હવામાંથી શું લાવે છે?",
+      "options": "A. હાથી, B. મીઠાઈ, C. ફૂલ કે સિક્કો, D. સાપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ફૂલ કે સિક્કો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના જાદુગરો હવામાંથી ફૂલ કે સિક્કા કાઢીને બધાને નવાઈ પમાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિતા મુજબ જાદુગર શું પહેરે છે?",
+      "options": "A. લેંઘો-ઝભ્ભો, B. લાંબો ડગલો અને ટોપી, C. શર્ટ-પેન્ટ, D. સાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લાંબો ડગલો અને ટોપી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુગરનો ગણવેશ એટલે 'કોર્ટ (ડગલો)' અને માથે ઊંચી 'ટોપી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'નજરબંધી' એટલે શું?",
+      "options": "A. જેલની સજા, B. આંખે પાટા બાંધવા, C. આંખના પલકારે છેતરી જવું, D. ઊંઘી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આંખના પલકારે છેતરી જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નજર + બંધી = નજરને બાંધી લેવી એટલે કે સામે હોવા છતાં ખબર ન પડવા દેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જાદુગરના ખિસ્સામાંથી શું નીકળે છે?",
+      "options": "A. સસલું, B. બિલાડી, C. કુતરો, D. વાંદરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સસલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુના ખેલમાં હંમેશા સફેદ 'સસલું' લોકપ્રિય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'તરકટ' શબ્દનો અર્થ શું થાય?",
+      "options": "A. સાચું, B. છેતરપિંડી કે બનાવટ, C. રમત, D. સજાવટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. છેતરપિંડી કે બનાવટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરકટ રચવું' એટલે કોઈને છેતરવા માટેની યુક્તિ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાળક જાદુગર પાસે શું શીખવા માંગે છે?",
+      "options": "A. ભણવાનું, B. હાથની ચાલાકી, C. ગાવાનું, D. દોડવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હાથની ચાલાકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુ એટલે બીજું કંઈ નહીં પણ 'હાથની સફાઈ' અથવા 'ચાલાકી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયો શબ્દ 'જાદુગર' નો સમાનાર્થી નથી?",
+      "options": "A. ઐન્દ્રજાલિક, B. હાથચાલાક, C. વિજ્ઞાની, D. બાજીગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વિજ્ઞાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાની પ્રયોગ કરે, જ્યારે જાદુગર 'બાજી' રમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જાદુગર લાકડી ફેરવીને શું બોલે છે?",
+      "options": "A. જય હો, B. ગિલ્લી ગિલ્લી છૂ, C. આવો આવો, D. નમસ્તે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગિલ્લી ગિલ્લી છૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુના મંત્રમાં 'ગિલ્લી ગિલ્લી છૂ' સૌથી ફેમસ ડાયલોગ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બાળક કોને જાદુ બતાવવા માંગે છે?",
+      "options": "A. પપ્પાને, B. મમ્મીને, C. મિત્રોને, D. શિક્ષકને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મિત્રોને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો હંમેશા પોતાનું નવું કૌશલ્ય પોતાના 'મિત્રો'ને બતાવી નવાઈ પમાડવા ઈચ્છે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'ચપટી વગાડતા' રૂઢિપ્રયોગનો અર્થ શું થાય?",
+      "options": "A. ખૂબ વાર લાગવી, B. તુરંત જ / ઝડપથી, C. અવાજ કરવો, D. રડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તુરંત જ / ઝડપથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચપટી વગાડતા જેટલો ઓછો સમય લાગે, એટલા જ ઝડપી કામને 'ચપટીમાં' કર્યું કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જાદુના ખેલમાં 'પ્રેક્ષકો' એટલે કોણ?",
+      "options": "A. જાદુ કરનાર, B. જાદુ જોનાર લોકો, C. જાદુ શીખવનાર, D. રસ્તો બતાવનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાદુ જોનાર લોકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રેક્ષક' એટલે જોનાર (Spectator).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાઠમાં 'આભ' શબ્દનો વિરોધી શબ્દ કયો વપરાય?",
+      "options": "A. આકાશ, B. ધરતી, C. વાદળ, D. પાતાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ (આભ) ઉપર હોય અને ધરતી નીચે હોય, એટલે બંને વિરોધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જાદુગર ક્યાંથી વસ્તુઓ ગાયબ કરી દે છે?",
+      "options": "A. પેટીમાંથી, B. હાથમાંથી, C. નજર સામેથી, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુગર ગમે ત્યાંથી ગમે તે ગાયબ કરી શકે એ જ એની કળા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં જાદુગરની આંખ કેવી કહી છે?",
+      "options": "A. મોટી, B. લાલ, C. ચમકતી, D. ઘેરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચમકતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુગરની આંખોમાં તેજ અને ચમક હોય જે પ્રેક્ષકોને આકર્ષે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કઈ વસ્તુ જાદુગરના ખેલમાં વપરાતી નથી?",
+      "options": "A. રૂમાલ, B. ખાલી ડબ્બો, C. ટ્રેક્ટર, D. પત્તા (Cards)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ટ્રેક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેજ પર જાદુ કરવા માટે નાની વસ્તુઓ જોઈએ, ટ્રેક્ટર ખેતરમાં જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'અચાનક' શબ્દનો અર્થ શું થાય?",
+      "options": "A. ધીમેથી, B. એકાએક, C. રોજના જેવું, D. ક્યારેય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. એકાએક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચાનક = અપેક્ષા વગર તરત જ થઈ જવું તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બાળક જાદુગર બનીને શું ઉડાડવા ઈચ્છે છે?",
+      "options": "A. પ્લેન, B. પતંગ, C. કબૂતર, D. ધૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કબૂતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુમાં ખાલી ટોપીમાંથી કબૂતર ઉડાડવાનો ખેલ ખૂબ જાણીતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જાદુગરના હાથની કળાને શું કહેવાય?",
+      "options": "A. હસ્તરેખા, B. હસ્તચાલાકી, C. લેખનકળા, D. ચિત્રકળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હસ્તચાલાકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસ્ત એટલે હાથ + ચાલાકી એટલે ચતુરાઈ = હાથની ચતુરાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'વિસ્મય' એટલે શું?",
+      "options": "A. ગુસ્સો, B. આશ્ચર્ય કે નવાઈ, C. દુઃખ, D. ઊંઘ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આશ્ચર્ય કે નવાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુ જોઈને આપણને જે થાય તે જ 'વિસ્મય'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જાદુગર ક્યાં છુપાયેલો હોય છે?",
+      "options": "A. પડદા પાછળ, B. મેદાનમાં, C. ઝાડ પર, D. આકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. પડદા પાછળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેલ શરૂ થતા પહેલા જાદુગર 'સ્ટેજના પડદા' પાછળથી એન્ટ્રી લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'યુક્તિ' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "options": "A. શક્તિ, B. તરકીબ, C. મુક્તિ, D. ભક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તરકીબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુક્તિ એટલે આઈડિયા અથવા 'તરકીબ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાળકને જાદુગર કેમ ગમે છે?",
+      "options": "A. તે બીવડાવે છે, B. તે નવાઈ પમાડે છે, C. તે હોમવર્ક કરાવે છે, D. તે રડાવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તે નવાઈ પમાડે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આપણને ખુશ કરે અને સરપ્રાઈઝ આપે તે જ આપણને ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જાદુગરના ખેલને બીજા કયા નામે ઓળખાય?",
+      "options": "A. કમાલ, B. ધમાલ, C. પ્રયોગ, D. તાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કમાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુગર એની 'કમાલ' બતાવે છે એટલે કે અદભૂત કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કઈ ઋતુમાં જાદુગરનો ખેલ જોવાની વધુ મજા આવે?",
+      "options": "A. ઉનાળો, B. શિયાળો, C. ચોમાસું, D. ગમે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. ગમે ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનોરંજન માટે કોઈ ખાસ ઋતુની જરૂર નથી હોતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'નિશાળ' શબ્દનો અર્થ શું થાય?",
+      "options": "A. ઘર, B. બાગ, C. શાળા, D. મંદિર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશાળ એટલે આપણી વહાલી સ્કૂલ અથવા 'શાળા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જાદુગર પાસે શું હોવું જરૂરી છે?",
+      "options": "A. હિંમત, B. આવડત, C. પ્રેક્ટિસ, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ કળા શીખવા માટે હિંમત, આવડત અને પ્રેક્ટિસ ત્રણેય જોઈએ.</p></div>"
+    }
+  ]
+}
