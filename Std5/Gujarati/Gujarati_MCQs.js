@@ -655,3 +655,136 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "મારે તો...",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ત્યારે મને એમ થાય' કવિતામાં બાળકને કોની જેમ આકાશમાં ઊડવાનું મન થાય છે?\n(A) વિમાનની જેમ\n(B) પંખીની જેમ\n(C) પતંગની જેમ\n(D) વાદળની જેમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પંખીની જેમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખી પાસે પાંખ હોય એટલે તે ઊડી શકે, બાળકને પણ તેની જેમ જ ઊડવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બાળકને પંખી બનીને ક્યાં વિહરવાનું મન થાય છે?\n(A) નદીમાં\n(B) બગીચામાં\n(C) આભલામાં (આકાશમાં)\n(D) ઘરની છત પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આભલામાં (આકાશમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આભલું એટલે આકાશ, પંખી હંમેશા આકાશમાં જ વિહરે (ફરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિતામાં બાળક 'ઘરની જેવડી...' શું બનાવવાની વાત કરે છે?\n(A) નિશાળ\n(B) પાંખો\n(C) ચોપડી\n(D) બારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાંખો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊડવા માટે મોટી પાંખ જોઈએ, એટલે બાળક 'ઘર જેવડી' પાંખની કલ્પના કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'હું પણ' વાર્તામાં ઈંડામાંથી સૌથી પહેલા કોણ બહાર આવ્યું?\n(A) મરઘીનું બચ્ચું\n(B) કાચબાનું બચ્ચું\n(C) બતકનું બચ્ચું\n(D) ટીટોડીનું બચ્ચું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બતકનું બચ્ચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાની શરૂઆતમાં જ બતકનું બચ્ચું 'હું બહાર આવ્યું' એમ કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બતકનું બચ્ચું જે કરતું તે જોઈને મરઘીનું બચ્ચું શું કહેતું હતું?\n(A) મને નથી ગમતું\n(B) હું પણ\n(C) તું ખોટું કરે છે\n(D) ચાલો રમીએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હું પણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાનું શીર્ષક જ 'હું પણ' છે, જે મરઘીનું બચ્ચું વારંવાર બોલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બતકનું બચ્ચું જમીન ખોતરીને શું શોધતું હતું?\n(A) દાણા\n(B) સોનું\n(C) અળસિયું\n(D) પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અળસિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની અંદર અળસિયું હોય, જે પક્ષીઓનો ખોરાક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મરઘીના બચ્ચાએ શું પકડ્યું?\n(A) દેડકો\n(B) પતંગિયું\n(C) માછલી\n(D) ઉંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પતંગિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બતકનું બચ્ચું પતંગિયું પકડવા ગયું તો પાછળ મરઘીના બચ્ચાએ પણ પતંગિયું પકડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બતકના બચ્ચાએ પાણીમાં જઈને શું કરવાનું નક્કી કર્યું?\n(A) નાહવાનું\n(B) પાણી પીવાનું\n(C) તરવાનું\n(D) માછલી પકડવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તરવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બતક હંમેશા પાણીમાં તરે, એટલે તેનું બચ્ચું પણ તરવા ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જ્યારે મરઘીનું બચ્ચું પાણીમાં ડૂબવા લાગ્યું ત્યારે તેણે શું બૂમ પાડી?\n(A) બચાવો! બચાવો!\n(B) મમ્મી! મમ્મી!\n(C) હું પણ!\n(D) બહાર કાઢો!",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બચાવો! બચાવો!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ મુસીબતમાં હોય ત્યારે 'બચાવો'ની જ બૂમ પાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મરઘીના બચ્ચાને પાણીમાંથી બહાર કોણે કાઢ્યું?\n(A) તેની માતાએ\n(B) ખેડૂતે\n(C) બતકના બચ્ચાએ\n(D) દેડકાએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બતકના બચ્ચાએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સાથે તરવા ગયું હતું એ જ બતકનું બચ્ચું તેને બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'સીવણકામ' કોણ કરે છે?\n(A) મોચી\n(B) સુથાર\n(C) દરજી\n(D) કુંભાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દરજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજી સંચો ચલાવે અને કપડાં સીવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'ગગન' શબ્દનો સમાનાર્થી શબ્દ આપો.\n(A) ધરતી\n(B) આકાશ\n(C) પાતાળ\n(D) દરિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગગન = આભ = આકાશ. ત્રણેયનો અર્થ એક જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મરઘીના બચ્ચાને શું કહેવાય?\n(A) લવારું\n(B) ગાડરું\n(C) પીલું\n(D) વછેરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પીલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરઘીનું બચ્ચું પીળું-પીળું હોય એટલે એને 'પીલું' કહેવાય (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'પાંખ' શબ્દનો બહુવચન શબ્દ કયો છે?\n(A) પાંખો\n(B) પાંખે\n(C) પાંખાઓ\n(D) પાંખીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પાંખો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હોય તો પાંખ, બે હોય તો પાંખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નીચેનામાંથી કયું પક્ષી પાણીમાં તરી શકે છે?\n(A) ચકલી\n(B) પોપટ\n(C) બતક\n(D) કાગડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બતકના પગની રચના તરવા માટે જ બનેલી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'મારે તો...' પ્રકરણમાં કયા વ્યવસાયકારનો ઉલ્લેખ વાર્તાલાપમાં જોવા મળે છે?\n(A) ડોક્ટર\n(B) ટપાલી\n(C) સૈનિક\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકરણમાં બાળકોને શું બનવું છે તેમાં વિવિધ વ્યવસાયોની ચર્ચા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'ઊંચે ઊંચે' શબ્દમાં કયો ચિહ્ન વપરાયેલું છે?\n(A) અલ્પવિરામ\n(B) પૂર્ણવિરામ\n(C) યોજક ચિહ્ન (-)\n(D) પ્રશ્નાર્થ ચિહ્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) યોજક ચિહ્ન (-)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સરખા શબ્દોને જોડવા વચ્ચે નાની લીટી હોય તેને યોજક ચિહ્ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બતકનું બચ્ચું કેવા રંગનું હોય છે (સામાન્ય રીતે)?\n(A) કાળું\n(B) પીળું/સફેદ\n(C) લાલ\n(D) વાદળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પીળું/સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી રીતે બતક અને મરઘીના બચ્ચાં શરૂઆતમાં પીળાશ પડતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કવિતામાં બાળક 'વાદળ' બનીને શું કરવા માંગે છે?\n(A) વીજળી કરવા\n(B) વરસી જવા\n(C) આકાશમાં વિહરવા\n(D) ગર્જના કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આકાશમાં વિહરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળ આકાશમાં અહીંથી તહીં રખડતા (વિહરતા) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'ખીચડી' બનાવવામાં કઈ બે વસ્તુઓ મુખ્ય હોય છે?\n(A) ઘઉં અને બાજરી\n(B) ચોખા અને દાળ\n(C) મકાઈ અને ચણા\n(D) જુવાર અને ચોખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોખા અને દાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાળ-ચોખા ભેગા થાય ત્યારે જ મસ્ત 'ખીચડી' બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બતકના બચ્ચા અને મરઘીના બચ્ચા વચ્ચે શું તફાવત હતો?\n(A) બતકનું બચ્ચું તરી શકતું હતું\n(B) મરઘીનું બચ્ચું ઉડી શકતું હતું\n(C) બંને સરખા જ હતા\n(D) એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બતકનું બચ્ચું તરી શકતું હતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બતક પાણીનું પક્ષી છે, મરઘી જમીન પર રહેતું પક્ષી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'ધરતી' શબ્દનો વિરોધી શબ્દ કયો છે?\n(A) જમીન\n(B) આકાશ\n(C) પૃથ્વી\n(D) પાતાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે ધરતી હોય, ઉપર આકાશ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તમને કોઈનું અનુકરણ (Copy) કરવું ગમે? વાર્તામાં કોણ અનુકરણ કરતું હતું?\n(A) બતકનું બચ્ચું\n(B) મરઘીનું બચ્ચું\n(C) ગાય\n(D) ચકલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મરઘીનું બચ્ચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરઘીનું બચ્ચું ડગલે ને પગલે બતકની નકલ કરતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેનામાંથી કયો શબ્દ સાચી રીતે લખાયેલો છે?\n(A) અળસીયું\n(B) અળસિયું\n(C) અલસિયું\n(D) અડસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અળસિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિ' હસ્વ (િ) આવે અને છેલ્લે 'યું' પર અનુસ્વાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'સૂરજ' કઈ દિશામાં ઊગે છે?\n(A) પશ્ચિમ\n(B) ઉત્તર\n(C) પૂર્વ\n(D) દક્ષિણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ હંમેશા પૂર્વ (East) માં ઉગીને પ્રકાશ ફેલાવે.</p></div>"
+    }
+  ]
+}
