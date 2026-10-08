@@ -788,3 +788,231 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "દાદા મારે જવું છે",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'દાદા મારે જવું છે' આ પ્રકરણમાં મુખ્યત્વે કયા સ્થળની વાત કરવામાં આવી છે?",
+      "options": {
+        "A": "શાળાની",
+        "B": "બગીચાની",
+        "C": "મેળાની",
+        "D": "ખેતરની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મેળાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં દાદા પાસે બાળક મેળામાં જવાની જીદ કરે છે, એટલે 'મેળો' એ મુખ્ય કેન્દ્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મેળામાં ગોળ-ગોળ શું ફરે છે?",
+      "options": {
+        "A": "ગાડી",
+        "B": "ચગડોળ",
+        "C": "વિમાન",
+        "D": "સાયકલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચગડોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળાની શાન એટલે ગોળ-ગોળ ચગડોળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'દાદા' શબ્દનો સ્ત્રીલિંગ શબ્દ કયો થાય?",
+      "options": {
+        "A": "મમ્મી",
+        "B": "કાકી",
+        "C": "માસી",
+        "D": "દાદી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) દાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુલ્લિંગ 'આ' પ્રત્યય (દાદા) નું સ્ત્રીલિંગ 'ઈ' પ્રત્યય (દાદી) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મેળામાં શું ખરીદવાની સૌથી વધુ મજા પડે છે?",
+      "options": {
+        "A": "શાકભાજી",
+        "B": "રમકડાં",
+        "C": "ચોપડીઓ",
+        "D": "દફતર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રમકડાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો + મેળો = રમકડાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કઈ વસ્તુ મેળામાં જોવા મળતી નથી?",
+      "options": {
+        "A": "જાદુગર",
+        "B": "ફુગ્ગાવાળો",
+        "C": "મોતનો કૂવો",
+        "D": "રેફ્રિજરેટર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) રેફ્રિજરેટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળો મનોરંજન માટે હોય, ઘરવખરીના મોટા ઈલેક્ટ્રોનિક્સ માટે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'મજા' શબ્દનો સમાન અર્થ ધરાવતો શબ્દ કયો છે?",
+      "options": {
+        "A": "દુઃખ",
+        "B": "આનંદ",
+        "C": "રડવું",
+        "D": "થાક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજા પડે ત્યારે આપણે ખુશ થઈએ, એટલે કે આનંદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ફુગ્ગામાં કયો વાયુ ભરવાથી તે હવામાં ઊડે છે?",
+      "options": {
+        "A": "પાણી",
+        "B": "ધૂળ",
+        "C": "હાઈડ્રોજન/હીલિયમ",
+        "D": "પથ્થર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાઈડ્રોજન/હીલિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકો વાયુ હોય તો જ ફુગ્ગો આકાશમાં જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મેળામાં જાદુના પ્રયોગો કોણ બતાવે છે?",
+      "options": {
+        "A": "ડોક્ટર",
+        "B": "શિક્ષક",
+        "C": "જાદુગર",
+        "D": "પોલીસ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જાદુગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાદુ બતાવે તે જાદુગર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'બાળક' શબ્દનું બહુવચન શું થાય?",
+      "options": {
+        "A": "બાળકો",
+        "B": "બાળકી",
+        "C": "બાળપણ",
+        "D": "બાળકનું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બાળકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હોય તો બાળક, વધારે હોય તો 'ઓ' પ્રત્યય લાગે - બાળકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નિશાળમાં કયો મેળો ભરાય છે? (પાઠના સંદર્ભે)",
+      "options": {
+        "A": "કુંભ મેળો",
+        "B": "પુસ્તક મેળો/વિજ્ઞાન મેળો",
+        "C": "તરણેતરનો મેળો",
+        "D": "વોઠાનો મેળો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પુસ્તક મેળો/વિજ્ઞાન મેળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાળામાં ભણવાની વાત હોય, એટલે પુસ્તક કે વિજ્ઞાનનો જ મેળો હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કઈ જોડાક્ષરવાળી જોડણી સાચી છે?",
+      "options": {
+        "A": "ચગડોલ",
+        "B": "ચગડોળ",
+        "C": "ચગડોર",
+        "D": "ચગડૉલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચગડોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં પાછળ 'ળ' આવે છે, 'લ' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મેળામાં મીઠાઈ ક્યાં મળે છે?",
+      "options": {
+        "A": "કપડાની દુકાને",
+        "B": "હલવાઈની દુકાને",
+        "C": "મોચીની દુકાને",
+        "D": "લુહારની દુકાને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હલવાઈની દુકાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાઈ (હલવો) બનાવે તે હલવાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'નાનકડું' શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "options": {
+        "A": "ચોખ્ખું",
+        "B": "મોટું",
+        "C": "પાતળું",
+        "D": "ઝડપી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું x મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયા વાહન પર બેસીને મેળામાં જવાની બાળકને ઈચ્છા છે?",
+      "options": {
+        "A": "રિક્ષા",
+        "B": "બસ",
+        "C": "ઘોડો (ચગડોળનો)",
+        "D": "ટ્રેન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘોડો (ચગડોળનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળામાં લાકડાના કે પ્લાસ્ટિકના ઘોડા પર બેસવાની મજા જ કંઈક અલગ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'ચકડોળ' માં બેસતા કેવું લાગે છે?",
+      "options": {
+        "A": "ડર લાગે",
+        "B": "મજા આવે",
+        "C": "ચક્કર આવે",
+        "D": "આપેલ તમામ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળાના અનુભવોમાં મજા પણ હોય અને થોડો ડર પણ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મેળામાં કોની ભીડ વધુ જોવા મળે છે?",
+      "options": {
+        "A": "પુસ્તકોની",
+        "B": "માણસોની",
+        "C": "જંગલી પ્રાણીઓની",
+        "D": "વૃક્ષોની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માણસોની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળો એટલે જ 'લોકોનું મિલન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'હાથી' શબ્દનો સ્ત્રીલિંગ શબ્દ શોધો.",
+      "options": {
+        "A": "હાથણી",
+        "B": "હાથીણી",
+        "C": "હાથિણી",
+        "D": "હાથિની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાથિણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડણીમાં 'થિ' હ્રસ્વ અને 'ણી' દીર્ઘ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાળક મેળામાં જવા માટે કોને વિનંતી કરે છે?",
+      "options": {
+        "A": "મિત્રને",
+        "B": "શિક્ષકને",
+        "C": "દાદાને",
+        "D": "પાડોશીને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દાદાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે - 'દાદા મારે જવું છે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કઈ વસ્તુ રમકડાની દુકાનમાં મળતી નથી?",
+      "options": {
+        "A": "મોટરકાર",
+        "B": "ઢીંગલી",
+        "C": "દડો",
+        "D": "હથોડો (લોખંડનો)"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) હથોડો (લોખંડનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમકડાં પ્લાસ્ટિક, લાકડું કે રબરના હોય, લોખંડના ઓજાર રમકડાં ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મેળામાં જતી વખતે કઈ બાબતનું ખાસ ધ્યાન રાખવું જોઈએ?",
+      "options": {
+        "A": "ગમે ત્યાં દોડવું",
+        "B": "હાથ છોડી દેવો",
+        "C": "વડીલનો હાથ પકડી રાખવો",
+        "D": "ગમે તેની પાસેથી વસ્તુ ખાવી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વડીલનો હાથ પકડી રાખવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડમાં ખોવાઈ ન જવાય એટલે હાથ ક્યારેય ન છોડવો!</p></div>"
+    }
+  ]
+}
