@@ -1204,3 +1204,136 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કિચૂડ કિચૂડ હુડુડુડ હુડુડુડ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ધોરણ 5 ગુજરાતી (કેકારવ) ના આઠમા પ્રકરણનું નામ શું છે?\n(A) આટલું બધું ભણવાનું?\n(B) કિચૂડ કિચૂડ હુડુડુડ હુડુડુડ\n(C) અમે તો હસીએ\n(D) બકરી બહેનનું ગાડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કિચૂડ કિચૂડ હુડુડુડ હુડુડુડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અવાજો (કિચૂડ-હુડુડુડ) પરથી આખું નામ યાદ રહી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્યમાં 'કિચૂડ કિચૂડ' અવાજ કોનો છે?\n(A) સાઈકલનો\n(B) દરવાજાનો\n(C) રહેંટનો\n(D) પંખાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રહેંટનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં પાણી ખેંચતું જૂનું મશીન 'રહેંટ' કિચૂડ અવાજ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'હુડુડુડ હુડુડુડ' અવાજ કોણ કરે છે?\n(A) નદી\n(B) એન્જિન (ટ્રેન)\n(C) વરસાદ\n(D) પક્ષી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એન્જિન (ટ્રેન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેન જ્યારે ઝડપથી ચાલે ત્યારે 'હુડુડુડ' જેવો ભારે અવાજ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાઠમાં 'ધોબી' શું કામ કરે છે?\n(A) રસોઈ બનાવે\n(B) કપડાં ધુએ\n(C) ખેતી કરે\n(D) ભણાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કપડાં ધુએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોબી = ધોવાનું કામ (કપડાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'પરસેવો' શબ્દનો સમાનાર્થી શબ્દ કયો છે?\n(A) પાણી\n(B) પ્રસ્વેદ\n(C) વરસાદ\n(D) આંસુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રસ્વેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરસેવો અને પ્રસ્વેદ બંને 'પ' થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'ગડગડાટ' અવાજ શેનો હોય છે?\n(A) પક્ષીનો\n(B) વાદળનો\n(C) સાપનો\n(D) ખિસકોલીનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાદળનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં મેઘ ગરજે ત્યારે 'ગડગડાટ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'ધણધણાટ' શબ્દ શાના માટે વપરાયો છે?\n(A) હાસ્ય માટે\n(B) પગરવ માટે\n(C) ભારે અવાજ અને કંપન માટે\n(D) મૌન માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ભારે અવાજ અને કંપન માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ધરતી ધ્રૂજે કે કોઈ ભારે મશીન ચાલે ત્યારે ધણધણાટ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'સાઈકલ' શબ્દની સાચી જોડણી કઈ છે?\n(A) સાઈકલ\n(B) સાયકલ\n(C) સાયકલ્લ\n(D) સાઈકકલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સાઈકલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સા-ઈ-ક-લ (હ્રસ્વ 'ઈ' વાપરવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠમાં આવતો 'કરવત' શબ્દ કયા વ્યવસાય સાથે જોડાયેલ છે?\n(A) કુંભાર\n(B) લુહાર\n(C) સુથાર\n(D) મોચી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સુથાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડું કાપવા માટે 'સુથાર' કરવત વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કયો શબ્દ સ્ત્રીલિંગ છે?\n(A) પંખો\n(B) હથોડી\n(C) દરવાજો\n(D) ઘડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હથોડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેવી' પૂછવાથી સ્ત્રીલિંગ મળે - 'હથોડી કેવી?'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'કામ' શબ્દનો વિરોધી શબ્દ કયો થાય?\n(A) આરામ\n(B) ધંધો\n(C) નોકરી\n(D) મજૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આરામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ પતે પછી શું કરીએ? આરામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જ્યારે ખૂબ પવન ફૂંકાય ત્યારે કેવો અવાજ આવે?\n(A) કિચૂડ-કિચૂડ\n(B) સરરર-સરરર\n(C) ટપ-ટપ\n(D) ખળખળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સરરર-સરરર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન 'સરરર' કરતો પસાર થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'ધગધગવું' શબ્દ ક્યારે વપરાય?\n(A) જ્યારે ખૂબ ઠંડી હોય\n(B) જ્યારે ખૂબ ગરમી હોય\n(C) જ્યારે વરસાદ હોય\n(D) જ્યારે અંધારું હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યારે ખૂબ ગરમી હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમીમાં સૂરજ 'ધગધગે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠના આધારે જણાવો કે 'કુહાડી' થી શું કપાય?\n(A) કપડું\n(B) કાગળ\n(C) લાકડું\n(D) શાકભાજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાકડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુહાડી એ લાકડા કાપવાનું મુખ્ય ઓજાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'કેકારવ' પાઠ્યપુસ્તક મુજબ 'હુડુડુડ' એટલે?\n(A) ધીમું ચાલવું\n(B) જોરથી અને ઝડપથી દોડવું/ચાલવું\n(C) ઊંઘી જવું\n(D) રડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જોરથી અને ઝડપથી દોડવું/ચાલવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુડુડુડ એટલે ફૂલ સ્પીડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'ઘોંઘાટ' એટલે શું?\n(A) મીઠો અવાજ\n(B) અશાંત અને કર્કશ અવાજ\n(C) પક્ષીઓનો કલરવ\n(D) સંગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અશાંત અને કર્કશ અવાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અવાજ કાનને ન ગમે તે ઘોંઘાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'લોખંડ' માંથી વસ્તુઓ કોણ બનાવે છે?\n(A) સુથાર\n(B) સોની\n(C) લુહાર\n(D) દરજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લુહાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લુ એટલે લોખંડ, હાર એટલે બનાવનાર (લુહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'ભણભણાટ' અવાજ કોણ કરે છે?\n(A) સિંહ\n(B) હાથી\n(C) માખી\n(D) કાગડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માખી કાન પાસે આવે ત્યારે 'ભણભણ' કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'ગામડું' શબ્દનું બહુવચન શું થાય?\n(A) ગામડા\n(B) ગામડાઓ\n(C) ગામ\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાક્ય મુજબ ત્રણેય શબ્દો બહુવચન તરીકે વાપરી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠમાં વપરાયેલ શબ્દ 'ધબકાર' શેની સાથે જોડાયેલ છે?\n(A) હૃદય\n(B) પગ\n(C) હાથ\n(D) નાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હૃદય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધબ-ધબ હૃદય ધબકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કયો શબ્દ 'અવાજ' નો પર્યાય નથી?\n(A) રવ\n(B) નાદ\n(C) ઘોષ\n(D) પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પ્રકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ એટલે અજવાળું, તે અવાજ સાથે જોડાયેલ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'મશીન' માટે ગુજરાતીમાં કયો શબ્દ પાઠમાં વપરાયો છે?\n(A) સાધન\n(B) ઓજાર\n(C) યંત્ર\n(D) ગાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) યંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન = યંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જ્યારે 'તપેલી' માંથી વરાળ નીકળે ત્યારે કેવો અવાજ આવે?\n(A) સબડ સબડ\n(B) ફસફસ\n(C) ખળખળ\n(D) ટપટપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફસફસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાળ હંમેશા 'ફસફસ' કરતી બહાર નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'ઝરમર' શબ્દ કોની સાથે જોડાયેલ છે?\n(A) વાદળ\n(B) વરસાદ\n(C) પવન\n(D) વીજળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધીમો વરસાદ એટલે ઝરમર વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાઠમાં 'ચકડોળ' નો અવાજ કેવો બતાવ્યો છે?\n(A) કડકડ\n(B) કિચૂડ-કિચૂડ\n(C) હુડુડુડ\n(D) ધણધણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કિચૂડ-કિચૂડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડના મોટા પૈડાં ફરે ત્યારે કિચૂડ અવાજ આવે.</p></div>"
+    }
+  ]
+}
