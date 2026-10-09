@@ -1337,3 +1337,231 @@ var Std5_Gujarati_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "તીખાં તમતમતાં ગીત",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકરણ 9 'તીખાં તમતમતાં ગીત' માં કયા મસાલાની મુખ્ય વાત કરવામાં આવી છે?",
+      "options": {
+        "A": "મીઠું",
+        "B": "મરચું",
+        "C": "હળદર",
+        "D": "ધાણાજીરું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મરચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તીખાં તમતમતાં' શબ્દ સાંભળતા જ લાલ ચટાક 'મરચું' યાદ રાખવું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્ય મુજબ મરચાંનો રંગ કેવો છે?",
+      "options": {
+        "A": "પીળો",
+        "B": "વાદળી",
+        "C": "લાલ ચટાક",
+        "D": "કાળો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાલ ચટાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકું મરચું હંમેશા લાલ રંગનું અને ચળકતું હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મરચું ખાવાથી મોઢામાંથી કેવો અવાજ નીકળે છે?",
+      "options": {
+        "A": "હાં-હાં",
+        "B": "સીં-સીં",
+        "C": "ચૂં-ચૂં",
+        "D": "મ્યાંઉ-મ્યાંઉ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સીં-સીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીખું લાગે ત્યારે આપણે હવા અંદર ખેંચીએ એટલે 'સીં-સીં' અવાજ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મરચાની ટોપી કયા રંગની હોય છે?",
+      "options": {
+        "A": "લાલ",
+        "B": "પીળી",
+        "C": "લીલી",
+        "D": "સફેદ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લીલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચાની ઉપરનું ડીંટિયું એ તેની 'લીલી ટોપી' છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયો શબ્દ 'તીખું' નો વિરોધી શબ્દ છે?",
+      "options": {
+        "A": "કડવું",
+        "B": "ખાટું",
+        "C": "ગળ્યું",
+        "D": "તૂરું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગળ્યું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું તીખું હોય અને ગોળ/સાકર ગળ્યા હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'તમતમવું' એટલે શું?",
+      "options": {
+        "A": "મીઠું લાગવું",
+        "B": "બહુ તીખું લાગવું",
+        "C": "ઠંડુ લાગવું",
+        "D": "ઊંઘ આવવી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહુ તીખું લાગવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીખાસની તીવ્રતા એટલે તમતમાટ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મરચાની અંદર શું ભરેલું હોય છે?",
+      "options": {
+        "A": "પાણી",
+        "B": "રેતી",
+        "C": "બીજ (બી)",
+        "D": "પથ્થર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બીજ (બી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું ખોલો એટલે સફેદ નાના બીજ જોવા મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મરચાનો ઉપયોગ શામાં થાય છે?",
+      "options": {
+        "A": "રસોઈમાં સ્વાદ લાવવા",
+        "B": "રંગ પૂરવા",
+        "C": "રમકડું બનાવવા",
+        "D": "લખવા માટે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રસોઈમાં સ્વાદ લાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું એ રસોઈનો મુખ્ય મસાલો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'ચટાક' શબ્દ કોની સાથે જોડાયેલો છે?",
+      "options": {
+        "A": "અવાજ",
+        "B": "રંગ",
+        "C": "ગંધ",
+        "D": "સ્પર્શ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લાલ ચટાક' એટલે કે ઘાટો અને તેજસ્વી લાલ રંગ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યમાં મરચાંને શું કહીને બોલાવવામાં આવ્યું છે?",
+      "options": {
+        "A": "ભાઈ",
+        "B": "રાજા",
+        "C": "તીખું મરચું",
+        "D": "મિત્ર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તીખું મરચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'તીખાં તમતમતાં ગીત' છે, એટલે તીખું મરચું યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'આંખમાં પાણી આવવા' એ કયો અનુભવ છે?",
+      "options": {
+        "A": "ખૂબ આનંદ થવો",
+        "B": "ખૂબ તીખું લાગવું",
+        "C": "ખૂબ ભૂખ લાગવી",
+        "D": "ખૂબ ઊંઘ આવવી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખૂબ તીખું લાગવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું ખાઈએ એટલે જીભ બળે અને આંખમાંથી ગંગા-જમના વહે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લીલા મરચાં સુકાઈ જાય ત્યારે કેવા બને છે?",
+      "options": {
+        "A": "કાળા",
+        "B": "સફેદ",
+        "C": "લાલ",
+        "D": "વાદળી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચાં સુકાઈને લાલ બને છે જેનો પાવડર આપણે રસોઈમાં વાપરીએ છીએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ આપો: 'બહુ જ તીખું લાગે ત્યારે થતો અવાજ'",
+      "options": {
+        "A": "ચૂં-ચૂં",
+        "B": "સીત્કાર",
+        "C": "ગણગણાટ",
+        "D": "બણબણાટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સીત્કાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીં-સીં અવાજને ગુજરાતી વ્યાકરણમાં સીત્કાર કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'મરચું' શબ્દનું બહુવચન શું થાય?",
+      "options": {
+        "A": "મરચાંઓ",
+        "B": "મરચાં",
+        "C": "મરચી",
+        "D": "મરચાઓ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મરચાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉ' કારાંત નપુંસકલિંગ શબ્દનું બહુવચન 'આં' લાગે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મરચાની ચટણી કેવી લાગે છે?",
+      "options": {
+        "A": "મીઠી",
+        "B": "કડવી",
+        "C": "ચટપટી અને તીખી",
+        "D": "ફિક્કી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચટપટી અને તીખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચટણી હંમેશા જીભને ચટાકો આપે તેવી હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'તીખું મરચું' માં 'તીખું' શું દર્શાવે છે?",
+      "options": {
+        "A": "સંજ્ઞા",
+        "B": "વિશેષણ",
+        "C": "ક્રિયાપદ",
+        "D": "સર્વનામ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિશેષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નામમાં વધારો કરે (કેવું મરચું?) તેને વિશેષણ કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મરચાનો આકાર કેવો હોય છે?",
+      "options": {
+        "A": "ગોળ",
+        "B": "ચોરસ",
+        "C": "લાંબુ અને અણીદાર",
+        "D": "લંબચોરસ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાંબુ અને અણીદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું લાંબુ અને છેડેથી અણીદાર હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેનામાંથી કઈ વસ્તુ મરચાંમાંથી બને છે?",
+      "options": {
+        "A": "હલવો",
+        "B": "અથાણું",
+        "C": "લાડુ",
+        "D": "બરફી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અથાણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આથલાં મરચાંનું અથાણું બહુ વખણાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાવ્યમાં 'જીભલડી' શબ્દ કોના માટે વપરાયો છે?",
+      "options": {
+        "A": "મરચા માટે",
+        "B": "ખાનારની જીભ માટે",
+        "C": "થાળી માટે",
+        "D": "પાણી માટે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખાનારની જીભ માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભને લાડમાં 'જીભલડી' કહેવામાં આવી છે જેને તીખું લાગે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો મરચું બહુ તીખું લાગે તો શું કરવું જોઈએ?",
+      "options": {
+        "A": "વધારે મરચું ખાવું",
+        "B": "પાણી પીવું અથવા ગળ્યું ખાવું",
+        "C": "દોડવું",
+        "D": "રડવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણી પીવું અથવા ગળ્યું ખાવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીખાશને મારવા માટે ખાંડ કે ગોળ (ગળપણ) રામબાણ ઈલાજ છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
