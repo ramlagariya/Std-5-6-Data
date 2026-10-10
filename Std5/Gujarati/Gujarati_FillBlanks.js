@@ -289,3 +289,136 @@ var Std5_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "અરે, આ શું થઈ ગયું?",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વાર્તામાં પક્ષીઓને પોતાનો દેખાવ બદલવા માટે ____ પાસે જવું પડ્યું. (જાદુગર, દરજી, ડોક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાદુગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં જ્યારે અશક્ય ફેરફાર થાય (જેમ કે ચાંચ કે પીંછા બદલવા), ત્યારે હંમેશા 'જાદુગર' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચકલીને ____ ના પીંછા જોઈતા હતા. (મોર, પોપટ, કાગડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરના પીંછા સૌથી સુંદર હોય, એટલે બધાને તે જ ગમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પોપટની ____ લાલ રંગની હોય છે. (પાંખ, ચાંચ, પૂંછડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોપટ લીલો ને ચાંચ લાલ, યાદ રાખજો આ સવાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બગલાની ડોક ____ હોય છે. (ટૂંકી, જાડી, લાંબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગલો પાણીમાં માછલી પકડવા 'લાંબી' ડોકનો ઉપયોગ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાગડો ____ રંગનો હોય છે. (ધોળો, કાળો, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગડો અને કોયલ બંનેનો રંગ 'કાળો' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "____ ને માથે કલગી હોય છે. (મોર, ચકલી, કાબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓનો રાજા મોર છે, અને રાજાને માથે હંમેશા 'તાજ' (કલગી) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પતંગિયા ____ પર બેસે છે. (આકાશ, ફૂલો, પથ્થર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગિયાને રસ પીવો ગમે અને રસ 'ફૂલો' માં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હાથીના કાન ____ જેવા હોય છે. (થાળી, સૂપડા, પાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂપડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી મોટું પ્રાણી છે, તેના કાન પણ મોટા 'સૂપડા' જેવા જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાર્તામાં પક્ષીઓનો દેખાવ બદલાઈ જવાથી તે ____ લાગતા હતા. (વિચિત્ર, સુંદર, ડરામણા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિચિત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બધું મિક્સ થઈ જાય (જેમ કે ચકલીને મોરના પીંછા), ત્યારે તે અજીબ કે 'વિચિત્ર' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચકલી ____ બોલે છે. (કાં કાં, ચીં ચીં, કુહૂ કુહૂ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચીં ચીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચ' પરથી ચકલી અને 'ચીં' પરથી અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પક્ષીઓને ઊડવા માટે ____ ની જરૂર પડે છે. (પગ, પાંખ, પૂંછડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાંખ' વગર આકાશમાં ઊડવું અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "____ ને અંધારામાં પણ દેખાય છે. (ઘુવડ, ચકલી, મોર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘુવડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે રાત્રે જાગે, તેને જ રાત્રે (અંધારામાં) દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બધા પક્ષીઓએ જાદુગરને પોતાની ____ પાછી માંગી. (પાંખો, અસલી ઓળખ, કલગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસલી ઓળખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાના જેવું બનવા કરતાં પોતાના જેવા રહેવું વધુ સારું છે, તે જ આ પાઠનો બોધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "____ પોતાની ડોક ગોળ ફેરવી શકે છે. (પોપટ, ઘુવડ, કાગડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘુવડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘુવડની ગરદન એટલે '360 ડિગ્રી' નો રાજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કબીરના ખેતરમાં ____ ઉડતા હતા. (તીડ, પતંગિયા, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પતંગિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણના શરૂઆતના ભાગમાં રંગબેરંગી પતંગિયાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પતંગિયું ફૂલમાંથી ____ ચૂસે છે. (પાણી, રસ, ગુંદર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલનો 'મીઠો રસ' એ જ પતંગિયાનો ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "____ શબ્દનો સમાનાર્થી શબ્દ 'પક્ષી' થાય છે. (ખગ, મૃગ, જલચર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખ' એટલે આકાશ અને 'ગ' એટલે ગમન કરનાર (ઉડનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોયલનો અવાજ ઘણો ____ હોય છે. (કર્કશ, મીઠો, ઘેરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોયલની 'કુહૂ-કુહૂ' સાંભળવી ગમે, એટલે તે 'મીઠી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "____ ઝાડના થડમાં કાણું પાડી શકે છે. (લક્કડખોદ, ચકલી, કબૂતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લક્કડખોદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે - 'લક્કડ' (લાકડું) + 'ખોદ' (ખોદનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જાદુગરે પક્ષીઓને ____ કરવા માટે જાદુ કર્યો હતો. (ખુશ, હેરાન, બદલવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદલવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે 'અરે આ શું થઈ ગયું?' એટલે કે બધું 'બદલાઈ' ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બગલો પાણીમાંથી ____ પકડીને ખાય છે. (ફળ, માછલી, રોટલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રહેતું પક્ષી પાણીના જ જીવ (માછલી) ખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મોર ____ જોઈને નાચે છે. (સૂરજ, વરસાદના વાદળ, રાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદના વાદળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરને મેઘ (વરસાદ) ખૂબ ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પક્ષીઓના રહેઠાણને ____ કહેવાય છે. (ઘર, માળો, દર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ ઘરમાં રહે, સાપ દરમાં રહે અને પંખી 'માળા' માં રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વાક્યમાં જે શબ્દ કોઈના બદલે વપરાય તેને ____ કહેવાય. (સર્વનામ, ક્રિયાપદ, વિશેષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સર્વનામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સર્વ' (બધા) ના 'નામ' ની જગ્યાએ જે આવે તે સર્વનામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "____ પાંદડા સીવીને માળો બનાવે છે. (સુઘરી, દરજીડો, કબૂતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરજીડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડાં સીવે તે દરજી, અને પાંદડા સીવે તે 'દરજીડો'!</p></div>"
+    }
+  ]
+}
