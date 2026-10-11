@@ -630,3 +630,211 @@ var Std5_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "મારે તો...",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટપ્પુ નામનો એક ........ હતો. (કાચબો, મગર, દેડકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાચબો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના મુખ્ય પાત્રનું નામ 'ટપ્પુ' છે જે એક કાચબો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટપ્પુ કાચબો સ્વભાવે ........ હતો. (શાંત, લપલપિયો, આળસુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લપલપિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લપ લપ' વધારે કરે એટલે તેને 'લપલપિયો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાચબો આખો દિવસ ........ માં રહીને લપલપ કર્યા કરતો. (નદી, તળાવ, દરિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબો સામાન્ય રીતે તળાવના કિનારે વધુ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તળાવના કિનારે બે ........ રહેતા હતા. (બગલા, હંસ, સારસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસ</p><hr><p style='color:#d32f2f; border-radius:8px;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં હંસ અને કાચબાની મિત્રતાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હંસો કાચબાને ........ લઈ જવા માંગતા હતા. (નદીએ, માનસરોવર, બગીચામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનસરોવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંસ હંમેશા પવિત્ર માનસરોવરમાં વિહાર કરવા જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હંસોએ કાચબાને આકાશમાં ઉડાડવા માટે એક ........ નો સહારો લીધો. (લાકડી, દોરડું, જાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાકડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડીના બે છેડા હંસ પકડે અને વચ્ચે કાચબો મોઢાથી પકડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હંસોએ કાચબાને ઉડતી વખતે ........ બંધ રાખવાની શરત મૂકી. (આંખ, કાન, મોઢું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઢું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢું ખોલે તો લાકડી છૂટી જાય અને કાચબો નીચે પડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાચબાએ આકાશમાં ઉડવા માટે બજારમાંથી ........ ખરીદ્યું. (છત્રી, પેરાશૂટ, પતંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરાશૂટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક વાર્તામાં ટપ્પુએ બચવા માટે પેરાશૂટ લીધું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાચબાના મોઢામાંથી ........ છૂટી ગઈ ત્યારે તે નીચે પડવા લાગ્યો. (લાકડી, પાંખ, ટોપી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાકડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પકડવા માટે જેનો ઉપયોગ કર્યો હતો તે જ છૂટી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટપ્પુએ સ્વિચ દબાવી એટલે ........ ખૂલી ગયું. (બારણું, પેરાશૂટ, પાંજરું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરાશૂટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરાશૂટમાં સ્વિચ દબાવવાથી તે હવામાં ખૂલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગામના લોકો ટપ્પુને ઉડતો જોઈને ........ થઈ ગયા. (ઉદાસ, ગુસ્સે, રાજી-રાજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજી-રાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચરજભરી વસ્તુ જોઈને લોકો ખુશ (રાજી) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટપ્પુ હળવેથી ........ નીચે ઉતર્યો. (નદીમાં, જમીન પર, ઝાડ પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરાશૂટની મદદથી સલામત રીતે જમીન પર ઉતરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ટપ્પુએ ગંગાજીમાં જઈને ........ ખાધા. (ફળો, પતાસા, લાડુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પતાસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પંક્તિ મુજબ: 'ગંગાજીમાં જઈને ખાધા પતાસા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "હંસોની ........ જોઈને ટપ્પુને પણ ઉડવાનું મન થયું. (મિત્રતા, સવારી, સુંદરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંસ આકાશમાં સવારી કરતા હતા તે જોઈ ટપ્પુ પ્રેરાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટપ્પુએ આકાશમાં ઉડતા ઉડતા ........ જોયું. (મેદાન, દરિયો, આખું નગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આખું નગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈએથી નીચે બધું (નગર) દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ટપ્પુને હંસોએ લાકડી ........ થી પકડવા કહ્યું. (હાથ, પગ, મોઢા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઢા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબાને હાથ હોતા નથી એટલે તે મોઢાથી પકડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટપ્પુએ બજારમાંથી કઈ વસ્તુ સાથે ખાધી? (ભજિયાં, સિંગ-દાળિયા, પાપડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંગ-દાળિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની લાઈન છે - 'બજારમાં જઈ ટપ્પુએ લીધા સિંગ-દાળિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ટપ્પુને આકાશમાં ઉડતા જોઈ ........ ના ગ્રુપ ઉડવા લાગ્યા. (ચકલી, મચ્છર, હંસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મચ્છર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્યસ્પદ કવિતામાં મચ્છરોના ટોળાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જ્યારે ટપ્પુ નીચે પડતો હતો ત્યારે ગામના લોકોએ ........ હાથમાં લીધી. (જાળ, ચાદર, લાકડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈને ઉપરથી પડતા બચાવવા ચાદર કે ઝોળી બનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ટપ્પુ નીચે પડીને ........ ના ગયો. (મરી, ઉડી, તરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારણકે તેની પાસે પેરાશૂટ હતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાચબો જે લાકડી વળગી રહ્યો હતો તેને ........ એ બે છેડેથી પકડી હતી. (મિત્રો, હંસો, બાળકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉડવાનું કામ હંસ જ કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ટપ્પુ કાચબો રાત્રે પણ ........ ના ઊંઘતો. (ક્યારેય, જરાય, આખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે લપલપિયો હતો એટલે સતત જાગતો અને વાતો કરતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આકાશમાં ઉડવા માટે ટપ્પુએ ........ ની મંજૂરી લીધી. (મમ્મી, પપ્પા, હંસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંસો તેને લઈ જવાના હતા એટલે તેમની સહમતી જરૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટપ્પુએ જ્યારે મોઢું ખોલ્યું ત્યારે તે ........ બોલવા જતો હતો. (આવજો, અરેરે, બાય-બાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાય-બાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે વિદાય લેતી વખતે ટપ્પુ 'બાય-બાય' કહેવા ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાઠમાં વપરાયેલ શબ્દ 'લપલપિયો' એટલે ........ (વધારે બોલનાર, ઓછું બોલનાર, શાંત રહેનાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે બોલનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લપ-લપ' એટલે નકામી વાતો, તે કરનાર એટલે લપલપિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હંસો ........ જેવા પક્ષીઓ છે. (સફેદ, કાળા, રંગબેરંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંસ હંમેશા તેના શ્વેત (સફેદ) રંગ માટે જાણીતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કાચબાનું શરીર ........ હોય છે. (નરમ, કઠણ, પોચું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઠણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબાની ઉપરની ઢાલ (શેલ) ખૂબ જ મજબૂત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ટપ્પુએ આકાશમાં જોયું તો તેને ........ દેખાયા. (તારા, વાદળ, પહાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉડતા પક્ષીઓને આકાશમાં સૌથી પહેલા વાદળાં દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ટપ્પુએ બજારમાં જઈને ........ પણ લીધા હતા. (ફટાકડા, રમકડાં, ખારા સિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખારા સિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગ-દાળિયા સાથે ખારી સિંગનો ઉલ્લેખ કવિતાના સંદર્ભમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાચબાની આંખો ........ જેવી ગોળ હતી. (બટન, લખોટી, દડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લખોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની અને ચમકતી ગોળ વસ્તુ એટલે લખોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ટપ્પુએ પેરાશૂટની ........ પકડી રાખી હતી. (દોરી, સ્વિચ, પાંખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દોરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરાશૂટ હવામાં દોરીના ટેકે લટકેલું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "હંસો કાચબાના ........ મિત્રો હતા. (જુના, નવા, પાકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મુસીબતમાં મદદ કરે તે 'પાકા' મિત્ર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ટપ્પુએ નીચે ઉતરીને ગામમાં ........ વહેંચ્યા. (પેંડા, પતાસા, સિંગ-દાળિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પતાસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની છેલ્લી પંક્તિ - 'સૌને વહેંચ્યા પતાસા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કાચબાને ઉડતો જોઈ પક્ષીઓ ........ પામ્યા. (ડર, નવાઈ, ગુસ્સો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય ન બન્યું હોય તે જોઈને 'નવાઈ' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ટપ્પુને હંસોની પાંખ પર બેસીને ........ હતું. (તરવું, સૂવું, ઉડવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ ઉડવા માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ટપ્પુએ આકાશમાં ........ જેવા ડુંગરા જોયા. (બરફ, રૂ, પથ્થર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ વાદળો હવામાં રૂના ઢગલા જેવા દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કાચબાની પીઠ પર ........ જેવું કવચ હોય છે. (ઢાલ, પથ્થર, લાકડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષણ કરનાર સાધનને 'ઢાલ' કહેવાય, જે કાચબા પાસે કુદરતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ટપ્પુને નીચે પડતો જોઈને લોકોએ ........ પાડી. (બૂમ, તાળી, રાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૂમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગભરાટમાં લોકો 'બૂમ' પાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પેરાશૂટ લાવીને ટપ્પુએ પોતાની ........ વાપરી. (હિંમત, બુદ્ધિ, તાકાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસીબતનો ઉકેલ બુદ્ધિથી જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હંસોએ કહ્યું, 'ટપ્પુ તારે ........ રહેવું પડશે.' (શાંત, ડરપોક, હોશિયાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢું બંધ રાખવા માટે શાંત રહેવું જરૂરી છે.</p></div>"
+    }
+  ]
+}
