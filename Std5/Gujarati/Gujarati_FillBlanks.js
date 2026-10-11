@@ -1204,3 +1204,161 @@ var Std5_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ટામેટાની દડમદડ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટામેટાને .......... માં ખૂબ ઠંડી લાગે છે. (કબાટ, તિજોરી, ફ્રીજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજ એટલે ઠંડકનું ઘર, એટલે ટામેટાને ત્યાં જ ઠંડી લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દૂધવાળી માસીએ ટામેટાને .......... પહેરાવી. (ટોપી, બંડી, સ્વેટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટાને ઠંડી લાગે ત્યારે માસી 'બંડી' જ પહેરાવે (પ્રાસ યાદ રાખો: ઠંડી-બંડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ટામેટાને ડાળ પર .......... રમવાની મજા પડતી હતી. (અડકો-દડકો, ગિલ્લી-દંડા, સંતાકૂકડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડકો-દડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાળ ઉપર ટામેટું 'દડતું' હોય એટલે 'દડકો' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ફ્રીજમાં ક્યાંય .......... નું નામ નથી. (ઠંડક, બરફ, હૂંફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૂંફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજ ઠંડું હોય, ત્યાં ગરમી કે હૂંફ ક્યારેય ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": ".......... એ ટામેટાને ટપલી મારી. (બટાકા, મૂળાભાઈ, દૂધીમાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળાભાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ' પરથી મૂળાભાઈ અને 'ટ' પરથી ટપલી - મૂળાભાઈ તોફાની હતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ફ્રીજનું બારણું .......... લેવા માટે ખુલ્યું. (પાણી, આઈસ્ક્રીમ, ઘારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતની પ્રખ્યાત મીઠાઈ 'ઘારી' લેવા બારણું ખૂલ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ફ્રીજમાંથી બહાર નીકળી ટામેટાએ .......... જોયો. (ચંદ્ર, સૂરજ, તારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં થીજી ગયેલા ટામેટાને ગરમી આપવા સૂરજ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સૂરજના કિરણો .......... પાર કરીને આવ્યા હતા. (નદીઓ, પહાડો, સડકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પંક્તિ મુજબ: 'આવ્યા કિરણો પાર કરીને સડકો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટામેટું કહે, 'પહેરો .......... રેશમી પહેરણ'. (સફેદ, લાલ, સોનેરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોનેરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજનો તડકો પીળો એટલે કે 'સોનેરી' રંગનો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સવારનો .......... ટામેટાને ખૂબ મીઠો લાગતો હતો. (તડકો, છાંયો, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળાની સવારે તડકો જ વહાલો લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ટામેટાને ફ્રીજમાં .......... લાગી રહી હતી. (ભૂખ, ઠંડી, તરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું કાવ્ય જ ટામેટાની 'ઠંડી' વિશે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટામેટું દડદડ કરતું .......... ની બહાર નીકળી ગયું. (ઘર, ફ્રીજ, શાકભાજી માર્કેટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટું કેદ ક્યાં હતું? ફ્રીજમાં, એટલે બહાર પણ ત્યાંથી જ નીકળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મૂળાભાઈએ ટપલી મારી એટલે ટામેટું .......... કરતું ચાલ્યું. (રડતું, કૂદતું, દડદડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દડદડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટું ગોળ હોય એટલે તે હંમેશા 'દડદડ' જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ટામેટાને .......... પર અડકો-દડકો રમવાની મજા પડતી. (જમીન, ડાળી, ટેબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોડની ડાળી પર ટામેટાં લટકેલા હોય એટલે ત્યાં જ રમત રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફ્રીજમાં ચારે બાજુ .......... જ બરફ હતો. (લીલો, ઠંડો, કાળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ હંમેશા ઠંડો જ હોય, કાવ્યમાં પણ તે જ ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાવ્યમાં .......... માસીનો ઉલ્લેખ છે. (કચ્છી, દૂધવાળી, રસોઈવાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂધવાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ ફ્રીજમાં મૂકવા આવે ત્યારે જ માસી બંડી પહેરાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટામેટાએ સૂરજને જોયો ત્યારે તેને ખૂબ .......... થયો. (ડર, ગુસ્સો, આનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની રાહ જોતા હોઈએ તે મળી જાય તો 'આનંદ' જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં ટામેટું .......... પહેરવાની વાત કરે છે. (કોટ, પહેરણ, સાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહેરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનેરી રેશમી પહેરણ - આ પંક્તિ યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટામેટું ફ્રીજમાં .......... જોતું હતું. (ટીવી, બારી, બારણું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બારણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેલમાંથી છૂટવા માટે બારણાં તરફ જ જોવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ કાવ્યના કવિ .......... છે. (કૃષ્ણલાલ શ્રીધરાણી, ઝવેરચંદ મેઘાણી, નર્મદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણલાલ શ્રીધરાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટા જેવી નાની અને મીઠી કવિતા 'કૃષ્ણ' ભગવાને (કૃષ્ણલાલ) લખી એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ટામેટાને ફ્રીજમાં .......... થી ધ્રૂજવું પડતું હતું. (ડર, પવન, ઠંડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રૂજારી હંમેશા ઠંડી લાગે ત્યારે જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બહાર નીકળીને ટામેટાએ જોયું કે ત્યાં .......... નથી. (બરફ, તડકો, હવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજમાં બરફ હતો, પણ બહાર બરફ નહોતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'ત્યાં ના ના બે .......... આવ્યા'. (બાળકો, કિરણો, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિરણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજના હંમેશા 'કિરણો' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટામેટાએ કઈ ઋતુમાં સ્વેટરની જગ્યાએ બંડીની માંગ કરી? (ઉનાળો, ચોમાસું, શિયાળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિયાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજની સરખામણી શિયાળા સાથે કરવામાં આવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મૂળાભાઈએ ટામેટાને શા માટે ટપલી મારી? (ખીજવવા, ગમ્મત કરવા, ગુસ્સામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગમ્મત કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાકભાજીઓ ફ્રીજમાં વાતો અને ગમ્મત કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ટામેટું .......... રંગનું હોય છે. (પીળા, કાળા, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકું ટામેટું હંમેશા લાલચોળ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સડકો પાર કરીને કોણ આવ્યું? (મોટરકાર, પવન, કિરણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિરણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજના કિરણો આખા જગતમાં બધે જ પહોંચી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ટામેટાને ફ્રીજમાં શાની ખોટ વર્તાતી હતી? (પાણીની, ખાવાની, સૂરજના તડકાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરજના તડકાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજમાં બધું હોય પણ સૂર્ય ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ટામેટાનું શરીર કેવું થઈ ગયું હતું? (ગરમ, ઠંડુંગાર, નરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડુંગાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રીજમાં રહેલી દરેક વસ્તુ ઠંડીગાર થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ટામેટાભાઈએ બહાર આવીને શું કહ્યું? (આઈ એમ હેપી, હું છું રાજા, મને ઠંડી લાગે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હું છું રાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદ થઈને ટામેટું પોતાને રાજા સમજવા લાગ્યું!</p></div>"
+    }
+  ]
+}
