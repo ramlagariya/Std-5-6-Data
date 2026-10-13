@@ -422,3 +422,136 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "હુરરે... હુરરે... દાંત આવ્યા!",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અક્ષય સાત-આઠ વર્ષનો થયો ત્યારે તેને દાંત આવવા લાગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અક્ષય સાત-આઠ મહિનાનો થયો ત્યારે તેને દાંત આવ્યા હતા, વર્ષનો નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું બાળક 'મહિના' માં દાંત લાવે, 'વર્ષ' માં તો નિશાળે જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દાંત આવ્યા પહેલાં અક્ષયના મોઢામાં માત્ર દૂધની જ ઈજારાદારી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢામાં દાંત ન હોય ત્યારે દૂધ જ 'રાજા' (ઈજારાદાર) ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અક્ષયને જ્યારે દાંત નહોતા ત્યારે તે હલવો અને પૂરી ખાતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દાંત નહોતા ત્યારે તે માત્ર દૂધ જ પીતો હતો, તેને કશું ચાવવા મળતું નહોતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત વગર હલવો-પૂરી ચવાય નહીં, માત્ર દૂધ ગટગટાવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દાંત આવવાથી અક્ષયનું 'બોખું' મોઢું હવે સુંદર અને ભરેલું લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત એ મોઢાના ઘરેણાં છે, તેનાથી શોભા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિએ દાંતને 'હથિયાર' અને 'સૈનિકો' સાથે સરખાવ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બટકાં' ભરવા માટે દાંત એ સૈનિક જેવા મજબૂત હથિયાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અક્ષયના પેઢામાં દાંત આવતા પહેલાં બહુ ભીડ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દાંત આવતા પહેલાં પેઢામાં ખાલીપો હતો, તેને 'સૂનું બજાર' કહેવાયું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત વગરનું મોઢું એટલે ખાલી મેદાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અક્ષય હવે અહિંસક મટીને હિંસક બન્યો છે કારણ કે તે બચકાં ભરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત આવ્યા એટલે બટકું ભરવાની 'હિંસા' શરૂ થઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અક્ષયના દાંત એકપછી એક આવ્યા, આખી ટુકડી સાથે આવી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાવ્યમાં જણાવ્યું છે કે દાંત આખી ટુકડી લઈને આવ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાન' લઈને આવે એમ દાંત 'ટુકડી' લઈને આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અક્ષયને દાંત આવ્યા એટલે હવે તે પાપડ અને ગાજર ખાઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત હોય તો જ કડક પાપડ અને ગાજરનો સ્વાદ લેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અક્ષયની જીભને દાંત આવવાથી મોઢામાં એકલતા લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જીભને હવે દાંત રૂપી સાથીદારો મળ્યા છે, એટલે તેની એકલતા દૂર થઈ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત એ જીભના પડોશી છે, પડોશી આવે તો એકલતા જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અક્ષયના દાંત આવ્યા ત્યારે તેને પેઢામાં ખંજવાળ આવતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત ફૂટે ત્યારે પેઢામાં સળવળાટ અને ખંજવાળ થાય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અક્ષયના મોઢામાં સૌથી પહેલા બત્રીસે-બત્રીસ દાંત આવી ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દાંત ધીમે ધીમે એક પછી એક ટુકડીમાં આવે છે, એકસાથે ૩૨ આવતા નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૨ એ પૂરો આંકડો છે, જે મોટા થયા પછી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'હુરરે... હુરરે...' શબ્દ ગુસ્સો વ્યક્ત કરવા માટે વપરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: 'હુરરે' એ અત્યંત ખુશી અને આનંદ વ્યક્ત કરતો ઉદગાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેચ જીતીએ ત્યારે 'Hurray' બોલીએ, એ ખુશીની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અક્ષય હવે જે મળે તે વસ્તુ મોઢામાં નાખીને ચાવવા પ્રયત્ન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા દાંતની ખંજવાળ બધી વસ્તુ મોઢામાં નખાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અક્ષયના પેઢામાં 'દાંત' આવતા પહેલાં તે ખૂબ જ મજબૂત હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દાંત વગરના પેઢા નરમ હોય છે, મજબૂતી તો દાંત આવ્યા પછી આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાડકા જેવા દાંત આવે ત્યારે જ મજબૂતી ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાવ્યમાં અક્ષયને 'બક્ષી' તરીકે પણ સંબોધવામાં આવ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અક્ષય' માંથી પ્રેમથી તેને 'બક્ષી' કહ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દાંત આવ્યા પછી અક્ષય હવે માત્ર દૂધ પીવાનું જ પસંદ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દાંત આવ્યા પછી તે હવે રોટલી, શાક અને બીજી વસ્તુઓ ચાવીને ખાઈ શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંત આવે એટલે દૂધનો ત્યાગ અને ખોરાકનો સ્વીકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અક્ષયના મોઢામાં દાંતની સાથોસાથ જીભ પણ નવી આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જીભ તો પહેલેથી જ હતી, માત્ર દાંત જ નવા આવ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભ જન્મથી હોય, દાંત વચગાળે આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દાંત આવ્યા એટલે અક્ષયની અહિંસાની વાતો પૂરી થઈ ગઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટકું ભરવું એ 'હિંસા' છે, એટલે અહિંસા હવે ગઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અક્ષયને દાંત આવતા જ તે 'ચાવ' 'ચાવ' કરવા લાગ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાંતનું કામ જ ચાવવાનું છે, એટલે ચાવ-ચાવ શરૂ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાવ્યમાં દાંતને 'ઠોર' અને 'પથ્થર' જેવા કડક કહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ ચાવવી હોય તે દાંત કરતાં નરમ હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અક્ષયના દાંત આવતા જ તેણે ભણવાનું શરૂ કરી દીધું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાવ્યમાં તેના ખાવા-પીવાની અને બટકાં ભરવાની વાત છે, ભણવાની નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠ માત્ર દાંત અને ખાવાની મજા વિશે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જીભને દાંત આવ્યા એટલે હવે 'પડોશી' મળી ગયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભ વચ્ચે રહે અને દાંત આજુબાજુ, એટલે તેઓ પડોશી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અક્ષયને દાંત આવ્યા ત્યારે તેના ઘરમાં બધા દુઃખી થઈ ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અક્ષયને દાંત આવતા જ ઘરમાં બધા ખુશ થઈ ગયા અને 'હુરરે' ગાવા લાગ્યા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકના દાંત આવે તે આખા પરિવાર માટે ઉત્સવ જેવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અક્ષયના દાંતને લડાયક યોદ્ધાની જેમ સજ્જ કહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હથિયાર સજીને આવ્યા' એટલે યોદ્ધાની જેમ આવ્યા.</p></div>"
+    }
+  ]
+}
