@@ -846,3 +846,111 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ચહેરાની કરામત",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રાજાના માથા પર બે શિંગડાં ઉગ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાની શરૂઆતમાં જ રાજાની આ વિચિત્ર મુસીબતનો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હજામે રાજાનું રહસ્ય આખા ગામને બૂમો પાડીને કહી દીધું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> હજામે રાજાનું રહસ્ય કોઈને ન કહેવાની શરત માની હતી, પણ પેટમાં વાત ન ટકતા તેણે ખીજડાના ઝાડની બખોલમાં જઈને આ વાત કહી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજામ -> ખીજડાનું ઝાડ (રહસ્યનું સરનામું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "હજામ પેટનો હળવો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પેટનો હળવો' એટલે જે કોઈ વાત છુપાવી ન શકે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કઠિયારાએ ખીજડાનું ઝાડ કાપીને તેના લાકડામાંથી ખાટલો બનાવ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> કઠિયારાએ કાપેલા લાકડામાંથી ઢોલીએ ઢોલક બનાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડું -> ઢોલક (યાદ રાખો: અવાજ ઢોલકમાંથી આવે છે, ખાટલામાંથી નહીં!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઢોલકમાંથી 'રાજાજીને માથે શિંગડાં, ભાઈ શિંગડાં' એવો અવાજ આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડે હજામની વાત સાંભળી હતી, એટલે તેમાંથી બનેલા ઢોલકે એ જ વાત ગાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રાજાએ હજામને જેલમાં પૂરી દીધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> અંતે રાજા પોતે હસી પડ્યા અને તેમણે હજામને માફ કરી દીધો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'ચહેરાની કરામત' છે, એટલે અંતે બધાના ચહેરા પર સ્મિત આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રાજકુમારીનું હાસ્ય કોઈ ચોર ચોરી ગયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રાજકુમારીનું હાસ્ય કોઈ ચોરી નહોતું ગયું, પણ તે હસવાનું ભૂલી ગઈ હતી અથવા ઉદાસ રહેતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્ય એ કોઈ વસ્તુ નથી જે ચોરી શકાય, તે મનની સ્થિતિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આ પાઠમાં આપણે ચહેરાના અલગ-અલગ હાવભાવ વિશે શીખવાનું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીર્ષક 'ચહેરાની કરામત' જ સૂચવે છે કે હાવભાવ (Expressions) મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રાજાએ પોતાના શિંગડાં છુપાવવા માટે મોટી પાઘડી પહેરવાનું શરૂ કર્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિંગડાં માથા પર હોય, એટલે તેને પાઘડીથી જ ઢાંકી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હજામે ખીજડાના ઝાડ પાસે જઈને કાનમાં વાત કહી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુપ્ત વાત હંમેશા કાનમાં કહેવાય, ભલે સામે ઝાડ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગામમાં મિજબાની વખતે ઢોલક વગાડવા માટે રામલો ઢોલી આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંદર્ભમાં ઢોલીનું પાત્ર વાર્તાને વળાંક આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જ્યારે આપણે ગુસ્સે હોઈએ ત્યારે આપણી આંખો લાલ થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુસ્સો = લાલ આંખ (ચહેરાની કરામતનો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાજાના માથા પર શિંગડાં જોઈ હજામ ખૂબ ખુશ થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> હજામ ડરી ગયો હતો અને તેને આશ્ચર્ય થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ સામાન્ય માણસ શિંગડાં જોઈને ડરી જાય, ખુશ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઢોલકનો અવાજ સાંભળીને રાજા ગુસ્સે થઈ ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> શરૂઆતમાં રાજાને નવાઈ લાગી, પણ પછી રહસ્ય ખૂલી જતાં તે હળવાશ અનુભવવા લાગ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહસ્ય જ્યારે બધાને ખબર પડી જાય, ત્યારે ડર દૂર થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આ પાઠમાં 'ચહેરો' એ મનનો અરીસો છે એવું સમજાવવામાં આવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચહેરા પરથી જ ભાવ જાણી શકાય, એટલે જ તેને 'કરામત' કહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રાજાએ હજામને કહ્યું હતું કે જો તું આ વાત કોઈને કહીશ તો હું તારું માથું કાપી નાખીશ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાઓ હંમેશા આવી કડક શરતો રાખતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હજામનું પેટ ફૂલવા લાગ્યું કારણ કે તેણે બહુ બધું ખાધું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> તેનું પેટ રહસ્ય (વાત) છુપાવવાને કારણે ફૂલતું હતું, ખાવાને લીધે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાત છુપાવવી = પેટ ભારે થવું (રૂઢિપ્રયોગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ખીજડાનું ઝાડ વાંસળી બનાવવા માટે વપરાયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> તેમાંથી ઢોલક બનાવવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં અવાજ 'ઢમ ઢમ' ઢોલકનો છે, વાંસળીનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જ્યારે આપણે આશ્ચર્યચકિત થઈએ ત્યારે આપણું મોં ખુલ્લું રહી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આશ્ચર્ય = ખુલ્લું મોં (ચહેરાની એક કરામત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અંતે રાજાએ પોતાની પાઘડી ઉતારીને બધાને શિંગડાં બતાવ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્યનો સ્વીકાર કરવાથી મન હળવું થાય છે.</p></div>"
+    }
+  ]
+}
