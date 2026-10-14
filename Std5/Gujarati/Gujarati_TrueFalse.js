@@ -688,3 +688,161 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "થાય જીત લડતની",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સરદાર વલ્લભભાઈ પટેલનો જન્મ નડિયાદમાં થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સરદાર પટેલનો જન્મ તેમના મોસાળ નડિયાદમાં થયો હતો, પરંતુ તેમનું વતન કરમસદ હતું. પાઠ્યપુસ્તક મુજબ જન્મ સ્થળ નડિયાદ સાચું છે, પણ જો વતન પૂછાય તો કરમસદ આવે. અહીં વિધાન સાચું ગણાશે.) <br><strong>સુધારેલું વિધાન:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નડિયાદ = નની (નાની) નું ઘર (મોસાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અંગ્રેજ સરકારે ખેડૂતો પરના કરવેરામાં ૨૨ ટકાનો વધારો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૨ (બે બગડા) ટકાનો વધારો - બારડોલીની લડતનો મુખ્ય મુદ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખેડૂતો અન્યાયી કરવેરા ભરવા માટે ખુશીથી તૈયાર હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ખેડૂતો અન્યાયી કરવેરા ભરવા તૈયાર નહોતા, તેથી જ તેમણે સત્યાગ્રહ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્યાય સામે કોઈ 'ખુશ' ન હોય, હંમેશા 'વિરોધ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બારડોલી સત્યાગ્રહની નેતાગીરી ગાંધીજીએ સ્વીકારી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> બારડોલી સત્યાગ્રહની મુખ્ય નેતાગીરી વલ્લભભાઈ પટેલે લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલીના 'બાર' અને વલ્લભભાઈની 'બહાદુરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વલ્લભભાઈ પટેલને 'લોખંડી પુરુષ' તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ જેવી મક્કમતા એટલે 'લોખંડી પુરુષ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેડૂતોએ 'ના-કર'ની લડત ચલાવવાનું નક્કી કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ના-કર = ટેક્સ (કર) નહીં ભરવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લડત દરમિયાન પત્રિકાઓ વહેંચવામાં આવતી નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> લડતના સમાચાર પહોંચાડવા માટે રોજ પત્રિકાઓ બહાર પાડવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રિકા = સમાચાર પહોંચાડવાનું હથિયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મહાદેવભાઈ દેસાઈ વલ્લભભાઈના મિત્ર હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવભાઈ અને વલ્લભભાઈની જોડી લડતમાં સાથે હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બારડોલીની લડતથી વલ્લભભાઈને 'સરદાર'નું બિરુદ મળ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફળ લડત = 'સરદાર' બિરુદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રવિશંકર મહારાજ આ લડતમાં 'મૂક સેવક' તરીકે કામ કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિશંકર મહારાજ = મૂક (બોલ્યા વગર સેવા કરનાર) સેવક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખેડૂતોએ અંગ્રેજ સરકારની જપ્તીથી ડરીને ખેતી છોડી દીધી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ખેડૂતો ડર્યા વગર લડત આપતા રહ્યા અને મક્કમ રહ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્યાગ્રહી ક્યારેય ડરે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વલ્લભભાઈ બાળપણથી જ નિડર અને બહાદુર હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગલના ગુમડા પર ગરમ સળિયો ચપાવવાની ઘટના તેમની નિડરતા બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સરકારે બારડોલી સત્યાગ્રહને દબાવવા માટે કડક હાથે કામ લીધું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર હંમેશા આંદોલન રોકવા કડકાઈ વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લડતને અંતે સરકારને નમવું પડ્યું અને કરવેરામાં સુધારો કરવો પડ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્ય અને એકતાની હંમેશા જીત થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વલ્લભભાઈને તેમના મિત્રો 'દાદા' કહીને બોલાવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> વલ્લભભાઈને લોકો 'સરદાર' તરીકે ઓળખતા, 'દાદા' તરીકે રવિશંકર મહારાજ અથવા અન્ય વડીલોને સંબોધન થતું હોય શકે પણ પાઠમાં વલ્લભભાઈ માટે આવો ઉલ્લેખ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલ્લભભાઈ = સરદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીએ વલ્લભભાઈને 'ખેડૂતોના સરદાર' કહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો માટે લડ્યા એટલે ખેડૂતોના સરદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આ પ્રકરણમાં 'એકતા' નો સંદેશ આપવામાં આવ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડત ત્યારે જ જીતાય જ્યારે બધા એક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પથ્થર પર લીટી એટલે કે વલ્લભભાઈનું વચન ક્યારેય ન ફરે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પરની લીટી = અફર વાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેડૂતોએ અંગ્રેજ અમલદારોને ખાવા-પીવાની બધી સગવડ પૂરી પાડી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> ખેડૂતોએ અસહકાર કર્યો હતો, જેથી અમલદારોને ખાવા-પીવાના અને રહેવાના પણ ફાંફા પડ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસહકાર = કોઈ મદદ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વલ્લભભાઈ સ્વભાવે ખૂબ જ રમુજી પણ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરથી કઠણ પણ અંદરથી રમુજી અને કોમળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બારડોલી સત્યાગ્રહ ૧૯૨૮ માં થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૯૨૮ - બારડોલીની જીતનું વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વલ્લભભાઈના પિતાનું નામ ઝવેરભાઈ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝવેરભાઈ અને લાડબાઈ - વલ્લભભાઈના માતા-પિતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લડત દરમિયાન બારડોલી એક પવિત્ર યાત્રાધામ જેવું બની ગયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું દેશ બારડોલી તરફ જોતું હતું, એટલે તે યાત્રાધામ જેવું પવિત્ર બન્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સરદાર પટેલ ભારતની આઝાદી પછી ભારતના પ્રથમ વડાપ્રધાન બન્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> તેઓ પ્રથમ ગૃહમંત્રી (Home Minister) અને નાયબ વડાપ્રધાન બન્યા હતા. પ્રથમ વડાપ્રધાન જવાહરલાલ નેહરુ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલ્લભભાઈ = પ્રથમ ગૃહમંત્રી (ઘર સંભાળનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વલ્લભભાઈએ વિલાયત જઈને બેરિસ્ટરની પદવી મેળવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેરિસ્ટર એટલે વકીલ - વિલાયત જઈને ભણ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ખેડૂતો રાત્રે પણ મશાલ લઈને સભાઓમાં જતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશાલ = જાગૃતિનું પ્રતીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સરદાર પટેલની વાણીમાં શૂરવીરતા અને રણકો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહની ગર્જના જેવો સરદારનો સાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આ લડત માત્ર પુરુષો પૂરતી જ મર્યાદિત હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> સ્ત્રીઓએ પણ આ લડતમાં ખૂબ મોટો ભાગ લીધો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડત આખા સમાજની હોય, માત્ર એકની નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વલ્લભભાઈ દેખાવે ખૂબ જ સૌમ્ય અને નરમ લાગતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br><strong>કારણ:</strong> તેઓ દેખાવે કઠણ અને મક્કમ લાગતા હતા, તેથી જ તેમને 'લોખંડી પુરુષ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ ક્યારેય નરમ ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સરકારે ખેડૂતોની જમીન અને ઢોર-ઢાંખર જપ્ત કરવાનું શરૂ કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જપ્તી એટલે મિલકત પડાવી લેવી - અંગ્રેજોની રીત.</p></div>"
+    }
+  ]
+}
