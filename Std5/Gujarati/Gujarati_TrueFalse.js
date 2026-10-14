@@ -555,3 +555,136 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "મારે તો ઘણું કહેવું છે",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મનસ્વીને વાતો કરવાનો જરાય શોખ નહોતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે મનસ્વીને તો બહુ જ વાતો કરવાની ટેવ હતી, તેને ઘણું બધું કહેવું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનસ્વી = મનની સ્વીચ વાતો માટે હંમેશા ઓન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મનસ્વીની મમ્મી રસોઈ બનાવતા બનાવતા તેની બધી વાતો સાંભળતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મમ્મી રસોઈમાં વ્યસ્ત હતી અને તેણે મનસ્વીને અત્યારે ખલેલ ન પહોંચાડવા કહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી + રસોઈ = 'પછી વાત કરજે' (વ્યસ્તતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પપ્પા જ્યારે ઓફિસેથી આવ્યા ત્યારે મનસ્વીને વાર્તા સંભળાવવા તૈયાર હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પપ્પા થાકેલા હતા અને તેમને આરામ કરવો હતો, એટલે તેમણે મનસ્વીને સાંભળી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓફિસનો થાક = શાંતિની જરૂર (વાતોની નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મનસ્વીને તેની બહેનપણી નિશા સાથે ખૂબ વાતો કરવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. મનસ્વીને તેની ફ્રેન્ડ્સ સાથે શાળાની અને બીજી ઘણી વાતો વહેંચવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રો = વાતોનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનસ્વીએ તેની વાતો કહેવા માટે ઝાડ અને પક્ષીઓનો સહારો લીધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જ્યારે કોઈ માણસ ન સાંભળે ત્યારે તેણે કુદરત અને નિર્જીવ વસ્તુઓ સાથે વાત કરવાનું વિચાર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ ન સાંભળે ત્યારે કુદરત સાંભળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મનસ્વીની ડાયરીનું નામ 'વાતૂડી' હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. મનસ્વીએ પોતાની વાતો લખવા માટે ડાયરી બનાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લખેલી વાત = ડાયરી (વાતૂડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શાળામાં શિક્ષકે મનસ્વીને ચૂપ રહેવા માટે દંડ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. શિક્ષકે તેને સમજાવી હતી કે ભણતી વખતે ધ્યાન આપવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતી વખતે 'નો ટૉકિંગ', માત્ર 'લિસનિંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મનસ્વીના દાદા તેને રોજ નવી વાર્તા કહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાઠમાં દાદા-દાદી જ એવા પાત્રો છે જે મનસ્વીને સમય આપતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદા-દાદી = વાર્તાનો ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મનસ્વીને એકલું રહેવું બહુ ગમતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મનસ્વીને લોકોની વચ્ચે રહીને વાતો કરવી ગમતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનસ્વી એકલી નથી, તે તો 'સોશિયલ બટરફ્લાય' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મનસ્વીએ પથ્થરો સાથે પણ વાતો કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પોતાની લાગણીઓ વ્યક્ત કરવા તેણે નિર્જીવ પથ્થરોને પણ પોતાના મિત્ર માન્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાગણી જ્યારે ઉભરાય, ત્યારે પથ્થર પણ મિત્ર જણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મનસ્વીની મમ્મીએ તેને વઢવા માટે રસોડામાં બોલાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મમ્મીએ તેને કામમાં મદદ કરવા અથવા શાંત રહેવા કહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડું = મમ્મીનું કાર્યક્ષેત્ર, નો વૉઈસ પોલ્યુશન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આ પાઠમાં 'અભિવ્યક્તિ' (પોતાની વાત કહેવી) નું મહત્વ સમજાવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. બાળકોને પોતાની વાત કહેવાની તક મળવી જોઈએ તે આ પાઠનો મુખ્ય હેતુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે - મારે તો ઘણું કહેવું છે (Express yourself).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મનસ્વીએ ડાયરી લખવાનું બંધ કરી દીધું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઉલટાનું તેણે ડાયરીમાં બધી વાતો લખવાનું શરૂ કર્યું જેથી તેનું મન હળવું થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયરી = મનનો અરીસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પપ્પાએ મનસ્વીને રવિવારે ફરવા લઈ જવાનું વચન આપ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પપ્પાએ તેની વાતો સાંભળવા માટે રવિવારનો સમય ફાળવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવાર = મસ્તી અને વાતોનો વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મનસ્વીને ભણવામાં રસ નહોતો એટલે તે વાતો કરતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે હોશિયાર હતી પણ તેનામાં જીજ્ઞાસા અને ઉત્સાહ વધુ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતોડી બાળક હોશિયાર પણ હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચકલીએ મનસ્વીની વાત સાંભળીને 'ચીં-ચીં' કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પક્ષીઓ મનસ્વીની વાતોમાં સહમત હોય તેમ અવાજ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓની ભાષા = સમજણનો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મનસ્વીના પપ્પા ન્યૂઝપેપર (છાપું) વાંચતી વખતે વાતો સાંભળતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. છાપું વાંચતી વખતે પપ્પાએ મનસ્વીને ચૂપ રહેવા કહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાપું વાંચવું = 100% ધ્યાન દુનિયામાં (ઘરમાં નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મનસ્વીએ પોતાની ઢીંગલીને પોતાની બધી જ વાતો કહી દીધી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ઢીંગલી તેની બેસ્ટ ફ્રેન્ડ હતી જે ક્યારેય તેને બોલતા રોકતી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢીંગલી = સાઇલન્ટ લિસનર (શાંત શ્રોતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મનસ્વીને રાત્રે મોડે સુધી જાગીને વાતો કરવી ગમતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સુતી વખતે પણ તે મમ્મીને ઘણી વાતો કહેવા માંગતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેડ ટાઈમ સ્ટોરી નહિ, પણ બેડ ટાઈમ વાતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મનસ્વી ખૂબ રડતી હતી કારણ કે કોઈ તેને સાંભળતું નહોતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જ્યારે કોઈ તેની વાતો ન સાંભળે ત્યારે તેને દુઃખ થતું અને તે ઉદાસ થઈ જતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનની વાત મનમાં રહે = ઉદાસીનો જન્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મનસ્વીએ આખરે મૌન વ્રત રાખવાનું નક્કી કર્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેણે મૌન નહિ પણ 'લખવાનું' અને 'કુદરત સાથે વાત કરવાનું' શરૂ કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનસ્વી અને મૌન? ક્યારેય નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શાળાના રિસેસમાં મનસ્વી નાસ્તો કરવાનું ભૂલી જતી કારણ કે તે વાતોમાં મશગૂલ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તેના માટે પેટ ભરવા કરતા મનની વાતો ખાલી કરવી વધુ જરૂરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાસ્તો સેકન્ડરી, વાતો પ્રાયોરિટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મનસ્વીને પતંગિયા પાછળ દોડતા દોડતા વાતો કરવી ગમતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તે પતંગિયાને પણ તેના મનના ભેદ કહેતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગિયા = રંગીન અને ઉડતા મિત્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મનસ્વીની મમ્મીએ તેને વાતો કરવા માટે પ્રોત્સાહન આપ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. શરૂઆતમાં મમ્મી તેને ટોકતી હતી, પરંતુ પછી તેને મનસ્વીની લાગણી સમજાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોત્સાહન લેટ મળ્યું, ટોકવાનું ફાસ્ટ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ પાઠમાં મનસ્વી નામની છોકરીનું પાત્ર કેન્દ્રમાં છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. આખી વાર્તા મનસ્વીની આસપાસ જ ફરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઈન કેરેક્ટર = મનસ્વી.</p></div>"
+    }
+  ]
+}
