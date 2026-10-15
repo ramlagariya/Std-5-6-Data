@@ -1062,3 +1062,136 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ચકમક ચકલી અને ટીકટીક ટીટોડી",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચકમક એક ટીટોડીનું નામ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ચકમક એ ચકલીનું નામ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચ' થી ચકમક અને 'ચ' થી ચકલી - આ રીતે યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટીકટીક ટીટોડીએ તેના ઈંડા ખેતરમાં જમીન પર મૂક્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ટીટોડી હંમેશા તેના ઈંડા જમીન પર જ મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીટોડી = ધરતી (જમીન) નો જીવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચકમક ચકલીનો માળો ખેતરના શેઢા પરના બાવળના ઝાડ પર હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ચકલીએ સુરક્ષિત રહેવા બાવળ પર માળો બનાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચકલી ઝાડ પર, ટીટોડી જમીન પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેતરમાં લાલ રંગનું મોટું ટ્રેક્ટર આવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાઠમાં લાલ ટ્રેક્ટરનો ઉલ્લેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભયાનક લાલ ટ્રેક્ટર (જોખમની નિશાની લાલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ટીકટીક ટીટોડી તેના ઈંડા જોઈને ખુશ હતી કારણ કે ટ્રેક્ટર આવતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ટીકટીક તેના ઈંડા ટ્રેક્ટર નીચે ચગદાઈ જશે તેવા ડરથી ખૂબ જ ચિંતિત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેક્ટર = ડર, ખુશી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચકમક ચકલીએ ટીકટીકને મદદ કરવાની ના પાડી દીધી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ચકમક એક સાચી મિત્ર હતી અને તેણે ટીકટીકને હિંમત આપી અને મદદ કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો મિત્ર ક્યારેય 'ના' ન પાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટ્રેક્ટર ચલાવનાર ડ્રાઈવરનું નામ રામુ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પાઠમાં ટ્રેક્ટર ચલાવનાર યુવાનનું નામ (કે પાત્રનું ચોક્કસ નામ) રામુ નથી, તે ખેડૂતનો દીકરો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રના નામ ધ્યાનથી વાંચવા (રામુ પાત્ર નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ટીટોડીના ઈંડા પથ્થર જેવા દેખાતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ટીટોડીના ઈંડા જમીન અને કાંકરા સાથે ભળી જાય તેવા રંગના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરક્ષા માટે કુદરતી કલર (મેચિંગ-મેચિંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચકમક ચકલીએ ટ્રેક્ટરની સામે યુદ્ધ કર્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેણે યુદ્ધ નહીં પણ યુક્તિ કરી અને ડ્રાઈવરનું ધ્યાન ખેંચ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાકાત કરતા યુક્તિ મોટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટ્રેક્ટરનો અવાજ 'ટીક ટીક' જેવો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ટ્રેક્ટરનો અવાજ 'ધડ ધડ' કે 'ઘરરર' જેવો મોટો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીક-ટીક તો ટીટોડી બોલે, ટ્રેક્ટર નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચકમકે ડ્રાઈવરની આંખ સામે પાંખો ફફડાવીને તેને અટકાવવાનો પ્રયત્ન કર્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ડ્રાઈવરનું ધ્યાન ભટકાવવા ચકલીએ આ યુક્તિ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખ સામે પાંખો = અટકાવવાનો ઈશારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટીકટીક ટીટોડી પાસે ચાર ઈંડા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાઠમાં ટીટોડીના ચાર ઈંડાનો ઉલ્લેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકો (ચાર) ઈંડાની સંખ્યા યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ડ્રાઈવરે ગુસ્સે થઈને ચકલીને મારી નાખી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ડ્રાઈવર દયાળુ હતો અને તેને સમજાયું કે પક્ષીઓ કંઈક કહેવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો બોધ દયા છે, હિંસા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ટ્રેક્ટર ઉભું રહ્યું ત્યારે ટીટોડી હાંફતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ગભરાટ અને દોડધામને કારણે ટીટોડી હાંફી ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડર અને મહેનત = હાંફવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખેડૂતના દીકરાએ ઈંડાની આસપાસ કાંકરાની પાળી બનાવી દીધી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ઈંડા સુરક્ષિત રહે અને ટ્રેક્ટર ત્યાં ન ફરી વળે તે માટે તેણે રક્ષણ કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાળી = સુરક્ષા કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચકમક ચકલી ખૂબ જ સ્વાર્થી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે પરોપકારી અને મદદગાર હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રતા = નિઃસ્વાર્થ પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખેતરમાં કપાસનો પાક વાવેલો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પાઠ મુજબ ખેતર ખેડવાનું બાકી હતું અને નવી વાવણીની તૈયારી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતર ખાલી હતું એટલે જ ટ્રેક્ટર આવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ટીકટીક ટીટોડી ઉડી શકતી નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે ઉડી શકતી હતી પણ ઈંડા મૂકીને તેને છોડીને જવા માંગતી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજબૂરી હતી, બીમારી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટ્રેક્ટરના ટાયર ખૂબ મોટા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ટ્રેક્ટરના પૈડાં મોટા હોવાથી ટીટોડી વધુ ડરેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું ટાયર = મોટું જોખમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અંતે ટીટોડીના ઈંડા ફૂટી ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ચકમક અને છોકરાની સમજદારીથી ઈંડા બચી ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુખાંત વાર્તા (Happy Ending).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આ વાર્તામાં પક્ષીઓ અને માણસ વચ્ચેના પ્રેમના દર્શન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ખેડૂતના દીકરાએ પક્ષીઓની લાગણી સમજી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવદયા એ જ મોટો ધર્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ચકમક ચકલીએ ચીં-ચીં કરીને અવાજ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ચકલીનો અવાજ ચીં-ચીં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચકલીની બોલી = ચીં... ચીં...!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ટીટોડીના ઈંડા સફેદ રંગના હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેના ઈંડા જમીન જેવા રંગના (કાબરચીતરા) હતા જેથી કોઈને દેખાય નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી સંતાકૂકડી (Camouflage).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટીકટીક ટીટોડી ખેતરની વચ્ચે રહેતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ખેતરની વચ્ચે તેણે જમીન પર માળો (ઈંડા) રાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીટોડીનું ઘર = ખુલ્લું ખેતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાર્તાના અંતે ચકમક અને ટીકટીક બંને હસવા લાગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. મુસીબત ટળી જવાથી તેઓ બંને આનંદમાં હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસીબત ગઈ, ખુશી આવી!</p></div>"
+    }
+  ]
+}
