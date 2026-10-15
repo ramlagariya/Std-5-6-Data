@@ -954,3 +954,111 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ટામેટાની દડમદડ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટામેટાને ફ્રિજમાં ખૂબ જ ગરમી લાગતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટાને ફ્રિજમાં ખૂબ જ ઠંડી લાગતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજ = ઠંડક (Ice), ટામેટાને ઠંડી લાગે એ જ સ્વાભાવિક છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટામેટાને દૂધી માસીને બંડી પહેરાવવા માટે વિનંતી કરી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટું + દૂધી માસી = બંડીની માંગણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ફ્રિજમાં ગરમાગરમ ચા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ફ્રિજમાં ક્યાંય હૂંફ કે ગરમીનું નામ નિશાન નહોતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજમાં બરફ હોય, ચા તો ગેસ પર હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મૂળાભાઈએ ટામેટાને ટપલી મારી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળો + ટપલી = ટામેટું ગબડ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ફ્રિજનું બારણું આઈસ્ક્રીમ લેવા માટે ખુલ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ફ્રિજનું બારણું 'ઘેબર' લેવા માટે ખુલ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘ થી ઘેબર યાદ રાખો, જે આ પાઠમાં ચાવીરૂપ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ટામેટું ફ્રિજની બહાર દડદડ કરતું ગયું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડદડ = ગબડવું, ટામેટું ગોળ હોય એટલે દડે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટામેટાએ બહાર નીકળીને આકાશમાં સૂરજ જોયો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાંથી મુક્તિ = સુરજનો તડકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સૂરજના કિરણો નદી ઓળંગીને આવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: સૂરજના કિરણો સડકો (રસ્તા) ઓળંગીને આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ થી સૂરજ અને સ થી સડક યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટામેટું ફ્રિજની બહાર નીકળીને રડવા લાગ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટું ખુશ થઈ ગયું અને તે હરખાઈ ગયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી મળે ત્યારે કોઈ રડે નહીં, હરખાય (ખુશ થાય)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટામેટાને પહેલાં ડાળ પર રમવાની મજા આવતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડકો દડકો દહીં દડકો, ડાળ પર અડકો દડકો રમતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ફ્રિજમાં બરફના ગામ જેવું ઠંડું વાતાવરણ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં 'બરફના ગામ' શબ્દપ્રયોગ થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટામેટું 'કિંગ' બનીને બહાર આવ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: કવિતાના અંતે ટામેટું કહે છે 'હું છું રાજા'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ટામેટું, શાકભાજીનો રાજા (રાતા રાતા ટામેટા જી!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ટામેટાને ઠંડી લાગતી હતી ત્યારે તેણે સ્વેટર માંગ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટાએ સ્વેટર નહીં પણ 'બંડી' માંગી હતી.</p><hr><p style='color:#d32f2f; border-radius:8px;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ થી બંડી, સ થી સ્વેટર નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ફ્રિજમાં બધું જ ગરમ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ફ્રિજમાં તો બરફ અને ઠંડી જ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજ અને ગરમ એ વિરોધી શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મૂળાભાઈએ ટામેટાની મદદ કરી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: મૂળાભાઈએ ટપલી મારી એટલે જ ટામેટું બહાર જઈ શક્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપલી = મદદ (બહાર જવા માટેનો ધક્કો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ટામેટાને સૂર્યના કિરણો ગમ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં તડકો કોને ન ગમે?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ટામેટાએ બહાર નીકળીને ઠંડુ પાણી પીધું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટું તડકાની હૂંફ લેવા માંગતું હતું, પાણી પીવાની વાત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટાને ઠંડીથી બચવું હતું, એટલે ઠંડુ પાણી ન પીવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ટામેટાનો રંગ લાલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટું = લાલ ચટ્ટક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટામેટાને ફ્રિજમાં રહેવું ખૂબ ગમે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટાને ફ્રિજમાં ઠંડી લાગતી હોવાથી તેને ત્યાં ગમતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈને પણ જેલમાં (બંધ જગ્યાએ) ગમતું નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ટામેટું દડદડ કરતું બારીની બહાર ગયું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ટામેટું ફ્રિજની બહાર ગયું હતું, બારીની બહાર નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજનું બારણું ખુલ્યું એટલે ફ્રિજની બહાર જવાય.</p></div>"
+    }
+  ]
+}
