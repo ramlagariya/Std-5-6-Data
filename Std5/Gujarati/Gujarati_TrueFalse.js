@@ -1195,3 +1195,161 @@ var Std5_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "રંગે રૂડો, રૂપે પૂરો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મોરના માથે સુંદર કલગી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' થી કલગી અને 'ક' થી કલાકાર (મોર) - મોર કલાકાર છે એટલે એના માથે કલગી હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મોરના પીંછા ટૂંકા અને કાળા રંગના હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરના પીંછા લાંબા અને રંગબેરંગી હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર તો રંગીલો છે, એ કાળો ક્યારેય ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મોર આપણું રાષ્ટ્રીય પક્ષી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર = 'મેઈન' (રાષ્ટ્રીય) પક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મોરને જોતા જ ગીધ યાદ આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરને જોતા જ આપણને આનંદ અને સુંદરતા યાદ આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુંદરતા જોતા આનંદ થાય, ગભરામણ (ગીધ) નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મોર આકાશમાં વાદળો જોઈને નાચવા લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળમાં વરસાદનો 'મેસેજ' હોય, એટલે મોરનો 'ડાન્સ' શરૂ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મોરનો અવાજ 'ચિ-ચિ' જેવો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરનો અવાજ 'ટેહૂંક ટેહૂંક' હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિ-ચિ ચકલી કરે, મોર તો ટેહૂંક કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્રીકૃષ્ણના મુગટમાં મોરનું પીંછું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાનાની તો શાન જ છે મોરપીંછ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મોરના ગળાનો રંગ લાલ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરનું ગળું ભૂરા કે વાદળી રંગનું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરનું ગળું 'વાદળ' જેવું ભૂરા રંગનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મોર જ્યારે નાચે છે ત્યારે પીંછા ફેલાવીને કળા કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર + ડાન્સ = કળા (ગોળ ચક્ર જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મોર ખેડૂતોનો દુશ્મન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોર ખેડૂતોનો મિત્ર છે કારણ કે તે જીવજંતુ ખાઈ જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નુકસાન કરતા કીડા ખાય, એ ખેડૂતનો ભાઈ (મિત્ર) કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઢેલને પણ મોરની જેમ લાંબા અને રંગબેરંગી પીંછા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઢેલને મોર જેટલા લાંબા અને ચળકતા પીંછા હોતા નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુંદરતામાં મોર 'કિંગ' છે, ઢેલ સાદી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મોર સાપને મારી નાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર એ સાપનો શિકારી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ચોમાસામાં મોરનો ટહુકો વારંવાર સાંભળવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ + મોર = મ્યુઝિક (ટહુકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મોરના પીંછામાં નાના-નાના લાલ ટપકા હોય છે જેને ચાંદલિયા કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરના પીંછામાં ચમકતી આંખ જેવા આકારના ચાંદલિયા હોય છે જે વાદળી અને લીલા રંગના હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરપીંછની આંખ (ચાંદલિયા) હંમેશા રંગીન અને બ્લુ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મોર ખૂબ જ ભારે હોવાથી આકાશમાં ઊંચે સુધી ઉડી શકતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીંછાનો ભાર વધારે, એટલે ઉંચી ઉડાન ઓછી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મોર માત્ર વગડામાં જ જોવા મળે છે, ગામડામાં નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોર ખેતર, વગડા અને ગામડાની સીમમાં પણ જોવા મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર તો જ્યાં ઝાડ અને ખુલ્લી જગ્યા હોય ત્યાં બધે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મોરના ટહુકાને 'ક્રે-ક્રે' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરના ટહુકાને ટેહૂંક ટેહૂંક કહેવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરનો અવાજ 'ટેહૂંક' છે, કાગડાનો 'કા-કા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મોરના પગ સુંવાળા અને મુલાયમ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોરના પગ દેખાવમાં બેડોળ અને ખરબચડા હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર બધું જ સુંદર છે પણ એના પગ જોતા એને રડવું આવે એવા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાર્તિકેય ભગવાનનું વાહન મોર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણપતિદાદાના ભાઈ કાર્તિકેયની ગાડી = મોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મોરને 'મયૂર' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મયૂર એટલે જ મોર - આ એનું સંસ્કૃત જેવું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઢેલ મોર કરતા કદમાં નાની હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર મોટો અને રંગીલો, ઢેલ નાની અને સાદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મોર માંસાહારી પક્ષી પણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (તે સાપ અને જીવજંતુ ખાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર તો અનાજ પણ ખાય અને કીડા પણ - તે મિશ્રાહારી જેવો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મોર પોતાની પાંખોનો ઉપયોગ કરીને ખૂબ ઊંચા પહાડ પર માળો બાંધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોર માળો બાંધતો નથી, તે સામાન્ય રીતે જમીન પર કે નીચી જગ્યાએ ઈંડા મૂકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર તો જમીનનો રાજા છે, પહાડનો નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મોરના પીંછામાંથી પંખા અને સુશોભનની વસ્તુઓ બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સુંદર હોય એનાથી જ શણગાર થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સરસ્વતી માતાનું વાહન મોર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સરસ્વતી માતાનું વાહન હંસ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યાની દેવીનો હંસ, અને શક્તિશાળી સેનાપતિ કાર્તિકેયનો મોર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મોરના માથે કલગીની જગ્યાએ શિંગડા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પક્ષીઓને શિંગડા ન હોય, મોરને સુંદર કલગી હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિંગડા પ્રાણીને હોય, પક્ષીને તો કલગી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મોર રાત્રે ઝાડની ડાળી પર સૂઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર જમીન પર રહે પણ ઊંઘવા માટે સુરક્ષિત જગ્યા (ઝાડ) શોધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મોરના ઈંડા કાગડીના ઈંડા કરતા નાના હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોર મોટું પક્ષી હોવાથી તેના ઈંડા કાગડીના ઈંડા કરતા મોટા હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું પક્ષી = મોટા ઈંડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મોર વરસાદમાં ટહુકા કરીને આનંદ વ્યક્ત કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ અને મોર તો પાક્કા ભાઈબંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મોરને 'પક્ષીરાજ' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (તેની સુંદરતાને કારણે તેને પક્ષીઓનો રાજા માનવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના માથે કલગી (તાજ) હોય, એ જ રાજા (પક્ષીરાજ) કહેવાય!</p></div>"
+    }
+  ]
+}
