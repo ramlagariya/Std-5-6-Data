@@ -56,3 +56,61 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બે વરસાદ અને પાંચ પીપર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:\nવિભાગ 'અ': (1) આકાશ, (2) ધરતી, (3) પવન, (4) વરસાદ\nવિભાગ 'બ': (અ) મેઘરાજ, (બ) ગગન, (ક) પૃથ્વી, (ડ) વાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-ક), (3-ડ), (4-અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘આ-ગ’ (આકાશ-ગગન) અને ‘ધ-પૃ’ (ધરતી-પૃથ્વી) જોડી યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દોના અર્થ સાથે યોગ્ય રીતે જોડો:\nવિભાગ 'અ': (1) ઝરમર, (2) મુશળધાર, (3) વાદળ, (4) વીજળી\nવિભાગ 'બ': (અ) જોરદાર વરસાદ, (બ) ધીમો વરસાદ, (ક) દામિની, (ડ) મેઘ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-અ), (3-ડ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઝર’ એટલે ઝરણું જેમ ધીમું, ‘ધાર’ એટલે મોટી ધાર જેવો જોરદાર વરસાદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિરુદ્ધાર્થી શબ્દોના યોગ્ય જોડકાં બનાવો:\nવિભાગ 'અ': (1) અંધારું, (2) ભીનું, (3) આકાશ, (4) દોસ્ત\nવિભાગ 'બ': (અ) સૂકું, (બ) અજવાળું, (ક) દુશ્મન, (ડ) ધરતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-અ), (3-ડ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વરસાદ પડે તો ‘ભીનું’ અને તડકો હોય તો ‘સૂકું’!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પક્ષીઓના અવાજ/વિશેષતા સાથે જોડો:\nવિભાગ 'અ': (1) કોયલ, (2) મોર, (3) ચકલી, (4) કાગડો\nવિભાગ 'બ': (અ) ટેહૂંક ટેહૂંક, (બ) ટહુકો, (ક) કા કા, (ડ) ચીં ચીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-અ), (3-ડ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘કો-ટ’ (કોયલ-ટહુકો) અને ‘મો-ટે’ (મોર-ટેહૂંક) શબ્દોની જોડી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વસ્તુ અને તેના ગુણધર્મ સાથે જોડો:\nવિભાગ 'અ': (1) પીપરનું પાન, (2) વાદળ, (3) રસ્તો, (4) પવન\nવિભાગ 'બ': (અ) કાદવવાળો, (બ) ખળખળ, (ક) ઠંડો, (ડ) ગડગડાટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-ડ), (3-અ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘વાદળ-ગડગડાટ’ તો બધાને ખબર હોય, બાકીનું આપોઆપ સેટ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ સાથે જોડો:\nવિભાગ 'અ': (1) આકાશમાં થતો અવાજ, (2) આકાશમાં ચમકતી રેખા, (3) વરસાદનું પહેલું ટીપું, (4) પીપરના પાંચ ઝાડ\nવિભાગ 'બ': (અ) વીજળી, (બ) પંચપીપર, (ક) ગર્જના, (ડ) નેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-ડ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પાંચ પીપર’ એટલે ‘પંચપીપર’ - સંખ્યા યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ક્રમિક ઘટનાઓ સાથે જોડો:\nવિભાગ 'અ': (1) વાદળ ઘેરાયા, (2) વીજળી થઈ, (3) વરસાદ પડ્યો, (4) ધરતી મહેકી\nવિભાગ 'બ': (અ) ત્રીજું, (બ) બીજું, (ક) પહેલું, (ડ) ચોથું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-બ), (3-અ), (4-ડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા વાદળ આવે, પછી જ વીજળી અને વરસાદ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નામ અને તેના વર્ણન સાથે જોડો:\nવિભાગ 'અ': (1) કાળી, (2) લીલાં, (3) ઠંડો, (4) ચોખ્ખું\nવિભાગ 'બ': (અ) વાયરો, (બ) પાણી, (ક) વાદળી, (ડ) પાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘કાળી વાદળી’ અને ‘લીલાં પાન’ – આ તો કુદરતી રંગો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જોડણી સુધારણા/પ્રકાર સાથે જોડો:\nવિભાગ 'અ': (1) વરસાદ, (2) વીજળી, (3) પૃથ્વી, (4) ગગન\nવિભાગ 'બ': (અ) ર-કાર વાળો શબ્દ, (બ) સાદો શબ્દ, (ક) દીર્ઘઈ વાળો શબ્દ, (ડ) જોડાક્ષર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-ક), (3-ડ), (4-અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પૃથ્વી’ માં ‘થ’ અને ‘વ’ જોડાયેલા છે એટલે જોડાક્ષર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના પાત્રો/વસ્તુ અને તેમની ક્રિયા સાથે જોડો:\nવિભાગ 'અ': (1) દેડકા, (2) ખેડૂત, (3) પંચપીપર, (4) મોર\nવિભાગ 'બ': (અ) ખુશ થયા, (બ) નાચવા લાગ્યા, (ક) ડ્રાઉં ડ્રાઉં કરે, (ડ) છાંયો આપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-ડ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેડકાનો અવાજ ડ્રાઉં ડ્રાઉં યાદ રાખશો તો બાકીનું સહેલું બનશે!</p></div>"
+    }
+  ]
+}
