@@ -114,3 +114,61 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "જરા ઊભા રહેજો!",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' માં પંખીઓના નામ છે અને 'બ' માં તેમના અવાજ છે. યોગ્ય રીતે જોડો:\nઅ: (1) ચકલી, (2) કાગડો, (3) મોર, (4) કોયલ\nબ: (A) ટેહૂંક ટેહૂંક, (B) કુહૂ કુહૂ, (C) ચીં ચીં, (D) કા કા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખીના અવાજ તેની બોલી પરથી યાદ રાખવા, જેમ કે મોર એટલે ટેહૂંક અને ચકલી તો ચીં ચીં જ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાઠના આધારે વિશેષણ અને નામ (વિશેષ્ય) ને જોડો:\nઅ: (1) કૂણું, (2) ગળ્યું, (3) ધોળું, (4) ઊંચો\nબ: (A) પહાડ, (B) દૂધ, (C) ઘાસ, (D) મધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-B), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુનો ગુણધર્મ વિચારો - ઘાસ હંમેશા 'કૂણું' હોય અને મધ હંમેશા 'ગળ્યું' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દ અને તેના અર્થને યોગ્ય રીતે જોડો:\nઅ: (1) તરુવર, (2) પંખી, (3) સરિતા, (4) ગગન\nબ: (A) નદી, (B) આકાશ, (C) ઝાડ, (D) પક્ષી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરુ' એટલે ઝાડ અને 'સરિતા' એટલે જે સરસર વહે તે નદી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પ્રાણી અને તેની વિશેષતાને જોડો:\nઅ: (1) હાથી, (2) સસલું, (3) જીરાફ, (4) વાઘ\nબ: (A) લાંબી ડોક, (B) ટૂંકી પૂંછડી અને લાંબા કાન, (C) ભારે શરીર, (D) શરીર પર પટ્ટા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીના દેખાવ પરથી તેના જોડકાં સહેલાઈથી યાદ રહી જશે (જીરાફ = લાંબી ડોક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દોની યોગ્ય જોડ બનાવો:\nઅ: (1) દિવસ, (2) ઊંચું, (3) નાનું, (4) સવાર\nબ: (A) નીચું, (B) સાંજ, (C) રાત, (D) મોટું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-D), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો અર્થ સાવ ઉલટો થતો હોય તે વિરોધી શબ્દ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાઠમાં આવતા ક્રિયાપદ અને કર્તાને જોડો:\nઅ: (1) પંખી, (2) નદી, (3) પવન, (4) સુરજ\nબ: (A) વહે છે, (B) ઉડે છે, (C) ઉગે છે, (D) વાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણ કઈ ક્રિયા કરે છે તે યાદ રાખો. નદી વહે અને પંખી ઉડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પંખી અને તેમના રહેઠાણ (ઘર) ને જોડો:\nઅ: (1) માણસ, (2) પક્ષી, (3) ઉંદર, (4) ઘોડો\nબ: (A) માળો, (B) તબેલું, (C) ઘર, (D) દર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-D), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેકના ઘરના નામ અલગ હોય છે, જેમ કે ઘોડો તબેલામાં અને પક્ષી માળામાં રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દના જોડકાં જોડો:\nઅ: (1) આકાશમાં ઉડનાર, (2) રાત્રે દેખાતું પક્ષી, (3) રંગબેરંગી પીંછાવાળું પક્ષી, (4) મીઠું બોલનાર પક્ષી\nબ: (A) મોર, (B) કોયલ, (C) પંખી, (D) ઘુવડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓની ખાસિયત યાદ રાખો - રાત્રે જાગે તે ઘુવડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠના શીર્ષક અને પાત્રોના જોડાણ કરો:\nઅ: (1) ગજ્જુ, (2) ચકુ, (3) ટેહૂંક, (4) કુહૂ\nબ: (A) કોયલ, (B) મોર, (C) હાથી, (D) ચકલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-B), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજ્જુ હાથીનું લાડકું નામ છે અને ચકુ ચકલીનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વસ્તુ અને તેના સ્વાદના જોડકાં જોડો:\nઅ: (1) લીમડો, (2) મરચું, (3) મધ, (4) આમલી\nબ: (A) તીખું, (B) કડવો, (C) ખાટી, (D) ગળ્યું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદની ઓળખ જીભથી થાય - લીમડો કડવો અને આમલી ખાટી!</p></div>"
+    }
+  ]
+}
