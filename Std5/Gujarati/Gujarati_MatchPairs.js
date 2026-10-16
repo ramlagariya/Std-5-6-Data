@@ -172,3 +172,86 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "એકવાર હસીએ?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> 1. હાજરજવાબી <br> 2. મુસીબત <br> 3. યુક્તિ <br> 4. પારિતોષિક <br><br> વિભાગ 'બ': <br> (A) મુશ્કેલી <br> (B) ઇનામ <br> (C) ત્વરિત જવાબ આપનાર <br> (D) કરામત/યોજના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પારિતોષિક' માં 'ષિક' આવે અને 'ઇનામ' મળે ત્યારે ખુશી થાય. 'મુસીબત' એટલે જ 'મુશ્કેલી' - બંને 'મુ' થી શરૂ થાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાત્રો અને તેની ઓળખના જોડકાં જોડો: <br> 1. મુલ્લા નસીરુદ્દીન <br> 2. તેનાલી રામન <br> 3. બિરબલ <br> 4. અકબર <br><br> વિભાગ 'બ': <br> (A) દક્ષિણ ભારતના વિદ્વાન <br> (B) બાદશાહ <br> (C) ચતુર મંત્રી <br> (D) રમુજી અને બુદ્ધિશાળી પાત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D), 2 - (A), 3 - (C), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર હંમેશા 'બાદશાહ' જ હોય અને તેનાલી રામન 'દક્ષિણ' (South) ભારતના ફેમસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દ અને તેના અર્થના જોડકાં જોડો: <br> 1. આશ્ચર્ય <br> 2. મૂર્ખ <br> 3. હાજર <br> 4. ગાયબ <br><br> વિભાગ 'બ': <br> (A) અક્કલ વગરનું <br> (B) અચંબો <br> (C) અદ્રશ્ય <br> (D) ઉપસ્થિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાય નહીં તે 'ગાયબ' એટલે 'અદ્રશ્ય'. હાજર રહેવું એટલે સ્કૂલમાં 'ઉપસ્થિત' રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો: <br> 1. રસ્તો કાઢવો <br> 2. દંગ રહી જવું <br> 3. ભોંઠા પડવું <br> 4. રુઆબ છાંટવો <br><br> વિભાગ 'બ': <br> (A) શરમાઈ જવું <br> (B) ઉપાય શોધવો <br> (C) પ્રભાવ પાડવો <br> (D) નવાઈ પામવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલીમાં 'રસ્તો' એટલે કે 'ઉપાય' શોધવો પડે. જ્યારે 'દંગ' થઈએ ત્યારે 'નવાઈ' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો: <br> 1. હસવું <br> 2. સવાલ <br> 3. સાચું <br> 4. સમજદાર <br><br> વિભાગ 'બ': <br> (A) ખોટું <br> (B) રડવું <br> (C) નાસમજ <br> (D) જવાબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમજદાર' ની આગળ 'ના' લગાવો એટલે વિરોધી 'નાસમજ' બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાર્તાના સંદર્ભમાં જોડકાં જોડો: <br> 1. કુંભાર <br> 2. હજામ <br> 3. ચોર <br> 4. સિપાઈ <br><br> વિભાગ 'બ': <br> (A) જેલ <br> (B) ચાલાકી <br> (C) ગધેડો અને ઘડો <br> (D) અરીસો અને કાતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C), 2 - (D), 3 - (B), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુંભાર 'ઘડો' બનાવે અને હજામ 'કાતર' વાપરે - વ્યવસાય સાથે સાધન યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો: <br> 1. જેની બુદ્ધિ તેજ છે તે <br> 2. હસાવે તેવી વાતો <br> 3. રાજ્યની સભા <br> 4. રાજાનો મહેલ <br><br> વિભાગ 'બ': <br> (A) ટુચકા <br> (B) કુશાગ્રબુદ્ધિ <br> (C) રાજમહેલ <br> (D) દરબાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બુદ્ધિ' તો 'બુદ્ધિ' સાથે જ જોડાય (કુશાગ્રબુદ્ધિ). સભા એટલે દરબાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો (ભાગ-2): <br> 1. રાત <br> 2. દિવસ <br> 3. અંધારું <br> 4. અજવાળું <br><br> વિભાગ 'બ': <br> (A) દિન <br> (B) નિશા/રજની <br> (C) પ્રકાશ <br> (D) તિમિર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અજવાળું' એટલે 'પ્રકાશ' ફેલાવો. 'રાત' ને સંસ્કૃતમાં 'નિશા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જોડકાં જોડો - વાર્તાના સ્થળો: <br> 1. બજાર <br> 2. રસ્તો <br> 3. ઘર <br> 4. શાળા <br><br> વિભાગ 'બ': <br> (A) ભણતર <br> (B) ખરીદી <br> (C) મુસાફરી <br> (D) આરામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (C), 3 - (D), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજારમાં 'ખરીદી' થાય અને શાળામાં 'ભણવાનું' હોય. એકદમ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભાવ અને શબ્દના જોડકાં જોડો: <br> 1. હાસ્ય <br> 2. ગુસ્સો <br> 3. દયા <br> 4. બીક <br><br> વિભાગ 'બ': <br> (A) કરુણા <br> (B) ડર <br> (C) સ્મિત <br> (D) ક્રોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુસ્સો' આવે ત્યારે 'ક્રોધ' દેખાય. 'બીક' લાગે ત્યારે 'ડર' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વસ્તુ અને તેના ગુણધર્મ જોડો: <br> 1. ખાંડ <br> 2. મરચું <br> 3. કારેલું <br> 4. લીંબુ <br><br> વિભાગ 'બ': <br> (A) તીખું <br> (B) ગળ્યું <br> (C) ખાટું <br> (D) કડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના રમુજી પ્રસંગોમાં સ્વાદની વાત આવે ત્યારે યાદ રાખવું: ખાંડ = ગળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દોની જોડી બનાવો: <br> 1. આગળ <br> 2. ઉપર <br> 3. અંદર <br> 4. સવાર <br><br> વિભાગ 'બ': <br> (A) બહાર <br> (B) પાછળ <br> (C) સાંજ <br> (D) નીચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બધા સ્થાનદર્શક વિરોધી શબ્દો છે. ઉપરનું નીચે અને અંદરનું બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાર્તામાં આવતા સાધનો જોડો: <br> 1. ત્રાજવું <br> 2. લેખણ <br> 3. હળ <br> 4. સોય <br><br> વિભાગ 'બ': <br> (A) લખવા માટે <br> (B) તોલવા માટે <br> (C) સીવવા માટે <br> (D) ખેડવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાજવું = તોલવું. લેખણ એટલે લખવાની પેન. ખેડૂત હળ ચલાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠના શીર્ષક મુજબ જોડો: <br> 1. એકવાર <br> 2. જોક્સ <br> 3. હસવું <br> 4. ચતુરાઈ <br><br> વિભાગ 'બ': <br> (A) મનોરંજન <br> (B) હસીએ? <br> (C) ટુચકા <br> (D) બુદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B), 2 - (C), 3 - (A), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'એકવાર હસીએ?'. જોક્સ ને ગુજરાતીમાં ટુચકા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચતુર પાત્રોના વતન/સ્થળ જોડો: <br> 1. તેનાલી રામન <br> 2. બિરબલ <br> 3. મુલ્લા નસીરુદ્દીન <br> 4. બાદશાહ <br><br> વિભાગ 'બ': <br> (A) વિજયનગર <br> (B) દિલ્હી <br> (C) ઈરાન/તુર્કસ્તાન <br> (D) ફતેહપુર સિક્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A), 2 - (D), 3 - (C), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેનાલી રામન 'વિજયનગર' ના રાજા કૃષ્ણદેવરાયના દરબારી હતા. આ ખાસ યાદ રાખવું!</p></div>"
+    }
+  ]
+}
