@@ -363,3 +363,86 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "બોલ ને ભઈ, બોલ!",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' સામે વિભાગ 'બ' માંથી સાચા સમાનાર્થી શબ્દો જોડો:<br>1. અવાજ<br>2. ભય<br>3. આકાશ<br>4. સૂર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. અવાજ - નાદ <br>2. ભય - બીક <br>3. આકાશ - ગગન <br>4. સૂર્ય - રવિ/ભાસ્કર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ એટલે અવાજનો 'નાદ' અને આકાશમાં 'ગગન' વિહાર યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ના પક્ષીઓને તેમના 'અવાજ' (વિભાગ 'બ') સાથે જોડો:<br>1. ચકલી<br>2. મોર<br>3. કોયલ<br>4. કાગડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ચકલી - ચીં ચીં <br>2. મોર - ટેહૂંક ટેહૂંક <br>3. કોયલ - કુહૂ કુહૂ <br>4. કાગડો - કા કા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચકલીનો 'ચ' અને ચીં-ચીંનો 'ચ' - 'ચ-ચ' ની જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' સામે વિભાગ 'બ' માંથી વિરોધી શબ્દો શોધો:<br>1. શાંત<br>2. દિવસ<br>3. સાચું<br>4. મિત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. શાંત - અશાંત <br>2. દિવસ - રાત <br>3. સાચું - ખોટું <br>4. મિત્ર - શત્રુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતની આગળ 'અ' લગાડવાથી તેનું વિરોધી બની જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પ્રકરણમાં આવતા વિશિષ્ટ શબ્દોના અર્થ જોડો:<br>1. કલબલાટ<br>2. ગણગણાટ<br>3. ઘુઘવાટ<br>4. ટહુકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. કલબલાટ - પક્ષીઓનો સમૂહ અવાજ <br>2. ગણગણાટ - ધીમો અસ્પષ્ટ અવાજ <br>3. ઘુઘવાટ - સમુદ્રના મોજાનો અવાજ <br>4. ટહુકો - પક્ષીનો મધુર અવાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણગણાટ એટલે ગળામાં ધીમેથી બોલવું, અને ઘુઘવાટ તો હંમેશા દરિયાનો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ના પ્રાણીઓને તેમના રહેઠાણ (વિભાગ 'બ') સાથે જોડો:<br>1. ઉંદર<br>2. પક્ષી<br>3. વાઘ<br>4. ઘોડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઉંદર - દર <br>2. પક્ષી - માળો <br>3. વાઘ - બોડ/ગુફા <br>4. ઘોડો - તબેલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉં-દર ના નામમાં જ 'દર' આવેલું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાવ્ય પંક્તિના આધારે યોગ્ય જોડી બનાવો:<br>1. કોણ બોલે છે?<br>2. ક્યાં બોલે છે?<br>3. ક્યારે બોલે છે?<br>4. કેવી રીતે બોલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. કોણ બોલે - જીવજંતુઓ <br>2. ક્યાં બોલે - સીમ-વગડામાં <br>3. ક્યારે બોલે - સવાર-સાંજ <br>4. કેવી રીતે બોલે - મીઠા સૂરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં પક્ષીઓ હંમેશા 'સીમ-વગડા' અને 'મીઠા સૂર' સાથે જોડાયેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રૂઢિપ્રયોગો અને તેના અર્થ જોડો:<br>1. જીવ પરોવવો<br>2. દિલ જીતી લેવું<br>3. સ્તબ્ધ થઈ જવું<br>4. ભાન ભૂલવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. જીવ પરોવવો - એકચિત્ત થઈ જવું <br>2. દિલ જીતી લેવું - પ્રિય થઈ પડવું <br>3. સ્તબ્ધ થઈ જવું - આશ્ચર્યચકિત થઈ જવું <br>4. ભાન ભૂલવું - શુદ્ધિ ગુમાવવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્તબ્ધ' એટલે પથ્થર જેવું સ્થિર, એટલે કે 'આશ્ચર્ય' માં ગરકાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ જોડો:<br>1. આકાશમાં ફરનાર<br>2. રાત્રે ફરનાર<br>3. પાણીમાં રહેનાર<br>4. ઈંડા મૂકનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. આકાશમાં ફરનાર - નભોચર <br>2. રાત્રે ફરનાર - નિશાચર <br>3. પાણીમાં રહેનાર - જળચર <br>4. ઈંડા મૂકનાર - અંડજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચર' એટલે ફરનાર. નભ+ચર = આકાશમાં ફરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વસ્તુઓ અને તેની વિશેષતા જોડો:<br>1. મધ<br>2. મરચું<br>3. કારેલું<br>4. આમલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. મધ - ગળ્યું <br>2. મરચું - તીખું <br>3. કારેલું - કડવું <br>4. આમલી - ખાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક-કારેલું અને ક-કડવું. 'ક-ક' ની જોડી યાદ રાખવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિષયવસ્તુ મુજબ કર્તા અને ક્રિયા જોડો:<br>1. નદી<br>2. પવન<br>3. વાદળ<br>4. વીજળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. નદી - વહેવું <br>2. પવન - ફૂંકાવું <br>3. વાદળ - ગરજવું <br>4. વીજળી - ઝબૂકવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીજળી હંમેશા 'ઝબૂકે' અને વાદળ હંમેશા 'ગરજે'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રાણી અને તેના બચ્ચાંના નામ જોડો:<br>1. ગાય<br>2. ભેંસ<br>3. બકરી<br>4. ઘોડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ગાય - વાછરડું <br>2. ભેંસ - પાડું <br>3. બકરી - લવરું <br>4. ઘોડો - વછેરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય-વાછરડું અને ઘોડો-વછેરું માં કન્ફ્યુઝન ન થાય તેનું ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દોની સાચી જોડણીના અર્થભેદ જોડો:<br>1. દિન<br>2. દીન<br>3. પાણી<br>4. પાણિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. દિન - દિવસ <br>2. દીન - ગરીબ <br>3. પાણી - જળ <br>4. પાણિ - હાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દી' લાંબો (દીર્ઘ) હોય તો ગરીબ માણસ લાંબો સમય દુઃખી હોય એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાઠના શીર્ષક મુજબ શબ્દો જોડો:<br>1. બોલ<br>2. ભાઈ<br>3. બોલ ને<br>4. ભાઈ!",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. બોલ - વચન/શબ્દ <br>2. ભાઈ - વીરો/બંધુ <br>3. બોલ ને - વિનંતી <br>4. ભાઈ! - સંબોધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉદ્ગાર ચિહ્ન (!) આવે ત્યારે હંમેશા 'સંબોધન' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દના સ્ત્રીલિંગ-પુલ્લિંગ જોડાણ કરો:<br>1. ચકલો<br>2. કબૂતર<br>3. મોર<br>4. કૂકડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ચકલો - ચકલી <br>2. કબૂતર - કબૂતરી <br>3. મોર - ઢેલ <br>4. કૂકડો - મરઘી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર સામે 'મોરની' નહીં પણ 'ઢેલ' આવે, આ ખાસ યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કવિતામાં આવતી ક્રિયાઓ જોડો:<br>1. રમવું<br>2. ભમવું<br>3. જમવું<br>4. નમવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. રમવું - મેદાનમાં <br>2. ભમવું - સીમમાં <br>3. જમવું - પંગતમાં <br>4. નમવું - વડીલોને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બધા અનુપ્રાસ (Rhyming words) છે, જે કવિતાને મીઠી બનાવે છે.</p></div>"
+    }
+  ]
+}
