@@ -255,3 +255,111 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "મારે પણ પાંખો હોત!",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) ગગન <br> (2) ધરા <br> (3) વિહગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ગગન - આકાશ <br> (2) ધરા - પૃથ્વી/જમીન <br> (3) વિહગ - પક્ષી/પંખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ' પરથી ગગન અને 'આ' પરથી આકાશ - બંને ઉપર હોય! 'ધ' પરથી ધરા અને ધરતી - બંને નીચે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિરોધી શબ્દોના સાચા જોડકાં બનાવો: <br> (1) ઊંચે <br> (2) આકાશ <br> (3) સવાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ઊંચે - નીચે <br> (2) આકાશ - પાતાળ/ધરતી <br> (3) સવાર - સાંજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખી આકાશમાં ઊંચે ઉડે અને ચણવા નીચે આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પક્ષી અને તેના વિશિષ્ટ અંગોને જોડો: <br> (1) મોર <br> (2) પોપટ <br> (3) બગલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) મોર - કલગી <br> (2) પોપટ - કાંઠલો <br> (3) બગલો - લાંબી ડોક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર માથે મકુટ (કલગી) પહેરે, પોપટ ગળે માળા (કાંઠલો) પહેરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ અને તેના અર્થને જોડો: <br> (1) પાંખ <br> (2) ચાંચ <br> (3) પંજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પાંખ - ડેણ/પર <br> (2) ચાંચ - ચંચુ <br> (3) પંજો - પક્ષીનો પગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખથી 'પર'િંદા ઊડે અને ચાંચથી 'ચ'ણ ચણે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કુદરતી તત્વો અને તેની વિશેષતા જોડો: <br> (1) પર્વત <br> (2) નદી <br> (3) વાદળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પર્વત - ઊંચું શિખર <br> (2) નદી - ખળખળ વહેણ <br> (3) વાદળ - વરસે પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત અડગ રહે, નદી સતત વહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જોડકાં જોડો (વસ્તુ અને રંગ): <br> (1) આભ <br> (2) ખેતર <br> (3) સૂરજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) આભ - ભૂરું <br> (2) ખેતર - લીલુંછમ <br> (3) સૂરજ - સોનેરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આભ ભૂરા રંગનું, ખેતર ઘાસથી લીલું અને સૂરજ સોના જેવો પીળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિતાના ભાવ મુજબ જોડો: <br> (1) પાંખો હોત તો <br> (2) પહાડ હોત તો <br> (3) પંખી હોત તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પાંખો હોત તો - ઊડી શકત <br> (2) પહાડ હોત તો - અડગ ઉભત <br> (3) પંખી હોત તો - કલરવ કરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ = ઉડવું, પંખી = બોલવું (કલરવ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જોડકાં જોડો (ક્રિયા અને સાધન): <br> (1) ઉડવા માટે <br> (2) ચણવા માટે <br> (3) બેસવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ઉડવા માટે - પાંખો <br> (2) ચણવા માટે - ચાંચ <br> (3) બેસવા માટે - ડાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉડવા પાંખ જોઈએ અને ખાવા ચાંચ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાનાર્થી શબ્દો જોડો: <br> (1) પવન <br> (2) ઝાડ <br> (3) રસ્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પવન - વાયરો/અનિલ <br> (2) ઝાડ - વૃક્ષ/તરુ <br> (3) રસ્તો - પથ/માર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન 'વાય' એટલે વાયરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જોડકાં જોડો (સ્થળ અને પક્ષી): <br> (1) પાણીમાં <br> (2) આકાશમાં <br> (3) ઝાડ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પાણીમાં - બતક <br> (2) આકાશમાં - સમડી <br> (3) ઝાડ પર - ઘુવડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બતક તરે, સમડી ઊંચે ઉડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ જોડો: <br> (1) આકાશમાં ફરનાર <br> (2) રાત્રે દેખનાર પંખી <br> (3) મધુર અવાજ કરનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) આકાશમાં ફરનાર - નભચર <br> (2) રાત્રે દેખનાર પંખી - ઘુવડ <br> (3) મધુર અવાજ કરનાર - કોયલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નભ + ચર = આકાશમાં ચાલનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દો જોડો: <br> (1) અંધારું <br> (2) દૂર <br> (3) ખુશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) અંધારું - અજવાળું <br> (2) દૂર - નજીક <br> (3) ખુશ - નાખુશ/ઉદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરજ આવે તો અજવાળું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્રકરણ 5 ના શબ્દો અને અર્થ: <br> (1) કલરવ <br> (2) પાંખ <br> (3) નભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) કલરવ - પંખીઓનો અવાજ <br> (2) પાંખ - પક્ષીના ઉડવાનું અંગ <br> (3) નભ - આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલરવ એટલે કિલબિલાટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પક્ષી અને તેના રહેઠાણ: <br> (1) ચકલી <br> (2) ગરોળી (પાઠ સંદર્ભે) <br> (3) સિંહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) ચકલી - માળો <br> (2) ગરોળી - બખોલ/દીવાલ <br> (3) સિંહ - ગુફા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખી હમેશા માળામાં રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જોડકાં જોડો (નામ અને વિશેષણ): <br> (1) રુપાણી <br> (2) ઘટાદાર <br> (3) ઊંચો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) રુપાણી - પાંખ <br> (2) ઘટાદાર - ઝાડ <br> (3) ઊંચો - પહાડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ સુંદર હોય એટલે રુપાણી, ઝાડ ફેલાયેલું હોય એટલે ઘટાદાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિતાની પંક્તિઓ પૂર્ણ કરવા જોડો: <br> (1) પાંખો ફફડાવી <br> (2) આભમાં ઊંચે <br> (3) ધરતી પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પાંખો ફફડાવી - ઊડી જવું <br> (2) આભમાં ઊંચે - સહેલ કરવી <br> (3) ધરતી પર - ચણ ચણવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફફડાવવી એટલે ઉડવાની ક્રિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચો અર્થ શોધો: <br> (1) મન થાય <br> (2) લહેર કરવી <br> (3) ગબડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) મન થાય - ઈચ્છા થવી <br> (2) લહેર કરવી - મજા કરવી <br> (3) ગબડવું - નીચે પડવું/રગડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મન થાય એટલે દિલ કહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દના પ્રકાર જોડો: <br> (1) લાલ <br> (2) કબૂતર <br> (3) ઉડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) લાલ - વિશેષણ <br> (2) કબૂતર - સંજ્ઞા/નામ <br> (3) ઉડવું - ક્રિયાપદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કામ બતાવે તે ક્રિયા, જે નામ બતાવે તે સંજ્ઞા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જોડકાં જોડો (પક્ષી અને તેનો અવાજ): <br> (1) કાગડો <br> (2) ચકલી <br> (3) કબૂતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) કાગડો - કા કા <br> (2) ચકલી - ચીં ચીં <br> (3) કબૂતર - ઘૂ ઘૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગડો કાળા રંગનો ને કા કા બોલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠના શીર્ષક સાથે સંકળાયેલા શબ્દો: <br> (1) પાંખો <br> (2) આકાશ <br> (3) પર્વત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) પાંખો - ઉડવાની તમન્ના <br> (2) આકાશ - સફરનું સ્થળ <br> (3) પર્વત - ઊંચાઈનો અહેસાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠમાં કવિને પક્ષી બનીને ઉડવું છે!</p></div>"
+    }
+  ]
+}
