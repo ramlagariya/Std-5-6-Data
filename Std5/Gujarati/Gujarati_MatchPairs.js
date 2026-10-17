@@ -579,3 +579,86 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "મારે તો આખું આકાશ જોવું છે",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' સામે વિભાગ 'બ' માંથી સાચો સમાનાર્થી શબ્દ જોડો:<br>વિભાગ 'અ': (1) આકાશ, (2) પંખી<br>વિભાગ 'બ': (A) વિહંગ, (B) નભ, (C) ધરતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) આકાશ - નભ, (2) - (A) પંખી - વિહંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આકાશ' માં 'ન'ભ દેખાય અને 'પંખી' હવામાં 'વિ'હાર કરે એટલે 'વિ'હંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) હિંમત, (2) અજવાળું<br>વિભાગ 'બ': (A) અંધારું, (B) નાહિંમત, (C) પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) હિંમત - નાહિંમત, (2) - (A) અજવાળું - અંધારું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દની આગળ 'ના' લગાડવાથી વિરોધી બને (હિંમત-નાહિંમત) અને અજવાળું હોય ત્યાં અંધારું ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાત્ર અને તેમના કાર્યના આધારે જોડકાં જોડો:<br>વિભાગ 'અ': (1) ચકલી, (2) સૂરજ<br>વિભાગ 'બ': (A) આખું આકાશ જોવું, (B) વહેલી સવારે ઉગવું, (C) માળામાં સૂઈ જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ચકલી - આખું આકાશ જોવું, (2) - (B) સૂરજ - વહેલી સવારે ઉગવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ ચકલીની ઈચ્છા છે (આકાશ જોવું) અને સૂરજ દાદા તો સવારે જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ અને તેના અર્થના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ક્ષિતિજ, (2) પાંખ<br>વિભાગ 'બ': (A) ઉડવા માટેનું અંગ, (B) પૃથ્વી-આકાશ મળતા દેખાય તે રેખા, (C) પહાડની ટોચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ક્ષિતિજ - પૃથ્વી-આકાશ મળતા દેખાય તે રેખા, (2) - (A) પાંખ - ઉડવા માટેનું અંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્ષ' એટલે છેડો, જ્યાં ધરતી-આકાશનો છેડો ભેગો થાય તે ક્ષિતિજ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (વિશેષણ) ને વિભાગ 'બ' (વિશેષ્ય) સાથે જોડો:<br>વિભાગ 'અ': (1) વિશાળ, (2) નાની<br>વિભાગ 'બ': (A) ચકલી, (B) આકાશ, (C) નદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) વિશાળ આકાશ, (2) - (A) નાની ચકલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ હંમેશા મોટું (વિશાળ) હોય અને વાર્તામાં ચકલી નાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દોના યોગ્ય જોડકાં બનાવો:<br>વિભાગ 'અ': (1) ધરતી, (2) રસ્તો<br>વિભાગ 'બ': (A) માર્ગ, (B) પૃથ્વી, (C) પવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ધરતી - પૃથ્વી, (2) - (A) રસ્તો - માર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી આપણી માતા પૃથ્વી છે, અને ચાલવા માટે માર્ગ (રસ્તો) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પંખીના અંગ અને તેના કાર્યને જોડો:<br>વિભાગ 'અ': (1) ચાંચ, (2) આંખ<br>વિભાગ 'બ': (A) જોવાનું કામ, (B) ચણવાનું કામ, (C) સાંભળવાનું કામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ચાંચ - ચણવાનું કામ, (2) - (A) આંખ - જોવાનું કામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચ' થી ચાંચ અને 'ચ' થી ચણવું - યાદ રહી ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દો જોડો:<br>વિભાગ 'અ': (1) સાંજ, (2) ઊંચે<br>વિભાગ 'બ': (A) નીચે, (B) સવાર, (C) બપોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સાંજ - સવાર, (2) - (A) ઊંચે - નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે જાગીએ અને સાંજે ઊંઘીએ (વિરોધી). આકાશ ઊંચે, ધરતી નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થ જોડો:<br>વિભાગ 'અ': (1) ફાળ પડવી, (2) હિંમત હારવી<br>વિભાગ 'બ': (A) નિરાશ થવું, (B) ખૂબ ડર લાગવો, (C) આનંદિત થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ફાળ પડવી - ખૂબ ડર લાગવો, (2) - (A) હિંમત હારવી - નિરાશ થવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયમાં 'ફાળ' પડે એટલે ફટાકડો ફૂટ્યો હોય તેવો ડર લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ જોડો:<br>વિભાગ 'અ': (1) પક્ષીઓનું રહેઠાણ, (2) સૂર્ય ઉગવાની દિશા<br>વિભાગ 'બ': (A) પશ્ચિમ, (B) માળો, (C) પૂર્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પક્ષીઓનું રહેઠાણ - માળો, (2) - (C) સૂર્ય ઉગવાની દિશા - પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખીનો 'મ'ાઠો અને 'પૂ'રબમાં સૂરજ ઊગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પાત્ર અને તેમના સ્વભાવને જોડો:<br>વિભાગ 'અ': (1) નાની ચકલી, (2) બાજ (શિકારી પક્ષી)<br>વિભાગ 'બ': (A) ડરામણું, (B) જિજ્ઞાસુ, (C) શાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) નાની ચકલી - જિજ્ઞાસુ, (2) - (A) બાજ - ડરામણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચકલીને બધું જાણવું હતું એટલે તે જિજ્ઞાસુ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) પવન, (2) ઝાડ<br>વિભાગ 'બ': (A) વૃક્ષ, (B) વાયુ, (C) વેલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પવન - વાયુ, (2) - (A) ઝાડ - વૃક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ' થી વાયુ અને 'વ' થી વૃક્ષ - કુદરતના બે મિત્રો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્રિયા અને અંગના જોડકાં જોડો:<br>વિભાગ 'અ': (1) સાંભળવું, (2) ઉડવું<br>વિભાગ 'બ': (A) પાંખ, (B) કાન, (C) પગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સાંભળવું - કાન, (2) - (A) ઉડવું - પાંખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ હોય તો જ આકાશમાં ઉડાય, નહીંતર તો ચાલી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વાક્યના પ્રકારના આધારે જોડો:<br>વિભાગ 'અ': (1) તારું નામ શું છે?, (2) આકાશ કેટલું સુંદર છે!<br>વિભાગ 'બ': (A) ઉદ્ગાર વાક્ય, (B) પ્રશ્ન વાક્ય, (C) સાદું વાક્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પ્રશ્ન વાક્ય, (2) - (A) ઉદ્ગાર વાક્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછળ '?' હોય તો પ્રશ્ન અને '!' હોય તો ઉદ્ગાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દો જોડો:<br>વિભાગ 'અ': (1) અંદર, (2) સવાર<br>વિભાગ 'બ': (A) સાંજ, (B) બહાર, (C) બપોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) અંદર - બહાર, (2) - (A) સવાર - સાંજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માળાની 'અંદર' અથવા માળાની 'બહાર'!</p></div>"
+    }
+  ]
+}
