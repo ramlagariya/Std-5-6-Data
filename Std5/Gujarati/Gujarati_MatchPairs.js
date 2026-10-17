@@ -720,3 +720,86 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "રંગે જંગે કંગે",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) આંખ, (2) કાન, (3) નાક, (4) જીભ<br>વિભાગ 'બ': (અ) સાંભળવું, (બ) સ્વાદ પારખવો, (ક) જોવું, (ડ) સુંઘવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-ડ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરના અંગોના મુખ્ય કાર્યો યાદ રાખો: આંખ જુએ, કાન સાંભળે, નાક સુંઘે અને જીભ ચાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) આકાશ, (2) ધરતી, (3) વાદળ, (4) નદી<br>વિભાગ 'બ': (અ) વહેવું, (બ) ગરજવું, (ક) વિસ્તરવું, (ડ) લીલીછમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-બ), (4-અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી તત્વોની લાક્ષણિકતા જોડો: નદી વહે અને વાદળ ગરજે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) પંખી, (2) વન, (3) આભ, (4) જળ<br>વિભાગ 'બ': (અ) ગગન, (બ) પાણી, (ક) પક્ષી, (ડ) જંગલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખી એટલે પક્ષી અને જળ એટલે તો મમ્મી જે આપે તે પાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) આકાશ, (2) દિવસ, (3) સુખ, (4) સવાર<br>વિભાગ 'બ': (અ) રાત, (બ) પાતાળ, (ક) સાંજ, (ડ) દુઃખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-અ), (3-ડ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી એટલે ઉલટું: ઉપર આકાશ તો નીચે પાતાળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રાસ બેસતા શબ્દો (Rhyming Words) જોડો:<br>વિભાગ 'અ': (1) રંગે, (2) જંગે, (3) ગાઈએ, (4) રમીએ<br>વિભાગ 'બ': (અ) ભમીએ, (બ) ખાઈએ, (ક) સંગે, (ડ) ઉમંગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-બ), (4-અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દના છેડાના અક્ષર મેળવો: ગાઈએ-ખાઈએ, રમીએ-ભમીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કઈ ક્રિયા કયા સાધન વડે થાય તે જોડો:<br>વિભાગ 'અ': (1) વાળ ઓળવા, (2) નખ કાપવા, (3) લખવું, (4) જોવું<br>વિભાગ 'બ': (અ) નેઈલકટર, (બ) પેન, (ક) કાંસકો, (ડ) ચશ્મા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-બ), (4-ડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ જે કામમાં આવે તે તેની જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રંગ અને વસ્તુના જોડકાં જોડો:<br>વિભાગ 'અ': (1) દૂધ, (2) કાગડો, (3) પાંદડું, (4) ટામેટું<br>વિભાગ 'બ': (અ) લીલું, (બ) લાલ, (ક) સફેદ, (ડ) કાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો સાવ સહેલું છે! દૂધ ધોળું અને કાગડો કાળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પ્રાણી અને તેના અવાજ જોડો:<br>વિભાગ 'અ': (1) ચકલી, (2) કુતરો, (3) બિલાડી, (4) કાગડો<br>વિભાગ 'બ': (અ) મ્યાઉં મ્યાઉં, (બ) કા કા, (ક) ચીં ચીં, (ડ) હઉં હઉં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ કાઢી જુઓ, જવાબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ જોડો:<br>વિભાગ 'અ': (1) આકાશમાં ઉડનાર, (2) જેનો કોઈ છેડો નથી, (3) સૂર્ય ઉગે તે દિશા, (4) રાત્રે પ્રકાશ આપનાર<br>વિભાગ 'બ': (અ) અનંત, (બ) પંખી, (ક) ચંદ્ર, (ડ) પૂર્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-અ), (3-ડ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધ એટલે અડધું અને અનંત એટલે જેનો અંત નથી તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના આધારે ક્રિયાપદ જોડો:<br>વિભાગ 'અ': (1) ગીત, (2) રમત, (3) વાર્તા, (4) લેસન<br>વિભાગ 'બ': (અ) રમવી, (બ) કરવું, (ક) ગાવું, (ડ) વાંચવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-ડ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કામ કરો છો તે ક્રિયા પકડો: લેસન કરાય અને રમત રમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પક્ષી અને તેના રહેઠાણ જોડો:<br>વિભાગ 'અ': (1) ઉંદર, (2) પંખી, (3) સિંહ, (4) ઘોડો<br>વિભાગ 'બ': (અ) માળો, (બ) તબેલું, (ક) દર, (ડ) બોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-અ), (3-ડ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંદર દરમાં અને પંખી માળામાં - આ કવિતા યાદ છે ને?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કયા અંગથી શું કામ થાય? (ચોકસાઈ માટે):<br>વિભાગ 'અ': (1) પગ, (2) હાથ, (3) મોઢું, (4) માથું<br>વિભાગ 'બ': (અ) બોલવું, (બ) વિચારવું, (ક) ચાલવું, (ડ) પકડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગ ચાલે અને હાથ પકડે - બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દોની યોગ્ય જોડી બનાવો:<br>વિભાગ 'અ': (1) અંધારું, (2) ઠંડી, (3) ભૂખ, (4) તરસ<br>વિભાગ 'બ': (અ) પાણી, (બ) પ્રકાશ, (ક) ગરમી, (ડ) ખોરાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-ક), (3-ડ), (4-અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત મુજબ જોડો: તરસ લાગે તો પાણી અને ભૂખ લાગે તો ખોરાક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઋતુ અને તેના અનુભવ જોડો:<br>વિભાગ 'અ': (1) શિયાળો, (2) ઉનાળો, (3) ચોમાસું, (4) વસંત<br>વિભાગ 'બ': (અ) વરસાદ, (બ) ઠંડી, (ક) ફૂલો ખીલવા, (ડ) ગરમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-બ), (2-ડ), (3-અ), (4-ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોમાસું = છત્રી (વરસાદ) અને શિયાળો = સ્વેટર (ઠંડી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રમત અને સાધન જોડો:<br>વિભાગ 'અ': (1) ક્રિકેટ, (2) ફૂટબોલ, (3) પતંગ, (4) કેરમ<br>વિભાગ 'બ': (અ) ફિરકી, (બ) સ્ટ્રાઈકર, (ક) બેટ-દડો, (ડ) મોટો દડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ક), (2-ડ), (3-અ), (4-બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારી ફેવરિટ ગેમ યાદ કરો, સાધન આપોઆપ મળી જશે!</p></div>"
+    }
+  ]
+}
