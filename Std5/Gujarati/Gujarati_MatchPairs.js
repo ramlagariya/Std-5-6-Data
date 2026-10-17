@@ -446,3 +446,136 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ટામેટાંની દડી, રમે દાદા-દાદી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ગિલ્લી-દંડા, (2) ક્રિકેટ \nવિભાગ B: (અ) બેટ-દડો, (બ) લાકડી-મોઇ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિલ્લી એટલે નાની લાકડી (મોઇ) અને દંડા એટલે મોટી લાકડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાત્ર અને તેની લાક્ષણિકતા જોડો: \nવિભાગ A: (1) કૃષ્ણ, (2) કાલિય નાગ \nવિભાગ B: (અ) ઝેરી ફેણ વાળો, (બ) દડો લેવા નદીમાં પડનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ સાહસિક હતા એટલે નદીમાં કૂદ્યા, નાગ ઝેરી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દ અને અર્થ જોડો: \nવિભાગ A: (1) ધરાધર, (2) નિશ્ચિત \nવિભાગ B: (અ) નક્કી, (બ) અવાજ સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશ્ચિત એટલે 'ફિક્સ' - ગુજરાતીમાં 'નક્કી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) યમુના, (2) ગોકુળ \nવિભાગ B: (અ) ગામ, (બ) નદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યમુના મૈયા 'નદી' છે અને ગોકુળ 'ગામ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરુદ્ધાર્થી શબ્દો જોડો: \nવિભાગ A: (1) ઝેરી, (2) મિત્ર \nવિભાગ B: (અ) દુશ્મન, (બ) અમૃત જેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝેરની સામે અમૃત અને મિત્રની સામે દુશ્મન (શત્રુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રમત અને સાધન જોડો: \nવિભાગ A: (1) કેરમ, (2) પકડદાવ \nવિભાગ B: (અ) કોઈ સાધન નહીં, (બ) કુકરીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરમમાં કુકરી હોય, પકડદાવ તો દોડીને રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ક્રિયા અને અંગ જોડો: \nવિભાગ A: (1) લંગડી, (2) લખોટી \nવિભાગ B: (અ) આંગળી, (બ) પગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંગડી 'પગ'થી લેવાય અને લખોટી 'આંગળી'થી ફેંકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાવ્ય પંક્તિના શબ્દો જોડો: \nવિભાગ A: (1) હુતુતુતુ, (2) ટામેટાંની \nવિભાગ B: (અ) દડી, (બ) કબડ્ડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'ટામેટાંની દડી' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ: \nવિભાગ A: (1) ગાયો ચરાવનાર, (2) સાપનું ઝેર \nવિભાગ B: (અ) ગરલ, (બ) ગોવાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયો - ગોવાળ, ઝેર - ગરલ (સમાનાર્થી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થળ અને ઘટના જોડો: \nવિભાગ A: (1) ધરો, (2) નદી કિનારો \nવિભાગ B: (અ) દડો રમતા હતા, (બ) કાલિય નાગ રહેતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડા પાણી (ધરો) માં નાગ હોય, કિનારે રમત રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સંબંધ જોડો: \nવિભાગ A: (1) નાગણ, (2) બલરામ \nવિભાગ B: (અ) કૃષ્ણના ભાઈ, (બ) કાલિયની પત્ની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગની પત્ની નાગણ, બલરામ મોટા ભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) સતોડિયું, (2) સંતાકૂકડી \nવિભાગ B: (અ) થપ્પો કરવો, (બ) નળિયાના ટુકડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત નળિયા એટલે સતોડિયું, સંતાય એટલે થપ્પો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દ અને તેના સમાનાર્થી: \nવિભાગ A: (1) જળ, (2) આકાશ \nવિભાગ B: (અ) નભ, (બ) પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ જ જીવન (પાણી), આકાશ એટલે નભ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) દડો, (2) ભમરડો \nવિભાગ B: (અ) દોરી, (બ) બેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભમરડો ફેરવવા દોરી જોઈએ, દડો મારવા બેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિશેષણ જોડો: \nવિભાગ A: (1) કાળો, (2) લાલ \nવિભાગ B: (અ) ટામેટું, (બ) કાલિય નાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગ કાળો હોય અને ટામેટું લાલ ચટાક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રમતની ખાસિયત જોડો: \nવિભાગ A: (1) આંધળોપાટો, (2) ખો-ખો \nવિભાગ B: (અ) મેદાનમાં બેસીને, (બ) આંખે પાટા બાંધીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે - 'આંધળો' એટલે આંખે પાટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દની જોડ જોડો: \nવિભાગ A: (1) દોડા-દોડી, (2) રમત-ગમત \nવિભાગ B: (અ) હાર-જીત, (બ) પકડા-પકડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાસ બેસાડો - દોડા-દોડી અને પકડા-પકડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વસ્તુના ઉપયોગ જોડો: \nવિભાગ A: (1) ગિલ્લી, (2) મેદાન \nવિભાગ B: (અ) રમવા માટે, (બ) ઉછાળવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિલ્લીને દંડાથી ઉછાળાય, મેદાનમાં રમત રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અવાજ ઓળખો: \nવિભાગ A: (1) નદીનું પાણી, (2) પવન \nવિભાગ B: (અ) સુસવાટા, (બ) ખળખળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હંમેશા 'ખળખળ' વહે અને પવન 'સુસવાટા' મારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાત્રના ગુણ જોડો: \nવિભાગ A: (1) શ્રીકૃષ્ણ, (2) ગોપીઓ \nવિભાગ B: (અ) ગભરાઈ ગયેલી, (બ) નીડર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાનુડો નીડર હતો એટલે જ ઝેરી ધરામાં પડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) ચેસ, (2) ફૂટબોલ \nવિભાગ B: (અ) પગથી રમવાની રમત, (બ) મગજની રમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફૂટ' એટલે પગ, તેથી ફૂટબોલ પગની રમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દ અને અર્થ: \nવિભાગ A: (1) દડી, (2) દડો \nવિભાગ B: (અ) મોટો બોલ, (બ) નાનો બોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં 'ઈ' પ્રત્યય નાનપણ (નાનું) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) નાગદમન, (2) ટામેટાં \nવિભાગ B: (અ) લાલ ચટાક, (બ) કૃષ્ણની લીલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગને દમ્યો તે નાગદમન, ટામેટાં લાલ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિરુદ્ધાર્થી: \nવિભાગ A: (1) ઊંડું, (2) અંદર \nવિભાગ B: (અ) બહાર, (બ) છીછરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઊંડું નથી તે છીછરું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) દાદા, (2) દાદી \nવિભાગ B: (અ) સતોડિયું રમતા, (બ) માર્કદડી રમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ દાદા માર્કદડીમાં હોશિયાર હતા.</p></div>"
+    }
+  ]
+}
