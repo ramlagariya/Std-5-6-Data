@@ -662,3 +662,61 @@ var Std5_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "રંગબેરંગી મશાલીયું",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' (મસાલા) ને વિભાગ 'બ' (રંગ) સાથે યોગ્ય રીતે જોડો:<br>1. હળદર - ( )<br>2. મરચું - ( )<br>3. મીઠું - ( )<br>4. કોથમીર - ( )<br><br>વિભાગ 'બ':<br>અ. સફેદ<br>બ. લીલી<br>ક. લાલ<br>ડ. પીળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ડ (હળદર - પીળી)<br>2 - ક (મરચું - લાલ)<br>3 - અ (મીઠું - સફેદ)<br>4 - બ (કોથમીર - લીલી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મસાલાના કુદરતી રંગ યાદ રાખો, રસોડામાં મમ્મી જે વાપરે તે જ ક્રમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કવિતા 'ફોટો પાડું' ના આધારે વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. મમ્મી તારો - ( )<br>2. મલક મલક - ( )<br>3. આંખ બંધ - ( )<br>4. મમ્મી તું તો - ( )<br><br>વિભાગ 'બ':<br>અ. થાય તું થોડું<br>બ. ફૂલ જેવી<br>ક. ફોટો પાડું<br>ડ. હોય તો ઊંઘતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ક (મમ્મી તારો - ફોટો પાડું)<br>2 - અ (મલક મલક - થાય તું થોડું)<br>3 - ડ (આંખ બંધ - હોય તો ઊંઘતી)<br>4 - બ (મમ્મી તું તો - ફૂલ જેવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફોટો પાડું' કવિતાની પંક્તિઓ લયમાં યાદ રાખવાથી જોડકાં સહેલાં બનશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (વસ્તુ) ને વિભાગ 'બ' (સ્વાદ) સાથે જોડો:<br>1. લીંબુ - ( )<br>2. મરચું - ( )<br>3. ખાંડ - ( )<br>4. કારેલું - ( )<br><br>વિભાગ 'બ':<br>અ. ગળી<br>બ. કડવું<br>ક. ખાટું<br>ડ. તીખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ક (લીંબુ - ખાટું)<br>2 - ડ (મરચું - તીખું)<br>3 - અ (ખાંડ - ગળી)<br>4 - બ (કારેલું - કડવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભના ટેરવે જે સ્વાદ લાગે તે મુજબ જોડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ અને તેના અર્થના સાચા જોડકાં જોડો:<br>1. ગરબો - ( )<br>2. મસાલીયું - ( )<br>3. સુરવાળ - ( )<br>4. કંદ - ( )<br><br>વિભાગ 'બ':<br>અ. મસાલા રાખવાનું સાધન<br>બ. જમીનની અંદર થતું મૂળ<br>ક. પાયજામો<br>ડ. કાણાવાળો માટીનો ઘડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ડ (ગરબો - કાણાવાળો માટીનો ઘડો)<br>2 - અ (મસાલીયું - મસાલા રાખવાનું સાધન)<br>3 - ક (સુરવાળ - પાયજામો)<br>4 - બ (કંદ - જમીનની અંદર થતું મૂળ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરવાળ' એટલે પહેરવેશ અને 'કંદ' એટલે બટાકા-શક્કરિયા જેવા મૂળ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (રસોઈની ક્રિયા) ને વિભાગ 'બ' (સાધન) સાથે જોડો:<br>1. પૂરી વણવી - ( )<br>2. શાક સુધારવું - ( )<br>3. ખીચડી રાંધવી - ( )<br>4. ચા ગાળવી - ( )<br><br>વિભાગ 'બ':<br>અ. કુકર<br>બ. ગળણી<br>ક. વેલણ<br>ડ. ચપ્પુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ક (પૂરી વણવી - વેલણ)<br>2 - ડ (શાક સુધારવું - ચપ્પુ)<br>3 - અ (ખીચડી રાંધવી - કુકર)<br>4 - બ (ચા ગાળવી - ગળણી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડામાં કઈ વસ્તુથી કયું કામ થાય તે વિચારો, જવાબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' (વિરોધી શબ્દ) સાથે જોડો:<br>1. ઊંઘવું - ( )<br>2. હસવું - ( )<br>3. ખોલવું - ( )<br>4. અંદર - ( )<br><br>વિભાગ 'બ':<br>અ. બહાર<br>બ. જાગવું<br>ક. રડવું<br>ડ. બંધ કરવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - બ (ઊંઘવું - જાગવું)<br>2 - ક (હસવું - રડવું)<br>3 - ડ (ખોલવું - બંધ કરવું)<br>4 - અ (અંદર - બહાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉલટો અર્થ એટલે વિરોધી, જે રોજબરોજ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિતાની અધૂરી પંક્તિઓ જોડો:<br>1. પપ્પા સાથે - ( )<br>2. મમ્મી તારો - ( )<br>3. પવન જેવી - ( )<br>4. ફૂલ જેવી - ( )<br><br>વિભાગ 'બ':<br>અ. ફોટો પાડું<br>બ. બેસ મમ્મી<br>ક. મહેકતી તું<br>ડ. ઊડી જતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - બ (પપ્પા સાથે - બેસ મમ્મી)<br>2 - અ (મમ્મી તારો - ફોટો પાડું)<br>3 - ડ (પવન જેવી - ઊડી જતી)<br>4 - ક (ફૂલ જેવી - મહેકતી તું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિમાં છેલ્લો અક્ષર પ્રાસ (rhyming) બેસે છે કે નહીં તે તપાસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (ક્રિયાપદ) ને વિભાગ 'બ' (કર્મ) સાથે જોડો:<br>1. મસાલા - ( )<br>2. ફોટો - ( )<br>3. રસોઈ - ( )<br>4. ગરબો - ( )<br><br>વિભાગ 'બ':<br>અ. રાંધવી<br>બ. ગાવો<br>ક. છાંટવા<br>ડ. પાડવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - ક (મસાલા - છાંટવા)<br>2 - ડ (ફોટો - પાડવો)<br>3 - અ (રસોઈ - રાંધવી)<br>4 - બ (ગરબો - ગાવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કયા કામ માટે કયો ક્રિયાપદ વપરાય તે ધ્યાન રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મસાલાના ગુણધર્મ આધારે જોડો:<br>1. હિંગ - ( )<br>2. રાઈ - ( )<br>3. મેથી - ( )<br>4. આદુ - ( )<br><br>વિભાગ 'બ':<br>અ. વઘારમાં વપરાય<br>બ. પાચન માટે ઉત્તમ<br>ક. શરદીમાં ગુણકારી<br>ડ. કડવી પણ આરોગ્યપ્રદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - બ (હિંગ - પાચન માટે ઉત્તમ)<br>2 - અ (રાઈ - વઘારમાં વપરાય)<br>3 - ડ (મેથી - કડવી પણ આરોગ્યપ્રદ)<br>4 - ક (આદુ - શરદીમાં ગુણકારી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરેલુ નુસખા અને રસોડાની વાતો યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્યાયવાચી શબ્દો જોડો (સમાનાર્થી):<br>1. મા - ( )<br>2. નેત્ર - ( )<br>3. કુસુમ - ( )<br>4. વાયુ - ( )<br><br>વિભાગ 'બ':<br>અ. ફૂલ<br>બ. જનની<br>ક. પવન<br>ડ. આંખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - બ (મા - જનની)<br>2 - ડ (ネત્ર - આંખ)<br>3 - અ (કુસુમ - ફૂલ)<br>4 - ક (વાયુ - પવન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં વપરાતા ભારે શબ્દોના સાદા અર્થ યાદ રાખો.</p></div>"
+    }
+  ]
+}
