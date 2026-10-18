@@ -705,3 +705,161 @@ var Std5_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ખોલ ગજવું, પાટી ઠોક",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગજવાને કોની સાથે દોસ્તી કરવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવાને નીરજભાઈના નવા કોટ સાથે દોસ્તી કરવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજવું હંમેશા કોટ ઉપર જ બેસે એટલે 'નવો કોટ' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગજવું કેવું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું એકદમ નવું-નકોર, ઉજળું અને સફેદ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નવું-નકોર' શબ્દ ગજવા માટે ખાસ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગજવું કેમ રડવા લાગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુશકોટભાઈએ ગજવાને ગંદુ અને ગંધારું કહી કાઢી મૂક્યું એટલે તે રડવા લાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ ખીજાય એટલે રડવું આવે, તેમ અહીં બુશકોટે ખીજાયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગજવાના આંસુથી શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવાના આંસુથી ખાબોચિયું ભરાઈ ગયું અને ગજવું તેમાં પલળીને સાફ થઈ ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંસુ = પાણી = ખાબોચિયું = સફાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગજવાને કોણે સૂકવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાએ પોતાના ગરમાગરમ તડકાથી ગજવાને સૂકવી દીધું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડાં કોણ સૂકવે? સુરજદાદા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સુરજદાદાને જોઈને ગજવું કેમ ડરી ગયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાની લાંબી લાંબી મૂછો અને તેમનો તાપ જોઈને ગજવું ડરી ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરજની મોટી મૂછો એટલે સૂર્યના લાંબા કિરણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગજવું કોની પાસે ફરિયાદ લઈને ગયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું ધોબીભાઈ પાસે તેની કરચલીઓ દૂર કરવાની ફરિયાદ લઈને ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરચલી કાઢવાનું કામ માત્ર ધોબી જ કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ધોબીભાઈએ ગજવાને સીધું કરવા શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધોબીભાઈએ ગજવા ઉપર ગરમ ઈસ્ત્રી ફેરવી દીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ ઈસ્ત્રી = સીધું કપડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દરજીભાઈનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરજીભાઈનું નામ 'નીરજભાઈ' ના શર્ટ સીવનાર અફઝલભાઈ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજી = અફઝલ ચાચા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગજવું છેવટે ક્યાં બેઠું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું છેવટે નીરજભાઈના નવા બુશકોટ પર બેસી ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાના અંતે ગજવું પોતાના 'ઘર' એટલે કે શર્ટ પર પહોંચી ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગજવાને કોણે 'મામા' કહીને બોલાવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવાએ સુરજદાદાને 'સુરજમામા' કહીને બોલાવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે સુરજદાદા કહીએ, ગજવે 'મામા' કહ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બુશકોટભાઈએ ગજવાને શું કહીને કાઢી મૂક્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુશકોટભાઈએ કહ્યું, 'તું ગંદુ અને ગંધારું છે, ખસ અહીંથી!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ ગજવું કોઈને ન ગમે, એટલે બુશકોટ ખીજાયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગજવું કેમ હરખાઈ ગયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાએ તેના માથે હાથ ફેરવ્યો અને વહાલ કર્યું એટલે ગજવું હરખાઈ ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહાલ અને સાંત્વના મળે એટલે આનંદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરજીભાઈ પાસે પહોંચતા પહેલા ગજવું કેવું દેખાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું એકદમ કડકડિત અને ફક્કડ દેખાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ત્રી પછી કપડું 'કડકડિત' થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગજવાને સૌથી પહેલા કોણે મદદ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવાને સૌથી પહેલા પોતાના જ આંસુએ (પાણીએ) ધોઈને સાફ કરવામાં મદદ કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા સફાઈ થઈ, પછી સુકવણી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીરજભાઈના શર્ટનું કાપડ કેવું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીરજભાઈના શર્ટનું કાપડ નવું, પોચું અને સફેદ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું કપડું હંમેશા પોચું અને આકર્ષક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'શેરને માથે સવા શેર' વાર્તામાં બકરીના બચ્ચાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાર્તામાં બકરીના બચ્ચાનું નામ 'ચોખ્ખું' આપેલ નથી, પરંતુ તેને 'બકરું' કે 'લવારું' કહેવાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંવાદોમાં બકરીના બચ્ચાને 'બેં-બેં' કરતા પાત્ર તરીકે ઓળખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગજવું ધોબીની દુકાને કેમ ગયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોતાની કરચલીઓ દૂર કરી ઇસ્ત્રી કરાવવા ગજવું ધોબીની દુકાને ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોબી = ઇસ્ત્રી + કરચલી દૂર કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગજવું કેમ કૂદકા મારવા લાગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાએ તેને વહાલથી સૂકવી દીધું અને તેની બીક દૂર થઈ એટલે તે કૂદકા મારવા લાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુશીમાં ગજવું નાચી ઉઠ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અફઝલભાઈએ ગજવાને ક્યાં ચોંટાડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફઝલભાઈએ ગજવાને નીરજભાઈના નવા બુશકોટ પર સંચો ચલાવીને ચોંટાડ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંચો + સોય + દોરો = દરજીનું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખોલ ગજવું, પાટી ઠોક પાઠમાં મુખ્ય પાત્ર કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠમાં મુખ્ય પાત્ર એક નાનકડું અને હિંમતવાન 'ગજવું' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી વાર્તા ગજવા (ખિસ્સા) ની આસપાસ ફરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગજવું રડતા રડતા ક્યાં જઈને બેઠું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું રડતા રડતા એક મોટા ખાબોચિયા પાસે જઈને બેઠું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રડવાથી ખાબોચિયું ભરાયું, એટલે ત્યાં જ બેઠું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સુરજદાદાએ ગજવાને શું કહીને બોલાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાએ વહાલથી 'એય બચુડા!' કહીને ગજવાને બોલાવ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલો નાનાને 'બચુડા' કહે, તેમ સુરજદાદાએ કહ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગજવા પર કરચલીઓ કેમ પડી ગઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું ખાબોચિયાના પાણીમાં પલળી ગયું હતું અને સુકાઈ ગયા પછી તેના પર કરચલીઓ પડી ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલળેલું કપડું સુકાય એટલે કરચલી પડે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીરજભાઈ નવો બુશકોટ ક્યારે પહેરવાના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીરજભાઈ નવો બુશકોટ કોઈ ખાસ પ્રસંગે કે ફરવા જવા માટે પહેરવાના હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવો કોટ = ફરવા જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ધોબીભાઈ શું કરતા હતા જ્યારે ગજવું તેમની પાસે ગયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધોબીભાઈ તેમની દુકાનમાં કપડાં પર ઇસ્ત્રી કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોબીની દુકાને હંમેશા ઈસ્ત્રી જ થતી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગજવું અફઝલભાઈ પાસે જઈને શું બોલ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજવું બોલ્યું, 'અફઝલભાઈ, મને નીરજભાઈના નવા બુશકોટ પર બેસાડો ને!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજવાને શર્ટ પર 'બેસવું' હતું એટલે કે સીવડાવવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગજવાએ રડવાનું કેમ બંધ કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજદાદાના વહાલ અને મદદના આશ્વાસનથી ગજવાએ રડવાનું બંધ કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મદદ મળે એટલે દુઃખ દૂર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાઠના શીર્ષકમાં 'પાટી ઠોક' નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'પાટી ઠોક' એટલે ખૂબ મહેનત કરવી અથવા ભણવામાં મન પરોવવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટી એટલે સ્લેટ, સ્લેટ પર લખવું એટલે મહેનત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બુશકોટભાઈએ ગજવાને જોઈને કેવું મોઢું બનાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુશકોટભાઈએ ગજવાને જોઈને મોઢું બગાડ્યું (ચીતરી ચઢી હોય તેમ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદી વસ્તુ જોઈને બધા મોઢું બગાડે.</p></div>"
+    }
+  ]
+}
