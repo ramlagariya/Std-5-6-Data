@@ -1071,3 +1071,111 @@ var Std5_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ખોટું કહેવાય",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટપ્પુ નામનો કાચબો ક્યાં રહેતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટપ્પુ નામનો કાચબો એક સુંદર તળાવમાં રહેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ = ટપ્પુનું ઘર (ટ-ત જોડી યાદ રાખો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટપ્પુ કાચબાની કઈ ટેવ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટપ્પુ કાચબાને આખો દિવસ લપલપ (વાતો) કરવાની ટેવ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લપલપિયો ટપ્પુ (વધારે બોલે તે લપલપિયો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાચબાના મિત્રો કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાચબાના મિત્રો બે હંસો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંસ અને કાચબાની પાકી દોસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હંસોએ કાચબાને આકાશમાં ઉડાડવા માટે કઈ યુક્તિ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસોએ લાકડીના બંને છેડા પકડ્યા અને કાચબાને વચ્ચેથી પકડવાનું કહ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડી = કાચબાનું વિમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હંસોએ ઉડતા પહેલા કાચબાને કઈ શરત આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસોએ શરત આપી હતી કે ઉડતી વખતે કાચબાએ બિલકુલ બોલવું નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢું બંધ, આકાશમાં સફર શરૂ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આકાશમાં ઉડતા કાચબાને જોવા કોણ ભેગું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાશમાં ઉડતા કાચબાને જોવા માટે બધા ગામના લોકો ભેગા થયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચરજ જોવા લોકો ઉમટી પડ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લોકોને જોઈને ટપ્પુ શું ભૂલી ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકોને જોઈને ટપ્પુ હંસોએ આપેલી 'ચૂપ રહેવાની' શરત ભૂલી ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજી થઈને ટપ્પુ બોલી ગયો, શરત તોડી દીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાચબો જેવો 'ટા-ટા' બોલવા ગયો કે તરત શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેવો ટપ્પુ 'ટા-ટા' બોલવા ગયો કે તરત તેના મોઢામાંથી લાકડી છૂટી ગઈ અને તે નીચે પડ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોલ્યા કે પડ્યા! (ટપ્પુ નીચે આવ્યો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાંદરાના પરિવારના સરદારનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંદરાના પરિવારના સરદારનું નામ 'મહાબલી' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો વાંદરો = મહાબલી</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જગ્ગુએ તળાવના પાણીમાં શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જગ્ગુએ તળાવના શાંત પાણીમાં આકાશમાંના ચાંદાનું પ્રતિબિંબ જોયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રૂપાળો ચાંદો (પ્રતિબિંબ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બચ્ચાંને તળાવમાં દેખાતો ચાંદો શું લાગતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચ્ચાંને તળાવમાં દેખાતો ચાંદો કોઈ સોનેરી ફળ જેવો લાગતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાંદો = પીળું ફળ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચાંદાને પકડવા માટે ચિમ્પુએ કઈ યુક્તિ બતાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિમ્પુએ એકબીજાની પૂંછડી પકડીને લટકવાની યુક્તિ બતાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડીની સાંકળ (Chain system)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સૌથી ઉપર કયો વાંદરો લટક્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌથી ઉપર ઝાડની ડાળી પકડીને જગ્ગુ લટક્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગ્ગુ Main Holder!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાણીમાં જેવો જગ્ગુએ હાથ નાખ્યો કે તરત શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેવો જગ્ગુએ પાણીમાં હાથ નાખ્યો કે ચાંદો કાચની બંગડીની જેમ વિખરાઈ ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હલ્યું, ચાંદો ભલ્યો (વિખરાયો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બધા વાંદરાઓ પાણીમાં કેવી રીતે પડી ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જગ્ગુની પકડ ડાળી પરથી છૂટી ગઈ, તેથી બધા જ વાંદરાઓ ધબાક દઈને પાણીમાં પડ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઈન વાંદરો છૂટ્યો, આખી ટોળી ડૂબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહાબલીએ વાંદરાના બચ્ચાંને શું સમજાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાબલીએ સમજાવ્યું કે એ તો ચાંદાનું પ્રતિબિંબ છે, અસલ ચાંદો તો આકાશમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ચાંદો, પાણીમાં ફોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'લપલપિયો' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લપલપિયો એટલે જે બહુ વધારે વાતો કરતું હોય તેવું (વાતોડિયો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢું સતત ચાલુ રહે તે લપલપિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ટપ્પુ કાચબો નીચે પડતા કેમ બચી ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટપ્પુએ પેરાશૂટ પહેર્યું હતું, તેથી સ્વીચ દબાવીને તે બચી ગયો (નવી વાર્તા મુજબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક કાચબો = પેરાશૂટ વાળો ટપ્પુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચાંદાનું પ્રતિબિંબ ક્યાં દેખાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંદાનું પ્રતિબિંબ તળાવના ચોખ્ખા અને શાંત પાણીમાં દેખાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત પાણી = કુદરતી અરીસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'ખોટું કહેવાય' પ્રકરણમાં મુખ્યત્વે કયા બે પ્રાણીઓની વાર્તા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રકરણમાં મુખ્યત્વે કાચબો અને વાંદરાની વાર્તા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબો આકાશમાં, વાંદરા પાણીમાં!</p></div>"
+    }
+  ]
+}
