@@ -104,3 +104,51 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ભીની માટીની ગંધ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વરસાદ શરૂ થતાં પહેલાં આકાશમાં કેવા ફેરફારો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ શરૂ થતાં પહેલાં આકાશમાં કાળાં-ડિબાંગ વાદળો ઘેરાવા લાગે છે. પવન જોરથી ફૂંકાય છે અને આકાશમાં વીજળીના કડાકા-ભડાકા સાથે ગર્જના સંભળાય છે. પક્ષીઓ પોતાના માળા તરફ ઉડવા લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ = વાદળ + વીજળી + ગર્જના (આ ત્રણ શબ્દો યાદ રાખો એટલે જવાબ તૈયાર!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વરસાદનું પહેલું ટીપું ધરતી પર પડતા કેવી અનુભૂતિ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદનું પહેલું ટીપું ધરતી પર પડતાની સાથે જ તપી ગયેલી જમીનમાંથી મીઠી અને મનમોહક સુગંધ (ગંધ) આવવા લાગે છે. આ ગંધથી વાતાવરણ પ્રફુલ્લિત થઈ જાય છે અને ગરમીમાં રાહત મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું + માટી = મીઠી ગંધ (પ્રકરણનું નામ જ આ જવાબની ટ્રીક છે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગજા અને વજાએ વરસાદના પાણીમાં કઈ રીતે મજા માણી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજા અને વજાએ વરસાદમાં નહાવાની મજા માણી. તેમણે નકામા કાગળમાંથી સુંદર હોડીઓ બનાવી અને શેરીમાં ભરાયેલા પાણીના ખાબોચિયામાં તેને તરતી મૂકીને આનંદ વ્યક્ત કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજા-વજા = નહાવાનું + કાગળની હોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વરસાદ આવવાથી પશુ-પંખીઓના વર્તનમાં શો ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ આવતા મોર કળા કરીને નાચવા લાગે છે અને ટેહૂક-ટેહૂક બોલે છે. દેડકાઓ 'ડ્રાઉં-ડ્રાઉં' કરીને સંગીત રેલાવે છે, જ્યારે ચકલીઓ અને અન્ય પક્ષીઓ પલળવાની મજા માણે છે અથવા આશ્રય શોધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર-કળા + દેડકા-ડ્રાઉં + પક્ષી-આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખેડૂતો વરસાદ આવતા કેમ ખુશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ ખેતી માટે અમૃત સમાન છે. વરસાદ આવવાથી જમીન પોચી બને છે અને વાવણી લાયક થાય છે. સારો વરસાદ એ સારા પાકની આશા જન્માવે છે, તેથી ખેડૂતો હરખાઈને ખેતર ખેડવા નીકળી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ = ખેતીનો આધાર + ખેડૂતની ખુશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદના સમયે આપણી સુરક્ષા માટે કઈ કઈ વસ્તુઓનો ઉપયોગ કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં ભીંજાવાથી બચવા માટે આપણે છત્રી (Umbrella) અથવા રેઈનકોટ (Raincoat) નો ઉપયોગ કરવો જોઈએ. આ ઉપરાંત, સ્કૂલ બેગ કે પુસ્તકો ન પલળે તે માટે પ્લાસ્ટિકની થેલીઓનો પણ ઉપયોગ કરવો જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષણ = છત્રી + રેઈનકોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'નદી-નાળાં રેલાઈ ગયા' - આ વાક્યનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ખૂબ જ ભારે વરસાદ પડે છે, ત્યારે નદીઓ અને નાળાં પાણીથી છલોછલ ભરાઈ જાય છે. પાણીની સપાટી એટલી વધી જાય છે કે તે કિનારા ઓળંગીને બહાર વહેવા લાગે છે, તેને 'રેલાઈ ગયા' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલાઈ જવું = પાણીનું છલોછલ ભરાઈને બહાર વહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદના પાણીનો સંગ્રહ શા માટે કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદનું પાણી કુદરતી રીતે શુદ્ધ હોય છે. જો આપણે આ પાણીનો સંગ્રહ (Rainwater Harvesting) કરીએ, તો ઉનાળામાં જ્યારે પાણીની તંગી હોય ત્યારે તેનો ઉપયોગ પીવા માટે અથવા સિંચાઈ માટે કરી શકાય છે. તેનાથી ભૂગર્ભ જળનું સ્તર પણ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગ્રહ = ભવિષ્યની પાણીની બચત.</p></div>"
+    }
+  ]
+}
