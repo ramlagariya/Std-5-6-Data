@@ -1545,3 +1545,136 @@ var Std5_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "એક મજ્જાની વાત",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પાઠના આધારે ગજગજ્જર કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠના આધારે ગજગજ્જર એક વિશાળ અને પ્રેમાળ હાથી હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજ એટલે હાથી, તેથી ગજગજ્જર = હાથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બજબજ્જર વ્યવસાયે શું હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજબજ્જર વ્યવસાયે એક દરજી હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજી કપડાં સીવે ત્યારે મશીન 'બજ-બજ' ચાલે એટલે બજબજ્જર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગજગજ્જર દરરોજ નદીએ કેમ જતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જર દરરોજ નદીએ નાહવા અને પાણી પીવા માટે જતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી + નદી = નાહવાની મજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બજબજ્જરની દુકાન ક્યાં આવેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજબજ્જરની દુકાન નદીએ જવાના રસ્તા પર વચ્ચે આવેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તાની વચ્ચે 'બજબજ્જર'ની દુકાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દરજી ગજગજ્જરને દરરોજ શું ખાવા આપતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરજી ગજગજ્જરને દરરોજ પ્રેમથી કેળાં અથવા કોઈ ફળ ખાવા આપતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજી + હાથી = મીઠાં કેળાંની દોસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક દિવસ બજબજ્જરનો મૂડ કેવો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક દિવસ બજબજ્જર કોઈ કારણસર ગુસ્સામાં હતો અને તેનો મૂડ ખરાબ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ મૂડ = ઝઘડાનું મૂળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બજબજ્જરે ગજગજ્જરની સૂંઢમાં શું ભોંક્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજબજ્જરે ગજગજ્જરની સૂંઢમાં કપડાં સીવવાની સોય ભોંકી દીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજીનું હથિયાર 'સોય' તે જ તેની ભૂલ બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સોય વાગ્યા પછી ગજગજ્જરે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોય વાગ્યા પછી ગજગજ્જર શાંતિથી નદીએ ગયો અને પોતાની સૂંઢમાં ગંદુ પાણી ભરી લાવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત હાથી, મોટો બદલો (ગંદુ પાણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગજગજ્જરે દરજીની દુકાનમાં શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જરે દુકાનમાં આવીને સૂંઢમાં ભરેલું ગંદુ પાણી નવા સીવેલા કપડાં પર છાંટી દીધું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી + નવા કપડાં = મોટું નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ વાર્તામાંથી આપણને શું બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાર્તામાંથી બોધ મળે છે કે આપણે ક્યારેય કોઈની સાથે ખરાબ વ્યવહાર ન કરવો જોઈએ, કારણ કે 'જેવું કરો તેવું પામો'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરણી તેવી ભરણી (As you sow, so shall you reap).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બજબજ્જરે અંતે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજબજ્જરે પોતાની ભૂલ સ્વીકારી અને ગજગજ્જરની માફી માંગી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ સમજાઈ એટલે માફી મંગાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગજગજ્જરના શરીરનો દેખાવ કેવો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જરનું શરીર પહાડ જેવું મોટું અને કાન સૂપડા જેવા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી = પહાડ જેવું કદ + સૂપડા જેવા કાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બજબજ્જર દરજીના સ્વભાવ વિશે શું કહી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજબજ્જર આમ તો માયાળુ હતો પણ ગુસ્સામાં તે વિવેક ચૂકી જતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારો માણસ + ગુસ્સો = નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નદીનું પાણી કેવું હતું જે ગજગજ્જર ભરી લાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જર જે પાણી લાવ્યો હતો તે ગંદુ અને કાદવ વાળું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાદવ વાળું પાણી એટલે કપડાંનો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગજગજ્જર અને બજબજ્જર વચ્ચેની દોસ્તી કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જર અને બજબજ્જર વચ્ચે ગાઢ અને અતૂટ દોસ્તી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરરોજની મુલાકાત = પાકી દોસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'ગજગજ્જર' શબ્દમાં 'ગજ' નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ગજ' નો અર્થ હાથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્યાયવાચી શબ્દ યાદ રાખો: ગજ = હાથી = ઐરાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગજગજ્જર ચાલે ત્યારે કેવો અવાજ આવતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જર જ્યારે ચાલતો ત્યારે તેના ભારે પગલાંથી ધરતી ધ્રૂજતી હોય તેવો અવાજ આવતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીની ચાલ = ધમ-ધમ અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બજબજ્જરની સોય ભોંકવાની ક્રિયાને હાથીએ કેવી રીતે લીધી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથીએ આ ક્રિયાને મિત્ર દ્વારા થયેલા વિશ્વાસઘાત તરીકે લીધી અને પાઠ ભણાવવાનું નક્કી કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રતામાં દગો = પાઠ ભણાવવો જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા વાક્યથી ખબર પડે છે કે ગજગજ્જર સમજદાર હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જરે તરત વળતો હુમલો કરવાને બદલે શાંતિથી જઈને યુક્તિપૂર્વક પાઠ ભણાવ્યો, તેનાથી ખબર પડે કે તે સમજદાર હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધીરજ અને યુક્તિ = સમજદારીની નિશાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દરજીએ સોય કેમ ભોંકી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરજીએ કંટાળા અને ગુસ્સામાં આવીને મજાક ખાતર સોય ભોંકી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોટી મજાક = ભારે નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગજગજ્જરની સુંઢ શેના જેવી લાંબી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જરની સૂંઢ અજગર જેવી લાંબી અને શક્તિશાળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂંઢની સરખામણી અજગર સાથે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાઠમાં 'મસ્તાન' શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠમાં 'મસ્તાન' શબ્દ હાથી (ગજગજ્જર) માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મસ્ત ચાલતો હાથી = મસ્તાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દરજીને ક્યારે પસ્તાવો થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ગજગજ્જરે તેના બધા જ કિંમતી નવા કપડાં ગંદા કરી નાખ્યા ત્યારે દરજીને પસ્તાવો થયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નુકસાન થાય ત્યારે જ ભૂલ સમજાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગજગજ્જરની આંખો કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગજગજ્જરની આંખો નાની અને ચમકતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું શરીર, નાની આંખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ વાર્તાના મુખ્ય પાત્રોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાર્તાના મુખ્ય બે પાત્રો ગજગજ્જર (હાથી) અને બજબજ્જર (દરજી) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજ-બજની જોડી.</p></div>"
+    }
+  ]
+}
