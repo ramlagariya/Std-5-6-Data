@@ -326,3 +326,61 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ખોલે તે ખોલે",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પાઠના આધારે જણાવો કે 'ખોલે તે ખોલે' વાર્તામાં રહસ્યમય પેટી ક્યાંથી મળી આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ખોલે તે ખોલે' વાર્તામાં રહસ્યમય પેટી એક જૂના અને નિર્જન કિલ્લાના ભોંયરામાંથી ખોદકામ દરમિયાન મળી આવી હતી. આ પેટી પથ્થરની બનેલી હતી અને તેના પર અજીબ પ્રકારના ચિહ્નો દોરેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલ્લો + ભોંયરું = રહસ્યમય પેટી (સ્થળ યાદ રાખવા માટે 'કિ-ભો' યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પેટી ખોલવા માટે રાજાએ કઈ જાહેરાત કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજાએ જાહેરાત કરી હતી કે જે કોઈ વ્યક્તિ પોતાની બુદ્ધિ અને ચતુરાઈથી આ રહસ્યમય પેટીનું તાળું નુકસાન પહોંચાડ્યા વગર ખોલશે, તેને રાજ્ય તરફથી સોનામહોરોનું ઇનામ અને રાજમહેલમાં ખાસ સ્થાન આપવામાં આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટી ખોલો + ઈનામ મેળવો (બુદ્ધિનો ઉપયોગ શરત હતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચિન્ટુએ પેટી ખોલવા માટે કઈ યુક્તિ અજમાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિન્ટુએ પેટીને બળપૂર્વક ખોલવાને બદલે તેના પર દોરેલા ચિહ્નોને ધ્યાનથી જોયા. તેણે જોયું કે ચિહ્નો સૂર્યના કિરણો સાથે જોડાયેલા હતા, તેથી તેણે પેટીને સૂર્યપ્રકાશમાં રાખીને ચોક્કસ ખૂણે ફેરવી જેથી તે ખૂલી ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાકાત નહીં, પણ તર્ક (સૂર્યના કિરણો = ચિન્ટુની સફળતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પેટીની અંદરથી કઈ કઈ વસ્તુઓ નીકળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટીની અંદરથી કોઈ સોનું કે ઝવેરાત નહોતું નીકળ્યું, પરંતુ તેની અંદરથી પ્રાચીન હસ્તપ્રતો (પુસ્તકો), જૂના સિક્કાઓ અને રાજ્યના ઈતિહાસનો નકશો મળી આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસલી ખજાનો = જ્ઞાન (પુસ્તક + નકશો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રાજાએ જ્ઞાનના ખજાનાને 'સાચો ખજાનો' કેમ કહ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજાએ જ્ઞાનને સાચો ખજાનો કહ્યો કારણ કે સોનું-ચાંદી એક દિવસ વપરાઈ જાય છે, પરંતુ પુસ્તકોમાં રહેલું જ્ઞાન પેઢીઓ સુધી કામ આવે છે અને તેનાથી રાજ્યની ઉન્નતિ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનું ખૂટે, જ્ઞાન વધે (યાદ રાખવું: જ્ઞાન = અમર ખજાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાર્તામાં આવતા 'કુતૂહલ' શબ્દનો અર્થ સમજાવી તેનું એક વાક્ય બનાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'કુતૂહલ' એટલે કંઈક નવું જાણવાની ઈચ્છા અથવા જિજ્ઞાસા. <br><strong>વાક્ય:</strong> જાદુગરની પેટીમાં શું હશે તે જાણવા બાળકોમાં કુતૂહલ જાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુતૂહલ = શું હશે? (નવું જાણવાની તડપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગામના લોકો પેટી જોવા કેમ ઉમટી પડ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામના લોકોમાં એવી ચર્ચા હતી કે આ પેટી દેવોના સમયની છે અને તેમાં અખૂટ ધન ભરેલું છે. આ રહસ્ય જાણવા અને ઇનામ મેળવવાની લાલચમાં લોકો ટોળે વળ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સુકતા + અફવા = ભીડ (લોકોનું ટોળું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચિન્ટુના પાત્ર પરથી આપણને શું શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિન્ટુના પાત્ર પરથી શીખવા મળે છે કે મુશ્કેલ કામમાં ઉતાવળ કરવાને બદલે શાંતિથી વિચારવું જોઈએ અને સૂક્ષ્મ નિરીક્ષણ (ધ્યાનથી જોવું) કરવાથી ગમે તેવા રહસ્યો ઉકેલી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત મન = દરેક સમસ્યાનું સમાધાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠમાં 'પથ્થરની થાળી' નો ઉલ્લેખ કયા સંદર્ભમાં થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠમાં 'પથ્થરની થાળી' એ જૂની સંસ્કૃતિના પ્રતીક તરીકે દર્શાવવામાં આવી છે. તે પેટીની પાસે જ મળી આવી હતી, જે દર્શાવતી હતી કે જૂના જમાનાના લોકો કેવી સાદી પણ મજબૂત ચીજો વાપરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર = મજબૂતી અને પ્રાચીનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'ખોલે તે ખોલે' શીર્ષક પાઠને કેવી રીતે યોગ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ શીર્ષક યોગ્ય છે કારણ કે આખી વાર્તા એક રહસ્યમય પેટીને ખોલવા પર આધારિત છે. જે પોતાની બુદ્ધિનો દરવાજો ખોલે છે, તે જ આ પેટી ખોલી શકે છે - તેવો ગૂઢ અર્થ અહીં છુપાયેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુદ્ધિનું દ્વાર ખુલે તો જ પેટી ખુલે!</p></div>"
+    }
+  ]
+}
