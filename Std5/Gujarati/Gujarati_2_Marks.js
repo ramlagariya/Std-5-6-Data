@@ -152,3 +152,61 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "તમે તો શું કરત?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૂરજમુખીનું ફૂલ શા માટે કરમાઈ ગયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરજમુખીનું ફૂલ કરમાઈ ગયું હતું કારણ કે આકાશમાં કાળાડિબાંગ વાદળો છવાઈ ગયા હતા અને સૂર્ય દેખાતો ન હતો. સૂરજમુખીને સૂર્ય તરફ જોવું ગમતું હતું, પણ સૂર્ય ન હોવાથી તે ઉદાસ થઈને ઢળી પડ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજમુખી = સૂર્યનો પ્રેમી. સૂર્ય ગાયબ તો ફૂલ ગાયબ (કરમાઈ ગયું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચકલીએ સૂરજમુખીને હસતું કરવા માટે કયો ઉપાય કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચકલીએ સૂરજમુખીને હસતું કરવા માટે બીજા પંખીઓને ભેગા કર્યા અને સૌએ સાથે મળીને પોતાની પાંખો ખૂબ જોરથી ફફડાવી. આનાથી જે પવન પેદા થયો તેના કારણે વાદળો હટવા લાગ્યા અને સૂર્યપ્રકાશ બહાર આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખોનો પવન + એકતા = વાદળોની વિદાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સૂર્ય દેખાયા પછી સૂરજમુખીમાં કેવો ફેરફાર જોવા મળ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેવો સૂર્ય વાદળોમાંથી બહાર આવ્યો, કે તરત જ સૂરજમુખીનું મોઢું મલકાઈ ગયું. તેની પાંખડીઓ ખીલી ઉઠી અને તે ફરીથી તેજસ્વી સોનેરી રંગનું દેખાવા લાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યનું કિરણ = સૂરજમુખીનું સ્મિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાઠમાં પંખીઓની એકતા કેવી રીતે જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ચકલી એકલી વાદળોને હટાવી શકી નહીં, ત્યારે તેણે કાબર, કાગડો અને બીજા પંખીઓને મદદ માટે બોલાવ્યા. બધા પંખીઓએ એકસાથે પાંખો ફફડાવીને શક્તિ પ્રદર્શન કર્યું, જે પંખીઓની એકતા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એકતામાં બળ છે' - બધા પંખીઓ ભેગા મળીને પવન ફૂંક્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૂરજમુખીના ફૂલની બે લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરજમુખીના ફૂલની બે મુખ્ય લાક્ષણિકતાઓ આ મુજબ છે: (૧) તે હંમેશા સૂર્યની સામે પોતાનું મોઢું રાખે છે, અને (૨) તેની પાંખડીઓનો રંગ ચમકતો સોનેરી પીળો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનેરી રંગ + સૂર્ય તરફ મોઢું = સૂરજમુખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાદળો કેમ વિખેરાઈ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેંકડો પંખીઓએ ભેગા મળીને એકસાથે જોરથી પોતાની પાંખો ફફડાવી. પંખીઓના આ સામૂહિક પ્રયત્નથી ખૂબ જ જોરદાર પવન ફૂંકાયો, જેના કારણે આકાશમાં રહેલા કાળા વાદળો દૂર વિખેરાઈ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખીઓની પાંખોનો પંખો = વાદળોની રજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પંખીઓએ સૂરજમુખી પાસે જઈને શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પંખીઓએ સૂરજમુખી પાસે જઈને જોયું કે ફૂલ સાવ નમી ગયું હતું. તેના ચહેરા પર કોઈ તેજ નહોતું અને તે ખૂબ જ બીમાર કે દુઃખી હોય તેવું દેખાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નમેલું ફૂલ = ઉદાસીનું ચિહ્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'મન મૂકીને નાચવું' શબ્દનો પ્રયોગ પાઠના સંદર્ભમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વાદળો હટી ગયા અને સૂરજમુખી ખીલી ઉઠ્યું, ત્યારે પંખીઓ અત્યંત ખુશ થઈ ગયા. આ ખુશી વ્યક્ત કરવા માટે તેઓ આનંદિત થઈને કલરવ કરવા લાગ્યા અને હવામાં નાચવા લાગ્યા, જેને 'મન મૂકીને નાચવું' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મન મૂકીને નાચવું = ખૂબ જ આનંદિત થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો આકાશમાં સૂર્ય લાંબા સમય સુધી ન નીકળે તો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો સૂર્ય લાંબા સમય સુધી ન નીકળે તો વનસ્પતિને પ્રકાશસંશ્લેષણ માટે પ્રકાશ ન મળે, જેથી છોડ સુકાઈ જાય. સૂરજમુખી જેવા ફૂલો ક્યારેય ખીલે નહીં અને ચારેબાજુ અંધકાર અને ઠંડી વધી જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો સૂર્ય = નો એનર્જી = ફૂલોની ઉદાસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ વાર્તા (તમે તો શું કરત?) માંથી આપણને શું બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાર્તામાંથી આપણને બોધ મળે છે કે આપણે હંમેશા બીજાના દુઃખમાં ભાગીદાર બનવું જોઈએ અને મુસીબતના સમયે હિંમત હાર્યા વગર હળીમળીને પ્રયત્ન કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહકાર + સહાનુભૂતિ = સાચો મિત્ર.</p></div>"
+    }
+  ]
+}
