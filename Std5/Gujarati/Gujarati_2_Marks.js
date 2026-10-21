@@ -384,3 +384,51 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ટામેટાની દડમદડ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ટામેટાને ફ્રિજમાં શા માટે ઠંડી લાગતી હતી? તેને શું યાદ આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટામેટાને ફ્રિજમાં ખૂબ જ ઠંડી લાગતી હતી કારણ કે ફ્રિજમાં બરફ જેવું ઠંડુ વાતાવરણ હતું અને ત્યાં હૂંફ આપનારું કોઈ નહોતું. ટામેટાને ઝાડ પરની ડાળી અને ત્યાં મળતો સવારનો તડકો (હૂંફ) યાદ આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજ = ઠંડી + બરફ | ડાળી = તડકો + હૂંફ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ટામેટાએ દૂધી માસીને શું વિનંતી કરી? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટામેટાએ દૂધી માસીને જલ્દીથી બંડી (ગરમ કપડું) પહેરાવવાની વિનંતી કરી. ટામેટાને ફ્રિજમાં ખૂબ જ ઠંડી લાગતી હતી અને ઠંડીથી બચવા માટે તેને ગરમ બંડીની જરૂર હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડી લાગે ત્યારે 'બંડી' પહેરાવે 'દૂધી માસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ફ્રિજનો દરવાજો શા માટે ખુલ્યો? ત્યારે ટામેટા સાથે શું ઘટના બની?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રિજનો દરવાજો 'ઘારી' (એક મીઠાઈ) લેવા માટે ખુલ્યો હતો. એ જ સમયે મૂળાભાઈએ ટામેટાને રમત-રમતમાં 'દબકો' (ટપલી) મારી, જેનાથી ટામેટું દડદડતું ફ્રિજની બહાર નીકળી ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘારી લેવા દરવાજો ખુલ્યો + મૂળાની ટપલી = ટામેટું બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ફ્રિજની બહાર નીકળ્યા પછી ટામેટાએ બારીમાંથી શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રિજની બહાર નીકળ્યા પછી ટામેટાએ બારીમાંથી 'સૂરજ' જોયો. સૂરજને જોઈને ટામેટાની ખુશીનો પાર ન રહ્યો અને તેને મનમાં ખૂબ જ આનંદ થયો કારણ કે ત્યાં ઠંડી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારીમાંથી દેખાયો સૂરજ, ટામેટું થયું રાજી-રેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૂર્યના કિરણોએ ટામેટા પાસે આવીને શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યના કિરણો સડકો ઓળંગીને ટામેટા પાસે આવ્યા અને તેને વહાલથી કહ્યું કે, \"હે ટામેટા ભાઈ, તમે આ ગરમાગરમ મીઠો તડકો પહેરી લો (માણી લો).\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યના કિરણો = ગિફ્ટમાં લાવ્યા 'મીઠો તડકો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ટામેટાને ફ્રિજમાં કઈ બાબતો ગમતી નહોતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટામેટાને ફ્રિજમાં ઠંડી અને બરફ જ બરફ હોવો ગમતો નહોતો. ત્યાં તેને બહાર જેવી હૂંફ મળતી નહોતી અને તેને લાગતું હતું કે ફ્રિજમાં કોઈ 'હૂંફનું નામ' પણ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિજ = નો હૂંફ, ઓન્લી બરફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટામેટું જ્યારે દડદડતું બહાર ગયું ત્યારે તેની સ્થિતિ કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળાભાઈની ટપલી વાગતા ટામેટું દડદડતું ફ્રિજની બહાર ગયું. બહાર આવતા જ તેણે સૂરજને જોયો અને તેની ઠંડી ઉડી ગઈ. તે હરખાઈ ગયું અને સૂર્યના પ્રકાશનો આનંદ લેવા લાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડદડતું ગયું બહાર, સૂરજ મળ્યો અપાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાવ્યમાં 'આના કરતા હતા ડાળ પર' એમ ટામેટું શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રિજમાં અતિશય ઠંડી હોવાથી ટામેટું કંટાળી ગયું હતું. તેને યાદ આવ્યું કે જ્યારે તે ડાળી પર હતું ત્યારે તે અડકો-દડકો રમતું હતું અને સવારનો મીઠો તડકો માણતું હતું, જે સુખ તેને ફ્રિજમાં મળતું નહોતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાળી = રમત + તડકો | ફ્રિજ = જેલ + ઠંડી.</p></div>"
+    }
+  ]
+}
