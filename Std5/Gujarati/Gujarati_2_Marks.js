@@ -432,3 +432,61 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "સવાર",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સવાર પડતાની સાથે જ આકાશમાં કેવા ફેરફારો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાર પડતાની સાથે જ પૂર્વ દિશામાં સૂર્ય ઉગે છે અને આકાશમાં સોનેરી રંગના તેજ રેલાય છે. અંધકાર દૂર થઈ જાય છે અને આખું આકાશ અજવાળાથી ભરાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર = સૂરજ + સોનેરી આકાશ + અજવાળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પક્ષીઓ સવારના આગમનને કેવી રીતે વધાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાર થતા જ પક્ષીઓ માળામાંથી બહાર નીકળી કલરવ કરવા લાગે છે. તેઓ મધુર અવાજે ગીતો ગાઈને જાણે સવારનું સ્વાગત કરતા હોય તેમ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી = કલરવ (સવારનો મધુર અવાજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સવારના સમયે ફૂલો અને કળીઓની સ્થિતિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાર પડતા જ કળીઓ ખીલીને ફૂલ બની જાય છે. બાગ-બગીચામાં ફૂલો મલકાતા જોવા મળે છે અને આખા વાતાવરણમાં તેની સુગંધ ફેલાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ = ખીલવું + મલકાવું (સ્મિત કરવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સવારના પવન વિશે કાવ્યમાં શું કહેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારનો પવન એકદમ ઠંડો અને તાજગીભર્યો હોય છે. આ મંદ-મંદ લહેરાતો પવન લોકોના મનને પ્રફુલ્લિત કરી દે છે અને શરીરમાં નવી સ્ફૂર્તિ ભરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનો પવન = ઠંડક + તાજગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઘાસ પરના ઝાકળબિંદુઓ સૂર્યપ્રકાશમાં કેવા લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારમાં ઘાસ પર ઝાકળના ટીપાં બાઝેલા હોય છે. જ્યારે તેના પર સૂર્યના કિરણો પડે છે ત્યારે તે ચમકતા મોતી જેવા અથવા હીરા જેવા સુંદર દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાકળ + સૂરજ = ચમકતું મોતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સવાર થતાં લોકો કયા કયા કામે વળગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાર થતા જ લોકો નિદ્રામાંથી જાગી જાય છે. ખેડૂતો ખેતરે જાય છે, પનિહારીઓ પાણી ભરવા જાય છે અને બાળકો શાળાએ જવા માટે તૈયાર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર = જાગૃતિ + કામની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સવારમાં વાતાવરણમાં કેવી સુગંધ પ્રસરેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારમાં ખીલેલા તાજા ફૂલોની મીઠી સુગંધ અને પવનની લહેરોમાં ભળેલી માટીની ભીની સોડમથી આખું વાતાવરણ સુગંધિત બની જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુગંધ = ફૂલ + ભીની માટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સૂર્યને 'સોના જેવો' કેમ કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારે જ્યારે સૂર્ય ઉગે છે ત્યારે તેના કિરણોનો રંગ પીળો-ચમકતો (સોનેરી) હોય છે. આ સોનેરી તેજ પૃથ્વી પર પથરાતા બધું જ સોના જેવું કિંમતી અને સુંદર લાગે છે, તેથી તેને સોના જેવો કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યકિરણ = સોનેરી રંગ = સોના જેવો સૂરજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિએ સવારને 'સ્ફૂર્તિલી' શા માટે કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારનો સમય આળસ દૂર કરી શરીરમાં નવો ઉત્સાહ અને તાજગી ભરી દે છે. લોકોમાં કામ કરવાની નવી શક્તિ આવે છે, તેથી સવારને સ્ફૂર્તિલી કહેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર = No આળસ + Full સ્ફૂર્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સવાર આપણને શું સંદેશ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાર આપણને સંદેશ આપે છે કે અંધકાર (દુઃખ) પછી હંમેશા પ્રકાશ (સુખ) આવે જ છે. આપણે હંમેશા આશાવાદી રહીને દરરોજ નવા ઉત્સાહથી જીવનની શરૂઆત કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનો સંદેશ = નવી આશા + નવી શરૂઆત.</p></div>"
+    }
+  ]
+}
