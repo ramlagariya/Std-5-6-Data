@@ -490,3 +490,61 @@ var Std5_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "રંગે સંગે કામ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શનિવારની સવાર હોવા છતાં ટોમ કેમ ઉદાસ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શનિવારની રજા હોવાથી બધા બાળકો રમવા જવાની તૈયારી કરતા હતા, પરંતુ ટોમની પોલી માસીએ તેને સજા તરીકે ઘરની લાંબી દીવાલ ધોળવાનું (ચૂનો લગાવવાનું) કામ સોંપ્યું હતું. આથી રજાના દિવસે કામ કરવું પડશે તેમ વિચારીને ટોમ ઉદાસ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શનિવારની રજા + દીવાલ ધોળવાની સજા = ટોમ ઉદાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પોલી માસીએ ટોમને દીવાલ ધોળવા માટે કઈ કઈ વસ્તુઓ આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોલી માસીએ ટોમને દીવાલ ધોળવા માટે ચૂનાથી ભરેલી એક મોટી ડોલ અને લાંબા હાથાવાળો એક કૂચડો (બ્રશ) આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે વસ્તુ યાદ રાખો - 'ચૂનાની ડોલ' અને 'લાંબો કૂચડો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બેન રોજર્સને આવતો જોઈ ટોમે શું યુક્તિ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન રોજર્સને આવતો જોઈ ટોમે એવી રીતે કામ કરવા માંડ્યું જાણે તેને દીવાલ ધોળવામાં ખૂબ જ રસ પડતો હોય. તેણે બેન તરફ જોયું પણ નહીં અને એકાગ્રતાથી કૂચડો ફેરવતો રહ્યો, જેથી બેનને લાગે કે આ કામ બહુ મજાનું અને મહત્વનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કામનો ડોળ' એ જ ટોમની અસલી 'રોલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બેને ટોમ પાસેથી કૂચડો લેવા માટે શું ઓફર કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરૂઆતમાં ટોમે ના પાડી કે આ કામ તો કોઈ કુશળ માણસ જ કરી શકે. ત્યારે બેને દીવાલ ધોળવાનો મોકો મેળવવા માટે ટોમને પોતાનું આખું લાલ ચટક સફરજન આપવાની ઓફર કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજન આપ્યું + કામ લીધું = ટોમની જીત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બપોર સુધીમાં ટોમ પાસે કઈ કઈ વસ્તુઓ જમા થઈ ગઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બપોર સુધીમાં ટોમ પાસે બેનનું સફરજન, પતંગ, મરેલો ઉંદર અને તેને ફેરવવાની દોરી, લખોટીઓ, છરીનો હાથો અને દરવાજાનો પિત્તળનો નકૂચો જેવી ઘણી બધી વસ્તુઓ જમા થઈ ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોમનું 'ખજાના લિસ્ટ' - સફરજન, પતંગ, ઉંદર અને નકૂચો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દીવાલનું કામ પૂરું થયા પછી દીવાલ કેવી દેખાતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટોમના મિત્રોએ ઉત્સાહમાં આવીને આખી દીવાલ પર ચૂનાના ત્રણ-ત્રણ સ્તર લગાવી દીધા હતા. આથી દીવાલ એકદમ સફેદ અને ઝગમગાટ કરતી દેખાતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 થર ચૂનો = સુપર સફેદ દીવાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પોલી માસી દીવાલ જોઈને કેમ આશ્ચર્યચકિત થઈ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોલી માસીને આશા હતી કે ટોમે માંડ થોડું કામ કર્યું હશે, પણ જ્યારે તેમણે જોયું કે આખી દીવાલ ત્રણ વાર ધોળાઈ ગઈ છે અને એકદમ ચોખ્ખી ચમકે છે, ત્યારે તેઓ ટોમની મહેનત જોઈને (જે ખરેખર તેના મિત્રોએ કરી હતી) આશ્ચર્યચકિત થઈ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાર્યું હતું ઓછું, નીકળ્યું ઝગમગાટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ટોમે કામ ન કરવાની ઈચ્છા હોવા છતાં કામ કેવી રીતે પૂરું કરાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટોમે પોતાની બુદ્ધિ વાપરીને કંટાળાજનક કામને એક 'કળા' અને 'ગૌરવ' સમાન ગણાવ્યું. તેણે એવી યુક્તિ કરી કે તેના મિત્રોને કામ કરવામાં રસ પડ્યો અને તેઓ પોતાની વસ્તુઓ આપીને સામેથી કામ કરવા તૈયાર થયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનોવિજ્ઞાનનો ઉપયોગ - સજાને બનાવી મજા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બિલી ફિશરે ટોમ પાસે શું કામ માંગ્યું અને બદલામાં શું આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિલી ફિશરને પણ દીવાલ ધોળવાની ઈચ્છા થઈ, તેથી તેણે ટોમ પાસે કૂચડો માંગ્યો. ટોમે આનાકાની કરી ત્યારે બિલીએ તેને બદલામાં પોતાની સરસ પતંગ આપી દીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલીની 'પતંગ' ગઈ અને 'કૂચડો' આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'રંગે સંગે કામ' વાર્તા પરથી ટોમના સ્વભાવ વિશે શું કહી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાર્તા પરથી સમજાય છે કે ટોમ ખૂબ જ ચતુર, તોફાની અને હાજરજવાબી છોકરો હતો. તે બીજાના મનને પારખી શકતો અને પોતાની મુશ્કેલીને પણ તકમાં બદલવાની આવડત ધરાવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોમ = ચતુર + સ્માર્ટ વર્કર!</p></div>"
+    }
+  ]
+}
