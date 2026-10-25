@@ -594,3 +594,211 @@ var Std5_English_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "My Shadow & Robinson Crusoe Discovers a Footprint",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "What is the funniest thing about the shadow according to the poem 'My Shadow'? \n(A) The way he talks \n(B) The way he likes to grow \n(C) The way he eats \n(D) The way he runs",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) The way he likes to grow</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Funny' અને 'Grow' શબ્દોને જોડી દો. પડછાયો અચાનક મોટો થઈ જાય એ જ સૌથી રમુજી વાત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "The shadow grows like an ________ ball. \n(A) Cricket \n(B) India-rubber \n(C) Football \n(D) Plastic",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) India-rubber</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં રબરના દડાની જેમ ઉછળતા પડછાયાની વાત છે, યાદ રાખો: 'Shadow = Rubber Ball'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Where does the shadow go with the speaker? \n(A) To the school \n(B) In and out of the bed \n(C) To the garden \n(D) To the market",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) In and out of the bed</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે જ્યારે ઊંઘવા જાઓ ત્યારે પડછાયો પણ તમારી સાથે પલંગમાં કૂદી પડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "One morning, before the ____ was up, the speaker rose and found the dew on every buttercup. \n(A) Moon \n(B) Stars \n(C) Sun \n(D) Bird",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Sun</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર એટલે 'Sun' (સૂર્ય). સૂરજ ઊગે તે પહેલાની આ વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What does 'Arrant sleepy-head' mean in the poem? \n(A) A very active person \n(B) A completely lazy person \n(C) A smart person \n(D) A brave person",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) A completely lazy person</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sleepy-head' એટલે જેની આંખોમાં ઊંઘ ભરેલી હોય તેવો આળસુ માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Robinson Crusoe discovered a ________ on the sand. \n(A) Boat \n(B) Treasure \n(C) Footprint \n(D) Shell",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Footprint</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'Robinson Crusoe Discovers a Footprint', એટલે જવાબમાં Footprint જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Robinson Crusoe was living on a ________ island. \n(A) Crowded \n(B) Lonely/Deserted \n(C) Beautiful \n(D) Small",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Lonely/Deserted</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોબિન્સન એકલો જ હતો, માટે ટાપુ કેવો હોય? Lonely (એકલવાયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why was Robinson Crusoe afraid? \n(A) Because he saw a ghost \n(B) Because he saw a footprint of a man \n(C) Because of the wild animals \n(D) Because of the storm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Because he saw a footprint of a man</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલા ટાપુ પર બીજાના પગલાં જોઈને કોઈ પણ ડરી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What did Robinson call his cave? \n(A) Home \n(B) Castle \n(C) Shelter \n(D) Palace",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Castle</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Crusoe પોતાની ગુફાને સુરક્ષા માટે 'Castle' (કિલ્લો) કહેતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Robinson Crusoe thought the footprint might be of ________. \n(A) Animals \n(B) Savages \n(C) His friends \n(D) Pirates",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Savages</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Savages' એટલે જંગલી માણસો. રોબિન્સનને તેમનો જ ડર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Which word in the story means 'wild people in primitive state'? \n(A) Inhabitants \n(B) Savages \n(C) Pirates \n(D) Explorers",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Savages</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના શબ્દાર્થ મુજબ Wild people = Savages.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "The shadow is very, very like me from the ______ up to the head. \n(A) Hands \n(B) Shoulders \n(C) Heels \n(D) Knees",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Heels</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની લાઈન યાદ કરો: 'Heels up to the head' (એડીથી માથા સુધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "What is the opposite of 'Brave'? \n(A) Strong \n(B) Afraid/Coward \n(C) Happy \n(D) Large",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Afraid/Coward</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાદુરનું વિરોધી ડરપોક થાય. પાઠમાં રોબિન્સન 'Afraid' (ડરી ગયો) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Robinson Crusoe went to the ________ to see if there were more footprints. \n(A) Forest \n(B) Mountain \n(C) Shore \n(D) Town",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Shore</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાકાંઠાને 'Shore' કહેવાય, જ્યાં રેતી પર પગલાં દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "How did Robinson Crusoe feel when he saw the footprint? \n(A) Excited \n(B) Confused and Frightened \n(C) Angry \n(D) Sad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Confused and Frightened</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણ્યા પગલાં જોઈને તે મૂંઝાઈ (Confused) ગયો અને ડરી (Frightened) ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What was the shape of the footprint? \n(A) Exactly like a foot with toes and heel \n(B) Like a dog's paw \n(C) Like a bird's mark \n(D) Like a square box",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) Exactly like a foot with toes and heel</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે એકદમ માણસના પગ જેવું જ હતું, જેમાં આંગળીઓ (Toes) અને એડી (Heel) હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Robinson Crusoe had been living alone for a ______ time. \n(A) Short \n(B) Long \n(C) Two days \n(D) One week",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Long</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે ઘણા વર્ષોથી એકલો રહેતો હતો, એટલે 'Long time' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Choose the correctly spelled word: \n(A) Footprint \n(B) Futprint \n(C) Footprant \n(D) Footpreent",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) Footprint</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Foot + Print = Footprint. સ્પેલિંગ બરાબર ચેક કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "The shadow stays ______ to the speaker. \n(A) Far \n(B) Close \n(C) Behind \n(D) Above",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Close</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં કહ્યું છે કે તે તમારી એકદમ નજીક (Close) રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Robinson Crusoe prayed for ________. \n(A) Food \n(B) Protection \n(C) Riches \n(D) Ship",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Protection</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે ડરી જઈએ ત્યારે ભગવાન પાસે 'રક્ષણ' (Protection) માંગીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "The shadow jumps before the speaker when he jumps into ________. \n(A) The river \n(B) His bed \n(C) The car \n(D) The school",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) His bed</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે પલંગમાં પડો એ પહેલા તમારો પડછાયો અંદર પહોંચી ગયો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Robinson Crusoe's house was a ______. \n(A) Flat \n(B) Hut \n(C) Cave \n(D) Tent",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Cave</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોબિન્સન ગુફા (Cave) માં રહેતો હતો, જેને તે કિલ્લો કહેતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "What did Robinson Crusoe think every bush and tree was? \n(A) A flower \n(B) A man \n(C) A ghost \n(D) A rock",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) A man</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડરના કારણે તેને દરેક ઝાડ અને ઝાડીમાં કોઈ 'માણસ' (Man) હોવાનો ભ્રમ થતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Which word is the synonym of 'Frightened'? \n(A) Happy \n(B) Afraid \n(C) Brave \n(D) Angry",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Afraid</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Frightened = Afraid = ડરી ગયેલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What does the shadow not have any notion of? \n(A) Eating \n(B) Sleeping \n(C) How children ought to play \n(D) Running",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) How children ought to play</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતા મુજબ, પડછાયાને બાળકોએ કેવી રીતે રમવું જોઈએ તેની ખબર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Robinson Crusoe was sure it was not his own footprint because ______. \n(A) It was too big \n(B) He had not been to that part of the beach for a long time \n(C) It had six toes \n(D) The sand was wet",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) He had not been to that part of the beach for a long time</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે એ ભાગમાં ગયો જ નહોતો, તો તેના પગલાં ક્યાંથી હોય?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "In the poem 'My Shadow', 'dew' was found on every ________. \n(A) Grass \n(B) Buttercup \n(C) Tree \n(D) Leaf",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Buttercup</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Buttercup એક પ્રકારનું ફૂલ છે, જેના પર ઝાકળ (Dew) હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "What is the plural of 'Foot'? \n(A) Foots \n(B) Feet \n(C) Feets \n(D) Footes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Feet</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Foot નું બહુવચન Feet થાય (oo બદલાઈને ee થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Robinson Crusoe ran back to his cave as fast as he could because he was ________. \n(A) Hungry \n(B) Frightened \n(C) Tired \n(D) Happy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Frightened</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડર લાગે ત્યારે જ માણસ સૌથી ઝડપી ભાગે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "The shadow stays at home behind the speaker and is fast ________. \n(A) Running \n(B) Eating \n(C) Asleep \n(D) Playing",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Asleep</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sleepy-head' એટલે ઘસઘસાટ 'ઊંઘતો' (Asleep).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "What did Robinson see when he looked back? \n(A) A wild animal \n(B) Nothing \n(C) The footprint \n(D) His boat",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) The footprint</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેને એક જ વસ્તુ દેખાઈ હતી જેણે તેને ડરાવ્યો - Footprint.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "Which of these is a rhyming word for 'Found' in the story? \n(A) Sand \n(B) Around \n(C) Foot \n(D) Alone",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Around</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Found - Around. બંનેનો છેલ્લો અવાજ સરખો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "Robinson Crusoe lived in a ________ state for many years. \n(A) Solitary \n(B) Busy \n(C) Group \n(D) City",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) Solitary</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Solitary એટલે 'એકલવાયું'. તે ટાપુ પર એકલો જ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "The shadow grows ________ than normal children. \n(A) Slower \n(B) Faster \n(C) Different \n(D) Better",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Different</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય બાળકો ધીમે ધીમે વધે, પણ પડછાયો 'અલગ' (Different) રીતે વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "Complete the sentence: 'I stood ______.' \n(A) Amazed \n(B) Amazement \n(C) Amazing \n(D) Amaze",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) Amazed</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે આશ્ચર્યચકિત થઈએ ત્યારે 'I stood amazed' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "Where did Crusoe go to feel safer? \n(A) Into the sea \n(B) Inside his castle/cave \n(C) Behind a tree \n(D) Under a rock",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Inside his castle/cave</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાનું ઘર (Cave) સૌથી સુરક્ષિત જગ્યા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "What is the meaning of 'Inhabited'? \n(A) Empty \n(B) Occupied by people \n(C) Dangerous \n(D) Beautiful",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Occupied by people</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Inhabited એટલે જ્યાં વસવાટ હોય તેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "The shadow sometimes gets so _______ that there is none of him at all. \n(A) Big \n(B) Tall \n(C) Little \n(D) Fat",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) Little</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરે પડછાયો એકદમ નાનો (Little) થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "Who is the 'I' in the poem 'My Shadow'? \n(A) A dog \n(B) A child \n(C) An old man \n(D) A giant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) A child</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કવિતા એક બાળકના દૃષ્ટિકોણથી લખાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "Robinson Crusoe lived on an island that was ________. \n(A) Inhabited \n(B) Uninhabited \n(C) Near a city \n(D) Full of cars",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) Uninhabited</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Un' એટલે 'નહીં'. જ્યાં કોઈ રહેતું નહોતું તેવો ટાપુ.</p></div>"
+    }
+  ]
+}
