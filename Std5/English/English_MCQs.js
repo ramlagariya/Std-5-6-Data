@@ -802,3 +802,211 @@ var Std5_English_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Unit 4: Crying (Poem) & My Elder Brother (Story)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "According to the poet, how much should you cry? \n(A) Only a little bit \n(B) Not at all \n(C) A lot, until your pillow is soaked \n(D) For hours",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A lot, until your pillow is soaked</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Soaked pillow' યાદ રાખો, એટલે કે એટલું રડવું કે ઓશીકું ભીનું થઈ જાય તો જ મન હળવું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What can you do after crying a lot? \n(A) Go to sleep \n(B) Jump in the shower \n(C) Start crying again \n(D) Read a book",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Jump in the shower</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રડ્યા પછી 'Shower' (સ્નાન) લેવાથી તાજગી મળે છે તેવું કવિ કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Where was 'happiness' hiding in the poem 'Crying'? \n(A) In the first tear \n(B) Under the bed \n(C) In the last tear \n(D) Behind the door",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) In the last tear</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Last is Best' - છેલ્લું આંસુ ખુશી લઈને આવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What sound should you make when you are happy in the shower? \n(A) Boo-hoo \n(B) Ha ha! \n(C) Shhh \n(D) Yum yum",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Ha ha!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આનંદ વ્યક્ત કરવા માટે 'Ha ha' શબ્દ જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Choose the rhyming word for 'steep' from the poem. \n(A) Step \n(B) Leap \n(C) Keep \n(D) Sleep",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) Sleep</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Steep - Sleep (સમાન ઉચ્ચાર વાળા શબ્દો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "In the story 'My Elder Brother', how many years older was Bhaiya than Munna? \n(A) Two years \n(B) Five years \n(C) Three years \n(D) Ten years",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Five years</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'High Five' - ભૈયા મુન્નાથી 5 વર્ષ મોટા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "How many grades ahead was Bhaiya in school? \n(A) Five grades \n(B) Two grades \n(C) Three grades \n(D) One grade",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Three grades</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંમરમાં 5 વર્ષ પણ ધોરણમાં માત્ર 3 વર્ષનો તફાવત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What did Munna like to do? \n(A) Read books \n(B) Play games and fly kites \n(C) Write stories \n(D) Cook food",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Play games and fly kites</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્ના એટલે 'મસ્તી' - તેને રમવું અને પતંગ ઉડાડવી ગમતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Why did Bhaiya study the same class for two or three years? \n(A) He was lazy \n(B) He wanted a strong foundation \n(C) He liked the teacher \n(D) He forgot everything",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He wanted a strong foundation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Foundation' (પાયો) મજબૂત કરવા ભૈયા એક જ ધોરણમાં વધુ સમય રહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What did Bhaiya do all day? \n(A) Play football \n(B) Draw pictures of birds and animals \n(C) Sleep \n(D) Study books",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) Study books</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા એટલે 'બુકવર્મ' (ચોપડીના કીડા) - આખો દિવસ વાંચવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "What was the first thing Munna did according to his timetable? \n(A) Play volleyball \n(B) Wash hands and have breakfast \n(C) Go to school \n(D) Do homework",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Wash hands and have breakfast</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈમટેબલની શરૂઆત હંમેશા સવારના 'Breakfast' થી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Did Munna follow the timetable he made? \n(A) Yes, strictly \n(B) No, not at all \n(C) Only for one day \n(D) He didn't make a timetable",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) No, not at all</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નાને રમતના મેદાન ખેંચી જતા, એટલે તે ટાઈમટેબલ પાળી શકતો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "When the yearly exams results came, what happened? \n(A) Both failed \n(B) Both passed \n(C) Munna passed and Bhaiya failed \n(D) Bhaiya passed and Munna failed",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Munna passed and Bhaiya failed</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્ના નસીબદાર હતો અને ભૈયાની મહેનત છતાં તે નાપાસ થયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What subject did Bhaiya find very difficult? \n(A) Drawing \n(B) English and History \n(C) Music \n(D) Games",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) English and History</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા માટે અંગ્રેજી શીખવું એ લોઢાના ચણા ચાવવા જેવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "According to Bhaiya, what is more important than passing exams? \n(A) Playing \n(B) Experience of the world \n(C) Money \n(D) Good clothes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Experience of the world</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Experience is the best teacher' - ભૈયા અનુભવને મહત્વ આપતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Who was the 'Headmaster' in the story's example? \n(A) Munna's friend \n(B) A person with an M.A. degree \n(C) Bhaiya's teacher \n(D) The kite maker",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A person with an M.A. degree</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેડમાસ્ટર પાસે ડિગ્રી હતી પણ ઘર ચલાવવાનો અનુભવ 'મા' પાસે હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Who managed the house money better than the Headmaster? \n(A) Munna \n(B) Bhaiya \n(C) The Headmaster's mother \n(D) The postman",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) The Headmaster's mother</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણેલા કરતા ગણેલા (અનુભવી) વધુ સારું મેનેજમેન્ટ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What was Munna doing when Bhaiya caught him? \n(A) Sleeping \n(B) Chasing a kite \n(C) Writing \n(D) Eating",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Chasing a kite</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્ના 'પતંગ' પાછળ દોડતો પકડાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What does 'foundation' mean in the context of the story? \n(A) A building \n(B) Basic base of something \n(C) A type of makeup \n(D) To find something",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Basic base of something</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Foundation' એટલે પાયો, જે મજબૂત હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Find the opposite of 'Hardworking'. \n(A) Strong \n(B) Lazy \n(C) Honest \n(D) Clever",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Lazy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hardworking (મહેનતુ) ❌ Lazy (આળસુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "What is the past tense of 'Fly'? \n(A) Flyed \n(B) Flew \n(C) Flying \n(D) Flown",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Flew</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fly - Flew - Flown (Irregular Verb).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Which word means 'to be very happy'? \n(A) Sad \n(B) Angry \n(C) Joyful \n(D) Silent",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Joyful</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Joy = આનંદ, Joyful = આનંદિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "The brothers lived in a _____. \n(A) Palace \n(B) Hostel \n(C) Hut \n(D) Tree house",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Hostel</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને ભાઈઓ ઘરથી દૂર 'Hostel' માં રહીને ભણતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "What did Bhaiya say about English? \n(A) It is very easy \n(B) It is not a child's play \n(C) It is only for Munna \n(D) It is a game",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) It is not a child's play</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Not a child's play' એટલે કે સહેલું કામ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Fill in the blank: Munna was ______ to hear Bhaiya's lecture. \n(A) Happy \n(B) Excited \n(C) Scared \n(D) Sleepy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Scared</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલ ખીજાય ત્યારે બાળક 'Scared' (ડરેલું) અનુભવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "In 'My Elder Brother', who is the narrator of the story? \n(A) Bhaiya \n(B) Munna \n(C) The Teacher \n(D) The Mother",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Munna</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તા મુન્નાના દ્રષ્ટિકોણથી કહેવામાં આવી છે (I, me શબ્દો વપરાયા છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What did Munna draw on his notebooks? \n(A) Trees and mountains \n(B) Cats, dogs, and birds \n(C) Cars and bikes \n(D) Maps of India",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Cats, dogs, and birds</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્ના ફ્રી ટાઈમમાં પ્રાણીઓ અને પક્ષીઓના ચિત્રો દોરતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "According to the poem, you should cry until... \n(A) You fall asleep \n(B) Your pillow is soaked \n(C) Your eyes are red \n(D) Your mom calls you",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Your pillow is soaked</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Soaked' શબ્દ આ કવિતાનો મુખ્ય કીવર્ડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "What did Bhaiya want to build for Munna? \n(A) A house \n(B) A strong foundation in English \n(C) A kite \n(D) A toy car",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A strong foundation in English</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા મોટા હોવાથી મુન્નાનો પાયો (Foundation) મજબૂત કરવા ઈચ્છતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "What is the meaning of 'Firm' in 'Firm footing'? \n(A) Soft \n(B) Strong/Stable \n(C) Shaky \n(D) Small",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Strong/Stable</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Firm = મક્કમ અથવા મજબૂત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "Which word is a synonym for 'Huge'? \n(A) Small \n(B) Tiny \n(C) Enormous \n(D) Little",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Enormous</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Huge = Enormous = વિશાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "Who said: 'I am five years older than you'? \n(A) Munna \n(B) The Teacher \n(C) Bhaiya \n(D) Father",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Bhaiya</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા હંમેશા પોતાની ઉંમર અને અનુભવનું ગૌરવ લેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "Complete the sentence: Munna was fond of _______. \n(A) Reading \n(B) Flying Kites \n(C) Sleeping \n(D) Cleaning",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Flying Kites</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Fond of' એટલે ગમવું. મુન્નાને પતંગ ગમતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "In 'My Elder Brother', what was the 'timetable' missing? \n(A) Study hours \n(B) Play time \n(C) Dinner time \n(D) Sleep time",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Play time</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નાએ ભણવાનું બધું લખ્યું પણ 'રમવાનો' સમય લખવાનું ભૂલી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "What is the past tense of 'Take'? \n(A) Takened \n(B) Took \n(C) Taking \n(D) Takes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Took</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Take - Took - Taken.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "What does Bhaiya do when he fails again? \n(A) He becomes very happy \n(B) He becomes very gentle \n(C) He stops talking \n(D) He goes home",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He becomes very gentle</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજી વાર ફેઈલ થયા પછી ભૈયા નરમ (Gentle) પડી ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "Choose the correct spelling: \n(A) Foundation \n(B) Foundasion \n(C) Fundation \n(D) Foundetion",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Foundation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Found' + 'ation' = Foundation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "Who has more 'experience' according to Bhaiya? \n(A) Munna \n(B) The teachers \n(C) Their Parents (Ma and Baba) \n(D) Bhaiya's classmates",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Their Parents (Ma and Baba)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા-પિતા પાસે ગમે તેટલી ડિગ્રી ન હોય તો પણ અનુભવ વધુ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "What is the meaning of 'idling away'? \n(A) Working hard \n(B) Wasting time \n(C) Sleeping \n(D) Reading",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Wasting time</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Idle' એટલે નવરા બેસી રહેવું અથવા સમય બગાડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "Which word means 'to run after'? \n(A) Chase \n(B) Hide \n(C) Walk \n(D) Stop",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Chase</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્ના પતંગ પાછળ 'Chase' (પીછો) કરતો હતો.</p></div>"
+    }
+  ]
+}
