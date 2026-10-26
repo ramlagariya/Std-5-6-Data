@@ -1318,3 +1318,311 @@ var Std5_English_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Class Discussion & The Talkative Barber",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "In the poem 'Class Discussion', who was the person who spoke very little? \n(A) The Teacher \n(B) Jane \n(C) The Barber \n(D) The Sultan",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Jane</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Jane = Just silence. આખા ક્લાસમાં જેણે સૌથી ઓછું 'Jane' (જેન) બોલી એ શાંત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What activity was going on in the class? \n(A) A Singing competition \n(B) A Drawing competition \n(C) A Class Discussion \n(D) A Cricket match",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A Class Discussion</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણનું નામ જ 'Class Discussion' છે, એટલે એ જ એક્ટિવિટી ચાલતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "How did Jane sit during the discussion? \n(A) She was shouting \n(B) She was laughing \n(C) She was staring in silence \n(D) She was sleeping",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) She was staring in silence</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Quiet Jane' - શાંત વ્યક્તિ હંમેશા જોઈ રહે (Staring) પણ બોલે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "In the story 'The Talkative Barber', where did the Sultan live? \n(A) Delhi \n(B) Cashgar \n(C) Mumbai \n(D) Bagdad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Cashgar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cashgar - સુલતાન પાસે ઘણું 'Cash' (પૈસા) હતું એટલે 'Cashgar'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the Sultan call the Barber? \n(A) To cook food \n(B) To shave his head \n(C) To sing a song \n(D) To clean the palace",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) To shave his head</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Barber (હજામ) નું કામ જ વાળ કાપવાનું કે હજામત (Shave) કરવાનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "How many brothers did the Barber have? \n(A) Three \n(B) Five \n(C) Six \n(D) Seven",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Six</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Barber માં 'B' બીજા નંબરે આવે, પણ યાદ રાખો 'S' for Six brothers.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Which of the following words describes the Barber best? \n(A) Quiet \n(B) Talkative \n(C) Shy \n(D) Angry",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Talkative</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે 'The Talkative Barber'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why was the Sultan in a hurry? \n(A) He had a meeting with his ministers \n(B) He was going to a party \n(C) He had invited some friends for a feast at noon \n(D) He wanted to go for a hunt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) He had invited some friends for a feast at noon</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Feast = ભોજન સમારંભ. બપોરે જમવા માટે મહેમાનો આવવાના હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What did the Barber do instead of shaving the Sultan's head quickly? \n(A) He started singing \n(B) He started dancing \n(C) He started talking non-stop \n(D) He went to sleep",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) He started talking non-stop</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Talkative માણસ ગમે તે થાય પણ 'વાતો' કરવાનું છોડે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What did the Sultan offer the Barber to finish the work? \n(A) Gold coins \n(B) All the food prepared for the feast \n(C) His kingdom \n(D) A new house",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) All the food prepared for the feast</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાન કંટાળી ગયો હતો એટલે બધું 'જમવાનું' આપી દેવાની વાત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "What does the word 'Chatterer' mean? \n(A) A person who works hard \n(B) A person who talks a lot \n(C) A person who is very brave \n(D) A person who likes to paint",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A person who talks a lot</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chat = વાતો કરવી. Chatterer = બહુ વાતોડિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Jane was asked by the teacher to participate in the... \n(A) Game \n(B) Lunch \n(C) Discussion \n(D) Trip",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Discussion</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Class Discussion' પોયમમાં મેડમ ડિસ્કશનની જ વાત કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "What is the opposite of 'Quiet'? \n(A) Silent \n(B) Noisy \n(C) Calm \n(D) Peace",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Noisy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Quiet એટલે શાંત, Noisy એટલે અવાજવાળું / ઘોંઘાટિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "In the story, what did the Barber want for dessert? \n(A) Apples \n(B) Ice-cream \n(C) Fruits \n(D) Cakes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Fruits</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં બાર્બર કહે છે કે તેને ફ્રુટ્સ (ફળો) પણ જોઈએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "The Barber's first brother was... \n(A) Humpbacked \n(B) Toothless \n(C) Half-blind \n(D) Completely blind",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Humpbacked</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Humpbacked એટલે જેની પીઠમાં ખૂંધ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What did the Sultan lose eventually? \n(A) His money \n(B) His palace \n(C) His patience \n(D) His crown",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) His patience</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Patience = ધીરજ. બાર્બરની વાતોથી સુલતાન ધીરજ ખોઈ બેઠો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Who is the author of the poem 'Class Discussion'? \n(A) Gervase Phinn \n(B) Ruskin Bond \n(C) Roald Dahl \n(D) Robert Frost",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Gervase Phinn</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Discussion માં 'Ph'one જેવો અવાજ આવે, એટલે 'Ph'inn.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The Barber belongs to which story collection? \n(A) Aesop's Fables \n(B) Panchatantra \n(C) Arabian Nights \n(D) Jataka Tales",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Arabian Nights</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાન અને બાર્બરની વાતો હંમેશા 'Arabian Nights' માં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What is the synonym of 'Opinion'? \n(A) View \n(B) Silence \n(C) Noise \n(D) Fact",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) View</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Opinion એટલે તમારો મત અથવા તમારો 'View' (દ્રષ્ટિકોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "The Barber said he was a... \n(A) Great King \n(B) Great Shaver \n(C) Great Talker \n(D) Great Doctor",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Great Shaver</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બરે પોતે કહ્યું કે હું વાતોડિયો નથી પણ સારો 'Shaver' છું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "In 'Class Discussion', what did the teacher notice about Jane? \n(A) She was the loudest \n(B) She was the quietest \n(C) She was the tallest \n(D) She was the naughtiest",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) She was the quietest</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી પોયમમાં જેન તેની શાંત પ્રકૃતિ (Quiet nature) માટે જાણીતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "The Sultan wanted to get his head shaved before... \n(A) Morning \n(B) Evening \n(C) Noon \n(D) Night",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Noon</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Noon = બપોર. જમવાનું બપોરે હતું એટલે ત્યારે પતાવવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Find the word from the story which means 'extremely tired'. \n(A) Happy \n(B) Exhausted \n(C) Angry \n(D) Quick",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Exhausted</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Exhaust = બહુ જ થાકી જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "What did the Barber ask the Sultan to show him? \n(A) His jewels \n(B) The food \n(C) His family \n(D) His garden",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) The food</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બર લાલચુ હતો, તેને જોવું હતું કે સુલતાને શું શું બનાવડાવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Complete the sentence: 'Jane, you hardly ______ a word.' \n(A) Spoke \n(B) Said \n(C) Uttered \n(D) Talked",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Uttered</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકની લાઈન મુજબ 'uttered' શબ્દ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "The Barber's brothers were all... \n(A) Very rich \n(B) Great talkers \n(C) Very silent \n(D) Soldiers",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Great talkers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બરના આખા પરિવારમાં બધા જ વાતોડિયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What did the Sultan do to show he was angry? \n(A) He cried \n(B) He shouted and stamped his feet \n(C) He left the room \n(D) He laughed",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He shouted and stamped his feet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુસ્સામાં માણસ પગ પછાડે (Stamp feet).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "How many times did the Barber stop shaving to look at the food? \n(A) Once \n(B) Never \n(C) Several times \n(D) Only at the end",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Several times</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બર વારંવાર અટકતો હતો એટલે જ સુલતાન પરેશાન હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Which word in the poem means 'to look fixedly with eyes wide open'? \n(A) Stare \n(B) See \n(C) Blink \n(D) Watch",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Stare</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકીટશે જોવું એટલે 'Stare'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "What did the Sultan give to the Barber along with the food? \n(A) A horse \n(B) Fruits \n(C) Three pieces of gold \n(D) A silk robe",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Three pieces of gold</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાને તેને 3 સોનાના સિક્કા (Gold pieces) પણ આપ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "The Barber said one of his brothers was 'deaf'. What does 'deaf' mean? \n(A) Cannot see \n(B) Cannot speak \n(C) Cannot hear \n(D) Cannot walk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Cannot hear</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Deaf = બહેરા (સાંભળી ન શકે તે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "What is the meaning of 'Aired' in the poem? \n(A) To fly in air \n(B) To make public / Express \n(C) To breathe \n(D) To cool down",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) To make public / Express</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Opinions were aired' એટલે વિચારો વ્યક્ત કરવામાં આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "The Sultan finally let the Barber shave his head because... \n(A) He liked the Barber's stories \n(B) He was tired of the Barber's talk \n(C) The Barber promised to be quick \n(D) The food was getting cold",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He was tired of the Barber's talk</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાન એટલો થાકી ગયો હતો કે તેણે હાર માની લીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "Which of these is a synonym of 'Chatter'? \n(A) Silent \n(B) Gossip \n(C) Sleep \n(D) Write",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Gossip</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chatter અને Gossip બંનેનો અર્થ વાતો કરવી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "The Barber's sixth brother was... \n(A) A scholar \n(B) Humpbacked \n(C) Toothless \n(D) Half-blind",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Toothless</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાના અંતે છઠ્ઠા ભાઈ વિશે માહિતી મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "What is the opposite of 'Talkative'? \n(A) Chatty \n(B) Quiet \n(C) Loud \n(D) Vocal",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Quiet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બર 'Talkative' હતો અને જેન 'Quiet' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "Where was Jane sitting? \n(A) In the middle of the class \n(B) Near the window \n(C) On the teacher's chair \n(D) Under the desk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) In the middle of the class</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Plain' (ચોખ્ખું/વચ્ચે) દેખાય એવી રીતે તે વચ્ચે બેઠી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "What did the Barber say about his brothers? \n(A) They were all silent \n(B) They were all dead \n(C) They were all great talkers \n(D) They were all doctors",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) They were all great talkers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા કુટુંબમાં જ વાતો કરવાનું જીન (Gene) હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "What is the meaning of 'Deserve'? \n(A) To be worthy of \n(B) To eat dessert \n(C) To run away \n(D) To help others",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) To be worthy of</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Deserve = તમે જેના લાયક હોવ તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "How did the teacher address Jane? \n(A) Angrily \n(B) Politely/Gently \n(C) She didn't talk to her \n(D) Rudely",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Politely/Gently</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીચર હંમેશા પ્રેમાળ રીતે જ પૂછતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "Choose the correct spelling: \n(A) Discusion \n(B) Disscussion \n(C) Discussion \n(D) Diskusion",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Discussion</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Di-scu-ssion (બે 's' આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "What is 'Noon' in 12-hour format? \n(A) 12:00 AM \n(B) 12:00 PM \n(C) 1:00 PM \n(D) 11:00 AM",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12:00 PM</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરના 12 વાગ્યાને 12 PM કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "The Sultan was 'losing his head'. This idiom means: \n(A) He was getting a haircut \n(B) He was becoming crazy/angry \n(C) He was dying \n(D) He forgot something",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He was becoming crazy/angry</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Lose your head' એટલે ભાન ભૂલીને ગુસ્સે થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "Who said, 'I am not a chatterer'? \n(A) Jane \n(B) The Sultan \n(C) The Barber \n(D) The Teacher",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) The Barber</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સૌથી વધુ બોલે એ જ કહે કે હું નથી બોલતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "The Sultan's feast was for... \n(A) His family \n(B) His friends \n(C) The Barber \n(D) The poor people",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) His friends</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાને તેના મિત્રો (Friends) ને જમવા બોલાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "What is the rhyme of 'Jane' in the poem? \n(A) Plain \n(B) Rain \n(C) Main \n(D) All of these",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) All of these</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખા ઉચ્ચારવાળા શબ્દો (Rhyming words) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "What did the Barber do with the gold coins? \n(A) Threw them \n(B) Put them in his pocket \n(C) Gave them to his brothers \n(D) Bought a mirror",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Put them in his pocket</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કા હંમેશા ખિસ્સા (Pocket) માં રખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "Which word means 'a large meal'? \n(A) Breakfast \n(B) Snack \n(C) Feast \n(D) Dinner",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Feast</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Feast એટલે મહેમાનો માટે બનાવેલું ખાસ અને મોટું ભોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "The Barber was very ______ to Sultan's condition. \n(A) Helpful \n(B) Indifferent / Careless \n(C) Worried \n(D) Sad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Indifferent / Careless</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બરને સુલતાનની ઉતાવળની કોઈ પડી નહોતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "In the end, did the Barber finish shaving the Sultan's head? \n(A) Yes, completely \n(B) No, he left in the middle \n(C) Only half \n(D) He didn't start",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) No, he left in the middle (as per some versions) / Stayed unfinished till he saw food.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં બાર્બર વારંવાર અટકી જતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "What is the meaning of 'Barren'? \n(A) Empty / No life \n(B) Full of trees \n(C) Happy \n(D) Talkative",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Empty / No life</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Barren એટલે ઉજ્જડ અથવા ખાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "Jane was a ______ girl. \n(A) Brave \n(B) Quiet \n(C) Naughty \n(D) Lazy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Quiet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Quiet Jane' આખા પાઠનો મુખ્ય મુદ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "What was the Barber's opinion of himself? \n(A) He was a bad person \n(B) He was a generous and quiet person \n(C) He was very old \n(D) He was very poor",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He was a generous and quiet person</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર્બરને લાગતું હતું કે તેના ભાઈઓ વાતોડિયા છે, પણ તે પોતે શાંત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "Which of these is NOT a brother of the Barber? \n(A) Toothless \n(B) Humpbacked \n(C) Blind \n(D) King",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) King</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેના ભાઈઓ શારીરિક રીતે અશક્ત હતા પણ કોઈ રાજા નહોતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "The Sultan was getting ______. \n(A) Happier \n(B) Calmer \n(C) More and more impatient \n(D) Sleepy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) More and more impatient</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Impatient એટલે ધીરજ ખૂટી જવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "What did the teacher ask Jane at the end? \n(A) Why are you not sleeping? \n(B) Why are you so quiet? \n(C) Where is your bag? \n(D) Can you dance?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Why are you so quiet?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીચરને તેની શાંતિ (Silence) વિશે જાણવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "Find the correctly spelled word: \n(A) Queit \n(B) Quiet \n(C) Quitet \n(D) Qiet",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Quiet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q-U-I-E-T (શાંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "The Barber's brothers had names that sounded like... \n(A) Simple names \n(B) Long and difficult names \n(C) Funny names \n(D) King's names",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Long and difficult names</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધાના નામ 'Bak-bak' થી શરૂ થતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "What is the meaning of 'Patience'? \n(A) To be quick \n(B) Ability to wait calmly \n(C) To be angry \n(D) To run fast",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Ability to wait calmly</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Patience એટલે ધીરજ ધરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "Jane replied that there are many people in the world who are ______. \n(A) Noisy \n(B) Talkative \n(C) Quiet \n(D) Rich",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Quiet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેન પોતે શાંત હતી એટલે તેણે શાંત લોકોનો પક્ષ લીધો.</p></div>"
+    }
+  ]
+}
