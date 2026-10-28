@@ -131,3 +131,111 @@ var Std5_English_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Teamwork & Flying Together",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Teamwork is important to make our dream work. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Teamwork' કવિતાની પહેલી જ લીટી યાદ રાખો: 'Teamwork, teamwork, together we can make our dream work.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "If nobody passes the ball, you can still play basketball. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - કારણ કે જો કોઈ બોલ પાસ ન કરે, તો બાસ્કેટબોલની રમત આગળ વધી શકતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાસ્કેટબોલમાં 'Pass' કરવો જરૂરી છે, નહિતર કોઈ 'Shoot' કરી શકે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "A relay race can go on if no one wants to pass the baton. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - કારણ કે રિલે રેસમાં બેટન (baton) પાસ કરવો અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Relay race = Baton. જો બેટન અટકે તો રેસ અટકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "The geese lived in a very tall tree in a deep forest. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાની શરૂઆતમાં જ 'Tall tree' અને 'Deep forest' નો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "The wise old bird wanted the creeper to grow big. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - ડાહ્યા પક્ષીએ તેને નાનો હોય ત્યારે જ નાશ કરવાની સલાહ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Wise' એટલે ડાહ્યું, અને ડાહ્યા લોકો સંકટ મોટું થાય તે પહેલાં જ સાવચેત કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "The hunter climbed the tree with the help of a ladder. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - શિકારી વેલા (creeper) ની મદદથી ઉપર ચઢ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં 'Creeper' એ જ શિકારી માટે સીડી (ladder) નું કામ કર્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "The geese were caught in the hunter's net. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ જ્યારે સાંજે પાછા આવ્યા ત્યારે જાળમાં ફસાઈ ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "The wise old bird advised the geese to pretend to be dead. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Pretend to be dead' એટલે મરેલા હોવાનો ઢોંગ કરવો, જે બચવાની એક યુક્તિ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The hunter threw the geese out of the net one by one. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકારીને લાગ્યું કે પક્ષીઓ મરી ગયા છે એટલે તેણે તેમને નીચે ફેંક્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "All the geese flew away together in the end. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેલ્લું પક્ષી નીચે નંખાયું, ત્યારે બધા જ સાથે ઉડી ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "The young birds followed the wise bird's advice immediately. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - તેમણે વેલાનો નાશ કરવાની વાતને ગંભીરતાથી ન લીધી અને તેને ભૂલી ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Forget' (ભૂલી જવું) શબ્દ યાદ રાખો, પક્ષીઓ સલાહ ભૂલી ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "The hunter came to the tree in the morning. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારના સમયે જ્યારે પક્ષીઓ બહાર ગયા હતા ત્યારે શિકારી આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "The creeper became strong like a thick rope as it grew up the tree. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Creeper to Rope' - આ જ કારણે શિકારી ઉપર ચઢી શક્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "The geese cried 'Help! Help!' when they were caught in the net. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલીમાં પક્ષીઓ 'Help' જ બોલતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "The hunter was happy to see all the geese dead. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - શિકારી આશ્ચર્યચકિત (surprised) થયો હતો કારણ કે તેને લાગ્યું હતું કે તેઓ ખરેખર મરી ગયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકારી માટે 'Surprised' શબ્દ વપરાયો છે, 'Happy' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "In the poem 'Teamwork', the poet says we are parts that make up the whole. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'We are the parts that make up the whole' - આ કવિતાની મહત્વની પંક્તિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "The hunter spread his net at the bottom of the tree. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - તેણે જાળ ઝાડની ટોચ પર (at the top) બિછાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ ઝાડની ટોચ પર રહેતા હતા, એટલે જાળ પણ ત્યાં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The geese were very foolish from the beginning. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - તેઓ સાવચેત હતા પણ તેમણે આળસ કરી અને ગંભીરતા ન દાખવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Foolish' નહીં પણ 'Careless' (બેદરકાર) કહી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "The old bird said, 'Tomorrow morning we shall all be caught'. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False) - ડાહ્યા પક્ષીએ ચેતવણી આપી હતી કે વેલો વધશે તો શિકારી આવશે અને આપણને પકડી લેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભવિષ્યની આગાહી કરવા માટે 'Creeper' ના વધવાની વાત કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "The hunter climbed down the tree by the same creeper. (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Creeper' જ તેનો રસ્તો હતો, ચઢવા માટે પણ અને ઉતરવા માટે પણ.</p></div>"
+    }
+  ]
+}
