@@ -580,3 +580,111 @@ var Std5_English_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "The Lazy Frog & Rip Van Winkle",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Fred was a very hard-working frog.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). કારણ કે ફ્રેડ ખૂબ જ આળસુ (Lazy) દેડકો હતો અને આખો દિવસ લાકડાના બ્લોક પર સૂઈ રહેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fred = 'F'ree-time lover, એટલે કે તે કામચોર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Fred always helped his mother when she called him.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ફ્રેડ તેની માતાની બૂમો સાંભળવા છતાં તેની મદદ કરવા જતો ન હતો અને ઊંઘવાનો ઢોંગ કરતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આળસુ વ્યક્તિ કોઈની બૂમ સાંભળે નહીં, એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Fred pretended to be hard of hearing.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). તે બહેરો હોવાનો ઢોંગ કરતો હતો જેથી તેને કોઈ કામ ન કરવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hard of hearing' એટલે ઓછું સંભળાવું, જે ફ્રેડનું બહાનું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "When a lady frog hops by, Fred opens both his eyes.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ફ્રેડ એટલો આળસુ હતો કે કોઈ સ્ત્રી દેડકી પસાર થાય તો પણ તે એક પણ આંખ ખોલવાની તસ્દી લેતો નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fred = Super Lazy, તે કોઈના માટે ઊભો ન થાય કે આંખ ન ખોલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Rip Van Winkle was a kind neighbor.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). રીપ વેન વિન્કલ દયાળુ અને પડોશીઓને મદદરૂપ થનારો માણસ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rip ભલે આળસુ હતો, પણ સ્વભાવે 'Kind' (દયાળુ) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "The children of the village shouted with joy when they saw Rip.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). બાળકો રીપને ખૂબ પ્રેમ કરતા હતા કારણ કે તે તેમની સાથે રમતો અને વાર્તાઓ કહેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rip = Children's best friend!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Rip worked very hard on his own farm.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). રીપ પોતાના ખેતરમાં કામ કરવામાં ખૂબ આળસુ હતો, જેના કારણે તેના ખેતરમાં નીંદણ ઉગી ગયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rip બીજાની મદદ કરતો, પણ પોતાના ખેતરમાં 'Lazy' હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Rip's dog's name was Wolf.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). વુલ્ફ (Wolf) રીપનો વફાદાર કૂતરો અને એકમાત્ર સાથી હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વુલ્ફ એટલે વરુ, પણ અહી તે કૂતરાનું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The short men on the mountain were playing football.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ટૂંકા માણસો પર્વત પર 'Ninepins' (એક પ્રકારની રમત) રમી રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 Pins = નવ લાકડીઓની રમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Rip slept for twenty years.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). પર્વત પર જાદુઈ પીણું પીધા પછી રીપ પૂરા 20 વર્ષ સુધી ઊંઘતો રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 Years = Two Decades (બે દાયકા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "When Rip woke up, his beard was one foot long and white.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). 20 વર્ષ પછી જ્યારે તે જાગ્યો ત્યારે તેની દાઢી એક ફૂટ લાંબી અને સફેદ થઈ ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી ઊંઘ = લાંબી દાઢી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Rip recognized all the people in his village when he returned.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ગામમાં બધું જ બદલાઈ ગયું હતું અને તે કોઈને પણ ઓળખી શકતો ન હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 વર્ષમાં તો આખી પેઢી બદલાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "The short men on the mountain were very cheerful and laughing.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ભલે તેઓ રમત રમતા હતા, પણ તેમના ચહેરા ગંભીર (Serious) હતા અને ત્યાં સંપૂર્ણ શાંતિ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત છતાં શાંતિ = વિચિત્ર માણસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Rip was away from his home for ten years.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). રીપ તેના ઘરથી 20 (Twenty) વર્ષ દૂર રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ten નહીં પણ 20 (Double of ten) વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "The name of the mountains where Rip went was the Kaatskill Mountains.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). રીપ કેટસ્કીલ (Kaatskill) પર્વતો પર શિકાર કરવા ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K-A-A-T-S-K-I-L-L સ્પેલિંગ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Rip's gun was shiny and new when he woke up.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). તેની બંદૂક જૂની અને કાટ લાગેલી (Old and rusty) થઈ ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 વર્ષ લોખંડ બહાર રહે તો કાટ જ લાગે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Fred the frog is always busy hopping around.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). ફ્રેડ બિલકુલ કૂદાકૂદ કરતો નહોતો, તે તો આખો દિવસ સૂઈ રહેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રેડ એટલે આળસનું પૂતળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "An old woman recognized Rip when he returned to the village.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). એક વૃદ્ધ સ્ત્રીએ તેને ઓળખી કાઢ્યો અને તેનું સ્વાગત કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડોશી વૃદ્ધ મહિલાએ જ રીપને ઓળખ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Fred's mother wanted him to work and help her.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). તેની માતા તેને કામમાં મદદ કરવા માટે સતત બોલાવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મીની હેલ્પ = ફ્રેડની આળસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Rip Van Winkle is a story by Washington Irving.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True). આ વાર્તા વોશિંગ્ટન ઇરવિંગ દ્વારા લખાયેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'W'ashington 'I'rving = WI (West Indies નહીં હોં!).</p></div>"
+    }
+  ]
+}
