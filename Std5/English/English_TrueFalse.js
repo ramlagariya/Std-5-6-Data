@@ -447,3 +447,136 @@ var Std5_English_TrueFalse = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Crying (Poem) & Who Will Be Ningthou? (Story)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "The poet says you must not cry much. (કવિ કહે છે કે તમારે વધારે રડવું જોઈએ નહીં.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> કવિ કહે છે કે તમારે ત્યાં સુધી રડવું જોઈએ જ્યાં સુધી તમારું ઓશિકું પલળી ન જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Crying' કવિતામાં કવિ 'Cry a lot' (વધારે રડવાનું) કહે છે, થોડુંક નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "After crying, you can jump in the shower. (રડ્યા પછી તમે ફુવારામાં નાહી શકો છો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Cry' પછી 'Shower' અને પછી 'Splash' - આ ક્રમ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "You should throw open your window and laugh. (તમારે બારી ખોલીને હસવું જોઈએ.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રડ્યા પછી આનંદ વ્યક્ત કરવા માટે બારી ખોલી 'Ha, ha!' કરવાનું કવિ સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Happiness is hiding in the first tear. (ખુશી પ્રથમ આંસુમાં છુપાયેલી હોય છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> ખુશી છેલ્લા (last) આંસુમાં છુપાયેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Last tear' = 'Happiness'. છેલ્લું આંસુ હંમેશા ખુશીનું હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "The people of Kangleipak loved their King and Queen. (કાંગલીપાકના લોકો તેમના રાજા અને રાણીને પ્રેમ કરતા હતા.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વાર્તામાં પ્રજા અને રાજા વચ્ચે અત્યંત પ્રેમ બતાવવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Ningthou means Queen in Manipuri language. (મણિપુરી ભાષામાં નિંગથૌ એટલે રાણી થાય છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> Ningthou એટલે રાજા (King) અને Leima એટલે રાણી (Queen) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N = King (નિંગથૌ), L = Lady/Queen (લેઇમા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "The King and Queen had three sons and one daughter. (રાજા અને રાણીને ત્રણ પુત્રો અને એક પુત્રી હતી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 4 બાળકો = 3 છોકરા + 1 છોકરી (સનાતોમ્બી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Sanatombi was the name of the eldest son. (સનાતોમ્બી સૌથી મોટા પુત્રનું નામ હતું.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> સનાતોમ્બી રાજાની પુત્રી હતી, જે સૌથી નાની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tombi' નામ છોકરી માટે છે, પુત્ર માટે 'Joaba, Yaima, Tomba' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The King wanted to select his heir by holding a contest. (રાજા હરિફાઈ યોજીને પોતાનો વારસદાર પસંદ કરવા માંગતા હતા.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની પરંપરા મુજબ મોટા પુત્રને જ ગાદી મળતી, પણ અહીં 'ટેસ્ટ' લેવામાં આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "The contest held was a swimming race. (યોજાયેલ હરીફાઈ તરવાની સ્પર્ધા હતી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> તે ઘોડદોડ (Horse race) ની હરીફાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરના રાજકુમારો ઘોડેસવારીમાં નિપુણ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "All the three sons finished the race at the same time. (ત્રણેય પુત્રોએ એક જ સમયે દોડ પૂરી કરી હતી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણેય સરખા શક્તિશાળી હતા એટલે પરિણામ 'Tie' (સરખું) આવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Sanajaoba jumped through the banyan tree. (સનાજાઓબા વડના ઝાડની આરપાર કૂદકો માર્યો હતો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ પુત્ર (Sanajaoba) -> Through (આરપાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Sanayaima jumped over the banyan tree. (સનાયાઈમા વડના ઝાડની ઉપરથી કૂદકો માર્યો હતો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજો પુત્ર (Sanayaima) -> Over (ઉપરથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Sanatomba uprooted the Khongnang (banyan tree). (સનાતોમ્બાએ ખોંગનાંગ - વડનું ઝાડ - જડમૂળથી ઉખેડી નાખ્યું હતું.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજો પુત્ર (Sanatomba) -> Uprooted (ઉખેડી નાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Khongnang is a name of a mountain. (ખોંગનાંગ એ પર્વતનું નામ છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> ખોંગનાંગ (Khongnang) એ મણિપુરી ભાષામાં વડના ઝાડ (Banyan tree) નું નામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં ઝાડ કેન્દ્રમાં છે, પર્વત નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "The people were happy when Sanatomba uprooted the tree. (જ્યારે સનાતોમ્બાએ ઝાડ ઉખેડી નાખ્યું ત્યારે લોકો ખુશ હતા.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> લોકો ઝાડના મૃત્યુથી દુઃખી હતા અને આશ્ચર્યમાં હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવંત ઝાડને ઉખેડવાથી પ્રકૃતિ પ્રેમી પ્રજા ખુશ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Sanatombi felt the pain of the birds and the tree. (સનાતોમ્બીએ પક્ષીઓ અને ઝાડની વેદના અનુભવી હતી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દયા અને સહાનુભૂતિ એ જ સાચા શાસકના લક્ષણો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The King declared Sanayaima as the next ruler. (રાજાએ સનાયાઈમાને આગામી શાસક જાહેર કર્યો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> રાજાએ સનાતોમ્બી (પુત્રી) ને ભાવિ રાણી (Leima) તરીકે જાહેર કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે હૃદય છે તે જ શાસક બને, એટલે કે 'સનાતોમ્બી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "A Leima is one who does not hurt anybody in the kingdom. (લેઇમા તે છે જે રાજ્યમાં કોઈને પણ નુકસાન પહોંચાડતી નથી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાની છેલ્લી સ્પીચમાં આ વાક્ય 'Golden Words' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Sanatombi was 12 years old when she was declared the Future Leima. (સનાતોમ્બી જ્યારે ભવિષ્યની રાણી જાહેર થઈ ત્યારે તે 12 વર્ષની હતી.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> સનાતોમ્બી માત્ર 5 વર્ષની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, તે નાની હતી પણ સમજદાર - ઉંમર માત્ર 5 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "The birds were flapping their wings after the tree was uprooted. (ઝાડ ઉખડી ગયા પછી પક્ષીઓ પાંખો ફફડાવી રહ્યા હતા.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ બેઘર થયા એટલે તેઓ ચિંતિત થઈને ઉડતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Kangleipak is a place located in Kerala. (કાંગલીપાક એ કેરળમાં આવેલું એક સ્થળ છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> કાંગલીપાક એ મણિપુર (Manipur) માં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ આખી વાર્તા મણિપુરની લોકકથા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'Tumi' means 'Heir' in the lesson. (પાઠમાં 'તુમી' નો અર્થ 'વારસદાર' થાય છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> વારસદાર માટે 'Tunggi Ningthou' શબ્દ વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tunggi Ningthou = Future King.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "The poem 'Crying' tells us that we should be ashamed of crying. ('Crying' કવિતા આપણને જણાવે છે કે આપણે રડવામાં શરમ અનુભવવી જોઈએ.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False)</p><p><strong>કારણ:</strong> કવિતા કહે છે કે રડવું એ મનની સફાઈ જેવું છે અને રડ્યા પછી ખુશી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રડ્યા પછી નાહી લેવાનું અને મન હળવું કરવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "The King and Queen also loved the animals and birds. (રાજા અને રાણી પ્રાણીઓ અને પક્ષીઓને પણ પ્રેમ કરતા હતા.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'They loved everyone' - આ પાઠનો મુખ્ય સંદેશ છે.</p></div>"
+    }
+  ]
+}
