@@ -81,3 +81,61 @@ var Std5_English_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Flying Together",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \n\nવિભાગ A: \n(1) Geese \n(2) Hunter \n(3) Creeper \n(4) Wise \n\nવિભાગ B: \n(A) A person who catches animals \n(B) A bird like a large duck \n(C) Having knowledge or experience \n(D) A plant that grows up a tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (A)<br>(3) - (D)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાર્તાના પાત્રો યાદ રાખો! Hunter એટલે શિકારી, Wise એટલે હોંશિયાર પક્ષી અને Creeper એટલે વેલો જે ઝાડ પર ચઢે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિરુદ્ધાર્થી શબ્દો (Opposites) ના યોગ્ય જોડકાં જોડો: \n\nવિભાગ A: \n(1) Wise \n(2) Tall \n(3) Thick \n(4) Soft \n\nવિભાગ B: \n(A) Thin \n(B) Foolish \n(C) Hard \n(D) Short",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (D)<br>(3) - (A)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાર્તામાં મોટું ઝાડ (Tall) હતું અને તેની નીચે નાનો વેલો (Short) હતો. પક્ષી હોંશિયાર (Wise) હતું અને શિકારી મૂર્ખ (Foolish) સાબિત થયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એકવચન અને બહુવચન (Singular-Plural) ના જોડકાં જોડો: \n\nવિભાગ A: \n(1) Goose \n(2) Foot \n(3) Leaf \n(4) Tree \n\nવિભાગ B: \n(A) Leaves \n(B) Trees \n(C) Geese \n(D) Feet",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C)<br>(2) - (D)<br>(3) - (A)<br>(4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) યાદ રાખો કે 'oo' હોય ત્યાં 'ee' કરવાથી બહુવચન થાય છે (Goose-Geese, Foot-Feet), આ ખાસ પૂછાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાર્તામાં વપરાયેલ ક્રિયાપદો અને તેના ભૂતકાળના રૂપ જોડો: \n\nવિભાગ A: \n(1) Fly \n(2) Catch \n(3) See \n(4) Come \n\nવિભાગ B: \n(A) Came \n(B) Saw \n(C) Flew \n(D) Caught",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (C)<br>(2) - (D)<br>(3) - (B)<br>(4) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાર્તા ભૂતકાળમાં હોય ત્યારે 'Fly' નું 'Flew' અને 'Catch' નું 'Caught' થાય છે, સ્પેલિંગ ખાસ જોવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દો અને તેના સમાન અર્થ (Meanings) જોડો: \n\nવિભાગ A: \n(1) Muttered \n(2) Flapped \n(3) Heeded \n(4) Destroy \n\nવિભાગ B: \n(A) Moved wings up and down \n(B) Spoke in a low tone \n(C) To finish/kill \n(D) Paid attention to",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (A)<br>(3) - (D)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Muttered એટલે ગણગણવું, Flapped એટલે પાંખો ફફડાવવી. વાર્તામાં પક્ષીઓએ સલાહ ન માની (did not heed), એટલે મુશ્કેલી આવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાક્યખંડો (Phrases) ને યોગ્ય રીતે જોડો: \n\nવિભાગ A: \n(1) At the foot of \n(2) In a flutter \n(3) Long ago \n(4) To the top of \n\nવિભાગ B: \n(A) Many years back \n(B) To the highest point \n(C) Excited or nervous \n(D) At the bottom of",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (D)<br>(2) - (C)<br>(3) - (A)<br>(4) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Foot એટલે પગ, એટલે ઝાડનો નીચેનો ભાગ (Bottom). Top એટલે ઉપરનો ભાગ (Highest Point).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કયું પક્ષી/વ્યક્તિ શું બોલે છે અથવા તેની વિશેષતા શું છે? \n\nવિભાગ A: \n(1) Old Goose \n(2) Hunter \n(3) Young Geese \n(4) Creeper \n\nવિભાગ B: \n(A) Careless and playful \n(B) Wise and experienced \n(C) Strong like a rope \n(D) Climbed with a net",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (D)<br>(3) - (A)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાર્તાના અંતે 'Creeper' દોરડા જેવો મજબૂત (Strong rope) બની ગયો હતો, જેનાથી શિકારી ઉપર ચઢ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દોના સાચા સ્પેલિંગ સાથે જોડો: \n\nવિભાગ A: \n(1) Str_ggle \n(2) Hu_ter \n(3) Cr_eper \n(4) T_gether \n\nવિભાગ B: \n(A) n \n(B) u \n(C) o \n(D) e",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (A)<br>(3) - (D)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આ સ્પેલિંગ્સ ટેક્સ્ટબુકમાં વારંવાર આવે છે: Struggle (સંઘર્ષ), Hunter (શિકારી), Creeper (વેલો), Together (સાથે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્થળ અને તેના વિશેના વર્ણનને જોડો: \n\nવિભાગ A: \n(1) Forest \n(2) Tall tree \n(3) Net \n(4) River \n\nવિભાગ B: \n(A) Home of the geese \n(B) Where the story happened \n(C) Flowing water \n(D) Used to catch birds",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (A)<br>(3) - (D)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Tall Tree' એ હંસોનું ઘર હતું. જંગલમાં બધી ઘટના બની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ (One word substitution) જોડો: \n\nવિભાગ A: \n(1) To come down \n(2) Moving with difficulty \n(3) To kill/finish \n(4) To speak quietly \n\nવિભાગ B: \n(A) Struggle \n(B) Descend \n(C) Mutter \n(D) Destroy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (B)<br>(2) - (A)<br>(3) - (D)<br>(4) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Descend એટલે નીચે ઉતરવું અને Climb એટલે ઉપર ચઢવું. સંઘર્ષ એટલે Struggle!</p></div>"
+    }
+  ]
+}
