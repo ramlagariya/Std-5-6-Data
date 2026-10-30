@@ -247,3 +247,111 @@ var Std5_English_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Crying & Who Will be Ningthou?",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (શબ્દ અને અર્થ): \n વિભાગ 'A': (1) Soaked, (2) Shower \n વિભાગ 'B': (A) A bath in which water is sprayed from above, (B) Completely wet",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Soaked એટલે સાવ પલળી ગયેલું (Wet) અને Shower એટલે ફુવારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (શબ્દ અને અર્થ): \n વિભાગ 'A': (1) Happiness, (2) Kept \n વિભાગ 'B': (A) Put in a place, (B) Joy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Happiness એટલે આનંદ (Joy), Keep નું ભૂતકાળ Kept એટલે રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (Meitei શબ્દો): \n વિભાગ 'A': (1) Ningthou, (2) Leima \n વિભાગ 'B': (A) Queen, (B) King",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરીમાં રાજાને Ningthou અને રાણીને Leima કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (Meitei શબ્દો): \n વિભાગ 'A': (1) Meeyam, (2) Khongnang \n વિભાગ 'B': (A) Banyan tree, (B) People",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meeyam એટલે પ્રજા (People) અને Khongnang એટલે વડનું ઝાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (પાત્ર અને કાર્ય): \n વિભાગ 'A': (1) Sanajaoba, (2) Sanatombi \n વિભાગ 'B': (A) Future Leima, (B) Pierced the tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો દીકરો સનાજાઓબા ઝાડ વીંધી ગયો, જ્યારે દીકરી સનાતોમ્બી રાણી બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (વિરોધી શબ્દો): \n વિભાગ 'A': (1) Happiness, (2) Laughing \n વિભાગ 'B': (A) Crying, (B) Sadness",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસવું (Laugh) તો રડવું (Cry), અને ખુશી તો દુઃખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (Rhyming Words): \n વિભાગ 'A': (1) Cry, (2) Last \n વિભાગ 'B': (A) Fast, (B) Sky",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે સરખો અવાજ આવવો જોઈએ - Cry-Sky અને Last-Fast.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (Rhyming Words): \n વિભાગ 'A': (1) Shower, (2) Keep \n વિભાગ 'B': (A) Sleep, (B) Flower",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shower-Flower અને Keep-Sleep નો લય સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (શબ્દ અને તેના અર્થ): \n વિભાગ 'A': (1) Worthy, (2) Contest \n વિભાગ 'B': (A) Competition, (B) Deserving",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Contest એટલે હરીફાઈ અને Worthy એટલે લાયક (Deserving).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (સંખ્યાવાચક): \n વિભાગ 'A': (1) One, (2) Five \n વિભાગ 'B': (A) Years old Sanatombi, (B) Little bit of crying",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતા મુજબ 'Cry a little bit' અને વાર્તામાં સનાતોમ્બી 5 વર્ષની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (ક્રિયા): \n વિભાગ 'A': (1) Sanayaima, (2) Sanatomba \n વિભાગ 'B': (A) Uprooted the tree, (B) Jumped over the tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સનાયાએમાએ ઠેકડો માર્યો (Jump) અને સનાતોમ્બાએ ઝાડ ઉખેડી નાખ્યું (Uprooted).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (વિરોધી શબ્દો): \n વિભાગ 'A': (1) Peace, (2) Worthy \n વિભાગ 'B': (A) Unworthy, (B) War/Disturbance",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Peace એટલે શાંતિ, તેનું વિરોધી અશાંતિ. Worthy ની આગળ Un- લગાવવાથી વિરોધી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (પાઠની વસ્તુઓ): \n વિભાગ 'A': (1) Spear, (2) Pony \n વિભાગ 'B': (A) A small horse, (B) A long pointed weapon",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Spear એટલે ભાલો (Weapon) અને Pony એટલે નાનો ઘોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (ઉદગાર અને સ્થિતિ): \n વિભાગ 'A': (1) Ha ha!, (2) Boo-hoo! \n વિભાગ 'B': (A) Crying sound, (B) Laughing sound",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસતી વખતે હા-હા અને રડતી વખતે બૂ-હૂ અવાજ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (Meitei પ્રદેશ): \n વિભાગ 'A': (1) Kangleipak, (2) Meeyam \n વિભાગ 'B': (A) People of Manipur, (B) Manipur",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંગલેઈપાક એ મણિપુરનું નામ છે અને પ્રજાને મિયામ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (શબ્દ સમૂહ): \n વિભાગ 'A': (1) At last, (2) Gently \n વિભાગ 'B': (A) Softly, (B) Finally",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: At last એટલે છેવટે (Finally) અને Gently એટલે ધીમેથી (Softly).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (ક્રિયા અને સાધન): \n વિભાગ 'A': (1) Pierced, (2) Ride \n વિભાગ 'B': (A) Horse/Pony, (B) Spear",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાલા (Spear) થી વીંધાય અને પોની (Pony) પર સવારી (Ride) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (કવિતાનો ભાવ): \n વિભાગ 'A': (1) Splash, (2) Jump \n વિભાગ 'B': (A) Action of Sanayaima, (B) Sound of water",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં પલળવાથી સ્પ્લેશ અવાજ આવે અને સાનાયાએમાએ જમ્પ માર્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (રાજવી પરિવાર): \n વિભાગ 'A': (1) Three, (2) One \n વિભાગ 'B': (A) Number of daughters, (B) Number of sons",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાને 3 દીકરા (Sons) અને 1 દીકરી (Daughter) હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો (ગુણધર્મો): \n વિભાગ 'A': (1) Kind-hearted, (2) Skillful \n વિભાગ 'B': (A) Good at doing something, (B) Loving and caring",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kind એટલે દયાળુ (Loving) અને Skillful એટલે આવડતવાળું (Good at work).</p></div>"
+    }
+  ]
+}
