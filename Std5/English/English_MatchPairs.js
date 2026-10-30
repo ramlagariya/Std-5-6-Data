@@ -139,3 +139,111 @@ var Std5_English_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "My Shadow & Robinson Crusoe Discovers a Footprint",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Shadow <br>2. India-rubber ball<br>---<br>A. Bounces high<br>B. Goes in and out with me",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Shadow - (B) Goes in and out with me <br>2. India-rubber ball - (A) Bounces high</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shadow (પરછાયો) હંમેશા આપણી સાથે 'In and Out' થાય છે અને Ball હંમેશા 'Bounce' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Buttercup <br>2. Arrant sleepy-head<br>---<br>A. A lazy person<br>B. A yellow flower",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Buttercup - (B) A yellow flower <br>2. Arrant sleepy-head - (A) A lazy person</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Butter' એટલે પીળું માખણ, તેથી Buttercup એ 'Yellow flower' છે. Sleepy-head એટલે ઊંઘણશી (Lazy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Savages <br>2. Mainland<br>---<br>A. Large area of land<br>B. Wild people in primitive state",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Savages - (B) Wild people <br>2. Mainland - (A) Large area of land</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Robinson Crusoe વાળા પાઠમાં જંગલી લોકોને 'Savages' કહેવામાં આવ્યા છે. Main-land એટલે મુખ્ય જમીન (Large land).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Frightened <br>2. Confused<br>---<br>A. Puzzled / Mixed up<br>B. Afraid / Scared",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Frightened - (B) Afraid / Scared <br>2. Confused - (A) Puzzled / Mixed up</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Fright' એટલે ડર (Fear), તેથી Frightened એટલે ડરેલું. 'Con' અક્ષર યાદ રાખો, Puzzled માં મગજ ગુંચવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાચા રાઈમિંગ શબ્દો (Rhyming Words) જોડો:<br>1. Bed <br>2. Way<br>---<br>A. Day<br>B. Head",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Bed - (B) Head <br>2. Way - (A) Day</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉચ્ચાર સમાન હોવો જોઈએ: Bed-Head, Way-Day. કવિતામાં આ શબ્દો જોડે આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' (શબ્દ) ને વિભાગ 'B' (વિરોધી શબ્દ) સાથે જોડો:<br>1. Tall <br>2. Early<br>---<br>A. Late<br>B. Short",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Tall - (B) Short <br>2. Early - (A) Late</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરછાયો ક્યારેક 'Tall' (લાંબો) થાય તો ક્યારેક 'Short' (ટૂંકો). સવારે વહેલા એટલે 'Early' અને મોડા એટલે 'Late'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' (સ્થળ) ને વિભાગ 'B' (વર્ણન) સાથે જોડો:<br>1. Shore <br>2. Island<br>---<br>A. Land surrounded by water<br>B. The edge of the sea",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Shore - (B) The edge of the sea <br>2. Island - (A) Land surrounded by water</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shore એટલે દરિયાકિનારો (Edge). Island એટલે ચારે બાજુ પાણીવાળો ટાપુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દોના અર્થ જોડો:<br>1. Boldly <br>2. Chased<br>---<br>A. Ran after<br>B. Bravely",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Boldly - (B) Bravely <br>2. Chased - (A) Ran after</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'B' for Boldly અને 'B' for Bravely. Chased એટલે પીછો કરવો (Ran after).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિતા મુજબ જોડો:<br>1. Morning dew <br>2. India-rubber ball<br>---<br>A. Bounces<br>B. Shines on every buttercup",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Morning dew - (B) Shines on every buttercup <br>2. India-rubber ball - (A) Bounces</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dew (ઝાકળ) હંમેશા ચમકે (Shines) અને Ball હંમેશા ઉછળે (Bounces).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દો જોડો (Opposites):<br>1. Found <br>2. Faster<br>---<br>A. Slower<br>B. Lost",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Found - (B) Lost <br>2. Faster - (A) Slower</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોબિન્સનને ફૂટપ્રિન્ટ મળી (Found) અને તે ઝડપથી (Faster) દોડ્યો. તેના વિરોધી Lost અને Slower છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Footprint <br>2. Cave<br>---<br>A. Robinson's castle<br>B. Mark of a foot",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Footprint - (B) Mark of a foot <br>2. Cave - (A) Robinson's castle</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Footprint એટલે પગની છાપ (Mark). રોબિન્સન તેની ગુફાને 'Castle' (કિલ્લો) કહેતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાઈમિંગ શબ્દો (Rhyming Words) જોડો:<br>1. Found <br>2. Fear<br>---<br>A. Near<br>B. Ground",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Found - (B) Ground <br>2. Fear - (A) Near</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ound' અને 'ear' વાળા સ્પેલિંગ સરખા ઉચ્ચાર આપે છે. Found-Ground, Fear-Near.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાક્યના ભાગ જોડો:<br>1. I stayed in bed <br>2. The shadow is lazy<br>---<br>A. because it doesn't move<br>B. like an arrant sleepy-head",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. I stayed in bed - (B) like an arrant sleepy-head <br>2. The shadow is lazy - (A) because it doesn't move</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bed માં સૂવા વાળો 'Sleepy-head' જ હોય. આ કવિતાની લાઈન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' (ક્રિયા) ને 'B' (સાધન/વસ્તુ) સાથે જોડો:<br>1. Examine <br>2. Measure<br>---<br>A. Length or size<br>B. To look at carefully",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Examine - (B) To look at carefully <br>2. Measure - (A) Length or size</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Examine એટલે ઝીણવટપૂર્વક તપાસવું (Look carefully). Measure એટલે માપ લેવું (Size).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દો (Opposites) જોડો:<br>1. Behind <br>2. Outside<br>---<br>A. Inside<br>B. In front of",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Behind - (B) In front of <br>2. Outside - (A) Inside</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Behind' (પાછળ) ની વિરુદ્ધ 'In front of' (આગળ) થાય. 'Out' ની વિરુદ્ધ 'In'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાઠના સંદર્ભમાં જોડો:<br>1. Toes and Heel <br>2. Ladders<br>---<br>A. Used for climbing<br>B. Parts of a footprint",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Toes and Heel - (B) Parts of a footprint <br>2. Ladders - (A) Used for climbing</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Footprint માં આંગળીઓ (Toes) અને એડી (Heel) હોય. Ladder એટલે નિસરણી જે ચઢવા માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કવિતાના રાઈમિંગ શબ્દો જોડો:<br>1. See <br>2. All<br>---<br>A. Ball<br>B. Me",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. See - (B) Me <br>2. All - (A) Ball</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'See' અને 'Me' નો 'ee' અવાજ સરખો છે. 'All' અને 'Ball' નો 'all' સરખો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દોના સાચા અર્થ જોડો:<br>1. Puzzled <br>2. Alone<br>---<br>A. Single / Only one<br>B. Confused",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Puzzled - (B) Confused <br>2. Alone - (A) Single / Only one</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Puzzle' સોલ્વ કરતી વખતે આપણે Confused હોઈએ છીએ. 'Alone' એટલે એકલું (Single).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. Inhabited <br>2. Frequent<br>---<br>A. Happening often<br>B. Lived in / Occupied",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Inhabited - (B) Lived in / Occupied <br>2. Frequent - (A) Happening often</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Habit (આદત/રહેઠાણ) પરથી Inhabited યાદ રાખો. Frequent એટલે વારંવાર થતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાત્ર અને તેની સ્થિતિ જોડો:<br>1. Robinson Crusoe <br>2. Shadow<br>---<br>A. Grows and shrinks<br>B. Frightened on the island",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. Robinson Crusoe - (B) Frightened on the island <br>2. Shadow - (A) Grows and shrinks</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોબિન્સન ટાપુ પર ડરી ગયો હતો અને પરછાયો (Shadow) નાનો-મોટો (Grow-Shrink) થાય છે.</p></div>"
+    }
+  ]
+}
