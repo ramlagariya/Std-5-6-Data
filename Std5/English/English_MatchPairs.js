@@ -413,3 +413,86 @@ var Std5_English_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Class Discussion & The Talkative Barber",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>1. Discussion  (A) Expressed publicly<br>2. Aired  (B) Group talk on a single topic<br>3. Barely  (C) Looked fixedly with eyes wide open<br>4. Stared  (D) Only just; Scarcely",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Discuss એટલે 'ચર્ચા' (Group talk), Stare એટલે 'ટકટકી લગાવીને જોવું' (Look fixedly).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>1. Quiet  (A) A person who cuts hair<br>2. Barber  (B) To look at something very carefully<br>3. Examine  (C) Making very little or no noise<br>4. Defect  (D) A fault or a flaw",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Quiet એટલે 'શાંત' (No noise), Barber એટલે 'વાણંદ' (Cuts hair).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાચા વિરોધી શબ્દો (Opposites) ના જોડકાં જોડો:<br>1. Quiet  (A) Patient<br>2. Impatient  (B) Small<br>3. Huge  (C) Noisy<br>4. Start  (D) Stop",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Im' કાઢી નાખો એટલે Impatient નું વિરોધી Patient મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાત્ર અને તેમના ગુણો ને જોડો:<br>1. Jane  (A) Talkative and chatty<br>2. The Barber  (B) Quiet and didn't say much<br>3. The Sultan  (C) Seven brothers<br>4. Barber's family  (D) Lost his patience",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેન (Jane) 'શાંત' હતી અને વાણંદ (Barber) 'વાતોડિયો' હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દ અને તેના અર્થ (The Talkative Barber મુજબ) જોડો:<br>1. Chatty  (A) A person who talks a lot<br>2. Opinion  (B) To be in a hurry; not waiting<br>3. Impatient  (C) Talkative<br>4. Chatterer  (D) What a person thinks about something",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Chat' એટલે વાતો કરવી, એટલે Chatty અને Chatterer બંને વાતોડિયા માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' (Action) અને વિભાગ 'બ' (Object) ને જોડો:<br>1. Shave  (A) A discussion<br>2. Air  (B) The head<br>3. Join  (C) Opinions/Feelings<br>4. Give  (D) A feast",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shave હંમેશા 'Head' (માથું) કે દાઢીની કરાય, અને 'Discussion' માં 'Join' થવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દાર્થ (English to Gujarati) જોડો:<br>1. Dessert  (A) મિજબાની / ભોજન સમારંભ<br>2. Feast  (B) ખાતરી કરવી<br>3. At last  (C) જમ્યા પછીની મીઠાઈ<br>4. Confirm  (D) અંતે / છેવટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-D, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dessert માં ડબલ 's' આવે છે જે 'Sweet' (મીઠાઈ) યાદ રાખવામાં મદદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' અને વિભાગ 'બ' ને પાઠના આધારે જોડો:<br>1. Sultan's head  (A) Generous<br>2. Barber's brothers  (B) Half-shaved<br>3. Sultan's nature  (C) One was blind, one deaf...<br>4. The Barber  (D) Great talker",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાનનું માથું 'અડધું' (Half-shaved) રહી ગયું હતું કારણ કે વાણંદ વાતો કરતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દો (Antonyms) જોડો:<br>1. Quiet  (A) Empty<br>2. Full  (B) Talkative<br>3. Wise  (C) Everything<br>4. Nothing  (D) Foolish",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wise એટલે 'ડાહ્યું' અને Foolish એટલે 'મૂર્ખ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ (English) જોડો:<br>1. To look closely  (A) Dessert<br>2. To express thoughts  (B) Examine<br>3. A sweet dish  (C) Air<br>4. To speak lot  (D) Chatter",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Examine' એટલે તપાસવું (Look closely).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. Shaver  (A) A king<br>2. Sultan  (B) In a plain way<br>3. Plainly  (C) The person who shaves others<br>4. Around  (D) In all directions",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Around' એટલે ચારે બાજુ (In all directions).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એકવચન - બહુવચન (Singular-Plural) જોડો:<br>1. Brother  (A) Cities<br>2. Shaver  (B) Shavers<br>3. City  (C) Feasts<br>4. Feast  (D) Brothers",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-B, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: City માં છેલ્લે 'y' છે, એટલે તેનું 'ies' (Cities) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભૂતકાળના રૂપો (Past Tense) જોડો:<br>1. Say  (A) Went<br>2. Shave  (B) Said<br>3. Go  (C) Stared<br>4. Stare  (D) Shaved",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Go નું ભૂતકાળ 'Went' થાય તે ખાસ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (Prefix) અને વિભાગ 'બ' (Word) જોડો:<br>1. Un  (A) Patient<br>2. Im  (B) Clear<br>3. Dis  (C) Happy<br>4. In  (D) Agree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-D, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Un+happy, Im+patient, Dis+agree, In+clear (અહીં Unclear પણ હોઈ શકે પણ વિકલ્પ મુજબ જોવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પર્યાયવાચી શબ્દો (Synonyms) જોડો:<br>1. Wealth  (A) View<br>2. Opinion  (B) Riches/Money<br>3. Scarcely  (C) Silent<br>4. Quiet  (D) Barely",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Barely અને Scarcely બંનેનો અર્થ 'ભાગ્યે જ' થાય.</p></div>"
+    }
+  ]
+}
