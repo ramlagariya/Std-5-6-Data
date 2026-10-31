@@ -355,3 +355,61 @@ var Std5_English_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "The Lazy Frog & Rip Van Winkle",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Loll, (2) Log, (3) Shirk, (4) Bother<br><b>વિભાગ 'B'</b>: (A) To avoid work, (B) To lie around lazily, (C) To annoy, (D) Part of a tree trunk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Loll - (B) To lie around lazily</li><li>(2) Log - (D) Part of a tree trunk</li><li>(3) Shirk - (A) To avoid work</li><li>(4) Bother - (C) To annoy</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lazy લોકો 'Loll' કરે, 'Log' (લાકડું) પર સૂઈ રહે, કામ 'Shirk' (ચોરી) કરે અને બીજાને 'Bother' (હેરાન) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Frog, (2) Shirk, (3) Heap, (4) Vain<br><b>વિભાગ 'B'</b>: (A) Rain, (B) Sleep, (C) Work, (D) Log",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Frog - (D) Log</li><li>(2) Shirk - (C) Work</li><li>(3) Heap - (B) Sleep</li><li>(4) Vain - (A) Rain</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 'Rhyming Words' છે. Frog-Log, Shirk-Work, Heap-Sleep અને Vain-Rain. બોલવામાં સરખા લાગે તેને જોડી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Fred, (2) Rip Van Winkle, (3) Wolf, (4) Strange Men<br><b>વિભાગ 'B'</b>: (A) A dog, (B) A lazy frog, (C) Played ninepins, (D) A kind but idle man",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Fred - (B) A lazy frog</li><li>(2) Rip Van Winkle - (D) A kind but idle man</li><li>(3) Wolf - (A) A dog</li><li>(4) Strange Men - (C) Played ninepins</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fred એ 'Frog' છે, Rip એ 'Man' છે, Wolf એ 'Dog' છે અને વિચિત્ર માણસો 'Ninepins' (ગેમ) રમતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Idle, (2) Companion, (3) Astonished, (4) Grizzled<br><b>વિભાગ 'B'</b>: (A) Surprised, (B) Having grey hair, (C) Lazy, (D) Partner",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Idle - (C) Lazy</li><li>(2) Companion - (D) Partner</li><li>(3) Astonished - (A) Surprised</li><li>(4) Grizzled - (B) Having grey hair</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Idle = આળસુ, Companion = સોબતી (મિત્ર), Astonished = આશ્ચર્યચકિત, Grizzled = સફેદ-ભૂખરા વાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Rip's beard, (2) Rip's gun, (3) Rip's dog, (4) Rip's sleep<br><b>વિભાગ 'B'</b>: (A) Missing, (B) Twenty years, (C) Rusty, (D) A foot long",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Rip's beard - (D) A foot long</li><li>(2) Rip's gun - (C) Rusty</li><li>(3) Rip's dog - (A) Missing</li><li>(4) Rip's sleep - (B) Twenty years</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાઢી (Beard) લાંબી થઈ ગઈ, બંદૂક (Gun) કટાઈ ગઈ (Rusty), કૂતરો (Dog) ખોવાઈ ગયો અને ઊંઘ 20 વર્ષની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Lazy, (2) Kind, (3) High, (4) Friend<br><b>વિભાગ 'B'</b>: (A) Low, (B) Enemy, (C) Hardworking, (D) Cruel",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Lazy - (C) Hardworking</li><li>(2) Kind - (D) Cruel</li><li>(3) High - (A) Low</li><li>(4) Friend - (B) Enemy</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વિરોધી શબ્દો (Opposites) છે. આળસુ તો મહેનતુ, દયાળુ તો ક્રૂર, ઊંચું તો નીચું, મિત્ર તો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Ninepins, (2) Barrel, (3) Kaatskill, (4) Village<br><b>વિભાગ 'B'</b>: (A) Mountains, (B) Foothills, (C) A game, (D) A container",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Ninepins - (C) A game</li><li>(2) Barrel - (D) A container</li><li>(3) Kaatskill - (A) Mountains</li><li>(4) Village - (B) Foothills</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ninepins રમત છે, Barrel પીપડું (container) છે અને Kaatskill એ પર્વતમાળાનું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Constant, (2) Tremble, (3) Echo, (4) Famished<br><b>વિભાગ 'B'</b>: (A) Reflection of sound, (B) Very hungry, (C) Regular/Fixed, (D) To shake",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Constant - (C) Regular/Fixed</li><li>(2) Tremble - (D) To shake</li><li>(3) Echo - (A) Reflection of sound</li><li>(4) Famished - (B) Very hungry</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Constant = સતત, Tremble = ધ્રૂજવું, Echo = પડઘો, Famished = ભૂખથી વ્યાકુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Fred's Mother, (2) Wolf, (3) Rip's Son, (4) Old Woman<br><b>વિભાગ 'B'</b>: (A) Recognized Rip, (B) Called him to work, (C) Rip's companion, (D) Just like Rip",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Fred's Mother - (B) Called him to work</li><li>(2) Wolf - (C) Rip's companion</li><li>(3) Rip's Son - (D) Just like Rip</li><li>(4) Old Woman - (A) Recognized Rip</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી કામ સોંપે, Wolf સાથી હતો, દીકરો પિતા જેવો જ આળસુ હતો અને પાડોશીએ Rip ને ઓળખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b>: (1) Wrinkled, (2) Listless, (3) Hollow, (4) Steep<br><b>વિભાગ 'B'</b>: (A) Low area/Valley, (B) Lacking energy, (C) Rising sharply, (D) Having lines on skin",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) Wrinkled - (D) Having lines on skin</li><li>(2) Listless - (B) Lacking energy</li><li>(3) Hollow - (A) Low area/Valley</li><li>(4) Steep - (C) Rising sharply</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wrinkled = કરચલીવાળું, Listless = નિરુત્સાહી, Hollow = પોલાણ, Steep = સીધો ચઢાણ.</p></div>"
+    }
+  ]
+}
