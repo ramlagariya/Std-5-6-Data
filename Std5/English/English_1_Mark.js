@@ -622,3 +622,211 @@ var Std5_English_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Unit 4: Crying (Poem) & My Elder Brother (Story)",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "According to the poet, how much should you cry? (કવિના મતે તમારે કેટલું રડવું જોઈએ?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> According to the poet, you should cry until your pillow is soaked.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Soaked Pillow' યાદ રાખો - એટલે કે ઓશીકું ભીંજાઈ જાય ત્યાં સુધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What can you do after crying a lot? (ખૂબ રડ્યા પછી તમે શું કરી શકો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After crying a lot, you can jump in the shower and splash-splash-splash!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Shower and Splash' - રડ્યા પછી ન્હાવાથી મન તાજું થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Why should you throw open your window after crying? (રડ્યા પછી તમારે બારી કેમ ખોલવી જોઈએ?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> You should throw open your window to show everyone that you are happy now.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Window = Happiness' - ખુશી બતાવવા બારી ખોલવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What will people say when they see you laughing? (જ્યારે લોકો તમને હસતા જોશે ત્યારે તેઓ શું કહેશે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> People will say, \"Hey, what is going on up there?\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'What's going on' - આશ્ચર્યચકિત લોકોનો પ્રશ્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Where was the happiness hiding in the poem 'Crying'? ('Crying' કવિતામાં ખુશી ક્યાં છુપાયેલી હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Happiness was hiding in the last tear.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Last Tear = Happiness' - છેલ્લું આંસુ સૌથી કિંમતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Who is the poet of the poem 'Crying'? ('Crying' કવિતાના કવિ કોણ છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The poet of the poem 'Crying' is Galway Kinnell.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Gal-way' (ગેલ-વે) - માર્ગ જે ખુશી તરફ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What are the two main characters in the story 'My Elder Brother'? ('My Elder Brother' વાર્તામાં બે મુખ્ય પાત્રો કયા છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The two main characters are Bhaiya (the elder brother) and Munna (the younger brother).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાઈ-મુન્નાની જોડી એટલે આ પાઠની વાર્તા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How old was Munna? (મુન્નાની ઉંમર કેટલી હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna was nine years old.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નો = 9 વર્ષ (નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "How old was Bhaiya? (ભૈયાની ઉંમર કેટલી હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya was fourteen years old.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા = 14 વર્ષ (મોટો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "How many years ahead was Bhaiya in school? (શાળામાં ભૈયા કેટલા વર્ષ આગળ હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya was three classes ahead of Munna.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંમરમાં 5 વર્ષનો અને ભણવામાં 3 ધોરણનો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "What did Bhaiya do all day? (ભૈયા આખો દિવસ શું કરતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya spent all his time studying and reading books.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા = પુસ્તકિયો કીડો (Bookworm).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What did Munna like to do? (મુન્નાને શું કરવું ગમતું હતું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna liked to play marbles, fly kites, and run in the green fields.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નો = રમતિયાળ (Playful).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Where were the two brothers staying? (બંને ભાઈઓ ક્યાં રહેતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The two brothers were staying in a hostel.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્ટેલ - ઘરથી દૂર અભ્યાસ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Why did Bhaiya study the same class for two or three years? (ભૈયા શા માટે એક જ ધોરણમાં બે-ત્રણ વર્ષ અભ્યાસ કરતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Because he wanted a strong foundation for his education.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Strong Foundation' - પાયો મજબૂત કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "What did Munna draw on his notebooks? (મુન્નાએ તેની નોટબુકમાં શું દોર્યું હતું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna drew pictures of birds, dogs, and cats on his notebooks.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોટબુકમાં ચિત્રકામ એટલે મુન્નો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What did Bhaiya ask Munna to make? (ભૈયાએ મુન્નાને શું બનાવવાનું કહ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya asked Munna to make a timetable for his studies.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિસ્ત માટે 'Timetable' જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What was missing in Munna's timetable? (મુન્નાના ટાઈમટેબલમાં શું ખૂટતું હતું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The time to play was missing in Munna's timetable.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયાએ રમવાનો સમય રાખ્યો જ નહોતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What happened in the final exams? (વાર્ષિક પરીક્ષામાં શું થયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna passed and stood first in his class, while Bhaiya failed again.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નો પાસ (First Number), ભૈયા ફેઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "How many years gap was left between them after the first exam? (પહેલી પરીક્ષા પછી તેમની વચ્ચે કેટલા વર્ષનું અંતર બાકી રહ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Now, there was only a two-year gap between them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 માંથી 1 બાદ = 2 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What subject did Bhaiya find very difficult? (ભૈયાને કયો વિષય બહુ અઘરો લાગતો હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya found English to be a very difficult subject.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૈયા માટે અંગ્રેજી એટલે 'લોઢાના ચણા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "What happened in the second year exams? (બીજા વર્ષની પરીક્ષામાં શું થયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna passed again and Bhaiya failed again.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇતિહાસનું પુનરાવર્તન થયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "How many years gap remained after the second exam? (બીજી પરીક્ષા પછી કેટલા વર્ષનું અંતર રહ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> There was only a one-year gap left between them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવે માત્ર 1 ધોરણનો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "What is more important than bookish knowledge according to Bhaiya? (ભૈયાના મતે પુસ્તકિયા જ્ઞાન કરતા વધુ મહત્વનું શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> According to Bhaiya, experience is more important than bookish knowledge.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Experience is the best teacher'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Who manages the money in the brothers' family? (ભાઈઓના પરિવારમાં પૈસાનું સંચાલન કોણ કરે છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Their mother and father (Baba) manage the money.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા અને બાબા = ઘરના મેનેજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Did the mother go to school? (શું માતા શાળાએ ગયા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> No, the mother never went to school.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણ્યા નથી પણ ગણ્યા (અનુભવી) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "What did Bhaiya do when he saw Munna flying a kite? (જ્યારે ભૈયાએ મુન્નાને પતંગ ઉડાવતા જોયો ત્યારે તેમણે શું કર્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya caught the kite because he was taller than Munna.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈનો ફાયદો લઈ પતંગ પકડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What did Munna realize at the end of the story? (વાર્તાના અંતે મુન્નાને શું સમજાયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna realized that Bhaiya was right and that experience is very important.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુન્નાને ભૈયાના અનુભવની કદર થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Who wrote the original story 'Bade Bhai Saheb'? ('બડે ભાઈ સાહબ' મૂળ વાર્તા કોણે લખી છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The original story was written by Munshi Premchand.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમચંદ = મહાન હિન્દી લેખક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "What does 'Foundation' mean in the story? (વાર્તામાં 'Foundation' નો અર્થ શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Foundation means the solid base of a building or education.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાઉન્ડેશન = પાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Why was Bhaiya not angry with Munna at the end? (અંતમાં ભૈયા મુન્ના પર કેમ ગુસ્સે ન થયા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Because he wanted to explain the importance of experience and hard work with love.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમથી સમજાવવું એ પણ એક કળા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "Write the meaning of the word 'Soaked'. ('Soaked' શબ્દનો અર્થ લખો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Soaked means completely wet.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલળી જવું = Soaked.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "What is the opposite of 'Hard'? ('Hard' નું વિરોધી શું થાય?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The opposite of 'Hard' is 'Easy' or 'Soft'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઘરું - સહેલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "What did Bhaiya do to learn English words? (અંગ્રેજી શબ્દો શીખવા માટે ભૈયા શું કરતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> He wrote the same word or sentence twenty times to memorize it.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 વખત લખવું = ભૈયાની પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "What is the moral of the story 'My Elder Brother'? ('My Elder Brother' વાર્તાનો બોધ શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The moral is that experience is as important as education.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતર + ગણતર (અનુભવ) = સાચું જ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "Give one word for 'to cry very little'. ('થોડુંક જ રડવું' માટે એક શબ્દ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> To cry very little is called 'Shedding a few tears'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પહેલી લીટીમાં જ આ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "In which city or place were the brothers living? (ભાઈઓ કઈ જગ્યાએ રહેતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> They were living in a hostel away from home.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્ટેલ એટલે અભ્યાસ માટેનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "What was the first thing in Munna's timetable? (મુન્નાના ટાઈમટેબલમાં પ્રથમ વસ્તુ શું હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> To get up at 6 a.m., wash hands, and have breakfast.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે 6 વાગ્યે શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "How did Munna feel when Bhaiya failed? (જ્યારે ભૈયા નાપાસ થયા ત્યારે મુન્નાને કેવું લાગ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna felt sad for Bhaiya but also became a bit proud of himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિશ્ર લાગણી - દુઃખ અને ગર્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "Which games did Munna play? (મુન્ના કઈ રમતો રમતો હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Munna played marbles, volleyball, and football.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Marbles (લખોટી) મુન્નાની ફેવરિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "What did Bhaiya say about the Headmaster's mother? (ભૈયાએ હેડમાસ્ટરની માતા વિશે શું કહ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> He said that even though she is not educated, she has more experience in managing the house.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેડમાસ્ટર કરતા તેમની માતા વધુ અનુભવી છે.</p></div>"
+    }
+  ]
+}
