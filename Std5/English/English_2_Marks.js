@@ -56,3 +56,61 @@ var Std5_English_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Teamwork / Flying Together",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Why is teamwork important according to the poem? (કવિતા મુજબ ટીમવર્ક કેમ મહત્વનું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Teamwork is important because it helps us to achieve our common goals. When we work together, we can share the joy of the work we have done and make our dreams come true.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TEAM = Together Everyone Achieves More. બધા સાથે મળીને કામ કરે તો સપનું સાચું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What happens if nobody passes the baton in a relay race? (રીલે રેસમાં જો કોઈ બેટન પાસ ન કરે તો શું થાય?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> If nobody wants to pass the baton in a relay race, then the relay race cannot go on. The race stops because passing the baton is the main part of the game.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Passing = No Racing. બેટન પાસ ન થાય તો રેસ પૂરી ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Where did the flock of wild geese live? (જંગલી હંસોનું ટોળું ક્યાં રહેતું હતું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The flock of wild geese lived in the leafy branches of a very tall tree. That tree stood in the middle of a deep forest.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tall Tree + Deep Forest. ઊંચું ઝાડ અને ગાઢ જંગલ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Why did the wise old bird advise to destroy the creeper? (શાણા વૃદ્ધ પક્ષીએ વેલ (creeper) નો નાશ કરવાની સલાહ કેમ આપી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The wise old bird advised to destroy the creeper because as it grew, it would become thick and strong. This would help a hunter to climb up the tree and kill all the birds.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Creeper = Ladder (સીડી). વેલ મોટી થાય તો શિકારી માટે સીડી બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the geese cry, \"Help, help!\"? (હંસોએ 'બચાવો, બચાવો' એવી બૂમો કેમ પાડી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The geese cried for help because they were caught in the hunter's net. They were trapped and unable to fly out of the strong net.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Caught in Net = Cry for Help. જાળમાં ફસાયા એટલે મદદ માંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What did the hunter do when he thought that the geese were dead? (જ્યારે શિકારીને લાગ્યું કે હંસો મરી ગયા છે, ત્યારે તેણે શું કર્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When the hunter thought the geese were dead, he threw them out of the net one by one onto the ground.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dead Geese = Thrown Out. મરેલા સમજીને એક પછી એક નીચે ફેંક્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "How did the geese escape from the hunter? (હંસો શિકારીથી કેવી રીતે બચ્યા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The geese escaped by pretending to be dead. When the hunter threw the last bird on the ground, they all suddenly got up, flapped their wings, and flew away together.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pretend Dead + Fly Together. મરવાનો ડોળ કર્યો અને સાથે ઉડી ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What is the moral of the story 'Flying Together'? ('Flying Together' વાર્તાનો બોધપાઠ શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The moral of the story is that we should always listen to the advice of our elders and complete our work on time to avoid difficulties.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Listen to Elders = Stay Safe. વડીલોનું માનો અને આળસ છોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What does the phrase 'the whole' mean in the poem Teamwork? (કવિતામાં 'the whole' શબ્દનો અર્થ શું થાય છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> In the poem, 'the whole' means the final goal or the complete task that we achieve by joining all the small individual parts or efforts together.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Whole = Full Goal. બધા ભાગ ભેગા મળીને જે આખું બને તે 'Whole'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why did the birds not destroy the creeper when it was small? (પક્ષીઓએ જ્યારે વેલ નાની હતી ત્યારે તેનો નાશ કેમ ન કર્યો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The birds did not destroy the creeper because they were lazy and thought that there was no hurry. They ignored the wise bird's advice at that time.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Laziness = Future Trouble. આળસ કરી એટલે પછતાવું પડ્યું.</p></div>"
+    }
+  ]
+}
