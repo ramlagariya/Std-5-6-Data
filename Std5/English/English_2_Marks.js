@@ -230,3 +230,61 @@ var Std5_English_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "The Lazy Frog & Rip Van Winkle",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Fred (દેડકો) આખો દિવસ શું કરતો હતો? (What did Fred do all day?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Fred એક આળસુ દેડકો હતો. તે આખો દિવસ લાકડાના બ્લોક (log) પર આરામથી પડ્યો રહેતો હતો અને એક પણ કામ કરતો નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fred = Lolls on a log (ફ્રેડ એટલે લાકડા પર પડ્યો રહેતો આળસુ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે ફ્રેડની માતા તેને મદદ માટે બોલાવતી ત્યારે તે શું કરતો? (What did Fred do when his mother called him?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તેની માતા તેને કામ માટે બોલાવતી, ત્યારે તે સાંભળતો ન હોય તેવો ઢોંગ કરતો હતો. તે એક ઇંચ પણ ખસતો નહોતો અને સૂઈ રહ્યો હોય તેવો દેખાવ કરતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Deaf + Sleep = Fred's Action. (બહેરા અને ઊંઘતા હોવાનો ઢોંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રીપ વાન વિન્કલ (Rip Van Winkle) કેવો માણસ હતો? (What kind of man was Rip Van Winkle?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપ વાન વિન્કલ એક દયાળુ અને માયાળુ પાડોશી હતો. તે દરેકને મદદ કરવા તૈયાર રહેતો હતો, પરંતુ તે ખૂબ જ આળસુ હતો અને પોતાના ખેતરનું કામ કરતો નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kind but Lazy (દયાળુ પણ આળસુ) - આ રીપની મુખ્ય ઓળખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગામના બાળકો રીપને કેમ પસંદ કરતા હતા? (Why did the children of the village like Rip?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપ બાળકો સાથે રમતો હતો, તેમને પતંગ ઉડાવતા અને લખોટી રમતા શીખવતો હતો. વળી, તે બાળકોને લાંબી વાર્તાઓ પણ સંભળાવતો હતો, તેથી બાળકો તેને ચાહતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kites + Marbles + Stories = Rip is kids' Hero!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રીપ વાન વિન્કલનો ખાસ મિત્ર કોણ હતો? (Who was Rip's constant companion?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપ વાન વિન્કલનો ખાસ અને કાયમી સાથી તેનો કૂતરો હતો, જેનું નામ 'વુલ્ફ' (Wolf) હતું. તે હંમેશા રીપની સાથે રહેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rip + Wolf = Best Friends forever.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રીપ પર્વત પર કોને મળ્યો? (Whom did Rip meet on the mountains?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપ પર્વત પર એક વિચિત્ર દેખાવ ધરાવતા ઠીંગણા માણસને મળ્યો, જેણે જૂના જમાનાના કપડાં પહેર્યા હતા અને તે એક મોટું પીપ (barrel) ઉપાડીને જતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Short man + Barrel = Mystery on Mountain.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પીપ (barrel) માં રહેલું પ્રવાહી પીધા પછી રીપ સાથે શું થયું? (What happened after Rip drank the liquid?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપને તરસ લાગી હોવાથી તેણે પીપમાંથી પ્રવાહી પીધું. તેના કારણે તે ગાઢ નિદ્રામાં સરી પડ્યો અને સતત ૨૦ વર્ષ સુધી ઊંઘતો રહ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Drink + Deep Sleep = 20 Years Gap!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે રીપ ૨૦ વર્ષ પછી જાગ્યો ત્યારે તેણે પોતાનામાં શું ફેરફાર જોયો? (What changes did Rip notice when he woke up?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે રીપ જાગ્યો ત્યારે તેની દાઢી એક ફૂટ લાંબી અને સફેદ થઈ ગઈ હતી. તેના કપડાં ફાટી ગયા હતા અને તેની બંદૂક પણ કટાઈ (rusty) ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: White Beard + Rusty Gun = 20 years later.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રીપ જ્યારે ગામમાં પાછો ફર્યો ત્યારે તેને કેવું લાગ્યું? (How did Rip feel when he returned to the village?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રીપ જ્યારે ગામમાં પાછો ફર્યો ત્યારે તે મૂંઝાઈ ગયો કારણ કે તે કોઈને ઓળખતો નહોતો. ગામના લોકો પણ તેને અજાણ્યાની જેમ જોઈ રહ્યા હતા અને બધું બદલાઈ ગયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: New faces + Strange feeling = Rip's return.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દેડકો (Fred) કોઈ લેડી ફ્રોગ પસાર થાય ત્યારે શું કરતો હતો? (What did Fred do when a lady frog passed by?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે દેડકાઓ કોઈ આવે ત્યારે ઊભા થાય છે, પણ ફ્રેડ એટલો આળસુ હતો કે કોઈ લેડી ફ્રોગ પસાર થાય તો પણ તે તેને માન આપવા માટે પોતાની આંખ પણ ખોલતો નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lady frog? No care! Eyes closed!</p></div>"
+    }
+  ]
+}
