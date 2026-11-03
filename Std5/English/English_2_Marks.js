@@ -114,3 +114,61 @@ var Std5_English_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "My Shadow & Robinson Crusoe Discovers a Footprint",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કવિતા 'My Shadow' મુજબ, પડછાયા વિશેની સૌથી રમુજી (funniest) બાબત કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિતા મુજબ, પડછાયા વિશેની સૌથી રમુજી બાબત તેની વધવાની રીત છે. તે સામાન્ય બાળકોની જેમ ધીમે ધીમે વધવાને બદલે ક્યારેક રબરના દડાની જેમ ઉછળીને મોટો થઈ જાય છે અને ક્યારેક એટલો નાનો થઈ જાય છે કે તે દેખાતો પણ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખવાની રીત: 'Funniest' એટલે 'Growing' (વધવું) - રબરનો બોલ મોટો થાય અને ક્યારેક સાવ નાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક સવારે જ્યારે સૂરજ ઉગ્યો ન હતો ત્યારે કવિએ શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યોદય પહેલાં જ્યારે કવિ જાગ્યા ત્યારે તેમણે દરેક 'બટરકપ' (ફૂલ) પર ઝાકળના બિંદુઓ જોયા. પરંતુ તેમનો આળસુ પડછાયો ઘરે જ પથારીમાં સૂતો રહ્યો હતો, એટલે કે તે તેમની સાથે આવ્યો ન હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો: Early morning = Dew on flowers + Lazy shadow in bed.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રોબિન્સન ક્રુઝોએ દરિયાકિનારે શું જોયું અને તેની તેના પર શું અસર થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોબિન્સન ક્રુઝોએ રેતી પર માણસના પગનું એક નિશાન (footprint) જોયું. તે જોઈને તે ખૂબ જ આશ્ચર્યચકિત થઈ ગયો અને ડરી ગયો. તે સાંભળવા અને જોવા માટે આમ-તેમ દોડવા લાગ્યો પણ તેને બીજું કશું મળ્યું નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Footprint = Surprise + Fear (ડર). નિશાન જોઈને રોબિન્સન ગભરાઈ ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રોબિન્સન ક્રુઝોને કેમ ખાતરી હતી કે તે નિશાન માનવીના જ પગનું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોબિન્સન ક્રુઝોને ખાતરી હતી કારણ કે તે નિશાનમાં પગના દરેક ભાગ દેખાતા હતા - આંગળીઓ (toes), એડી (heel) અને પગનો આકાર. તે બરાબર માણસના પગ જેવું જ દેખાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Toes + Heel = Human Footprint. અંગૂઠો અને એડી દેખાય એટલે માણસ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રોબિન્સન ક્રુઝોએ તેની ગુફાને 'કિલ્લો' (castle) કેમ કહ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોબિન્સન ક્રુઝો એટલો ગભરાઈ ગયો હતો કે તેને લાગ્યું કે તેની ગુફા જ તેને જંગલીઓ અથવા બીજા ભયથી બચાવી શકે છે. રક્ષણ અને સુરક્ષાની ભાવનાને કારણે તેણે પોતાની ગુફાને 'કિલ્લો' (castle) તરીકે ઓળખાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cave = Safety = Castle. સુરક્ષા માટે 'ગુફા' બની ગયો 'કિલ્લો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જ્યારે રોબિન્સન પાછો ફર્યો ત્યારે તેણે ઝાડીઓ અને ઝાડને શું માની લીધા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડરના કારણે રોબિન્સન ક્રુઝોની કલ્પના શક્તિ તેજ થઈ ગઈ હતી. તે દરેક ઝાડ અને ઝાડીને માણસ માની બેસતો હતો. તેને એવું લાગતું હતું કે કોઈ માણસ તેનો પીછો કરી રહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fear (ડર) = Trees looking like Men. બીક લાગે ત્યારે ઝાડ પણ માણસ જેવા લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રોબિન્સન ક્રુઝોએ પગના નિશાનને પોતાના પગ સાથે સરખાવ્યા ત્યારે તેને શું સમજાયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે રોબિન્સને તે નિશાન પાસે પોતાનો પગ મૂક્યો, ત્યારે તેને સમજાયું કે તે નિશાન તેના પોતાના પગ કરતાં ઘણું મોટું હતું. આનાથી તેને ખાતરી થઈ ગઈ કે ટાપુ પર તેના સિવાય બીજું કોઈ પણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Measure: Mark was LARGER than his foot. મોટું નિશાન = કોઈ બીજું આવ્યું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પડછાયો હંમેશા કોની સાથે અને ક્યાં ફરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિતા મુજબ, પડછાયો હંમેશા કવિની (બાળકની) સાથે જ રહે છે. તે બાળકની સાથે ઘરની અંદર અને બહાર બધે જ જાય છે અને બાળકની પાછળ પાછળ અથવા તેની સાથે કૂદકો મારીને પથારીમાં પણ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shadow = Always with me (In and Out).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રોબિન્સન ક્રુઝોએ ભગવાનને શા માટે પ્રાર્થના કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોબિન્સન ક્રુઝો જ્યારે પગનું નિશાન જોઈને ડરી ગયો ત્યારે તેને લાગ્યું કે જંગલી માણસો તેને મારી નાખશે. આ ડરથી બચવા અને સુરક્ષા મેળવવા માટે તેણે ભગવાનને પ્રાર્થના કરી અને પોતાને રક્ષણ મળે તેવી વિનંતી કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Prayer = Protection from Fear. ડર લાગે ત્યારે ભગવાનને યાદ કરવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શા માટે કવિ પડછાયાને 'આળસુ' (lazy) કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિ પડછાયાને આળસુ કહે છે કારણ કે જ્યારે કવિ સૂરજ ઉગતા પહેલા વહેલા જાગી ગયા ત્યારે પડછાયો પથારી છોડીને તેમની સાથે આવ્યો ન હતો. તે હજુ પણ ઊંઘમાં હોય તેમ ઘરે જ પથારીમાં પડી રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lazy = Slept in bed while the boy was out. મોડે સુધી ઊંઘે તે આળસુ!</p></div>"
+    }
+  ]
+}
