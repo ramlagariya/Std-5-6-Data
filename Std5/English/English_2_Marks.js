@@ -288,3 +288,61 @@ var Std5_English_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "The Talkative Barber",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "How many brothers did the Barber have and what did he say about them?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Barber had six brothers. He described them as all being great talkers, but he claimed that he himself was the youngest and the quietest among all his brothers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '6 Brothers - 1 Quiet' (છ ભાઈઓ અને પોતે શાંત હોવાનો દાવો) - આ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why was the Sultan in a hurry?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Sultan was in a hurry because he had invited some of his friends to a feast (party) at noon. He wanted to finish his shave quickly to be ready for his guests.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hurry = Noon Feast (બપોરનું જમણવાર). આ કીવર્ડ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Why did the Barber take so long to shave the Sultan?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Barber took a long time because instead of focusing on shaving, he kept talking non-stop. He wasted time telling long stories and stopped several times to talk about his brothers and his own life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: More Talking, Less Shaving! (વાતો વધારે, કામ ઓછું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Write the names or descriptions of any two brothers of the Barber.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Two of his brothers were: 1. Bakbak, who was hunchbacked, and 2. Alkouz, who was toothless. Each of his brothers had some physical defect.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bakbak (Hunchback) અને Alkouz (No Teeth) - આ બે નામ યાદ રાખવા સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What did the Sultan offer the Barber to finish the work?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Initially, the Sultan offered the Barber three gold coins. Later, when the Barber still wouldn't finish, the Sultan offered him all the food that was prepared for his midday feast.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 Gold Coins + Food = Shave (સોનાના સિક્કા અને જમવાનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why did the Barber want the fruit as well?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Barber wanted fruit for dessert because he had invited four or five friends for a meal that day, but he had forgotten to make any preparations, including sweets or fruits.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fruit = Dessert for Friends (મિત્રો માટે મીઠાઈ/ફળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What did the Barber do after looking at the food provided by the Sultan?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After examining the food, the Barber praised it saying it was very good, but then he said he would like some fruit for dessert for his friends, which delayed the shave even further.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Examined food -> Praised -> Asked for more (ફળની માંગણી કરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why did the Sultan finally lose his patience?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Sultan lost his patience because his head was only half-shaved, and the Barber kept stopping his work to talk and examine the food, while the Sultan's guests were waiting for him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Half-shaved head + Waiting guests = Angry Sultan.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What does the word 'Chatterer' mean in the lesson?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> In the lesson, 'Chatterer' refers to someone who talks too much or speaks constantly without stopping. The Sultan used this word for the Barber because he talked more than he worked.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chatterer = Someone who talks a lot (બહુ બોલકું માણસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "How did the story of the Talkative Barber end?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The story ended with the Sultan being so fed up that he gave the Barber all his food and fruit. The Barber finally finished shaving the Sultan's head so the Sultan could go to his feast.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Finish food = Finish shave (જમવાનું મળ્યું એટલે હજામત પૂરી કરી).</p></div>"
+    }
+  ]
+}
