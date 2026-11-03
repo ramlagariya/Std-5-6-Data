@@ -172,3 +172,61 @@ var Std5_English_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Crying (Poem) & Who Will be Ningthou? (Story)",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "According to the poet, why should you cry until your pillow is soaked?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> According to the poet, you should cry until your pillow is soaked so that you can completely let out your sadness. Only then can you jump in the shower and splash water with a happy heart.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Soaked Pillow = Success in Happiness' - જ્યારે બધું જ દુઃખ રડવામાં નીકળી જાય, ત્યારે જ સાચો આનંદ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What can you do after crying a lot, according to the poem 'Crying'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After crying a lot, you can throw open your window and laugh 'ha, ha, ha!'. Even if people ask what is going on, you can show them that your happiness was hiding in the last tear.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Last tear = Hidden Happiness' - છેલ્લું આંસુ લૂછાય એટલે ખુશીનો દરવાજો (Window) ખુલી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Where is the land of Kangleipak situated and who lived there?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The land of Kangleipak is situated in Manipur. A Ningthou (King) and a Leima (Queen) lived there, who were loved dearly by their people.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M for Manipur, K for Kangleipak. (મણિપુરમાં કિંગ-ક્વીનનો પ્રેમ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Why did the Ningthou and Leima want to choose a 'Tunggi Ningthou'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> They wanted to choose a 'Tunggi Ningthou' (Future King) because their children were growing up. They wanted to select someone who was worthy of the throne, not just based on age.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tunggi = Future. રાજાને ચિંતા હતી કે ભવિષ્યમાં રાજ્ય કોણ સંભાળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What was the contest held to decide the future king?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A horse race was held to decide the future king. The Ningthou announced that whoever reached the 'Khongnang' (the banyan tree) first would be declared the Tunggi Ningthou.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Contest = Horse Race to the Khongnang Tree. (ઘોડા દોડાવો, ઝાડ સુધી પહોંચો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "How were the three sons different from Sanatombi?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The three sons were brave and focused on showing their strength and skills. However, Sanatombi was a quiet, sweet, and sensitive child who could feel the pain of people, animals, and trees.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sons = Power, Sanatombi = Feeling. (શક્તિ વિરુદ્ધ સંવેદના)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What did the eldest son, Sanatoba, do during the contest?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Sanatoba rode his horse skillfully and, as he reached the banyan tree, he jumped his horse right through the middle of the tree to show his bravery.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sanatoba = Jumped 'through' the tree. (ઝાડની આરપાર કુદકો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why did Sanatombi look sad when her brothers were showing their skills?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Sanatombi looked sad because her brothers had hurt the 'Khongnang' (banyan tree) to show their strength. She felt the pain of the dying tree which was now dead and pierced by a spear.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Love for Nature = Sad Sanatombi. (ઝાડનું દુઃખ એનું દુઃખ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What qualities did the Ningthou look for in a ruler?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Ningthou believed that a true ruler is one who does not hurt anyone and can feel the pain of all living beings, including animals, birds, and trees.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Good Leader = No hurt + Feel others' pain.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why was Sanatombi declared the future Leima of Kangleipak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Sanatombi was declared the future Leima because she was the only one who felt the soul of the land. She had a kind heart and empathy for all living things, which is the most important quality for a ruler.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kind Heart = Future Queen. (દયાળુ હૃદય એટલે સાચી રાણી!)</p></div>"
+    }
+  ]
+}
