@@ -56,3 +56,61 @@ var Std5_English_3_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Teamwork / Flying Together",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કવિતા 'Teamwork' મુજબ ટીમવર્કનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટીમવર્કનું મહત્વ નીચે મુજબ છે:<br>1. ટીમવર્ક દ્વારા આપણે આપણું ધ્યેય (Dream) પૂરું કરી શકીએ છીએ.<br>2. આપણે જે પણ સફળતા મેળવીએ તેનો આનંદ સાથે મળીને વહેંચી શકીએ છીએ.<br>3. જ્યારે આપણે બધા સાથે મળીને કામ કરીએ છીએ, ત્યારે 'હું' અને 'તું' ના બદલે 'આપણે' (We) બની જઈએ છીએ અને કામ સરળ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Teamwork = Dream Work! યાદ રાખો કે સાથે મળીને કામ કરવાથી જ જીત મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રિલે રેસ (Relay Race) માં શું થાય જો કોઈ પ્લેયર બેટન (Baton) પાસ ન કરે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિલે રેસ એ ટીમવર્કનું ઉત્તમ ઉદાહરણ છે:<br>1. જો રિલે રેસમાં કોઈ પણ ખેલાડી તેના પછીના ખેલાડીને લાકડી એટલે કે 'બેટન' (Baton) પાસ ન કરે, તો રેસ આગળ વધી શકે નહીં.<br>2. ટીમ રેસ જીતી શકતી નથી કારણ કે આ રમત સહકાર પર આધારિત છે.<br>3. આ રીતે, દરેક વ્યક્તિનું કાર્ય મહત્વનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Baton Pass = No Race Win! રિલે એટલે જ પાસ કરવાની રમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાર્તા 'Flying Together' માં ઘરડા હંસે વેલ (Creeper) ને કેમ નષ્ટ કરી નાખવા કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરડા હંસે વેલને નષ્ટ કરવાની સલાહ આપી કારણ કે:<br>1. અત્યારે તે નાની અને કોમળ હતી, પણ મોટી થતા તે મજબૂત બની જશે.<br>2. તે વૃક્ષની આસપાસ વીંટળાઈને સીડી (Ladder) જેવી બની જશે.<br>3. કોઈ પણ શિકારી તે વેલની મદદથી ઝાડ પર ચઢી શકે છે અને બધા જ હંસોને મારી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની મુસીબતને શરૂઆતમાં જ ખતમ કરો, નહીંતર તે સીડી (Ladder) બનીને શિકારીને બોલાવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જ્યારે હંસો શિકારીની જાળમાં ફસાઈ ગયા ત્યારે શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસો જાળમાં ફસાયા ત્યારે:<br>1. તેઓએ બહાર નીકળવા માટે ખૂબ જ સંઘર્ષ કર્યો પણ સફળ થયા નહીં.<br>2. તેઓ રડવા લાગ્યા અને 'Help, Help!' ની બૂમો પાડવા લાગ્યા.<br>3. તેઓ પસ્તાવો કરવા લાગ્યા કે તેઓએ શા માટે ઘરડા હંસની સલાહ માની નહીં અને વેલને કાપી નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલાહ ન માની તો જાળ (Net) માં ફસાયા, અને પછી 'Help' કરી પસ્તાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શિકારીથી બચવા માટે ઘરડા હંસે કઈ યુક્તિ બતાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચવા માટેની યુક્તિ:<br>1. જ્યારે સવારે શિકારી આવે ત્યારે બધા જ હંસોએ મરી ગયા હોય એવો ડોળ (Pretend to be dead) કરવાનો છે.<br>2. શિકારી મરેલા પક્ષીઓને નીચે ફેંકી દેશે કારણ કે તેને મરેલા પક્ષીઓ જોઈતા નથી.<br>3. જ્યારે છેલ્લું પક્ષી નીચે ફેંકાય, ત્યારે બધાએ એકસાથે પાંખો ફફડાવીને ઉડી જવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pretend to be dead = Life saved! મરેલા હોવાનો ડોળ એટલે જીવતદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શિકારીએ જ્યારે હંસોને નીચે ફેંક્યા ત્યારે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિકારીની પ્રતિક્રિયા:<br>1. શિકારી ઝાડ પર ચઢ્યો અને જોયું કે જાળમાં બધા જ હંસો હલનચલન વગર પડ્યા હતા.<br>2. તેણે તેમને મરેલા માની લીધા અને એક પછી એક જમીન પર ફેંકવા લાગ્યા.<br>3. જ્યાં સુધી છેલ્લું પક્ષી ન ફેંકાયું ત્યાં સુધી હંસો જમીન પર સ્થિર પડ્યા રહ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hunter thought: Dead geese! Geese thought: Wait for the last one!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આ વાર્તા 'Flying Together' માંથી આપણને શું શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બોધપાઠ (Moral):<br>1. આપણે હંમેશા વડીલો અને શિક્ષકોની સલાહ માનવી જોઈએ.<br>2. સમયસર કામ પૂરું કરવું જોઈએ (Do work on time). જો હંસોએ સમયસર વેલ કાપી હોત તો તેઓ ફસાત નહીં.<br>3. મુશ્કેલ સમયમાં એકતા અને બુદ્ધિથી કામ લેવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Listen to Elders + Do Work on Time = No Problems!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શિકારીએ ઝાડ પર ચઢવા માટે શેનો ઉપયોગ કર્યો અને કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિકારીએ ચઢવા માટે:<br>1. શિકારીએ ઝાડ પર ચઢવા માટે મજબૂત બનેલી વેલ (Creeper) નો ઉપયોગ કર્યો.<br>2. તે વેલ ઝાડની આસપાસ વીંટળાઈને મજબૂત દોરડા જેવી બની ગઈ હતી.<br>3. તેની મદદથી તે ઝાડની ટોચ પર પહોંચીને જાળ બિછાવી શક્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Creeper = Ladder for the Hunter! નાની વેલ મોટી થઈને સીડી બની ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બાસ્કેટબોલની રમતમાં ટીમવર્ક કેવી રીતે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાસ્કેટબોલમાં ટીમવર્ક:<br>1. બાસ્કેટબોલમાં ખેલાડીઓએ એકબીજાને બોલ પાસ (Pass) કરવો પડે છે.<br>2. જો કોઈ બોલ પાસ ન કરે, તો કોઈ શૂટ (Shoot) કરી શકતું નથી.<br>3. બધા ખેલાડીઓના સહકાર વગર બાસ્કેટમાં બોલ નાખી શકાતો નથી અને મેચ જીતી શકાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Pass = No Shoot! પાસ કરો તો જ પોઈન્ટ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હંસો ક્યાં રહેતા હતા? તે જગ્યાનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસોનું રહેઠાણ:<br>1. હંસો ગાઢ જંગલમાં એક ખૂબ જ ઊંચા પાંદડાવાળા ઝાડ પર રહેતા હતા.<br>2. તે ઝાડ ખૂબ જ વિશાળ હતું અને તેની ડાળીઓ ફેલાયેલી હતી.<br>3. આ ઝાડ હંસો માટે સુરક્ષિત કિલ્લા જેવું હતું જ્યાં તેઓ નિરાંતે રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tall tree in deep forest = Safe Home!</p></div>"
+    }
+  ]
+}
