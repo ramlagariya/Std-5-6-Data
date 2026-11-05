@@ -278,3 +278,61 @@ var Std5_English_3_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "The Talkative Barber & Class Discussion (Unit 6)",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્ગખંડમાં ચર્ચા (Class Discussion) દરમિયાન જેન (Jane) કેમ શાંત હતી? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ગખંડમાં જ્યારે ગંભીર ચર્ચા ચાલી રહી હતી, ત્યારે જેન એકદમ શાંત બેઠી હતી. તેના કારણો નીચે મુજબ છે: <br>૧. જેન સ્વભાવે ખૂબ જ શાંત અને શરમાળ છોકરી હતી. <br>૨. તે આસપાસના લોકોના અવાજ વચ્ચે બોલવાને બદલે બીજાને સાંભળવાનું વધુ પસંદ કરતી હતી. <br>૩. તે દુનિયાના એવા લોકોમાંથી એક હતી જેમને બહુ બોલવું ગમતું નથી અને તે ચર્ચામાં ભાગ લેવાને બદલે માત્ર જોવાનું પસંદ કરતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Quiet Jane' - જેન શાંત (Quiet) હતી કારણ કે તે સ્વભાવે 'શરમાળ' (Shy) હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સુલતાન ઉતાવળમાં કેમ હતો? તેણે હજામને (Barber) શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુલતાન ખૂબ જ ઉતાવળમાં હતો કારણ કે:<br>૧. તેણે બપોરના સમયે તેના કેટલાક મિત્રોને જમવા માટે ઘરે બોલાવ્યા હતા (Feast).<br>૨. તેણે હજામને તેનું માથું જલ્દી મુંડન (Shave) કરવા માટે બોલાવ્યો હતો.<br>૩. સુલતાને હજામને કડક શબ્દોમાં કહ્યું કે જો તે તેનું કામ ઝડપથી પતાવી દેશે, તો તે તેને ઈનામ આપશે, પરંતુ હજામ વાતો કરવામાં સમય બગાડતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉતાવળ = મહેમાનો + જમણવાર (Feast).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "હજામના છ ભાઈઓ વિશે સુલતાને શું વર્ણન કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુલતાને હજામને કહ્યું કે તેના છ ભાઈઓ બધા જ બહુ બોલકા (Chatterers) છે. તેમનું વર્ણન નીચે મુજબ છે:<br>૧. એક ભાઈ ખૂંધો (Humpbacked) છે, એક દાંત વગરનો (Toothless) છે.<br>૨. એક અડધો આંધળો છે, એક સંપૂર્ણ આંધળો છે.<br>૩. એક બહેરો છે અને એકને બોલવામાં તકલીફ (Defect in speech) છે. સુલતાન મુજબ તે બધા જ વાતોડા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 ભાઈઓ = 6 અલગ શારીરિક ખામીઓ (Blind, Deaf, Toothless etc.)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સુલતાને હજામને શાંત કરવા અને કામ ઝડપથી કરાવવા માટે કઈ લાલચ આપી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હજામ જ્યારે સતત વાતો કરતો હતો અને કામ કરતો નહોતો, ત્યારે સુલતાને તેને મનાવવા નીચે મુજબની વસ્તુઓ આપવાની જાહેરાત કરી:<br>૧. સોનાના ત્રણ સિક્કા (Three pieces of gold).<br>૨. તે દિવસે બપોરે જમવા માટે તૈયાર કરવામાં આવેલી બધી જ વાનગીઓ (Food).<br>૩. જમ્યા પછી ખાવા માટેના ફળો (Fruits).<br>સુલતાન ઈચ્છતો હતો કે હજામ આ બધું લઈને જલ્દી તેનું કામ પૂરું કરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ્ડ + ફૂડ + ફ્રૂટ્સ = સુલતાનની ઓફર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હજામ શા માટે પોતાને 'વાતોડો' (Talkative) માનતો ન હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હજામ પોતાને વાતોડો માનવા તૈયાર નહોતો કારણ કે:<br>૧. તેનું માનવું હતું કે તેના છ ભાઈઓ તેના કરતા પણ વધુ વાતોડા છે.<br>૨. હજામે સુલતાનને કહ્યું કે તે તેના પરિવારમાં સૌથી નાનો છે અને તે ખૂબ જ શાંત (Quiet) અને કરકસરથી બોલનારો વ્યક્તિ છે.<br>૩. તેના મતે તે માત્ર સુલતાનને મદદ કરી રહ્યો હતો અને તે જે બોલે છે તે વાતો નથી પણ જ્ઞાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજામની નજરમાં: ભાઈઓ = Chatterers, પોતે = Quiet.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હજામે સુલતાનનું માથું અડધું મૂંડ્યું (Half-shaved) કેમ છોડી દીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હજામે સુલતાનનું માથું અધવચ્ચે જ છોડી દીધું કારણ કે:<br>૧. સુલતાને તેને જમવાનું આપવાની વાત કરી એટલે હજામને યાદ આવ્યું કે તેણે પણ તેના મિત્રોને જમવા બોલાવ્યા છે.<br>૨. તે સુલતાને આપેલું ભોજન બરાબર છે કે નહીં તે જોવા માટે વારંવાર અટકતો હતો.<br>૩. તે કામ કરવાને બદલે દરેક વાનગીની તપાસ કરવામાં અને વાતો કરવામાં વધુ રસ લેતો હતો, જેનાથી સુલતાન અડધા મૂંડેલા માથે બેસી રહ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમવાની તપાસ (Food Inspection) > હજામત (Shaving).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કાવ્ય 'Class Discussion' માંથી આપણને શું શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ કાવ્ય દ્વારા આપણને નીચેના બોધ મળે છે:<br>૧. દરેક વ્યક્તિની પ્રકૃતિ અલગ હોય છે; કોઈને બોલવું ગમે છે તો કોઈને શાંત રહેવું ગમે છે.<br>૨. વર્ગમાં શાંત રહેવું એ કોઈ ખામી નથી, પરંતુ તે એક પ્રકારનું નિરીક્ષણ (Observation) હોઈ શકે છે.<br>૩. આપણે જેન જેવા શાંત લોકોનો પણ આદર કરવો જોઈએ, કારણ કે દુનિયામાં દરેક વ્યક્તિ સરખી હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Individual Differences - દરેક વ્યક્તિ અલગ છે, તે સ્વીકારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સુલતાને અંતે શા માટે હજામને બધું જ ભોજન આપી દીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુલતાને હજામને બધું ભોજન આપવાનું નક્કી કર્યું કારણ કે:<br>૧. સુલતાન ખૂબ જ કંટાળી ગયો હતો અને તેની ધીરજ ખૂટી ગઈ હતી.<br>૨. તેનું માથું અડધું મુંડાયેલું હતું અને તે જલ્દી કામ પૂરું કરાવવા માંગતો હતો.<br>૩. તેને લાગ્યું કે જો તે હજામને ભોજન આપી દેશે તો હજામ ખુશ થઈને જલ્દી હજામત પૂરી કરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉતાવળ + કંટાળો = બધું ભોજન હજામને દાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હજામની કઈ આદત સુલતાનને સૌથી વધુ હેરાન કરતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હજામની 'બિનજરૂરી વાતો કરવાની' (Non-stop talking) આદત સુલતાનને હેરાન કરતી હતી:<br>૧. હજામ અસ્ત્રો (Razor) ચલાવવાને બદલે જીભ વધુ ચલાવતો હતો.<br>૨. તે એક વાક્ય બોલીને લાંબો સમય વિચારમાં પડી જતો અને કામ અટકાવી દેતો.<br>૩. સુલતાન તેને વારંવાર રોકતો છતાં તે પોતાની વાતો અને તેના ભાઈઓના કિસ્સા કહેવાનું ચાલુ રાખતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Talking > Working - આ જ હતી હજામની આદત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દ સમજૂતી આપો (પ્રકરણ મુજબ): Chatterer અને Defect.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. <strong>Chatterer:</strong> જે વ્યક્તિ સતત અને નકામી વાતો કર્યા કરે તેને 'Chatterer' કહેવાય. વાર્તામાં હજામ એક મોટો Chatterer છે.<br>૨. <strong>Defect:</strong> કોઈ શારીરિક કે માનસિક ખામી અથવા ભૂલ. વાર્તામાં હજામના એક ભાઈને 'Defect in speech' એટલે કે બોલવામાં તકલીફ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chatterer = વાતોડિયો, Defect = ખામી.</p></div>"
+    }
+  ]
+}
