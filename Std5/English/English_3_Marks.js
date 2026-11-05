@@ -172,3 +172,51 @@ var Std5_English_3_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "I am Learning English",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "યુનિટ 4 માં આવતા 'Jumbo Circus' માં હાથી (Jumbo) શું કરી રહ્યો છે? કોઈ પણ ત્રણ ક્રિયાઓ અંગ્રેજીમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકરણમાં 'Jumbo Circus' ના વર્ણન મુજબ જમ્બો નીચે મુજબની ત્રણ મુખ્ય ક્રિયાઓ કરી રહ્યો છે:</p><ol><li>Jumbo is standing in the middle. (જમ્બો વચ્ચે ઉભો છે.)</li><li>He is playing the drum. (તે ઢોલ વગાડી રહ્યો છે.)</li><li>Jumbo is naughty. He is running away. (જમ્બો તોફાની છે. તે ભાગી રહ્યો છે.)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખવા માટે: J-P-R (Jumbo-Playing-Running). જમ્બો ડ્રમ વગાડે (Playing) અને પછી ભાગી જાય (Running).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચાલુ વર્તમાનકાળ (Present Continuous Tense) ના કોઈ પણ ત્રણ ઉદાહરણો પ્રકરણના આધારે વાક્યમાં આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકરણ 4 માં શીખવવામાં આવેલા 'Action Words' મુજબના ત્રણ વાક્યો નીચે મુજબ છે:</p><ul><li>I am drawing a picture. (હું ચિત્ર દોરી રહ્યો છું.)</li><li>She is dancing on the stage. (તેણી સ્ટેજ પર નૃત્ય કરી રહી છે.)</li><li>They are playing cricket. (તેઓ ક્રિકેટ રમી રહ્યા છે.)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: am/is/are + verb + 'ing' = અત્યારે થતી ક્રિયા. 'ing' એટલે ક્રિયા ચાલુ છે તેમ સમજવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રકરણમાં આપેલ 'The Lovely Fair' (સુંદર મેળો) માં લોકો શું કરી રહ્યા છે તે વિશે ત્રણ વાક્યો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેળાના દ્રશ્યમાં લોકો નીચે મુજબની ક્રિયાઓ કરી રહ્યા છે:</p><ol><li>The children are enjoying the giant wheel. (બાળકો જાયન્ટ વ્હીલનો આનંદ માણી રહ્યા છે.)</li><li>Women are buying bangles from the stall. (સ્ત્રીઓ દુકાનમાંથી બંગડીઓ ખરીદી રહી છે.)</li><li>Men are drinking tea at the tea stall. (પુરુષો ચાની દુકાને ચા પી રહ્યા છે.)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળામાં ત્રણ વસ્તુ યાદ રાખો: Enjoying (આનંદ), Buying (ખરીદી), Drinking (પીવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેના ક્રિયાપદો (Action Words) ને 'ing' પ્રત્યય લગાવીને ફરીથી લખો અને તેનો અર્થ જણાવો: (1) Run (2) Write (3) Dance",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li><strong>Run + ing = Running</strong> (દોડી રહ્યો છે/રહી છે) - અહીં છેલ્લો અક્ષર બેવડાય છે.</li><li><strong>Write + ing = Writing</strong> (લખી રહ્યો છે/રહી છે) - અહીં 'e' નીકળી જાય છે.</li><li><strong>Dance + ing = Dancing</strong> (નાચી રહ્યો છે/રહી છે) - અહીં પણ 'e' દૂર થાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સ્પેલિંગના છેડે 'e' હોય, તો તેને 'ટાટા-બાય-બાય' (દૂર) કરી 'ing' લગાડવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રકરણના આધારે 'Munu' વાંદરા વિશે ત્રણ વાક્યો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુ વાંદરા વિશેની વિગતો:</p><ol><li>Munu is a clever monkey. (મનુ એક હોશિયાર વાંદરો છે.)</li><li>He is jumping on the tree. (તે ઝાડ પર કૂદી રહ્યો છે.)</li><li>He is eating a banana. (તે કેળું ખાઈ રહ્યો છે.)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુ = Jumping + Eating. બસ આ બે એક્શન યાદ રાખો એટલે જવાબ રેડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચિત્રમાં જો પક્ષીઓ આકાશમાં ઉડતા હોય, છોકરાઓ ફૂટબોલ રમતા હોય અને શિક્ષક ભણાવતા હોય, તો તેને અંગ્રેજીમાં કેવી રીતે લખશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>Birds are flying in the sky.</li><li>Boys are playing football.</li><li>The teacher is teaching the class.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુવચન (Birds/Boys) હોય તો 'are' વાપરવું અને એકવચન (Teacher) હોય તો 'is' વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યુનિટ 4 માં આવતા વ્યવસાયકારો (Professionals) અને તેમની ક્રિયાઓ વિશે ત્રણ જોડી બનાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>A Potter is making pots. (કુંભાર માટલા બનાવી રહ્યો છે.)</li><li>A Farmer is farming the field. (ખેડૂત ખેતરમાં ખેતી કરી રહ્યો છે.)</li><li>A Tailor is cutting the cloth. (દરજી કાપડ કાપી રહ્યો છે.)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યવસાયનું નામ + 'is' + તેની મુખ્ય ક્રિયા + 'ing'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જમ્બો હાથી જ્યારે તંબુની (Tent) બહાર નીકળે છે ત્યારે તે શું જુએ છે? ત્રણ વાક્યોમાં વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>Jumbo is looking out of the tent. (જમ્બો તંબુની બહાર જોઈ રહ્યો છે.)</li><li>He sees some yummy bananas. (તે કેટલાક સ્વાદિષ્ટ કેળા જુએ છે.)</li><li>He is hungry and wants to eat them. (તે ભૂખ્યો છે અને તે ખાવા માંગે છે.)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર જોયું (Looking out) -> કેળા જોયા (Bananas) -> ભૂખ લાગી (Hungry).</p></div>"
+    }
+  ]
+}
