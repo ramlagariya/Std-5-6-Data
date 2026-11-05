@@ -220,3 +220,61 @@ var Std5_English_3_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "The Lazy Frog / Rip Van Winkle",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કવિતા 'The Lazy Frog' ના આધારે ફ્રેડ (Fred) ના આળસુ સ્વભાવ વિશે ત્રણ વાક્યો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. ફ્રેડ આખો દિવસ લાકડાના બ્લોક (log) પર આરામથી સૂઈ રહે છે.<br>૨. તે ક્યારેય કોઈ કામમાં મદદ કરતો નથી અને હંમેશા કામચોરી કરે છે.<br>૩. તેની માતા તેને બૂમ પાડીને બોલાવે તો પણ તે સાંભળતો નથી અને ઊંઘવાનો ઢોંગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fred = Log Lover. (તેને માત્ર લાકડા પર સૂવું જ ગમે છે, બીજું કાંઈ નહીં!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે કોઈ સ્ત્રી દેડકી (Lady frog) પસાર થાય છે ત્યારે ફ્રેડ શું કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. સામાન્ય રીતે દેડકાઓ કોઈ આવે તો કૂદીને રસ્તો આપે છે અથવા માન આપે છે.<br>૨. પરંતુ ફ્રેડ એટલો આળસુ છે કે સ્ત્રી દેડકી પસાર થાય તો પણ તે પોતાની આંખ ખોલતો નથી.<br>૩. તે તેને મદદ કરવા માટે ઊભો પણ થતો નથી અને પોતાની જગ્યાએથી હલતો પણ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Respect for Lady. (ફ્રેડ આળસમાં એટલો ડૂબેલો છે કે તેને કોઈના આવવાથી ફરક પડતો નથી.)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રીપ વાન વિન્કલ (Rip Van Winkle) કેવો માણસ હતો? તેના સ્વભાવ વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. રીપ વાન વિન્કલ એક દયાળુ અને પડોશીઓને મદદ કરનાર માણસ હતો.<br>૨. ગામના બાળકો તેને ખૂબ ચાહતા કારણ કે તે તેમને પતંગ ઉડાડતા અને રમતો રમતા શીખવતો.<br>૩. તેની એક જ નબળાઈ હતી કે તે ખૂબ જ આળસુ હતો અને પોતાના ખેતરમાં કોઈ કામ કરતો નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kind but Idle. (માણસ સારો, પણ કામ કરવામાં ભારે આળસુ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રીપના ખેતરની હાલત કેવી હતી? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. રીપના ખેતરની હાલત ખૂબ જ ખરાબ હતી અને ત્યાં ચારેબાજુ નકામું ઘાસ (weeds) ઊગી નીકળ્યું હતું.<br>૨. તેની ગાય રખડતી થઈ ગઈ હતી અને ખેતરની વાડ તૂટી ગઈ હતી.<br>૩. આવું એટલા માટે હતું કારણ કે રીપ તેના ખેતરના કામમાં ધ્યાન આપવાને બદલે આળસ કરવામાં અને રખડવામાં સમય પસાર કરતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Work = Bad Farm. (કામ ન કરો તો ખેતર બગડે જ, આ સિદ્ધાંત યાદ રાખો.)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રીપ જ્યારે પર્વત પર ગયો ત્યારે તેણે જે વિચિત્ર માણસો જોયા તેમનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. તે માણસો ઠીંગણા (short) હતા અને તેમના ચહેરા પર વિચિત્ર આકારની દાઢી હતી.<br>૨. તેઓએ જૂના જમાના જેવા કપડાં પહેર્યા હતા અને તેઓ 'નાઈન પિન્સ' (nine-pins) નામની રમત રમી રહ્યા હતા.<br>૩. રમત રમતા હોવા છતાં તેમના ચહેરા ગંભીર હતા અને ત્યાં એકદમ શાંતિ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Strange look + Serious game. (દેખાવ વિચિત્ર અને રમત ગંભીર!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પર્વત પર રીપ સાથે શું ઘટના બની જેનાથી તે લાંબી ઊંઘમાં જતો રહ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. રીપે પેલા વિચિત્ર માણસોના પીપ (barrel) માંથી ગુલાબી રંગનું પીણું પીધું હતું.<br>૨. તેને ખૂબ તરસ લાગી હોવાથી તેણે એક પછી એક એમ અનેક ગ્લાસ પી લીધા.<br>૩. આ પીણાની અસરને કારણે તે ગાઢ નિદ્રામાં સરી પડ્યો અને સતત ૨૦ વર્ષ સુધી સૂતો રહ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Drink & Sleep. (પીણું પીધું અને ૨૦ વર્ષની લાંબી ઊંઘ લીધી!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "૨૦ વર્ષ પછી જ્યારે રીપ જાગ્યો ત્યારે તેને પોતાનામાં કયા ફેરફારો જોવા મળ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. રીપના સાંધા જકડાઈ ગયા હતા અને તેને ચાલવામાં તકલીફ પડતી હતી.<br>૨. તેની દાઢી એક ફૂટ જેટલી લાંબી થઈ ગઈ હતી અને એકદમ સફેદ થઈ ગઈ હતી.<br>૩. તેની જૂની બંદૂક જે તેની પાસે હતી, તે કટાઈ ગઈ હતી અને તૂટી ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Old body + White beard. (શરીર ઘરડું અને દાઢી લાંબી-સફેદ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે રીપ પાછો ગામમાં આવ્યો ત્યારે ગામમાં શું બદલાવ જોવા મળ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. ગામમાં તેને કોઈ ઓળખતું નહોતું અને ગામના રસ્તાઓ તથા મકાનો બદલાઈ ગયા હતા.<br>૨. નાના બાળકો તેને જોઈને હસતા હતા કારણ કે તેની દાઢી લાંબી હતી અને તેનો દેખાવ વિચિત્ર હતો.<br>૩. તેને તેના જૂના મિત્રો ક્યાંય જોવા મળ્યા નહીં, જે તેને ખૂબ જ આશ્ચર્યજનક લાગ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Unknown Village. (ગામ એનું જ હતું પણ લોકો અજાણ્યા હતા!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રીપ વાન વિન્કલના કૂતરા 'વુલ્ફ' (Wolf) વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. વુલ્ફ રીપનો એકમાત્ર સાચો સાથી હતો જે હંમેશા તેની સાથે રહેતો.<br>૨. રીપની પત્નીના ડરથી બચવા માટે રીપ અને વુલ્ફ ઘણીવાર જંગલમાં દૂર નીકળી જતા.<br>૩. જ્યારે રીપ ૨૦ વર્ષ પછી પાછો આવ્યો, ત્યારે તેને તેનો જૂનો કૂતરો મળ્યો નહીં, જે દર્શાવે છે કે સમય ઘણો વીતી ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wolf = Best Friend. (વુલ્ફ રીપનો પાકો ભાઈબંધ હતો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ પ્રકરણમાંથી આપણને શું શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. 'The Lazy Frog' અને 'Rip Van Winkle' બંને પાઠ શીખવે છે કે આળસ કરવાથી જીવનનો કિંમતી સમય વેડફાય છે.<br>૨. સમય કોઈની રાહ જોતો નથી; રીપે આળસમાં ૨૦ વર્ષ ગુમાવી દીધા જે પાછા આવી શકતા નથી.<br>૩. આપણે આપણા કામ પ્રત્યે જાગૃત રહેવું જોઈએ અને આળસ છોડીને મહેનત કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Laziness is a Waste. (આળસ એ સમયની બરબાદી છે, મહેનત એ જ સાચું જીવન છે!)</p></div>"
+    }
+  ]
+}
