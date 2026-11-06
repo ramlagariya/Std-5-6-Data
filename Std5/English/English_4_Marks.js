@@ -94,3 +94,41 @@ var Std5_English_4_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "My Shadow & Robinson Crusoe Discovers a Footprint",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Describe the different ways in which the shadow behaves in the poem 'My Shadow'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> In the poem 'My Shadow', the shadow behaves in very funny and unusual ways:<br>1. It always follows the child wherever he goes (in and out).<br>2. It jumps into the bed even before the child can get into it.<br>3. Its growth is very strange; it doesn't grow slowly like normal children. Sometimes it shoots up tall like an India-rubber ball, and sometimes it becomes so tiny that it cannot be seen.<br>4. It stays very close to the child because it doesn't know how to play and is like a 'coward' shadow.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shadow ના ચાર મુખ્ય કામ: Follow (સાથે ચાલવું), Jump (કૂદવું), Grow (વધવું-ઘટવું) અને Stay Close (નજીક રહેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why was Robinson Crusoe confused and afraid when he saw the footprint on the sand?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Robinson Crusoe was confused and afraid because:<br>1. He was living alone on an island for a long time and did not expect to see anyone else.<br>2. He saw only one footprint which had toes, a heel, and every part of a foot clearly visible.<br>3. He could not understand how that footprint came there as there was no one else around.<br>4. He imagined that it could be a footprint of a savage (wild person) from the mainland who might have come in a boat and might even be hiding to eat him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Crusoe નો ડર = Alone (એકલા હતા) + Single Print (એક જ પંજો) + Savages (જંગલી લોકોનો ડર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Explain Robinson Crusoe's reaction after he saw the footprint. What did he do?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After seeing the footprint, Robinson Crusoe's reaction was full of fear:<br>1. He stood amazed and listened, looking around him, but he could hear or see nothing.<br>2. He ran back to his cave (which he called his castle) very fast, feeling like someone was following him.<br>3. He was so scared that he mistook every bush and tree for a man.<br>4. He could not sleep that night because he was worried that savages would come and find his boat and his home.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reaction = Amazed (નવાઈ પામ્યા) -> Ran (દોડ્યા) -> Mistook trees for men (ઝાડને માણસ સમજ્યા) -> No sleep (ઊંઘ ન આવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What did the child in the poem 'My Shadow' find when he got up early in the morning before the sun was up?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> One morning, very early, before the sun rose, the child got up and went outside. He found that:<br>1. There was shining dew on every buttercup flower.<br>2. However, his 'lazy' little shadow was not with him.<br>3. The shadow had stayed at home and was fast asleep in bed.<br>4. This shows that without light (the sun), the shadow cannot be seen, but the poet describes it as the shadow being too tired to wake up.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Early Morning = Dew (ઝાકળ) + No Shadow (પરછાયો ગાયબ) + Sleepy head (ઊંઘણશી પરછાયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "How did Robinson Crusoe try to reassure himself after a few days, and what happened when he went to measure the footprint?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After staying inside for two or three days, Robinson Crusoe felt a bit bolder and decided to investigate:<br>1. He thought that maybe the footprint was his own or he had imagined it.<br>2. He went down to the shore again to look at the footprint one more time.<br>3. He decided to measure it with his own footmark.<br>4. As he placed his foot next to the footprint, he realized it was much larger than his own. This made him realize that someone else was definitely on the island, and his fear returned.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Measurement check = Bigger footprint (મોટો પંજો) -> Confirm Presence (કોઈક છે તે નક્કી થયું) -> Fear returns (ફરી ડર લાગ્યો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Write a short note on the 'Funny Shadow' from the poem. Why does the poet call it funny?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The poet calls the shadow 'funny' because of its strange actions:<br>1. It doesn't grow like a normal child; it changes size instantly.<br>2. It is funny because it mimics everything the child does but in a silly way, like jumping into bed first.<br>3. It is described as a 'buttercup' and 'lazy' because it stays in bed in the early morning.<br>4. The way it sticks so close to the child makes the poet feel like the shadow is a coward who is afraid to be alone.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Funny' કેમ? કારણ કે તે Fast (ઝડપી વધે), Lazy (આળસુ) અને Coward (બીકણ) છે.</p></div>"
+    }
+  ]
+}
