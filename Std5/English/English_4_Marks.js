@@ -46,3 +46,51 @@ var Std5_English_4_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Teamwork / Flying Together",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Why did the wise old bird advise the other birds to destroy the small creeper at the foot of the tree? (શા માટે જ્ઞાની વૃદ્ધ પક્ષીએ અન્ય પક્ષીઓને ઝાડના નીચેના ભાગમાં ઉગેલા નાના વેલાનો નાશ કરવાની સલાહ આપી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>The wise old bird was very experienced and foresaw the future danger.</li><li>He noticed a small creeper growing at the foot of the tall tree.</li><li>He advised the birds to destroy it while it was young and tender.</li><li>He explained that as the creeper grew, it would become thick and strong.</li><li>It would then act like a ladder, making it easy for a hunter to climb the tree and kill them all.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Small Creeper = Big Danger! (નાનો વેલો, મોટું જોખમ - સમયસર કામ પૂરું કરવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "How did the geese escape from the hunter's net? Explain the plan. (હંસો શિકારીની જાળમાંથી કેવી રીતે બચ્યા? તે યોજના સમજાવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>When the geese were caught in the net, the wise old bird gave them a clever plan.</li><li>He told them to pretend to be dead when the hunter came in the morning.</li><li>The hunter would think they were dead and would not want dead birds, so he would throw them to the ground one by one.</li><li>The birds had to lie still until the last bird was thrown down.</li><li>As soon as the last bird hit the ground, they all had to get up, flap their wings, and fly away together. They followed this plan and escaped successfully.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Act dead, stay still, then fly with a thrill! (મરેલા હોવાનો ઢોંગ કરો અને એકસાથે ઉડી જાઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What is the central idea or the moral of the story 'Flying Together'? (વર્તા 'Flying Together' નો મુખ્ય વિચાર અથવા બોધપાઠ શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>The story 'Flying Together' teaches us two very important life lessons.</li><li>First, it teaches us to listen to the advice of our elders and wise people. The young geese suffered because they ignored the old bird's advice.</li><li>Second, it teaches us the value of doing work on time. Procrastination (leaving work for later) can lead to big trouble.</li><li>It also highlights that unity and teamwork can help us overcome any difficult situation.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Listen to Elders + Do work on Time = Success! (વડીલોનું માનવું + સમયસર કામ = સફળતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "According to the poem 'Teamwork', why is teamwork important in games like basketball and relay races? (કવિતા 'Teamwork' મુજબ, બાસ્કેટબોલ અને રિલે રેસ જેવી રમતોમાં ટીમવર્ક કેમ મહત્વનું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>In basketball, if nobody passes the ball to each other, no one can shoot it into the basket. It is a game of passing and coordination.</li><li>In a relay race, the race cannot go on if one player refuses to pass the baton to the next runner.</li><li>The poem explains that we are all parts of a whole, and we need each other to reach a common goal.</li><li>When we work together, it becomes 'our' dream and 'our' victory instead of just an individual one.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Pass = No Basket, No Baton = No Race! (ટીમવર્ક વગર રમત અધૂરી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Describe the scene when the hunter arrived at the tree in the morning. (જ્યારે શિકારી સવારે ઝાડ પાસે આવ્યો ત્યારે તે દ્રશ્યનું વર્ણન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>The hunter came to the foot of the tree in the morning.</li><li>He noticed the creeper that had grown thick and strong, winding its way up the tree.</li><li>He climbed up the tree with the help of the creeper and reached the top.</li><li>He saw the geese trapped in his net. He was happy but surprised to see that they all appeared to be dead.</li><li>He started throwing them out of the net one by one, believing they were useless.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hunter climbs, birds play dead, success is just ahead! (શિકારી ચઢ્યો, પક્ષીઓ સુતા, સફળતા મળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why do we say that the creeper became a 'ladder' for the hunter? (આપણે એવું કેમ કહીએ છીએ કે વેલો શિકારી માટે 'સીડી' બની ગયો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>Initially, the creeper was very small and weak. But as it grew, it began winding its way up the tall tree.</li><li>Over time, the creeper became very thick and strong, almost like a rope.</li><li>Because of its strength and thickness, it provided a firm grip for anyone to climb.</li><li>The hunter used this strong vine to easily climb the high tree, just like one would use a ladder to reach a height. This is why it is compared to a ladder.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thick vine = Strong climb! (મજબૂત વેલો = સરળ ચઢાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What happened when the geese ignored the wise bird's initial warning? (જ્યારે હંસોએ જ્ઞાની પક્ષીની શરૂઆતની ચેતવણીને અવગણી ત્યારે શું થયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>When the geese ignored the warning, they allowed the small creeper to grow.</li><li>They became lazy and forgot about the danger the old bird had mentioned.</li><li>One morning, while the geese were away looking for food, a hunter climbed the tree using that creeper.</li><li>The hunter spread his net at the top of the tree. When the geese returned in the evening, they were all caught in the net.</li><li>They felt very sorry for their mistake and started crying for help.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ignore advice, pay the price! (ચેતવણી અવગણો, મુસીબત ભોગવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How does 'Teamwork' help in achieving a common goal according to the unit? (એકમ મુજબ, સામાન્ય લક્ષ્ય પ્રાપ્ત કરવામાં 'ટીમવર્ક' કેવી રીતે મદદ કરે છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>Teamwork means working together as a single unit towards one objective.</li><li>In the poem, it is mentioned that 'we' can make our dreams come true by sharing the work and the joy.</li><li>In the story 'Flying Together', the geese could only escape because they acted 'together' at the same moment.</li><li>If even one bird had flown early or hadn't pretended to be dead, the hunter would have caught them.</li><li>Thus, unity gives strength and makes the impossible possible.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Unity is Strength! (સંગઠનમાં શક્તિ છે).</p></div>"
+    }
+  ]
+}
