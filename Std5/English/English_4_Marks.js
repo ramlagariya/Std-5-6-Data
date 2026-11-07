@@ -132,3 +132,41 @@ var Std5_English_4_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Crying & My Elder Brother (Unit 4)",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Give a character sketch of 'Bhaiya' (elder brother) based on the story 'My Elder Brother'. (વાર્તાના આધારે 'ભૈયા' (મોટા ભાઈ) નું પાત્રાલેખન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bhaiya was a very hardworking and responsible elder brother. He was five years older than Munna. Even though he failed in his classes, he spent many hours studying because he wanted to set a good example for his younger brother. He was strict and often scolded Munna for wasting time in playing, but he did this because he loved Munna and cared for his future. He believed that experience is more important than just passing exams. He was also very humble and respected his parents and teachers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bhaiya = Hardworking + Strict but Loving + Experienced (યાદ રાખો: ભૈયા ભલે નાપાસ થતા પણ શિસ્તના પાકા હતા!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Describe the timetable that Munna made for himself. Why did he not follow it? (મુન્નાએ પોતાના માટે જે સમયપત્રક બનાવ્યું તેનું વર્ણન કરો. તેણે તેનું પાલન કેમ ન કર્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After being scolded by Bhaiya, Munna made a strict timetable. He decided to wake up at 6 AM. His schedule included: 6 AM - Wash hands & face, have breakfast; 6 to 8 AM - English; 8 to 9 AM - Arithmetic; 9 to 9:30 AM - History; then school. In the evening, he planned English composition and other subjects. However, he could not follow it because the green fields, the soft breeze, and the joy of playing football and kabaddi attracted him so much that he forgot his books and ran to the playground.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Timetable = Paper (કાગળ પર), Playing = Ground (મેદાન પર). મુન્ના માટે મેદાન હંમેશા જીતી જતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What examples did Bhaiya give to show that experience is more important than degrees? (અનુભવ એ ડિગ્રી કરતા વધુ મહત્વનો છે તે બતાવવા માટે ભૈયાએ કયા ઉદાહરણો આપ્યા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> To explain the importance of experience, Bhaiya gave the examples of their mother and father. He said that their mother had never gone to school and their father had only passed the fifth grade. Yet, if they (the brothers) fell ill or got into trouble, the parents would know exactly what to do because of their life experience. He also gave the example of the Headmaster of his school, whose mother manages his salary and the house better than him, even though he is a highly educated man with an M.A. degree.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Experience = Mom/Dad/Headmaster's Mom. (પુસ્તક જ્ઞાન કરતાં જીવનનું જ્ઞાન મોટું.)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What is the message of the poem 'Crying'? Explain in detail. ('Crying' કવિતાનો સંદેશ શું છે? વિગતે સમજાવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The poem 'Crying' tells us that we should not cry just a little bit. If we cry, we should cry until our pillow is completely soaked. This means we should express our sadness fully. After a good cry, we feel relieved and happy. Then we can jump in the shower and splash water happily. When people ask us why we are so happy, we can tell them that our 'happiness was hiding in the last tear'. The poem teaches us that crying is a way to let out our hidden feelings so we can be happy again.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cry Hard → Soak Pillow → Splash in Shower → Happy! (રડી લેવાથી મન હળવું થાય છે.)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "How did Munna's attitude change after he passed the exams and Bhaiya failed again? (મુન્ના પરીક્ષામાં પાસ થયો અને ભૈયા ફરી નાપાસ થયા ત્યારે મુન્નાના વલણમાં શું ફેરફાર આવ્યો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When Munna passed and Bhaiya failed again, Munna became a little proud. He thought that he could pass even without studying hard. He started spending more time playing games and flying kites. He was no longer as afraid of Bhaiya as he was before. He thought, \"Bhaiya has no right to scold me now.\" He started showing 'independency' and ignored his studies, thinking his luck would always favor him. This change in attitude showed that success had made him a bit overconfident.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Munna's Change = Pride (અભિમાન) + Overconfidence (વધારે પડતો વિશ્વાસ) + More Playing.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Describe the final scene of the story 'My Elder Brother' when Bhaiya catches the kite. (વાર્તાના અંતિમ દ્રશ્યનું વર્ણન કરો જ્યારે ભૈયા પતંગ પકડે છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> In the final scene, Munna was running wildly to catch a falling kite. Suddenly, he bumped into Bhaiya. Bhaiya caught the kite because he was tall, and he used this moment to give Munna a final lesson. He told Munna that even though there was only a one-grade difference between them now, he would always be five years older. He explained that experience cannot be taken away. Munna realized his mistake and felt respect for Bhaiya. The story ends beautifully with Bhaiya jumping to catch another kite and Munna running happily behind him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kite Catch = Age Gap (5 Years) + Love + Togetherness. (અંતે બંને ભાઈઓ વચ્ચે પ્રેમ જળવાઈ રહે છે.)</p></div>"
+    }
+  ]
+}
