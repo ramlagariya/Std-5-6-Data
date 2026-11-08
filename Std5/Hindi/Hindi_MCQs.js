@@ -156,3 +156,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "फसलों के त्योहार",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "भारत के सभी प्रांतों में जनवरी के मध्य में कौन-सा त्योहार मनाया जाता है?\nA) दिवाली\nB) फसलों के त्योहार\nC) होली\nD) रक्षाबंधन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) फसलों के त्योहार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાન્યુઆરી મહિનાની ૧૪-૧૫ તારીખ એટલે પાકની લણણીનો સમય, એટલે 'ફસલો કે ત્યોહાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "बिहार में मकर संक्रांति को किस नाम से जाना जाता है?\nA) पोंगल\nB) बिहु\nC) खिचड़ी\nD) ओणम",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) खिचड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિહારના લોકો આ દિવસે ખીચડી ખાય છે અને દાન કરે છે, તેથી નામ પડ્યું 'ખીચડી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "असम में फसलों से जुड़ा कौन-सा त्योहार मनाया जाता है?\nA) सरहुल\nB) बिहु\nC) लोहड़ी\nD) पोंगल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) बिहु</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અસમ-બિહુ' (A-B) જોડી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "केरल में मनाए जाने वाले फसल के त्योहार का नाम क्या है?\nA) ओणम\nB) पोंगल\nC) खिचड़ी\nD) बिहु",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ओणम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળમાં 'ઓણમ' ની નૌકા સ્પર્ધા પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "तमिलनाडु में फसलों से संबंधित कौन-सा त्योहार मनाया जाता है?\nA) लोहड़ी\nB) पोंगल\nC) सरहुल\nD) बिहु",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) पोंगल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમિલ-પોંગલ' - યાદ રાખો કે પોંગલ રાંધતી વખતે 'પોંગલ-પોંગલ' બોલવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "पंजाब में फसलों का कौन-सा त्योहार मनाया जाता है?\nA) खिचड़ी\nB) लोहड़ी\nC) ओणम\nD) सरहुल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) लोहड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબમાં લોકગીતો અને અગ્નિની પૂજા સાથે 'લોહરી' ઉજવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "झारखंड में 'सरहुल' का त्योहार कितने दिनों तक मनाया जाता है?\nA) एक दिन\nB) दो दिन\nC) तीन दिन\nD) चार दिन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) चार दिन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝારખંડમાં ઉત્સાહ વધુ હોય છે, એટલે તહેવાર પૂરા 'ચાર' દિવસ ચાલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "सरहुल के दौरान किस पेड़ की पूजा की जाती है?\nA) नीम\nB) पीपल\nC) साल\nD) बरगद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) साल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સરહુલ અને 'સ' થી સાલનું વૃક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "गुजरात में मकर संक्रांति के दिन आकाश किससे भर जाता है?\nA) बादलों से\nB) पक्षियों से\nC) पतंगों से\nD) धुएँ से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) पतंगों से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણું ગુજરાત અને પતંગબાજી - આ તો ક્યારેય ન ભુલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "कुमाऊँ में मकर संक्रांति को क्या कहा जाता है?\nA) खिचड़ी\nB) घुघुतिया\nC) पोंगल\nD) लोहड़ी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) घुघुतिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુમાઉંમાં પક્ષીઓને બોલાવવા માટે 'ઘુઘુતિયા' નામનો અનોખો તહેવાર ઉજવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "घुघुतिया के दिन बच्चे माला बनाकर किसे खिलाते हैं?\nA) गाय को\nB) कुत्तों को\nC) कौओं को\nD) गौरैया को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) कौओं को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગડાભાઈને બોલાવવા ગીત ગવાય છે: 'કૌઆ આઓ, ઘુઘુતિ આઓ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "गया (बिहार) में किस चीज़ के बने तिलकुट प्रसिद्ध हैं?\nA) चावल के\n) तिल और गुड़ के\nC) बेसन के\nD) मैदे के",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) तिल और गुड़ के</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તિલકુટ = તલ + કુટ (પીસવું), જે ગોળ સાથે બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "झारखंड की कौन-सी जनजाति सरहुल का त्योहार मनाती है?\nA) संथाल और उराँव\nB) भील\nC) गोंड\nD) नागा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) संथाल और उराँव</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ 'ઉરાંવ' ફેબ્રુઆરી-માર્ચમાં અને 'સંથાલ' માર્ચ-એપ્રિલમાં ઉજવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "पोंगल के दिन मिट्टी के नए मटके में क्या पकाया जाता है?\nA) दाल-चावल\nB) चावल, दूध और गुड़\nC) सब्ज़ी-रोटी\nD) हलवा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) चावल, दूध और गुड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોંગલ એક પ્રકારની મીઠી ખીચડી છે જે દૂધ અને ગોળથી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "खिचड़ी के त्योहार पर लोग किस नदी में स्नान करना पुण्य मानते हैं?\nA) नर्मदा\nB) साबरमती\nC) गंगा\nD) तापी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) गंगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર ભારતમાં ગંગા સ્નાનનું મકર સંક્રાંતિએ ખૂબ મહત્વ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "पाठ के अनुसार, 'बोरसी' का क्या अर्थ है?\nA) बाल्टी\nB) अंगीठी\nC) खिड़की\nD) दरवाजा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) अंगीठी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં હાથ તાપવા માટે જે સગડી વપરાય તેને દેશી ભાષામાં 'બોરસી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "मकर संक्रांति के दिन किसका दान करना शुभ माना जाता है?\nA) खिलौनों का\nB) तिल, गुड़ और नए अनाज का\nC) किताबों का\nD) सोने का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) तिल, गुड़ और नए अनाज का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાક ખેતરમાંથી નવો આવ્યો હોય તેનું જ દાન કરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "लेखक ने 'खिचड़ी' के त्योहार पर सुबह क्या महसूस किया?\nA) बहुत गर्मी\nB) तेज़ बारिश\nC) कड़ाके की ठंड\nD) तेज़ हवा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) कड़ाके की ठंड</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાન્યુઆરી મહિનો એટલે શિયાળાની ફૂલ ગુલાબી ઠંડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "सरहुल के दिन स्त्रियाँ और पुरुष क्या पहनकर नाचते हैं?\nA) कोट-पेंट\nB) पारंपरिक पोशाक\nC) रेनकोट\nD) ऊनी कपड़े",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) पारंपरिक पोशाक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ લોક ઉત્સવમાં હંમેશા 'પરંપરાગત પોશાક' જ પહેરવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "आदिवासी लोग किसकी पूजा करते हैं?\nA) मशीनों की\nB) प्रकृति की\nC) इमारतों की\nD) प्लास्टिक की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) प्रकृति की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિવાસી સંસ્કૃતિ એટલે જ પ્રકૃતિ (ઝાડ, પાન, નદી) નો ઉત્સવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "घुघुतिया त्योहार में माला में क्या-क्या पिरोया जाता है?\nA) फल और फूल\nB) पकवान (डमरू, तलवार आदि के आकार के)\nC) मोती\nD) पैसे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) पकवान (डमरू, तलवार आदि के आकार के)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોટના જુદા જુદા આકાર બનાવી તળીને તેની માળા બનાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "सरहुल के त्योहार में लोग रात भर क्या करते हैं?\nA) सोते हैं\nB) पढ़ाई करते हैं\nC) नाचते-गाते हैं\nD) काम करते हैं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) नाचते-गाते हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તહેવાર એટલે જ આનંદ, મજા અને નાચ-ગાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "मकर संक्रांति को 'फसलों का त्योहार' क्यों कहते हैं?\nA) क्योंकि इस दिन फसलें काटी जाती हैं\nB) क्योंकि नया अनाज घर आता है\nC) क्योंकि यह किसान का त्योहार है\nD) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી અને પાક સાથે જોડાયેલા તમામ કારણો આ તહેવાર માટે સાચા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "बिहु त्योहार कहाँ मनाया जाता है?\nA) पश्चिम बंगाल\nB) असम\nC) ओडिशा\nD) बिहार",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) असम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસમ કી બિહુ - આ યાદ રાખવાનું કનેક્શન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "लेखक ने अपनी दादी के बालों की तुलना किससे की है?\nA) रात से\nB) रुई जैसे सफेद से\nC) सेमल की रुई से\nD) चाँदी से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) सेमल की रुई से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં દાદીના વાળને એકદમ સફેદ અને મુલાયમ 'સેમલ કી રૂઈ' કહ્યા છે.</p></div>"
+    }
+  ]
+}
