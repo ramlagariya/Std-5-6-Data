@@ -730,3 +730,261 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "चिड़ियाघर की सैर (ચિડિયાઘર કી સૈર)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "गीता किसके साथ चिड़ियाघर गई थी? (A) माताजी, (B) पिताजी, (C) दादाजी, (D) चाचाजी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) दादाजी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ આપેલું છે કે ગીતા તેના દાદાજી સાથે ગઈ હતી. યાદ રાખો: 'ગીતા + દાદાજી'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "चिड़ियाघर में प्रवेश करने के लिए क्या खरीदना पड़ता है? (A) फल, (B) टिकट, (C) खाना, (D) खिलौने",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) टिकट</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ જાહેર સ્થળે પ્રવેશવા માટે 'ટિકિટ' અનિવાર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "शेर के गरजने पर सब क्या हो गए? (A) हँसने लगे, (B) डरकर पीछे हट गए, (C) नाचने लगे, (D) ताली बजाने लगे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) डरकर पीछे हट गए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહની ગર્જના સાંભળીને ગમે તેવો બહાદુર પણ 'ડરી' જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "बंदर को लोग क्या खिला रहे थे? (A) चॉकलेट, (B) बिस्कुट, (C) मूँगफली और केले, (D) आइसक्रीम",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) मूँગફલી અને કેલે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંદરો = મગફળી + કેળા (મ-કે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "किस जानवर का मुँह काला होता है? (A) बंदर, (B) भालू, (C) लंगूर, (D) गोरिल्ला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) लंगूर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંગૂર કા મુહ કાલા' - આ પંક્તિ પાઠમાં દાદાજી બોલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "नाक पर एक बड़ा सा सींग किस जानवर के होता है? (A) हाथी, (B) गेंडा, (C) ऊँट, (D) नीलगाय",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) गेंडा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાક પર શિંગડું = ગેંડો (Rhino).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "लंबी गर्दन वाला जानवर कौन-सा है? (A) हाथी, (B) हिरण, (C) जिराफ़, (D) घोड़ा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) जिराफ़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી ડોક = જિરાફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "दो पैरों पर चलने वाला जानवर कौन-सा था? (A) कुत्ता, (B) भालू, (C) शेर, (D) बिल्ली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) भालू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંછ (ભાલૂ) બે પગે ચાલી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "कछुआ अपना सिर और हाथ-पाँव डर लगने पर कहाँ छिपा लेता है? (A) पानी में, (B) मिट्टी में, (C) अपने खोल में, (D) पेड़ के पीछे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) अपने खोल में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબાનું કવચ (ખોલ) તેનું ઘર અને સુરક્ષા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "सबसे बड़ा पक्षी कौन-सा है? (A) मोर, (B) शुतुरमुर्ग, (C) बाज़, (D) चील",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शुतुरमुर्ग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુતુરમુર્ગ (Ostrich) દુનિયાનું સૌથી મોટું પક્ષી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "विदेशी सफेद तोते को क्या कहते हैं? (A) काकातुआ, (B) मैना, (C) कोयल, (D) बगुला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) काकातुआ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ પોપટ = કાકાતુઆ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "चिड़ियाघर में क्या खिलाना मना है? (A) पानी पिलाना, (B) जानवरों को खाना देना, (C) बातें करना, (D) फोटो खींचना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) जानवरों को खाना देना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોર્ડ પર લખ્યું હોય છે: 'પ્રાણીઓને ખવડાવવું મનાઈ છે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "गीता ने किसे पत्थर समझ लिया था? (A) मगरमच्छ, (B) कछुआ, (C) हाथी, (D) पत्थर ही था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कछुआ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબાની પીઠ પથ્થર જેવી સખત હોય છે, તેથી ગીતા છેતરાઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "तालाब में क्या तैर रही थी? (A) नावें, (B) मछलियाँ और बत्तखें, (C) लकड़ियाँ, (D) गेंद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मछलियाँ और बत्तखें</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ = માછલી અને બતક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "कछुए का रक्षक कौन है? (A) पानी, (B) उसका खोल, (C) दादाजी, (D) गेंडा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उसका खोल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યહ ઇસકા રક્ષક હૈ' - દાદાજીએ કાચબાના કવચ (ખોલ) માટે કહ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "इनमें से कौन-सा जानवर ज़ोर से गरजा? (A) बंदर, (B) हाथी, (C) शेर, (D) जिराफ़",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) शेर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગર્જના માત્ર સિંહની જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "शुतुरमुर्ग कहाँ खड़ा था? (A) पेड़ के नीचे, (B) पानी में, (C) रेत में, (D) पिंजरे के ऊपर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) पेड़ के नीचे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના ચિત્ર અને લખાણ મુજબ તે ઝાડની છાયામાં હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "लंगूर के बारे में दादाजी ने क्या बताया? (A) वह नाचता है, (B) उसका मुँह काला होता है, (C) वह उड़ता है, (D) वह पानी में रहता है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उसका मुँह काला होता है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંગૂરની મુખ્ય ઓળખ - કાળું મોઢું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "पिंजरे में कौन-सा पक्षी बोल सकता है? (A) मोर, (B) तोता, (C) बत्तख, (D) शुतुरमुर्ग",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तोता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોપટ માણસની નકલ કરીને બોલી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "गीता और दादाजी ने चिड़ियाघर से बाहर आकर क्या किया? (A) नाचने लगे, (B) आइसक्रीम खाई, (C) सो गए, (D) बस पकड़ी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) आइसक्रीम खाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરવા ગયા પછી ઠંડુ પીવું કે આઈસ્ક્રીમ ખાવો એ યાદગાર ક્ષણ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "गैंडे की नाक पर क्या होता है? (A) फूल, (B) सींग, (C) चश्मा, (D) तिलक",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सींग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેંડો = નાક પર શિંગડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "गीली ज़मीन पर कौन-सा जानवर चल रहा था? (A) गेंडा, (B) मगरमच्छ, (C) शेर, (D) भालू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मगरमच्छ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગર પાણી અને જમીન બંને પર જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "घर जाने के लिए गीता और दादाजी ने किसकी सवारी की? (A) हाथी, (B) बस, (C) साइकिल, (D) घोड़ा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અંતે લખ્યું છે - 'બસ પકડી અને ઘર આવી ગયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'खोल' शब्द का अर्थ क्या है? (A) दरवाजा, (B) कछुए के ऊपर का कड़ा भाग, (C) डिब्बा, (D) कमरा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कछुए के ऊपर का कड़ा भाग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોલ = કાચબાનું કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "जिराफ़ अपनी गर्दन कैसे हिला रहा था? (A) धीरे-धीरे, (B) तेज़, (C) ज़ोर-ज़ोर से, (D) नहीं हिला रहा था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) धीरे-धीरे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી ડોક હોય એટલે 'ધીરે-ધીરે' જ હલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "चिड़ियाघर में क्या नहीं करना चाहिए? (A) घूमना, (B) शोर मचाना और जानवरों को छेड़ना, (C) देखना, (D) पढ़ना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शोर मचाना और जानवरों को छेड़ना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓને હેરાન ન કરવા એ જ સાચો પ્રવાસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "शुतुरमुर्ग का अंडा कैसा होता है? (A) बहुत छोटा, (B) बहुत बड़ा, (C) नीला, (D) चौकोर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बहुत बड़ा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું પક્ષી = મોટું ઇંડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "चिड़ियाघर में गेंडा कहाँ था? (A) पिंजरे में, (B) बाड़े में, (C) पानी में, (D) पेड़ पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बाड़े में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા પ્રાણીઓ માટે મોટા 'વાડા' (બાડા) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'मूँगफली' को गुजराती में क्या कहते हैं? (A) ચણા, (B) મગફળી, (C) વટાણા, (D) મગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મગફળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૂંગફલી' હિન્દી નામ છે, ગુજરાતીમાં 'મગફળી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "हाथी की सवारी कहाँ मिल रही थी? (A) बाज़ार में, (B) चिड़ियाघर में, (C) जंगल में, (D) नदी में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चिड़ियाघर में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ ચિડિયાઘર છે, તો સવારી પણ ત્યાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "मगरमच्छ का मुँह कैसा था? (A) छोटा, (B) खुला हुआ, (C) गोल, (D) बंद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खुला हुआ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીતાએ જોયું ત્યારે મગર મોઢું ખોલીને સૂતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "मछली कहाँ तैर रही थी? (A) हवा में, (B) पानी में, (C) ज़मीन पर, (D) पेड़ पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पानी में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મછલી જલ કી રાની હૈ' - આ તો બધાને આવડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "काकातुआ कैसा पक्षी है? (A) काला, (B) सफेद तोता, (C) रंग-बिरंगा, (D) छोटा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सफेद तोता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાકાતુઆ એટલે સફેદ પોપટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "'सैर' शब्द का अर्थ क्या है? (A) दौड़ना, (B) घूमना/भ्रमण, (C) सोना, (D) रोना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) घूमना/भ्रमण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક છે 'ચિડિયાઘર કી સૈર' એટલે કે ત્યાં ફરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "बंदर को केला कौन खिला रहा था? (A) गीता, (B) दादाजी, (C) लोग (पर्यटक), (D) रखवाला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) लोग (पर्यटक)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીતા અને દાદાજી તો જોતા હતા, બીજા લોકો ખવડાવતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "इनमें से कौन-सा जानवर पानी और ज़मीन दोनों पर रह सकता है? (A) शेर, (B) मगरमच्छ, (C) बंदर, (D) जिराफ़",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मगरमच्छ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગર ઉભયજીવી જેવો છે, તે બંને જગ્યાએ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "चिड़ियाघर के बाहर बोर्ड पर क्या लिखा था? (A) यहाँ शोर करें, (B) जानवरों को खाना देना मना है, (C) यहाँ सोना मना है, (D) फूल तोड़ना मना है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) जानवरों को खाना देना मना है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદાજીએ ગીતાને આ વાંચી સંભળાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ऊँट की सवारी कहाँ उपलब्ध थी? (A) रेगिस्तान में, (B) चिड़ियाघर में, (C) पहाड़ों पर, (D) नदी में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चिड़ियाघर में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ હાથી અને ઊંટ બંનેની સવારી ત્યાં હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "मोर क्या कर रहा था? (A) सो रहा था, (B) नाच रहा था, (C) रो रहा था, (D) उड़ रहा था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नाच रहा था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર હંમેશા તેના 'નાચ' માટે જાણીતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "गीली ज़मीन पर कौन रेंग रहा था? (A) कछुआ, (B) सांप, (C) मगरमच्छ, (D) मछली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) मगरमच्छ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં મગર કાદવ જેવી જમીન પર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "गीता को किसने टोका? (A) शेर ने, (B) दादाजी ने, (C) बंदर ने, (D) तोते ने",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दादाजी ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ગીતા ખોટી વસ્તુ ખવડાવતી કે કરતી, ત્યારે દાદાજી તેને ટોકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "शुतुरमुर्ग कहाँ दौड़ता है? (A) पानी में, (B) आसमान में, (C) जंगल की रेत में, (D) पेड़ पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) जंगल की रेत में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુતુરમુર્ગ રેતીમાં ઝડપથી દોડી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "चिड़ियाघर में लकड़बग्घा क्या था? (A) हँस रहा था, (B) रो रहा था, (C) सो रहा था, (D) नाच रहा था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) हँस रहा था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાયના' (Hyena) નો અવાજ હસવા જેવો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "किसके पिंजरे के पास बहुत भीड़ थी? (A) तोते के, (B) शेर के, (C) शेर और बंदर के, (D) मछली के",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) शेर और बंदर के</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહ અને વાંદરો જોવા સૌથી વધુ લોકો ઉમટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "'रक्षक' का विलोम (विरुद्धार्थी) शब्द क्या है? (A) भक्षक, (B) पालने वाला, (C) दोस्त, (D) भाई",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) भक्षक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષા કરનાર - રક્ષક, નાશ કરનાર - ભક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "काकातुआ कहाँ से आता है? (A) भारत, (B) विदेश, (C) गाँव, (D) घर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) विदेश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં તેને 'વિદેશી પક્ષી' કહેવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "जिराफ़ के शरीर पर कैसी धारियाँ/निशान होते हैं? (A) गोल, (B) चेक, (C) चित्तीदार (Spots), (D) सादा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) चित्तीदार (Spots)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિરાફના શરીર પર કથ્થઈ રંગના ડાઘા (Spots) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "मगरमच्छ के मुँह में क्या थे? (A) फूल, (B) दांत, (C) खिलौने, (D) पानी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दांत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગર જ્યારે મોઢું ખોલે ત્યારે તેના અણીદાર દાંત દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "गीता और दादाजी ने जलपान में क्या लिया? (A) समोसे, (B) बिस्कुट, (C) आइसक्रीम, (D) फल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) आइसक्रीम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અંતે આઈસ્ક્રીમ ખાવાનો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "चिड़ियाघर में जानवर कहाँ रहते हैं? (A) घर में, (B) पिंजरों और बाड़ों में, (C) होटल में, (D) सड़क पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पिंजरों और बाड़ों में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરક્ષા માટે તેમને પાંજરા કે વાડામાં રખાય છે.</p></div>"
+    }
+  ]
+}
