@@ -289,3 +289,161 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "नन्हा मुन्ना राही हूँ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'नन्हा मुन्ना राही हूँ' कविता के कवि कौन हैं?\n(A) सुमित्रानंदन पंत\n(B) शकील बदायूँनी\n(C) सूर्यकांत त्रिपाठी निराला\n(D) सुभद्रा कुमारी चौहान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शकील बदायूँनी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નન્હા મુન્ના રાહી' ગીત ફિલ્મી ગીતકાર 'શકીલ બદાયૂની' એ લખ્યું છે, જે દેશભક્તિનું અમર ગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "नन्हा मुन्ना राही अपने आप को देश का क्या मानता है?\n(A) राजा\n(B) नेता\n(C) सिपाही\n(D) डॉक्टर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सिपाही</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પંક્તિ છે 'नन्हा-मुन्ना राही हूँ, देश का सिपाही हूँ!' એટલે કે બાળક દેશનો સૈનિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "रास्ते पर राही कैसे चलेगा?\n(A) डर-डर के\n(B) निडर होकर (निडरता से)\n(C) भागकर\n(D) रोते हुए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) निडर होकर (निडरता से)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ યાદ કરો: 'रस्ते पे चलूँगा न डर-डर के' - એટલે કે ડર્યા વગર ચાલવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'नन्हा मुन्ना राही' क्या बोलता जाएगा?\n(A) जय हो\n(B) भारत माता की जय\n(C) जय हिन्द\n(D) वन्दे मातरम्",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) जय हिन्द</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીતના મુખડામાં જ છે - 'बोलो मेरे संग, जय हिन्द, जय हिन्द!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "राही अपनी मंजिल से पहले क्या नहीं लेगा?\n(A) पानी\n(B) खाना\n(C) विश्राम (दम)\n(D) कपड़ा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) विश्राम (दम)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'मंजिल से पहले न लूँगा कहीं दम' - દમ લેવો એટલે કે આરામ કરવો. લક્ષ્ય સુધી પહોંચ્યા પહેલાં થોભવાનું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "राही के आगे-आगे क्या बढ़ता रहेगा?\n(A) कदम\n(B) झंडा\n(C) दोस्त\n(D) दुश्मन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) कदम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'आगे ही आगे बढ़ाऊँगा कदम' - અહીં કદમ એટલે પગલાં હંમેશા પ્રગતિ તરફ આગળ વધવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "धूप में राही क्या बहाएगा?\n(A) पानी\n(B) पसीना\n(C) तेल\n(D) आँसू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पसीना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'धूप में पसीना मैं बहाऊँगा जहाँ' - પરસેવો પાડવો એટલે સખત મહેનત કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "जहाँ राही पसीना बहाएगा, वहाँ क्या लहलहा उठेंगे?\n(A) पेड़\n(B) फूल\n(C) हरे-भरे खेत\n(D) घास",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) हरे-भरे खेत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'हरे-हरे खेत लहलहाएँगे वहाँ' - કિસાન અને જવાનની મહેનતથી દેશ હરિયાળો બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "बड़ा होकर राही देश का क्या बनेगा?\n(A) खिलौना\n(B) सहारा\n(C) सितारा\n(D) शिक्षक",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सहारा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बड़ा हो के देश का सहारा बनूँगा' - દરેક બાળક મોટું થઈને દેશની ઉન્નતિનો આધાર (સહારો) બનવા માંગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "राही दुनिया की आँखों का क्या बनेगा?\n(A) काँटा\n(B) धूल\n(C) तारा\n(D) काजल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) तारा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'दुनिया की आँखों का तारा बनूँगा' - 'આંખો કા તારા' એક મુહાવરો છે જેનો અર્થ થાય છે 'ખૂબ જ વહાલા હોવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "राही हवा में क्या लहराएगा?\n(A) हाथ\n(B) तिरंगा\n(C) रुमाल\n(D) झोला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तिरंगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'रखूँगा ऊँचा तिरंगा हरदम' - તિરંગો એ ભારતની આન, બાન અને શાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "नन्हा राही पूरी दुनिया को क्या सिखाएगा?\n(A) लड़ाई\n(B) शान्ति की नगरी\n(C) व्यापार\n(D) चित्रकारी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शान्ति की नगरी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'शान्ति की नगरी है मेरा ये वतन' - ભારત હંમેશા વિશ્વમાં શાંતિનો સંદેશ ફેલાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "राही सबको क्या सिखाएगा?\n(A) नफरत करना\n(B) प्यार का चलन\n(C) पैसे कमाना\n(D) गुस्सा करना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) प्यार का चलन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'सबको सिखाऊँगा मैं प्यार का चलन' - નફરતને બદલે પ્રેમથી રહેવાની શીખ આપવાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'नन्हा' शब्द का समानार्थी शब्द क्या होगा?\n(A) विशाल\n(B) बड़ा\n(C) छोटा\n(D) ऊँचा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) छोटा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'नन्हा' એટલે નાનું (છોટા). વિરોધી શબ્દ થાય 'બડા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'राही' शब्द का अर्थ क्या है?\n(A) मुसाफ़िर\n(B) राजा\n(C) शत्रु\n(D) घर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) मुसाफ़िर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાહ' એટલે રસ્તો અને 'રાહી' એટલે તે રસ્તા પર ચાલનાર પ્રવાસી અથવા મુસાફિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'वतन' शब्द का पर्यायवाची शब्द क्या होगा?\n(A) जंगल\n(B) विदेश\n(C) जन्मभूमि (देश)\n(D) पर्वत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) जन्मभूमि (देश)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વતન એટલે આપણો દેશ અથવા માતૃભૂમિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "राही अपने देश को क्या बनाना चाहता है?\n(A) युद्ध की नगरी\n(B) शांति की नगरी\n(C) सोने की नगरी\n(D) डर की नगरी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शांति की नगरी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત એક શાંતિપ્રિય દેશ છે, એટલે બાળક પણ શાંતિની નગરી બનાવવા માંગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'मंजिल' शब्द का अर्थ क्या है?\n(A) सीढ़ी\n(B) लक्ष्य (धृय)\n(C) रास्ता\n(D) घर की छत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) लक्ष्य (धृय)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે જ્યાં પહોંચવું છે તે સ્થાન એટલે 'મંજિલ' અથવા 'લક્ષ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "राही के रास्ते में अगर काँटे आएँगे तो वह क्या करेगा?\n(A) पीछे हट जाएगा\n(B) रोने लगेगा\n(C) काँटों पर चलकर फूल खिलाएगा\n(D) सो जाएगा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) काँटों पर चलकर फूल खिलाएगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'रास्ते में पैदा करेंगे जो काँटें, फूल बना दूँगा' - મુશ્કેલીઓને હરાવીને સફળતા મેળવવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "राही अपने साथ क्या लेकर चलने की बात करता है?\n(A) खिलौने\n(B) शान्ति और प्यार\n(C) हथियार\n(D) धन-दौलत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शान्ति और प्यार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં બાળક શાંતિની નગરી અને પ્રેમનો વ્યવહાર શીખવવાની વાત કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'आँखों का तारा' मुहावरे का अर्थ क्या है?\n(A) तारा देखना\n(B) बहुत प्यारा होना\n(C) आँखों में चमक होना\n(D) आँख खराब होना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बहुत प्यारा होना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: તારા આકાશમાં વહાલા લાગે, એમ આંખનો તારો એટલે અતિશય વહાલું વ્યક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'कदम' शब्द का क्या अर्थ होता है?\n(A) पैर\n(B) हाथ\n(C) सिर\n(D) पेट",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) पैर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદમ વધારવા એટલે કે ડગલાં ભરવા, જે પગ (પૈર) થી ભરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'दाहिने-बाएँ, दाहिने-बाएँ, थम' – यह शब्द क्या दर्शाते हैं?\n(A) खेल\n(B) परेड (सैनिक अभ्यास)\n(C) पढ़ाई\n(D) नाच",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) परेड (सैनिक अभ्यास)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈનિકો લેફ્ટ-રાઈટ (દાહિને-બાએ) કરીને પરેડ કરે છે, તે શિસ્તની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'धूप' का विरुद्धार्थी (विलोम) शब्द क्या होगा?\n(A) गर्मी\n(B) सूरज\n(C) छाया (छाँव)\n(D) उजाला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) छाया (छाँव)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો હોય તો સામે છાંયડો (છાયા) હોય જ. ધૂપ vs છાઁવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "कविता में राही किस दिशा में बढ़ने की बात करता है?\n(A) पीछे\n(B) नीचे\n(C) आगे\n(D) दाईं ओर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) आगे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'आगे ही आगे बढ़ाऊँગા कदम' - જીવનમાં અને દેશ માટે હંમેશા આગળ વધવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "राही के वतन का नाम क्या है?\n(A) अमेरिका\n(B) चीन\n(C) भारत\n(D) जापान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भारत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કવિતા ભારતના બાળ સૈનિકની ભાવના વ્યક્ત કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'तिरंगा' में कितने रंग होते हैं?\n(A) दो\n(B) तीन\n(C) चार\n(D) पाँच",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तीन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તિ' એટલે ત્રણ અને 'રંગા' એટલે રંગો. કેસરી, સફેદ અને લીલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "नन्हा राही क्या बनकर खुश है?\n(A) अमीर आदमी\n(B) देश का सिपाही\n(C) चोर\n(D) आलसी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) देश का सिपाही</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકને સૈનિક બની દેશસેવા કરવામાં જ સાચો આનંદ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "राही दुनिया में क्या गिरने नहीं देगा?\n(A) बम\n(B) फल\n(C) कचरा\n(D) किताबें",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) बम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'दुनिया में गिरने न दूँगा कहीं बम' - એટલે કે તે દુનિયામાં ક્યાંય હિંસા કે યુદ્ધ થવા દેશે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'मंजिल' का पर्यायवाची शब्द छाँटिए:\n(A) रस्ता\n(B) डगर\n(C) ध्येय\n(D) पंथ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ध्येय</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંજિલ એટલે આપણું ડેસ્ટિનેશન અથવા ગોલ (ધ્યેય).</p></div>"
+    }
+  ]
+}
