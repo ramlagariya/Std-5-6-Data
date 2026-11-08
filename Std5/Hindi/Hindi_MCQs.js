@@ -447,3 +447,286 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "सोच अपनी-अपनी (Hindi Std 5)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'सोच अपनी-अपनी' पाठ का प्रकार क्या है?",
+      "options": {
+        "A": "कहानी",
+        "B": "कविता",
+        "C": "चित्र पाठ",
+        "D": "निबंध"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) चित्र पाठ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠમાં ચિત્ર જોઈને પ્રશ્નોના જવાબ આપવાના હોવાથી તેને 'ચિત્ર પાઠ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "चित्र में सूरज किस दिशा में निकल रहा है?",
+      "options": {
+        "A": "पश्चिम",
+        "B": "उत्तर",
+        "C": "दक्षिण",
+        "D": "पूर्व"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) पूर्व</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ હંમેશા પૂર્વ (East) માં ઉગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "आकाश में क्या उड़ रहे हैं?",
+      "options": {
+        "A": "विमान",
+        "B": "पक्षी",
+        "C": "पतंग",
+        "D": "बादल"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पक्षी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર પડે એટલે પક્ષીઓ આકાશમાં કલરવ કરતાં ઉડવા લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "चरवाहा अपने हाथ में क्या लिए हुए है?",
+      "options": {
+        "A": "छाता",
+        "B": "किताब",
+        "C": "लाठी",
+        "D": "झोला"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) लाठी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય-ભેંસ ચરાવનાર (ચરવાહો) પાસે હંમેશા લાકડી (લાઠી) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "चरवाहा क्या चराने जा रहा है?",
+      "options": {
+        "A": "कुत्ते",
+        "B": "हाथी",
+        "C": "भेड़-बकरियाँ",
+        "D": "घोड़े"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भेड़-बकरियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ઘેટાં-બકરાં ચરવા જતા દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "बगीचे में क्या दिखाई दे रहे हैं?",
+      "options": {
+        "A": "शेर",
+        "B": "रंग-बिरंगे फूल",
+        "C": "पहाड़",
+        "D": "मकान"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रंग-बिरंगे फूल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગીચામાં હંમેશા ફૂલો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "फूलों के पास क्या उड़ रही हैं?",
+      "options": {
+        "A": "मक्खियाँ",
+        "B": "तितलियाँ",
+        "C": "मच्छर",
+        "D": "मधुमक्खियाँ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तितलियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગબેરંગી ફૂલો પર રંગબેરંગી પતંગિયા (તિતલિયાં) જ શોભે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "बच्चे बगीचे में क्या कर रहे हैं?",
+      "options": {
+        "A": "सो रहे हैं",
+        "B": "पढ़ रहे हैं",
+        "C": "खेल रहे हैं",
+        "D": "खाना खा रहे हैं"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) खेल रहे हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગીચો એ બાળકો માટે રમવાની જગ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "गाँव में कुल कितने घर दिखाई दे रहे हैं?",
+      "options": {
+        "A": "दो",
+        "B": "पाँच",
+        "C": "सात",
+        "D": "तीन"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पाँच</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રને ધ્યાનથી જુઓ, ટેકરી પાસે 5 ઘરો દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "रास्ते पर कौन जा रहा है?",
+      "options": {
+        "A": "सैनिक",
+        "B": "किसान",
+        "C": "कुत्ता",
+        "D": "मजदूर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) कुत्ता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરવાહાની પાછળ એક કૂતરો પણ જઈ રહ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "चरवाहा कहाँ बैठा है? (सोच के आधार पर)",
+      "options": {
+        "A": "घर में",
+        "B": "पेड़ के नीचे",
+        "C": "मंदिर में",
+        "D": "नदी में"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पेड़ के नीचे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાકેલો ચરવાહો હંમેશા વૃક્ષના છાંયે આરામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "पक्षी दाना चुगने के लिए कब निकलते हैं?",
+      "options": {
+        "A": "रात को",
+        "B": "दोपहर को",
+        "C": "शाम को",
+        "D": "सुबह"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) सुबह</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર પડે એટલે પક્ષીઓ ખોરાકની શોધમાં નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "चर्च या मंदिर गाँव में कहाँ है?",
+      "options": {
+        "A": "पहाड़ के ऊपर",
+        "B": "नदी के बीच",
+        "C": "घर के पास",
+        "D": "बगीचे के अंदर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) घर के पास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં મંદિર ઘરોની નજીક બતાવવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "पर्वत के पीछे से क्या निकल रहा है?",
+      "options": {
+        "A": "चाँद",
+        "B": "तारे",
+        "C": "सूरज",
+        "D": "अंधेरा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सूरज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વતોની વચ્ચેથી સૂર્યોદય થતો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "चरवाहे के पास कुल कितनी भेड़-बकरियाँ हैं?",
+      "options": {
+        "A": "दो",
+        "B": "तीन",
+        "C": "चार",
+        "D": "छह"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तीन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ચરવાહાની આગળ 3 પ્રાણીઓ ચાલતા દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'चरवाहा' शब्द का स्त्रीलिंग क्या होगा?",
+      "options": {
+        "A": "चरवाही",
+        "B": "चरवाहिन",
+        "C": "चरवाहन",
+        "D": "चरवाहीन"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) चरवाही</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુલિંગમાંથી સ્ત્રીલિંગ બનાવવાના નિયમો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'सूरज' का समानार्थी शब्द कौन-सा है?",
+      "options": {
+        "A": "नभ",
+        "B": "रवि",
+        "C": "धरा",
+        "D": "पावक"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रवि</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ = રવિ, ભાનુ, દિનેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'पक्षी' शब्द का बहुवचन क्या होगा?",
+      "options": {
+        "A": "पक्षियों",
+        "B": "पक्षीगण",
+        "C": "पक्षियाँ",
+        "D": "A અને B બંને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને B બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાક્યના પ્રયોગ મુજબ બંને સાચા ગણી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "बगीचे में कितने बच्चे हैं?",
+      "options": {
+        "A": "दो",
+        "B": "तीन",
+        "C": "चार",
+        "D": "पाँच"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तीन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં બે છોકરીઓ અને એક છોકરો રમે છે, કુલ 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "चरवाहा क्या काम करता है?",
+      "options": {
+        "A": "मिट्टी के बर्तन बनाना",
+        "B": "पशु चराना",
+        "C": "कपड़े धोना",
+        "D": "बाल काटना"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पशु चराना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચરવાહા' નામમાં જ 'ચરાવવું' છુપાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "सुबह होने पर कलियाँ क्या करती हैं?",
+      "options": {
+        "A": "मुरझा जाती हैं",
+        "B": "खिल जाती हैं",
+        "C": "सो जाती हैं",
+        "D": "गिर जाती हैं"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खिल जाती हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર પડતા જ કળી ખીલીને ફૂલ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'सोच अपनी-अपनी' चित्र में प्रकृति का कैसा दृश्य है?",
+      "options": {
+        "A": "सुंदर और मनभावन",
+        "B": "डरावना",
+        "C": "भीड़भाड़ वाला",
+        "D": "गंदा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) सुंदर और मनभावन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડાની સવાર હંમેશા સુંદર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'लाठी' का उपयोग चरवाहा क्यों करता है?",
+      "options": {
+        "A": "खेलने के लिए",
+        "B": "पशुओं को नियंत्रित करने के लिए",
+        "C": "बैठने के लिए",
+        "D": "पढ़ने के लिए"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पशुओं को नियंत्रित करने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડી પશુઓને રસ્તો બતાવવા અને નિયંત્રણમાં રાખવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'पर्वत' शब्द का अर्थ क्या है?",
+      "options": {
+        "A": "नदी",
+        "B": "पहाड़",
+        "C": "मैदान",
+        "D": "जंगल"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पहाड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત એટલે ડુંગર અથવા પહાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "चित्र में उड़ते हुए पक्षी कितने हैं?",
+      "options": {
+        "A": "दो",
+        "B": "सात",
+        "C": "तीन",
+        "D": "दस"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सात</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં આકાશમાં ધ્યાનથી પક્ષીઓની ગણતરી કરો, તમને 7 પક્ષીઓ દેખાશે.</p></div>"
+    }
+  ]
+}
