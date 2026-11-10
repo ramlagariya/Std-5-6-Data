@@ -1146,3 +1146,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "खाना खजाના (चित्र पाठ)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "रसोईघर के चित्र में माताजी क्या कर रही हैं? \n(A) सो रही हैं \n(B) खाना बना रही हैं \n(C) बर्तन साफ कर रही हैं \n(D) कपड़े धो रही हैं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खाना बना रही हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડામાં મમ્મી હંમેશા રસોઈ જ બનાવે (રસીઈઘર = ખાના બનાના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "लड़का खाना खाते समय कहाँ बैठा है? \n(A) पलंग पर \n(B) चटाई पर \n(C) कुर्सी पर \n(D) जमीन पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) जमीन पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર પાઠમાં છોકરો આસન પર જમીન પર બેસીને જમે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "दादी माँ कौन-सी किताब पढ़ रही हैं? \n(A) कहानियों की \n(B) अखबार \n(C) धार्मिक पुस्तक (जैसे रामायण) \n(D) विज्ञान की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) धार्मिक पुस्तक (जैसे रामायण)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદીમાં હંમેશા ભગવાનની ભક્તિ કે ધાર્મિક પુસ્તકો વાંચતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "रसोईघर में अलमारी के डिब्बों में क्या है? \n(A) खिलौने \n(B) दाल, मिर्च, मसाले और तेल \n(C) जूते-चप्पल \n(D) कपड़े",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दाल, मिर्च, मसाले और तेल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડાના ડબ્બામાં હંમેશા રસોઈની જ સામગ્રી (દાળ, મસાલા) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "टोकरी में कौन-सी सब्जी दिखाई दे रही है? \n(A) बैंगन और भिंडी \n(B) लौकी और गोभी \n(C) आलू और टमाटर \n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ઘણી બધી શાકભાજીઓ એકસાથે ટોપલીમાં બતાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "इनमें से कौन-सा बर्तन रसोईघर में नहीं होता? \n(A) थाली \n(B) कलछी \n(C) हथौड़ा \n(D) पतीला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) हथौड़ा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હથોડો (Hathoda) એ ઓજાર છે, રસોડાનું વાસણ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "रोटी को बेलने के लिए किसका उपयोग होता है? \n(A) चाकू \n(B) बेलन-चकला \n(C) चिमटा \n(D) चम्मच",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बेलन-चकला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલી 'બેલવા' માટે 'બેલન' (વેલણ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "पानी भरने के लिए रसोई में क्या रखा है? \n(A) गिलास \n(B) मटका/घड़ा \n(C) कटोरी \n(D) थाली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मटका/घड़ा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીવાનું પાણી સંગ્રહવા માટે માટલું (મટકા) વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "चाय छानने के लिए किसका उपयोग किया जाता है? \n(A) चलनी (छलनी) \n(B) कड़ाही \n(C) कुकर \n(D) संडासी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) चलनी (छलनी)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છાનના' શબ્દ પરથી 'છલની' (ગળણી) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "सब्जी काटने के लिए किस साधन का उपयोग होता है? \n(A) चम्मच \n(B) चाकू \n(C) बेलन \n(D) थाली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चाकू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપવા (Cut) માટે ચાકુ (Knife) જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "पूड़ी बनाने के लिए कौन-सी रीति अपनाई जाती है? \n(A) सेंककर \n(B) उबालकर \n(C) तलकर \n(D) भूनकर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) तलकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરી તેલમાં તળાય (તલકર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "रोटी बनाने के लिए कौन-सी रीति अपनाई जाती है? \n(A) तलकर \n(B) सेंककर \n(C) उबालकर \n(D) इनमें से कोई नहीं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सेंककर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલી તવા પર શેકાય (સિંકકર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "इनमें से कौन-सा फल है? \n(A) आलू \n(B) अंगूर \n(C) लौकी \n(D) भिंडी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अंगूर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગૂર (દ્રાક્ષ) એક ફળ છે, બાકીના શાકભાજી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "खाना बनाने का काम कहाँ होता है? \n(A) शयनकक्ष में \n(B) रसोईघर में \n(C) बैठक में \n(D) स्नानघर में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रसोईघर में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈ = રસોઈઘર (Kitchen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "पका हुआ खाना किसमें परोसा जाता है? \n(A) कुकर में \n(B) कड़ाही में \n(C) थाली में \n(D) टोकरी में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) थाली में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમવા માટે આપણે થાળીનો જ ઉપયોગ કરીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "गैस चूल्हे के ऊपर क्या रखा है? \n(A) पतीला \n(B) तवा \n(C) कड़ाही \n(D) कुकर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तवा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં મમ્મી રોટલી બનાવી રહી છે, એટલે ગેસ પર તવો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "दाल बनाने के लिए किसका उपयोग किया जाता है? \n(A) प्रेशर कुकर \n(B) बेलन \n(C) थाली \n(D) गिलास",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) प्रेशर कुकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાળ જલ્દી બનાવવા 'સીટી' વગાડવી પડે (કુકર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'લૌકી' (Lauki) को गुजराती में क्या कहते हैं? \n(A) બટાકા \n(B) દૂધી \n(C) કારેલું \n(D) રીંગણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દૂધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લૌકી = દૂધી (યાદ રાખજો, આ ખૂબ પૂછાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'करेला' स्वाद में कैसा होता है? \n(A) मीठा \n(B) खट्टा \n(C) कड़वा \n(D) तीखा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) कड़वा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' સે કરેલા, 'ક' સે કડવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "इनमें से कौन-सा बर्तन काँच का हो सकता है? \n(A) चिमटा \n(B) गिलास \n(C) कुकर \n(D) कलछी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) गिलास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાસ કાચ અને સ્ટીલ બંનેના હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "अचार किसमें रखा जाता है? \n(A) टोकनी में \n(B) बरनी में \n(C) थाली में \n(D) कड़ाही में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बरनी में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથાણું હંમેશા બરણીમાં સુરક્ષિત રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "चावल को कैसे पकाया जाता है? \n(A) तलकर \n(B) उबालकर \n(C) भूनकर \n(D) इनमें से कोई नहीं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उबालकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોખા પાણીમાં ઉકાળીને (ઉબાલકર) બનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "रसोईघर की खिड़की से बाहर क्या दिखाई दे रहा है? \n(A) सूरज \n(B) बादल और आसमान \n(C) चिड़िया \n(D) पेड़",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बादल और आसमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં બારીની બહાર આકાશ અને વાદળ દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "चिमटे का उपयोग क्या करने के लिए होता है? \n(A) पानी पीने के लिए \n(B) रोटी पकड़ने/पलटने के लिए \n(C) सब्जी काटने के लिए \n(D) दूध छानने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रोटी पकड़ने/पलटने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચીપિયો (ચિમટા) ગરમ રોટલી પકડવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "इनमें से कौन-सा शाकाहारी भोजन का हिस्सा है? \n(A) सब्जी-रोटी \n(B) फल \n(C) दाल-चावल \n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈમાં બનેલી બધી જ વસ્તુઓ શાકાહારી ભોજન છે.</p></div>"
+    }
+  ]
+}
