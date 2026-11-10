@@ -1587,3 +1587,161 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "कैसी बारी? (કેસી બારી?)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "बिरजू चाचा ने अपने खेत में क्या बोया था?",
+      "options": "A. अनाज, B. सब्जियाँ, C. फल, D. फूल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. सब्जियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'કેસી બારી' (શાકભાજી વિશે) છે, એટલે બિરજૂ ચાચાએ શાકભાજી જ વાવી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "बिरजू चाचा कहाँ सो गए थे?",
+      "options": "A. घर में, B. पेड़ की छाया में, C. खेत के बीच में, D. बैलगाड़ी में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. पेड़ की छाया में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં ઠંડક ક્યાં હોય? ઝાડની નીચે! એટલે ચાચા ત્યાં જ પોઢી ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "सभी सब्जियों का राजा कौन है?",
+      "options": "A. बैंगन, B. टमाटर, C. आलू, D. कद्दू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. आलू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાકા (બટેટા) દરેક શાકમાં ભળી જાય, એટલે એ જ કહેવાય 'રાજા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "शकरकंद स्वाद में कैसा होता है?",
+      "options": "A. कड़वा, B. तीखा, C. खट्टा, D. मीठा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. मीठा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'શકર' (સાકર) છે, એટલે સ્વાદ 'મીઠો' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "किस सब्जी के सिर पर कलगी (ताज) होता है?",
+      "options": "A. लौकी, B. बैंगन, C. भिंडी, D. टमाटर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. बैंगन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગણના ઉપરના લીલા ભાગને 'તાજ' જેવો આકાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "सब्जियों के साथ नाच-गाना किसने शुरू किया?",
+      "options": "A. आलू, B. मटर, C. भिंडी, D. गाजर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. मटर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા (મટર) ઉછળીને સીંગમાંથી બહાર આવ્યા અને નાચવા લાગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "रायता बनाने के लिए किस सब्जी का उपयोग होता है?",
+      "options": "A. बैंगन, B. आलू, C. लौकी, D. फूलगोभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. लौकी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લૌકી (દૂધી) નો હલવો અને રાયતું બેસ્ટ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "किस सब्जी का स्वाद कड़वा होता है?",
+      "options": "A. गाजर, B. करेला, C. टमाटर, D. मिर्च",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. करेला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' સે કડવા અને 'ક' સે કરેલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "करेला किस बीमारी में उपयोगी है?",
+      "options": "A. बुखार, B. जुकाम, C. मधुमेह (Diabetes), D. पेट दर्द",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. मधुमेह (Diabetes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાબિટીસમાં મોઢું કડવું કરવું પડે, એટલે કારેલું કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "हलवा बनाने में गाजर के साथ और किसका उपयोग होता है?",
+      "options": "A. लौकी, B. करेला, C. बैंगन, D. मिर्च",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. लौकी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાજર અને દૂધી - બંને મીઠાઈ (હલવો) બનાવવા વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "चाट, कचोरी और समोसे के लिए कौन सी सब्जी जरूरी है?",
+      "options": "A. टमाटर, B. आलू, C. गोभी, D. कद्दू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. आलू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોસાનું નામ સાંભળતા જ બટાકા (આલૂ) યાદ આવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "कचूमर में कौन सी सब्जियाँ डाली जाती हैं?",
+      "options": "A. गाजर, पत्तागोभी, टमाटर, B. आलू, बैंगन, C. कद्दू, लौकी, D. भिंडी, मटर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. गाजर, पत्तागोभी, टमाटर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચુંબર હંમેશા કાચી ખાઈ શકાય તેવી શાકભાજીનું જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "मिर्च का स्वाद कैसा होता है?",
+      "options": "A. मीठा, B. कड़वा, C. तीखा, D. खट्टा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. तीखा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરચું ખાઈએ એટલે 'સી-સી' અવાજ નીકળે, કારણ કે તે તીખું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "जमीन के अंदर पैदा होने वाली सब्जी कौन सी है?",
+      "options": "A. आलू, B. भिंडी, C. बैंगन, D. मिर्च",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. आलू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલૂ, શક્કરિયા અને ગાજર - આ બધા જમીનની અંદર સંતાયેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "सब्जियों का शोर सुनकर कौन जाग गया?",
+      "options": "A. गाय, B. कुत्ता, C. बिरजू चाचा, D. बच्चे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. बिरजू चाचा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સૂતા હતા, એ જ જાગશે ને! બિરજૂ ચાચા ઝાડ નીચે સૂતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "फूल जैसी दिखने वाली सब्जी कौन सी है?",
+      "options": "A. फूलगोभी, B. पत्तागोभी, C. अदरक, D. भिंडी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. फूलगोभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'ફૂલ' છે - ફૂલગોભી (ફલાવર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "लाल रंग का गोल-मटोल कौन है?",
+      "options": "A. बैंगन, B. टमाटर, C. कद्दू, D. मूली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. टमाटर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ટામેટાં, બાળકોને ભાવે મજાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "अदरक को हिन्दी में और क्या कहा जाता है? (सन्दर्भ: स्वाद)",
+      "options": "A. खट्टा, B. मीठा, C. चटपटा, D. कड़वा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. चटपटा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદુ સ્વાદને 'ચટપટો' બનાવી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "सब्जियों में बहस क्यों छिड़ गई?",
+      "options": "A. खेलने के लिए, B. अपनी श्रेष्ठता साबित करने के लिए, C. पानी के लिए, D. धूप के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. अपनी श्रेष्ठता साबित करने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક શાકભાજી કહેતી હતી 'હું શ્રેષ્ઠ છું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "विटामिन 'ए' किस सब्जी से मिलता है?",
+      "options": "A. गाजर, B. आलू, C. अदरक, D. प्याज",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. गाजर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખો તેજ કરવા ગાજર ખાઓ (Vitamin A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "भिंडी कैसी होती है?",
+      "options": "A. लंबी और पतली, B. गोल और मोटी, C. टेढ़ी-मेढ़ी, D. बहुत बड़ी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. लंबी और पतली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેડીઝ ફિંગર એટલે આંગળી જેવી લાંબી અને પાતળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "पत्तागोभी में क्या होता है?",
+      "options": "A. बहुत सारे बीज, B. पत्तों के ऊपर पत्ते, C. काँटे, D. बहुत पानी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. पत्तों के ऊपर पत्ते</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'પત્તા'ગોભી છે, એટલે પાંદડા જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "कद्दू का आकार कैसा होता है?",
+      "options": "A. छोटा, B. लंबा, C. बड़ा और गोल, D. त्रिकोण",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. बड़ा और गोल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોળું (કદ્દૂ) ખેતરમાં સૌથી મોટું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "सब्जियों को एकता की सलाह किसने दी?",
+      "options": "A. मिर्च, B. बिरजू चाचा, C. करेला, D. आलू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. आलू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા જ પ્રજાને શાંત કરે! એટલે આલૂએ બધું શાંત પાડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "बिरजू चाचा के जागते ही सब्जियाँ कहाँ चली गई?",
+      "options": "A. घर में, B. टोकरी में, C. अपने-अपने स्थानों पर, D. बाजार में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. अपने-अपने स्थानों पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડરના માર્યા બધા સંતાઈ ગયા (પોતપોતાની જગ્યાએ).</p></div>"
+    }
+  ]
+}
