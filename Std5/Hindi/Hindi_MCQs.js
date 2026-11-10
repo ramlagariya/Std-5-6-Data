@@ -1279,3 +1279,311 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "भरत-मिलाप (ભરત-મિલાપ)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "राम, सीता और लक्ष्मण कहाँ गए थे?\n(A) अयोध्या\n(B) वन\n(C) मिथिला\n(D) समुद्र",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાયણની શરૂઆત જ વનવાસથી થાય છે, એટલે યાદ રાખો 'રામ ગયા વન'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "राम की कुटिया कहाँ बनी हुई थी?\n(A) अयोध्या में\n(B) चित्रकूट में\n(C) हिमालय में\n(D) लंका में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चित्रकूट में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના આરંભમાં જ 'ચિત્રકૂટ' ના વનનો ઉલ્લેખ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "कुटिया के बाहर कौन बैठे हुए थे?\n(A) भरत और शत्रुघ्न\n(B) राम और सीता\n(C) राम और लक्ष्मण\n(D) लक्ष्मण और सीता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम और लक्ष्मण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ભાઈઓ અને બાજુમાં ધનુષ-બાણ હોય એટલે રામ-લક્ષ્મણ જ હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "राम को देख कौन सा भाई दौड़ता हुआ आया?\n(A) शत्रुघ्न\n(B) लक्ष्मण\n(C) भरत\n(D) हनुमान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भरत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'ભરત-મિલાપ' છે, એટલે ભરત જ દોડતા આવે તે સ્વાભાવિક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "लक्ष्मण को क्या आशंका हुई जब उन्होंने शोर सुना?\n(A) लोग उनसे मिलने आए हैं\n(B) लोग उन पर हमला करने आ रहे हैं\n(C) वन में उत्सव है\n(D) कोई जानवर आ रहा है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) लोग उन पर हमला करने आ रहे हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણ સ્વભાવે થોડા ગુસ્સાવાળા હતા, એટલે તેમને તરત લડાઈની શંકા ગઈ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "भरत के साथ कौन-कौन लोग आए थे?\n(A) सिर्फ सैनिक\n(B) पूरी अयोध्या की प्रजा और परिवार\n(C) कुछ मित्र\n(D) कोई नहीं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पूरी अयोध्या की प्रजा और परिवार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામને પાછા તેડવા માટે આખું ગામ (અયોધ્યા) આવ્યું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "भरत किसके चरणों में गिर पड़े?\n(A) दशरथ के\n(B) लक्ष्मण के\n(C) राम के\n(D) सीता के",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम के</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ભાઈ રામ પ્રત્યે ભરતને અપાર પ્રેમ હતો, એટલે તે ચરણમાં પડી ગયા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "भरत ने राम से क्या विनती की?\n(A) वन में रहने की\n(B) लंका जीतने की\n(C) अयोध्या वापस लौटने की\n(D) धनुष विद्या सिखाने की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) अयोध्या वापस लौटने की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતનો એક જ હેતુ હતો - 'રામને ઘરે પાછા લાવવા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "पिताजी की आज्ञा का पालन करने के लिए राम ने क्या किया?\n(A) घर वापस गए\n(B) वनवास स्वीकार किया\n(C) युद्ध किया\n(D) संन्यास लिया",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वनवास स्वीकार किया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આજ્ઞાકારી દીકરો' એટલે પિતાના કહેવાથી 14 વર્ષ વનવાસ ગયા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "भरत ने राम से उनकी कौन-सी चीज़ माँगी?\n(A) धनुष\n(B) खड़ाऊँ\n(C) वस्त्र\n(D) आभूषण",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खड़ाऊँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાના ચપ્પલને 'ખડાઉં' કહેવાય, જે ભરતે સિંહાસન પર મૂકવા માટે લીધા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "भरत खड़ाऊँ को क्या मानकर अयोध्या ले जाना चाहते थे?\n(A) खिलौना\n(B) सिंहासन की शोभा\n(C) राम की अमानत और चरण-चिह्न\n(D) लकड़ी का टुकड़ा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम की अमानत और चरण-चिह्न</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખડાઉં એ રામના પ્રતિનિધિ તરીકે ગાદી પર બિરાજમાન થવાના હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "राम के अनुसार असली सेवा क्या है?\n(A) राजा बनना\n(B) माता-पिता की आज्ञा का पालन करना\n(C) युद्ध करना\n(D) वन में घूमना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) माता-पिता की आज्ञा का पालन करना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ હંમેશા 'પિતૃભક્તિ' ને સર્વોપરી ગણતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "भरत को आता देख लक्ष्मण को गुस्सा क्यों आया?\n(A) क्योंकि वे थके थे\n(B) क्योंकि उन्हें लगा भरत लड़ने आ रहे हैं\n(C) क्योंकि वे खाना खा रहे थे\n(D) क्योंकि उन्हें भरत पसंद नहीं थे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) क्योंकि उन्हें लगा भरत लड़ने आ रहे हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેના સાથે આવતા જોઈને લક્ષ્મણને ગેરસમજ થઈ હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "राम ने लक्ष्मण को क्या समझाया?\n(A) भरत से युद्ध करो\n(B) भरत को डाँटो\n(C) भरत जैसा भाई भाग्य से मिलता है\n(D) वन से भाग जाओ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भरत जैसा भाई भाग्य से मिलता है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ જાણતા હતા કે ભરત નિર્દોષ અને પ્રેમાળ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "भरत ने राम के चरणों में गिरकर क्या माँगी?\n(A) संपत्ति\n(B) माफी\n(C) मिठाई\n(D) तलवार",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) माफी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૈકયીના કારણે રામને વનવાસ મળ્યો, તેનું દુઃખ ભરતને હતું એટલે માફી માંગી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "राम के पिता का नाम क्या था?\n(A) जनक\n(B) दशरथ\n(C) रावण\n(D) सुग्रीव",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दशरथ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયોધ્યાના રાજા અને રામના પિતા - રાજા દશરથ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "भरत अयोध्या का राज्य किसे देना चाहते थे?\n(A) स्वयं को\n(B) शत्रुघ्न को\n(C) राम को\n(D) हनुमान को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત માનતા હતા કે સિંહાસન પર પહેલો હક મોટા ભાઈનો જ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "खड़ाऊँ (पादुका) का क्या अर्थ है?\n(A) टोपी\n(B) हाथ के कंगन\n(C) लकड़ी की बनी पादुका\n(D) सोने का मुकुट",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) लकड़ी की बनी पादुका</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાધુ-સંતો અને રામ ભગવાન લાકડાના જે ચપ્પલ પહેરતા તેને 'ખડાઉં' કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'कुटिया' शब्द का समानार्थी शब्द क्या है?\n(A) महल\n(B) झोपड़ी\n(C) नगर\n(D) घर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) झोपड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનમાં પાંદડા અને લાકડાની નાની 'ઝૂંપડી' એટલે જ 'કુટિયા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "भरत के साथ कौन-सी माता आई थीं?\n(A) कौशल्या\n(B) सुमित्रा\n(C) कैकेयी\n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત આખા પરિવાર (ત્રણેય માતાઓ) સાથે રામને મળવા આવ્યા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'आज्ञा' का अर्थ क्या होता है?\n(A) मना करना\n(B) आदेश या हुक्म\n(C) निवेदन\n(D) प्रार्थना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) आदेश या हुक्म</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાની 'આજ્ઞા' એટલે પિતાનો 'ઓર્ડર' (આદેશ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "खड़ाऊँ को लेकर भरत ने क्या करने का निश्चय किया?\n(A) उन्हें जला दिया\n(B) उन्हें फेंक दिया\n(C) उन्हें सिंहासन पर रखकर राज्य करने का\n(D) उन्हें छुपा दिया",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) उन्हें सिंहासन पर रखकर राज्य करने का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામની ગેરહાજરીમાં તેમના ખડાઉં જ રાજા તરીકે ગણાશે તેવો ભરતનો ભાવ હતો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "भरत-मिलाप पावन कथा किस महाकाव्य का अंश है?\n(A) महाभारत\n(B) रामायण\n(C) गीता\n(D) कुरान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रामायण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ અને ભરતની વાત આવે એટલે આંખ બંધ કરીને 'રામાયણ' ટીક કરવું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "भरत के चेहरे पर क्या भाव थे?\n(A) क्रोध\n(B) खुशी\n(C) पश्चाताप और दुःख\n(D) घमंड",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) पश्चाताप और दुःख</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામને વનવાસ મળ્યો તેના માટે ભરત પોતાને જવાબદાર ગણી દુઃખી હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'चरण' शब्द का अर्थ क्या है?\n(A) हाथ\n(B) पैर\n(C) सिर\n(D) आँख",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पैर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરણ સ્પર્શ એટલે પગે લાગવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "राम ने भरत को गले क्यों लगाया?\n(A) क्योंकि वे डर गए थे\n(B) प्रेम और स्नेह के कारण\n(C) क्योंकि भरत रो रहे थे\n(D) क्योंकि लक्ष्मण ने कहा था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) प्रेम और स्नेह के कारण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાઈ પ્રત્યેનો સાચો પ્રેમ એટલે ગળે મળવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "अयोध्या का राजा किसे बनाया गया था (राम के वनवास जाने पर)?\n(A) लक्ष्मण को\n(B) शत्रुघ्न को\n(C) भरत को\n(D) रावण को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भरत को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૈકેયી એ રામને વનવાસ અને ભરતને ગાદી માંગી હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "भरत-मिलाप पाठ से हमें क्या शिक्षा मिलती है?\n(A) युद्ध करना चाहिए\n(B) भाइयों में प्रेम और बड़ों का आदर होना चाहिए\n(C) हमेशा वन में रहना चाहिए\n(D) किसी की बात नहीं माननी चाहिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) भाइयों में प्रेम और बड़ों का आदर होना चाहिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ-ભરતનો પ્રેમ 'ભાઈ-ચારા' નું ઉત્તમ ઉદાહરણ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "राम ने अपनी खड़ाऊँ किसे दी?\n(A) लक्ष्मण को\n(B) प्रजा को\n(C) भरत को\n(D) साधुओं को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भरत को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતની વિનંતી પર રામે પોતાની યાદગીરી રૂપે ખડાઉં આપી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'भरत' और 'राम' का रिश्ता क्या था?\n(A) मित्र\n(B) पिता-पुत्र\n(C) भाई-भाई\n(D) शत्रु",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) भाई-भाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ-લક્ષ્મણ-ભરત-શત્રુઘ્ન ચારેય ભાઈઓ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "'पश्चाताप' का सही अर्थ क्या है?\n(A) बदला लेना\n(B) पछतावा होना\n(C) खुश होना\n(D) घूमना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पछतावा होना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ ભૂલ બદલ મનમાં જે દુઃખ થાય તેને પસ્તાવો (पश्चाताप) કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "राम कितने वर्षों के लिए वनवास गए थे?\n(A) 10 वर्ष\n(B) 12 वर्ष\n(C) 14 वर्ष\n(D) 15 वर्ष",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 14 वर्ष</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાયણમાં વનવાસનો આંકડો ફિક્સ છે - 'એકડે ચોગડે ચૌદ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "राम की कुटिया के पास क्या दिखाई दे रहा था?\n(A) ऊँचे पहाड़\n(B) धनुष-बाण रखे हुए\n(C) बहुत सारे घर\n(D) रेगिस्तान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) धनुष-बाण रखे हुए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ અને લક્ષ્મણ યોદ્ધા હતા, તેમની પાસે હંમેશા ધનુષ-બાણ હોય જ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "भरत के साथ कौन-सा भाई आया था?\n(A) लक्ष्मण\n(B) हनुमान\n(C) शत्रुघ्न\n(D) सुग्रीव",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) शत्रुघ्न</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયોધ્યામાં ભરત અને શત્રુઘ્ન સાથે જ રહેતા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "राम ने भरत से क्या पूछा?\n(A) तुम यहाँ क्यों आए हो?\n(B) पिताजी कैसे हैं?\n(C) राज्य में सब ठीक तो है?\n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ મોટા ભાઈ હોવાથી પરિવાર અને રાજ્યની ચિંતા કરતા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "'विनीत' शब्द का अर्थ क्या है?\n(A) घमंडी\n(B) नम्र\n(C) कठोर\n(D) आलसी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नम्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતનો સ્વભાવ વિનમ્ર (નમ્ર) હતો, એટલે તેમને વિનીત કહ્યા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "राम ने वनवास को क्यों नहीं छोड़ा?\n(A) क्योंकि उन्हें वन पसंद था\n(B) क्योंकि पिताजी का वचन निभाना था\n(C) क्योंकि वे डरते थे\n(D) क्योंकि वहाँ फल मिलते थे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) क्योंकि पिताजी का वचन निभाना था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રઘુકુલ રીત સદા ચલી આઈ, પ્રાણ જાય પર વચન ન જાઈ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "लक्ष्मण को किस पर गर्व था?\n(A) स्वयं पर\n(B) अयोध्या पर\n(C) राम पर और उनकी शक्ति पर\n(D) धन पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम पर और उनकी शक्ति पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણ રામના પરમ ભક્ત અને રક્ષક હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "भरत के अनुसार राम के बिना अयोध्या कैसी है?\n(A) बहुत सुंदर\n(B) सूनी और उदास\n(C) खुशहाल\n(D) सुरक्षित",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सूनी और उदास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા વગરની પ્રજા અને રામ વગરની અયોધ્યા ઉદાસ જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "'सेवक' का धर्म क्या होता है?\n(A) आराम करना\n(B) स्वामी की आज्ञा मानना और सेवा करना\n(C) चोरी करना\n(D) भाग जाना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) स्वामी की आज्ञा मानना और सेवा करना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતે પોતાને રામના સેવક માન્યા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "चित्रकूट में राम किसके साथ रह रहे थे?\n(A) सीता और हनुमान\n(B) सीता और लक्ष्मण\n(C) केवल सीता\n(D) केवल लक्ष्मण",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सीता और लक्ष्मण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનવાસની ત્રિપુટી એટલે રામ-સીતા-લક્ષ્મણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "भरत को आते देख लक्ष्मण ने क्या उठाया?\n(A) भोजन की थाली\n(B) अपना धनुष-बाण\n(C) पानी का लोटा\n(D) फूल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अपना धनुष-बाण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષણ કરવા માટે લક્ષ્મણે તરત શસ્ત્ર તૈયાર કર્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "'अमानत' का अर्थ क्या है?\n(A) उपहार\n(B) धरोहर या सुरक्षित रखी वस्तु\n(C) कचरा\n(D) इनाम",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) धरोहर या सुरक्षित रखी वस्तु</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત માટે રામની ખડાઉં એક પવિત્ર થાપણ (અમાનત) હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "भरत का स्वभाव कैसा था?\n(A) स्वार्थी\n(B) त्यागी और प्रेमी\n(C) क्रोधी\n(D) अभिमानी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) त्यागी और प्रेमी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યનો ત્યાગ કર્યો એટલે ભરત 'ત્યાગી' કહેવાયા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "इनमें से कौन-सा पात्र 'भरत-मिलाप' एकांकी में नहीं है?\n(A) राम\n(B) लक्ष्मण\n(C) रावण\n(D) भरत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) रावण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાયણના આ અંશમાં યુદ્ધ નથી, માત્ર પ્રેમ મિલાપ છે, એટલે રાવણ અહી નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "राम ने भरत को क्या कहकर पुकारा?\n(A) शत्रु\n(B) भाई भरत\n(C) राजा भरत\n(D) वनवासी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) भाई भरत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ મોટા ભાઈ હતા એટલે સ્નેહથી 'ભાઈ ભરત' કહી સંબોધતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "अयोध्या की प्रजा क्या चाहती थी?\n(A) राम को सज़ा मिले\n(B) राम वापस अयोध्या चलें\n(C) भरत जंगल में रहें\n(D) सीता लंका जाएँ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) राम वापस अयोध्या चलें</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રજા હંમેશા પોતાના પ્રિય રાજાને સાથે રાખવા માંગતી હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "भरत ने खड़ाऊँ को कहाँ रखा?\n(A) ज़मीन पर\n(B) अपने सिर पर\n(C) झोले में\n(D) पेड़ पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अपने सिर पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામની ખડાઉં પ્રત્યે આદર બતાવવા ભરતે તેને માથે મૂકી હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "'उत्तेजित' होना मुहावरे का अर्थ क्या है?\n(A) शांत रहना\n(B) जोश में आना या गुस्सा होना\n(C) सो जाना\n(D) हँसना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) जोश में आना या गुस्सा होना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણ શોર સાંભળીને 'ઉત્તેજિત' (એક્સાઇટેડ/ગુસ્સે) થઈ ગયા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "राम के चेहरे पर कैसा भाव था?\n(A) अशांति\n(B) शांति और मुस्कान\n(C) भय\n(D) चिंता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) शांति और मुस्कान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ ભગવાન 'મર્યાદા પુરુષોત્તમ' છે, તેઓ હંમેશા શાંત અને સૌમ્ય રહેતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "भरत ने राम को क्या कहकर संबोधित किया?\n(A) हे देव!\n(B) हे भाई!\n(C) हे प्रभु!\n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) हे प्रभु!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત રામને ભાઈ કરતા પણ ભગવાન (પ્રભુ) સમાન વધુ માનતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "भरत-मिलाप का दृश्य कहाँ का है?\n(A) राजमहल\n(B) वन की कुटिया\n(C) नदी किनारा\n(D) बाजार",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वन की कुटिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ વનમાં હતા એટલે મુલાકાત વનની કુટિયાએ જ થઈ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "'दुःख' का विलोम (विरुद्धार्थी) शब्द क्या है?\n(A) कष्ट\n(B) सुख\n(C) गम\n(D) पीड़ा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सुख</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દમાં 'દુઃખ' ની સામે હંમેશા 'સુખ' આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "राम के वन जाने से राजा दशरथ की क्या स्थिति हुई थी?\n(A) वे खुश थे\n(B) उनका देहांत हो गया था\n(C) वे दूसरे देश चले गए थे\n(D) वे शिकार पर गए थे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उनका देहांत हो गया था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુત્ર વિયોગમાં રાજા દશરથે પ્રાણ ત્યાગ્યા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "भरत ने अंत में राम की कौन-सी बात मानी?\n(A) वन में रहने की\n(B) राजा बनने की\n(C) खड़ाऊँ लेकर अयोध्या लौटने की\n(D) युद्ध करने की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) खड़ाऊँ लेकर अयोध्या लौटने की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ પાછા ન આવ્યા એટલે ભરત તેમની યાદગીરી ખડાઉં લઈને પાછા ગયા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "'शायद' शब्द का प्रयोग लक्ष्मण ने क्यों किया?\n(A) वे डरे हुए थे\n(B) वे निश्चित नहीं थे\n(C) वे मज़ाक कर रहे थे\n(D) वे भूल गए थे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वे निश्चित नहीं थे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણને પાકી ખબર ન હોય ત્યારે 'કદાચ' (શાયદ) વપરાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "राम सीता से क्या करने को कहते हैं?\n(A) खाना बनाने को\n(B) अंदर जाने को\n(C) भरत का स्वागत करने को\n(D) रोने को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अंदर जाने को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે અવાજ સંભળાયો ત્યારે સુરક્ષા માટે રામે સીતાને કુટિયાની અંદર જવા કહ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "'निर्पराध' का क्या अर्थ है?\n(A) अपराधी\n(B) जिसका कोई अपराध न हो\n(C) राजा\n(D) भिखारी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) जिसका कोई अपराध न हो</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિર્' + 'અપરાધ' = જેણે કોઈ ગુનો કર્યો નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "भरत को क्या सजा मिलनी चाहिए ऐसा लक्ष्मण ने सोचा?\n(A) पुरस्कार\n(B) जेल\n(C) मौत\n(D) उसे मज़ा चखाया जाए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उसे मज़ा चखाया जाए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણ ઉત્તેજિત થઈને બોલ્યા હતા કે આજે ભરતને પાઠ ભણાવવો જ પડશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "इस पाठ का मुख्य पात्र कौन है?\n(A) केवल राम\n(B) केवल भरत\n(C) राम और भरत दोनों\n(D) रावण",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) राम और भरत दोनों</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના નામ મુજબ આ બંને વચ્ચેનો મિલાપ જ મુખ્ય વિષય છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
