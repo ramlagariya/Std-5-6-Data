@@ -1745,3 +1745,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "एक दिन की बादशाहत (Ek Din Ki Badshahat)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "आरिफ और सलीम को हर वक्त किनकी बातें माननी पड़ती थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) घर के बड़ों की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના નામ મુજબ 'બાદશાહત' મેળવવાની ઈચ્છા એટલે જ થઈ હતી કારણ કે 'બધા વડીલો' તેમને રોકતા હતા. (વડીલો = બડે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "आरिफ और सलीम ने अब्बा से क्या दरख्वास्त की?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) एक दिन के लिए उन्हें बड़ों के अधिकार दिए जाएँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે 'એક દિન કી બાદશાહત', એટલે કે એક દિવસનો પાવર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "सलीम ने अम्मी को क्या आदेश दिया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) सो जाने का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવી રીતે અમી બાળકોને જલ્દી સુવડાવી દેતી હતી, તેમ સલીમે પણ અમીને 'સુઈ જવા' કહ્યું. રોલ રિવર્સલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "खाना पकाने के लिए खानसामा को निर्देश किसने दिए?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) आरिफ और सलीम ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બાદશાહત બાળકોના હાથમાં આવી, ત્યારે રસોઈયા (ખાનસામા) ને ઓર્ડર આપવાનો વારો પણ બાળકોનો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "आरिफ ने खानसामा से नाश्ते में क्या बनाने को कहा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अंडे और मक्खन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોને હેલ્ધી અને ભાવતી વસ્તુઓ (અંડા-મખ્ખન) ગમે, જે વડીલો હંમેશા ખાવા ન દેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "आरिफ और सलीम को सुबह नींद से कौन जगाता था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) दादी और अम्मी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરમાં સવારે ઉઠાડવાનું કામ હંમેશા અમી કે દાદી જ કરતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "अब्बा ने बच्चों की बात क्यों मान ली?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) खेल-खेल में मनोरंजन के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાજી (અબ્બા) હસીને અને રમત તરીકે આ વાતને સ્વીકારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "अप्पा कहाँ जाने की तैयारी कर रही थीं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कॉलेज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપુ એટલે કે મોટી બહેન કોલેજ જતી હતી (બુકમાં ઉલ્લેખ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "सलीम ने अप्पा को कौन सी साड़ी पहनने से मना किया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) भारी ज़री वाली साड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝરીવાળી સાડી' જે અપુને બહુ ગમતી હતી, સલીમે તેને પહેરવા માટે ના પાડી દીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "भोजन के समय आरिफ ने दादी को क्या करने से टोका?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) बार-बार बोलने से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદી હંમેશા કચકચ કરતા હોય તેમ આરિફે તેમને ચૂપ રહેવા કહ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "अब्बा को दफ़्तर जाने के लिए किसने तैयार किया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खुद बच्चों ने निर्देश दिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદશાહત બાળકો પાસે હતી એટલે અબ્બાને 'ટાઈ' પહેરવા અને ઓફિસ જવાનું બાળકોએ યાદ અપાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'बादशाहत' शब्द का सही अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) शासन या राज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદશાહ એટલે રાજા, અને રાજાનું જે હોય તેને બાદશાહત (રાજ) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "खिचड़ी और दाल के बदले बच्चों ने क्या बनवाया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) गुलाब जामुन और कचौरियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોને મનગમતી મીઠાઈ (ગુલાબ જાંબુ) અને તેલવાળું (કચોરી) ખાવાની છૂટ લીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "आरिफ और सलीम के बड़े भाई का नाम क्या था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) आरिफ का भाई (भैया)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'ભૈયા' શબ્દ પ્રયોજાયો છે જે તેમને સિનેમા જવાની ના પાડતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "पाठ में 'खानसामा' किसे कहा गया है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रसोइया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્દૂ ભાષામાં રસોઈ બનાવનાર (Cook) ને 'ખાનસામા' કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "अगले दिन सुबह अम्मी ने बच्चों को प्यार से क्यों जगाया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) क्योंकि उन्हें अपनी गलती का अहसास हुआ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વડીલોને ખબર પડી કે બાળકો પર કેટલા પ્રતિબંધો છે, ત્યારે તેમનું વર્તન બદલાઈ ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'पाबंदी' शब्द का पर्यायवाची शब्द क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रोक-टोक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાબંદી એટલે કોઈ કામ કરવા પર રોક લગાવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "इस कहानी से हमें क्या सीख मिलती है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) दूसरों की भावनाओं को समझना चाहिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલોએ પણ બાળકોની જગ્યાએ રહીને વિચારવું જોઈએ, એ જ આ પાઠનો સાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "सलीम ने अपनी अप्पा को क्या सलाह दी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) चेहरे पर पाउडर कम लगाने की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપુ પાવડર લગાવતી હતી એટલે સલીમે તેના પર પણ 'બાદશાહત' ચલાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "पाठ में किस भाषा के शब्दों का अधिक प्रयोग हुआ है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उर्दू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અબ્બા', 'અમ્મી', 'ખાનસામા', 'દરખાસ્ત' - આ બધા જ ઉર્દૂ શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "आरिफ और सलीम को गाने का शौक था, लेकिन कौन मना करता था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) अम्मी और अप्पा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરમાં ઘોંઘાટ થતો હોવાથી વડીલો હંમેશા ગાવાની ના પાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "आरिफ ने जब अप्पा को टोका, तो अप्पा की प्रतिक्रिया क्या थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) वह बहुत गुस्से में आ गई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ભાઈ-બહેનને જો નાના ભાઈ-બહેન ઓર્ડર આપે તો ગુસ્સો આવવો સ્વાભાવિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "अब्बा ने सलीम को दफ़्तर जाने के समय क्या दिया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) पाँच रुपये</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાજીએ બાળકોને ખુશ રાખવા 5 રૂપિયા આપ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'इकरार' शब्द का क्या अर्थ है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) सहमति या स्वीकार करना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ વાત માની લેવી એટલે 'ઇકરાર' કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "कहानी के अंत में क्या बदलाव आया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बड़ों ने बच्चों पर पाबंदियाँ कम कर दीं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેપ્પી એન્ડિંગ! વડીલો સમજી ગયા કે આઝાદી બધાને વહાલી હોય છે.</p></div>"
+    }
+  ]
+}
