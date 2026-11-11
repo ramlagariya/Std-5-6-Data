@@ -2216,3 +2216,161 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "दुमदुमा गाँव के बच्चे",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "गाँव का नाम क्या था?\n(A) रामपुरा\n(B) सोनपुर\n(C) दुमदुमा\n(D) सीतापुर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दुमदुma</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના ટાઈટલમાં જ ગામનું નામ છે - 'दुमदुमा गाँव के बच्चे'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "दुमदुमा गाँव में हमेशा किसकी कमी रहती थी?\n(A) अनाज की\n(B) पानी की\n(C) बिजली की\n(D) पैसों की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पानी की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામમાં તળાવ ખાલી હતું અને છોકરાઓ પાણીમાં રમી શકતા નહોતા, એટલે પાણીની જ અછત હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "पानी की कमी के कारण खेत _________ जाते थे।\n(A) हरे-भरे हो\n(B) भीग\n(C) सूख\n(D) कट",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सूख</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ના હોય તો ખેતર 'સૂકાઈ' જ જાય, આ સાદું વિજ્ઞાન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "बच्चे कहाँ खेलना चाहते थे?\n(A) पानी में\n(B) रेत में\n(C) कीचड़ में\n(D) मैदान में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) पानी में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ બાળકોને પાણીમાં રમવાની ખૂબ ઈચ્છા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "किसने कहा - 'मैं बादलों से प्रार्थना करूँगा कि रोज बरसो'?\n(A) रजिया\n(B) बिल्लू\n(C) मयंक\n(D) छोटू",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बिल्लू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બિલ્લુ' એ 'બાદલ' (બ-બ) પાસે પ્રાર્થના કરવાની વાત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "बादल रोज बरस सकते हैं? - यह किसने पूछा?\n(A) महिमा\n(B) रजिया\n(C) बिल्लू\n(D) गाँववालों ने",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रजिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઝિયાએ તાર્કિક પ્રશ્ન પૂછ્યો કે શું વાદળ રોજ વરસી શકે?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "रजिया ने क्या उपाय बताया?\n(A) कुआँ खोदने का\n(B) नहर बनाने का\n(C) बड़ा सा गड्ढा खोदने का\n(D) गाँव छोड़ने का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बड़ा सा गड्ढा खोदने का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઝિયા = મોટો ખાડો (ગડ્ઢા) ખોદવાની સલાહ આપી જેથી વરસાદનું પાણી ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "बच्चे खुदाई के लिए क्या-क्या लेकर आए?\n(A) फावड़े और कड़ाहियाँ\n(B) कुदालें और तसले\n(C) ऊपर के दोनों (A અને B)\n(D) केवल ट्रैक्टर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ऊपर के दोनों (A અને B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોદકામ માટે પાવડા, તગારા અને કોદાળી બધું જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "बच्चे दिन भर क्या करते रहे?\n(A) खेलते रहे\n(B) मिट्टी ढोते रहे\n(C) सोते रहे\n(D) पढ़ाई करते रहे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मिट्टी ढोते रहे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાડો ખોદવા માટે માટી બહાર કાઢવી (ઢોના) જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "बच्चों के काम में किसने मदद की?\n(A) शहर के लोगों ने\n(B) सरकार ने\n(C) गाँव के बड़ों ने\n(D) दूसरे गाँव के बच्चों ने",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) गाँव के बड़ों ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકતામાં બળ છે, બાળકોની મહેનત જોઈ વડીલો પણ સાથે જોડાયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "एक बहुत बड़ा तालाब कहाँ बन गया?\n(A) मैदान में\n(B) स्कूल में\n(C) बगीचे में\n(D) पहाड़ पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) मैदान में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો જ્યાં રમતા હતા તે મેદાનમાં જ મોટો ખાડો ખોદ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "तालाब में क्या भरा?\n(A) कीचड़\n(B) वर्षा का पानी\n(C) दूध\n(D) कूड़ा-कचरा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वर्षा का पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખો પાઠ વરસાદ (વર્ષા) ના પાણીના સંગ્રહ માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "तालाब में पानी भरने से खेतों की क्या हुई?\n(A) तबाही\n(B) खुदाई\n(C) सिंचाई\n(D) जुताई",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सिंचाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી મળવાથી ખેતરોને પાણી આપવાને 'સિંચાઈ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "खेतों में क्या-क्या पैदा हुआ?\n(A) ईंटें और पत्थर\n(B) धान और सब्जियाँ\n(C) सोना और चाँदी\n(D) केवल घास",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) धान और सब्जियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં અનાજ (ધાન) અને શાકભાજી જ ઉગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "बच्चे पानी में बहुत _________?\n(A) रोए\n(B) सोए\n(C) छपाछप नहाए\n(D) भागे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) छपाछप नहाए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં નહાવાનો આનંદ વ્યક્ત કરવા 'છપાછપ' શબ્દ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'प्रार्थना' शब्द का अर्थ क्या है?\n(A) उपहास\n(B) निवेदन / भक्तिपूर्वक मांगना\n(C) झगड़ा\n(D) क्रोध",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) निवेदन / भक्तिपूर्वक मांगना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાર્થના એટલે ભગવાન પાસે વિનંતી (નિવેદન) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'तालाब' का समानार्थी शब्द कौन सा है?\n(A) सागर\n(B) सरोवर\n(C) नदी\n(D) झरना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सरोवर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ અને સરોવર બંને સ્થિર પાણીના સ્ત્રોત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'उपाय' शब्द का सही अर्थ क्या होगा?\n(A) आलस\n(B) तरकीब / युक्ति\n(C) समस्या\n(D) काम",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तरकीब / युक्ति</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમસ્યાનો જે રસ્તો શોધીએ તેને 'ઉપાય' કે 'તરકીબ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'परेशान' का अर्थ क्या है?\n(A) दुखी या व्याकुल\n(B) खुश\n(C) सुंदर\n(D) बहादुर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) दुखी या व्याकुल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ મુશ્કેલીમાં હોય ત્યારે તેને 'પરેશાન' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'जमीन' शब्द का विलोम (विरुद्धार्थी) शब्द क्या है?\n(A) मिट्टी\n(B) पाताल\n(C) आसमान\n(D) धरती",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) आसमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જમીન, ઉપર આસમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "लोहे का वह साधन जिससे मिट्टी खोदी जाती है, उसे क्या कहते हैं?\n(A) तसला\n(B) कुदाल\n(C) कड़ाही\n(D) मेज",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कुदाल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોદવા માટે 'કોદાળી' (હિન્દીમાં કુદાલ) જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "मिट्टी ढोने के लिए किसका उपयोग किया गया?\n(A) तसले और कड़ाहियाँ\n(B) चम्मच\n(C) कलम\n(D) गेंद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) तसले और कड़ाहियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટી ભરવા માટે 'તગારું' (તસલા) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'बारीश' शब्द का समानार्थी शब्द है:\n(A) धूप\n(B) वर्षा\n(C) पवन\n(D) आग",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वर्षा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારિશ અને વર્ષા બંને એક જ છે (Rain).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "बच्चे कहाँ जमा हुए?\n(A) मंदिर में\n(B) खेल के मैदान में\n(C) स्कूल में\n(D) बाजार में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खेल के मैदान में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોને રમવું હતું એટલે તે મેદાનમાં જ ભેગા થયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "दुमदुमा गाँव के बच्चों ने क्या करके दिखाया?\n(A) चित्रकारी\n(B) नृत्य\n(C) असंभव काम को संभव\n(D) लंबी दौड़",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) असंभव काम को संभव</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલો જે ના કરી શક્યા તે બાળકોએ મહેનતથી કરી બતાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "'हँसना' शब्द का विलोम शब्द क्या है?\n(A) मुस्कुराना\n(B) रोना\n(C) चिल्लाना\n(D) बोलना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) रोना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસવું અને રડવું એકબીજાના વિરોધી ભાવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'बाहर' शब्द का विलोम शब्द लिखिए।\n(A) दूर\n(B) अंदर\n(C) नीचे\n(D) ऊपर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अंदर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર અને બહાર વિરોધી દિશાઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "बच्चे किसमें तैरना चाहते थे?\n(A) नदी में\n(B) कुएँ में\n(C) तालाब के पानी में\n(D) समुद्र में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) तालाब के पानी में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'તાલાબ' (તળાવ) બનાવવાની જ વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'रोज' शब्द का दूसरा अर्थ क्या है?\n(A) कभी-कभी\n(B) प्रतिदिन\n(C) सप्ताह में एक बार\n(D) रात को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) प्रतिदिन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોજ એટલે દરરોજ, જેને હિન્દીમાં 'પ્રતિદિન' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "मेहनत करने से क्या दूर हुई?\n(A) गरीबी\n(B) पानी की कमी\n(C) बीमारी\n(D) अज्ञानता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पानी की कमी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા પાઠનો મુખ્ય હેતુ પાણીની સમસ્યા ઉકેલવાનો હતો.</p></div>"
+    }
+  ]
+}
