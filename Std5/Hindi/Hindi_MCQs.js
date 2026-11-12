@@ -2665,3 +2665,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "खरगोश और हाथी (ખરગોશ ઔર હાથી)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "सरोवर के किनारे गीली जमीन के अंदर कौन रहते थे? \n(A) शेर \n(B) भालू \n(C) खरगोश \n(D) चूहे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) खरगोશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'ખરગોશ ઔર હાથી' છે, એટલે જમીનમાં રહેનાર મુખ્ય પાત્ર ખરગોશ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "हाथियों का झुंड कहाँ आया? \n(A) पहाड़ पर \n(B) सरोवर के किनारे \n(C) शहर में \n(D) गुफा में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सरोवर के किनारे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીઓને પાણી બહુ ગમે, એટલે તેઓ હંમેશા 'સરોવર' ના કિનારે જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "हाथी पानी में क्या करते थे? \n(A) तैरते थे \n(B) सोते थे \n(C) सूँड से फुआरे छोड़ते थे \n(D) खाना बनाते थे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सूँड से फुआरे छोड़ते थे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી + પાણી = સુંઢથી ફુવારો (ફવ્વારે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "खरगोशों के घर (बिल) क्यों दब गए थे? \n(A) भूकंप आने से \n(B) हाथियों के पैरों के नीचे आने से \n(C) बारिश की वजह से \n(D) खुदाई करने से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) हाथियों के पैरों के नीचे आने से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીનું વજન વધારે હોય, એટલે તેના પગ નીચે જ બધું દબાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "खरगोशों का सरदार किसके पास गया? \n(A) शेर के पास \n(B) मनुष्यों के पास \n(C) हाथियों के सरदार के पास \n(D) दूसरे जंगल में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) हाथियों के सरदार के पास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમસ્યા સોલ્વ કરવા માટે હંમેશા સામેવાળા પક્ષના 'લીડર' (સરદાર) ને મળવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "खरगोशों ने अपने आपको किसका भांजा बताया? \n(A) सूरज का \n(B) चंदा मामा का \n(C) बादलों का \n(D) तारों का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चंदा मामा का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાત્રે સરોવરમાં ચંદ્ર દેખાય છે, એટલે ખરગોશે તેને જ પોતાનો 'મામા' કહ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "हाथियों के सरदार ने पानी में क्या देखा? \n(A) मछली \n(B) अपना चेहरा \n(C) चाँद की परछाई (लहरों में नाचता चाँद) \n(D) पत्थर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) चाँद की परछाई (लहरों में नाचता चाँद)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં હંમેશા પ્રતિબિંબ (પરછાઈ) જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "खरगोश ने हाथियों से क्या कहा कि चंदा मामा क्यों नाराज हैं? \n(A) क्योंकि हाथियों ने पानी पिया \n(B) क्योंकि हाथियों ने खरगोशों को परेशान किया \n(C) क्योंकि हाथी नाच रहे थे \n(D) क्योंकि रात हो गई थी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) क्योंकि हाथियों ने खरगोशों को परेशान किया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરગોશ ચતુર હતો, તેણે પોતાની તકલીફને ભગવાન (ચંદ્ર) ની તકલીફ ગણાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "हाथियों के सरदार ने अंत में क्या किया? \n(A) युद्ध किया \n(B) खरगोशों को मार दिया \n(C) क्षमा माँगी और दूसरे जंगल में चले गए \n(D) सरोवर सुखा दिया",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) क्षमा माँगी और दूसरे जंगल में चले गए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાનો અંત હંમેશા પસ્તાવો અને સુધારા (ક્ષમા) સાથે થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'सरोवर' शब्द का समान अर्थ वाला शब्द कौन सा है? \n(A) नदी \n(B) तालाब \n(C) सागर \n(D) कुआँ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) तालाब</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરોવર અને તાલાબ બંને પાણીના સ્થિર સ્ત્રોત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "हाथी कैसे जानवर हैं? \n(A) छोटे \n(B) चालाक \n(C) विशालकाय और भारी \n(D) उड़ने वाले",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) विशालकाय और भारी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી એટલે જંગલનું સૌથી મોટું (વિશાળ) પ્રાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "खरगोशों ने अपनी जान बचाने के लिए क्या किया? \n(A) भाग गए \n(B) युक्ति (तरकीब) लड़ाई \n(C) शेर को बुलाया \n(D) छिप गए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) युक्ति (तरकीब) लड़ाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું પ્રાણી મોટા પ્રાણીને હરાવવા હંમેશા 'બુદ્ધિ' (યુક્તિ) વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "हाथियों के पैरों के नीचे क्या दब गए थे? \n(A) फूल \n(B) खरगोशों के बिल \n(C) घास \n(D) लकड़ियाँ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खरगोशों के बिल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરગોશ જમીનની અંદર 'બિલ' બનાવીને રહે, એટલે તે જ દબાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "सरोवर में किसका प्रतिबिंब दिख रहा था? \n(A) तारों का \n(B) सूरज का \n(C) चाँद का \n(D) पेड़ों का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) चाँद का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાતનો સમય હતો, એટલે આકાશમાં ચંદ્ર જ ચમકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'प्रसन्न' शब्द का विलोम (विरोधी) शब्द क्या है? \n(A) खुश \n(B) उदास / अप्रसन्न \n(C) हँसना \n(D) रोना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) उदास / अप्रसन्न</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રસન્ન એટલે ખુશ, તેનું ઉલટું એટલે નાખુશ કે ઉદાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "खरगोश कैसे होते हैं? \n(A) हिंसक \n(B) डरपोक और कोमल \n(C) बहुत बड़े \n(D) काले रंग के",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) डरपोक और कोमल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસલા (ખરગોશ) હંમેશા નરમ અને જલ્દી ડરી જાય તેવા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "हाथियों के सरदार ने क्या कहकर माफी माँगी? \n(A) हम फिर आएँगे \n(B) हमसे गलती हो गई, हमें क्षमा करें \n(C) हम डर गए हैं \n(D) पानी गंदा है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) हमसे गलती हो गई, हमें क्षमा करें</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માફી' શબ્દનો અર્થ જ 'ક્ષમા' માંગવો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "चाँद की परछाईं लहरों में कैसी लग रही थी? \n(A) स्थिर \n(B) नाचती हुई \n(C) डूबती हुई \n(D) जलती हुई",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नाचती हुई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હલે એટલે તેમાં દેખાતી પરછાઈ પણ હલે, જેને 'નાચવું' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "खरगोशों के सरदार ने अपना हाथ (पैर) क्यों उठाया? \n(A) मारने के लिए \n(B) नमस्ते करने के लिए \n(C) नाचने के लिए \n(D) भागने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नमस्ते करने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્ટાચાર મુજબ કોઈ પણ મોટા વ્યક્તિને મળતી વખતે 'નમસ્તે' કરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "खरगोश कहाँ रहते थे? \n(A) झाड़ियों में \n(B) बिलों में \n(C) घोंसलों में \n(D) गुफाओं में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बिलों में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરગોશના ઘરને હિન્દીમાં 'બિલ' (Bill) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "हाथियों को क्या बहुत प्रिय है? \n(A) केला \n(B) पानी \n(C) घूमना \n(D) ऊपर के सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ऊपर के सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીને ખાવાનું (કેળા) અને નાહવાનું (પાણી) બંને બહુ ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "हाथियों ने खरगोशों को क्या समझकर क्षमा माँगी? \n(A) चाँद के भांजे \n(B) जंगल के राजा \n(C) बहुत शक्तिशाली \n(D) अपने मित्र",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) चाँद के भांजे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ ખરગોશે પોતાની ઓળખાણ 'ચંદા મામાના ભાણેજ' તરીકે આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "सरोवर के पास की जमीन कैसी थी? \n(A) सूखी \n(B) पथरीली \n(C) गीली \n(D) रेतीली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) गीली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની નજીક હંમેશા 'ભીની' (ગીલી) જમીન જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "खरगोशों ने हाथियों को कहाँ चलने को कहा? \n(A) जंगल के बाहर \n(B) सरोवर के पास चाँद से मिलने \n(C) गुफा के अंदर \n(D) पहाड़ के ऊपर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सरोवर के पास चाँद से मिलने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુક્તિ મુજબ સાબિતી આપવા માટે તેમણે સરોવર પાસે જ જવું પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "हाथी पानी में क्या खेल रहे थे? \n(A) गेंद से \n(B) एक दूसरे पर पानी डालकर \n(C) लुका-छिपी \n(D) दौड़",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) एक दूसरे पर पानी डालकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીનો ફેવરિટ ખેલ એટલે સુંઢથી પાણી ઉડાડવું!</p></div>"
+    }
+  ]
+}
