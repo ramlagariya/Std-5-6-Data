@@ -2532,3 +2532,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "हम भारत की शान हैं",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'हम भारत की शान हैं' कविता में बच्चे स्वयं को क्या कह रहे हैं?\n(A) भारत का डर\n(B) भारत की शान\n(C) भारत का दुश्मन\n(D) भारत का बोझ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) भारत की शान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાનું શીર્ષક જ આ જવાબ છે, 'शान' એટલે ગૌરવ. બાળકો જ દેશનું ગૌરવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "नन्हे-नन्हे बच्चे हमें क्या न समझने को कह रहे हैं?\n(A) बड़ा\n(B) बहादुर\n(C) मामूली\n(D) बुद्धिमान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) मामूली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પંક્તિ છે: 'नन्हे-नन्हे हमें न समझो, हम भारत की शान हैं।' એટલે કે અમને નાના કે સામાન્ય ન સમજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "बगिया के फूल किसे कहा गया है?\n(A) कांटों को\n(B) माली को\n(C) बच्चों को\n(D) तितलियों को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बच्चों को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ બગીચામાં ફૂલો સુગંધ ફેલાવે છે, તેમ બાળકો દેશરૂપી બગીચાના ફૂલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "फूल क्या फैलाने का काम करते हैं?\n(A) गन्दगी\n(B) खुशबू\n(C) धुआँ\n(D) पानी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खुशबू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ અને સુગંધ (खुशबू) હંમેશા સાથે હોય. બાળકો પણ પોતાની સારી આદતોથી સુગંધ ફેલાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "बच्चे कैसे आगे बढ़ने की बात कर रहे हैं?\n(A) रुक-रुक कर\n(B) पीछे हटकर\n(C) बढ़-बढ़ कर\n(D) धीरे-धीरे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बढ़-बढ़ कर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बढ़-बढ़कर' એટલે કે ઉત્સાહ સાથે સતત પ્રગતિ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "बच्चे कहाँ तक पहुँचने का संकल्प कर रहे हैं?\n(A) पाताल\n(B) आसमान\n(C) समंदर\n(D) गुफा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) आसमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ऊपर ही उठते जाना है, आसमान पर छाना है।' આકાશ ઊંચાઈનું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'खुशबू' शब्द का विलोम (विरुद्धार्थी) शब्द क्या है?\n(A) सुगंध\n(B) महक\n(C) बदबू\n(D) सौरभ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बदबू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'खुश' (સારી) વિરુદ્ધ 'बद' (ખરાબ). તેથી ખુશબૂ vs બદબૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "बच्चों को महान बनने के लिए क्या करना चाहिए?\n(A) खूब पढ़ना और अच्छे काम करना\n(B) सारा दिन खेलना\n(C) आलस करना\n(D) दूसरों से लड़ना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) खूब पढ़ना और अच्छे काम करना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની 'શાન' વધારવા માટે હકારાત્મક કાર્યો અને શિક્ષણ જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "इस कविता में 'बगिया' का अर्थ क्या है?\n(B) जंगल\n(B) बगीचा\n(C) रेगिस्तान\n(D) पर्वत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बगीचा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बगिया' એ 'बगीचा' (ઉદ્યાન) નું ટૂંકું અને સ્નેહભર્યું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'शान' शब्द का समानार्थी शब्द चुनिए।\n(A) अपमान\n(B) प्रतिष्ठा/मान\n(C) शर्म\n(D) हार",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) प्रतिष्ठा/मान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભારત કી શાન' એટલે ભારતની પ્રતિષ્ઠા અથવા ગૌરવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'आसमान' शब्द का दूसरा नाम (समानार्थी) क्या है?\n(A) पाताल\n(B) धरा\n(C) गगन\n(D) नीर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) गगन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ, નભ, ગગન, અંબર - આ બધા એકબીજાના પર્યાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "बच्चे कहाँ छाये रहने की बात कर रहे हैं?\n(A) ज़मीन पर\n(B) पेड़ों पर\n(C) आसमान पर\n(D) कमरों में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) आसमान पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ યાદ કરો: 'आसमान पर छाना है', જેનો અર્થ ખૂબ પ્રસિદ્ધિ મેળવવી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "कविता के अनुसार, 'बगिया' की रौनक कौन बढ़ाते हैं?\n(A) कांटे\n(B) पत्थर\n(C) फूल\n(D) कचरा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) फूल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલો વગર બગીચો સૂનો લાગે, ફૂલો જ બગીચાની શોભા વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'नन्हे' शब्द का अर्थ क्या है?\n(A) बड़े\n(B) छोटे\n(C) मोटे\n(D) पतले",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) छोटे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે નાના બાળકોને લાડમાં 'નન્હે' (નનકડા) કહીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "बच्चों को किसके समान सदा खिलते रहना चाहिए?\n(A) बादलों के समान\n(B) फूलों के समान\n(C) पत्थरों के समान\n(D) सूर्य के समान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) फूलों के समान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'खिलना' (ખીલવું) એ ફૂલોનો ગુણ છે, અને બાળકોને પણ હસતા-ખીલતા રહેવાનું કહેવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'ऊपर ही उठते जाना है' - इस पंक्ति में 'ऊपर उठना' का क्या अर्थ है?\n(A) छत पर चढ़ना\n(B) पहाड़ पर चढ़ना\n(C) उन्नति/प्रगति करना\n(D) हवा में उड़ना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) उन्नति/प्रगति करना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનમાં 'આગળ વધવું' અથવા 'ઉપર ઉઠવું' એટલે જ પ્રગતિ કરવી (Progress).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'धरती' शब्द का विलोम शब्द क्या है?\n(A) ज़मीन\n(B) पाताल\n(C) आसमान\n(D) मैदान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) आसमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે ધરતી અને ઉપર આકાશ - આ વિરોધી જોડી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "बच्चे क्या करने का संकल्प ले रहे हैं?\n(A) महान बनने का\n(B) चोरी करने का\n(C) समय बर्बाद करने का\n(D) घर में बैठने का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) महान बनने का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો ભારતની શાન બનીને દેશને ગૌરવ અપાવવા (મહાન બનવા) ઈચ્છે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "फूल अपनी महक से वातावरण को कैसा बनाते हैं?\n(A) गंदा\n(B) दुर्गन्धित\n(C) सुगंधित\n(D) खराब",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सुगंधित</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલની 'મહક' એટલે જ સુગંધ, જે વાતાવરણને સુંદર અને સુગંધિત બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'महान' शब्द का अर्थ क्या है?\n(A) बहुत बड़ा/श्रेष्ठ\n(B) बहुत छोटा\n(C) साधारण\n(D) कंजूस",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) बहुत बड़ा/श्रेष्ठ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સારા કામ કરે અને જેનું નામ આખા વિશ્વમાં જાણીતું હોય તેને 'મહાન' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'बढ़-बढ़कर' शब्द का प्रयोग किसके लिए हुआ है?\n(A) आगे बढ़ने के लिए\n(B) पीछे हटने के लिए\n(C) सोने के लिए\n(D) झगड़ने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) आगे बढ़ने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બઢના' એટલે આગળ વધવું. ઉત્સાહથી આગળ વધવા માટે 'બઢ-બઢકર' વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'हम भारत की शान हैं' यह पाठ किस विधा में लिखा गया है?\n(A) कहानी\n(B) कविता\n(C) नाटक\n(D) जीवनी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कविता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં પંક્તિઓ અને પ્રાસ (Rhyming) હોય તેને કવિતા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'फूल' शब्द का पर्यायवाची इनमें से कौन-सा नहीं है?\n(A) पुष्प\n(B) सुमन\n(C) कुसुम\n(D) पादप",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) पादप</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાદપ (Padap) એટલે 'છોડ' કે 'ઝાડ', ફૂલ નહીં. બાકીના ત્રણેય ફૂલના નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "बच्चों के मन में देश के प्रति कैसी भावना है?\n(A) ईर्ष्या की\n(B) प्रेम और गर्व की\n(C) नफरत की\n(D) डर की",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) प्रेम और गर्व की</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભારત કી શાન' પંક્તિ જ દેશ પ્રત્યેનો ગર્વ અને પ્રેમ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'खुशबू फैलाना' मुहावरे का क्या अर्थ हो सकता है?\n(A) इत्र छिड़कना\n(B) अच्छे काम करके यश पाना\n(C) फूल तोड़ना\n(D) हवा चलाना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) अच्छे काम करके यश पाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ ફૂલની સુગંધ પ્રસરે છે, તેમ માણસના સારા કામની કીર્તિ (નામના) ચારેબાજુ પ્રસરે છે.</p></div>"
+    }
+  ]
+}
