@@ -131,3 +131,161 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "गिनती (२१ से ५०)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "अंकों में '२१' को शब्दों में ........ कहते हैं। (इक्कीस, बाईस, तेईस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> इक्कीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૧ (21) એટલે 'ઈક્કીસ'. 'એક' પરથી 'ઈક્કીસ' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "पच्चीस को अंकों में ........ लिखा जाता है। (२४, २५, २६)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> २५</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ (5) પાછળ આવતો હોય તેને 'પચ્ચીસ' (25) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "२९ को हिंदी शब्दों में ........ कहते हैं। (उन्तीस, उनतीस, उनतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> उन्तीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૦ (तीस) માં એક ઓછો એટલે 'ઉન્તીસ'. ૯ વાળી સંખ્યા હંમેશા 'ઉન' થી શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "तीस के बाद ........ आता है। (इकतीस, बत्तीस, तैंतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> इकतीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૦ (तीस) + ૧ (एक) = इकतीस (૩૧).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "अंकों में '३३' को शब्दों में ........ कहते हैं। (तैंतीस, चौंतीस, पैंतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> तैंतीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ (3) પરથી 'તૈં' યાદ રાખવું, એટલે ૩૩ = 'તૈંતીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "३७ को शब्दों में ........ कहते हैं। (छत्तीस, सैंतीस, अड़तीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सैंतीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત (7) પરથી 'સૈં' યાદ રાખવું, એટલે ૩૭ = 'સૈંતીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "अंकों में '३९' को शब्दों में ........ कहते हैं। (उन्तीस, उनतालीस, उनचास)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> उनतालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૦ (चालीस) માં એક ઓછો એટલે 'ઉન-તાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "४२ को शब्दों में ........ कहते हैं। (इकतालीस, बयालीस, तैंतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बयालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે (2) પરથી 'બયા' યાદ રાખવું, એટલે ૪૨ = 'બયાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "४४ को शब्दों में ........ कहते हैं। (तैंतालीस, चवालीस, पैंतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चवालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર (4) પરથી 'ચવા' યાદ રાખવું, એટલે ૪૪ = 'ચવાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "अंकों में '४૯' को शब्दों में ........ कहते हैं। (उनचास, पचास, उनतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> उनचास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫૦ (पचास) માં એક ઓછો એટલે 'ઉન-ચાસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "पचास को अंकों में ........ लिखते हैं। (४૦, ५०, ६૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ५०</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ (પાંચ) અને મીંડું એટલે પચાસ (50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "२४ और २६ के बीच की संख्या ........ है। (२३, २५, २७)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> २५</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોવીસ પછી તરત પચ્ચીસ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "सैंतीस के बाद ........ आता है। (छत्तीस, अड़तीस, उनतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अड़तीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાડત્રીસ (37) પછી આડત્રીસ (38) એટલે કે 'અડતીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "४६ को शब्दों में ........ कहते हैं। (पैंतालीस, छियालीस, सैंतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छियालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છ (6) પરથી 'છિયા' યાદ રાખવું, એટલે ૪૬ = 'છિયાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "३१ को अंकों में ........ लिखते हैं। (१३, २१, ३१)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ३१</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તીસ' વાળી લાઈન હંમેશા ૩ (ત્રણ) થી શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "२८ को शब्दों में ........ कहते हैं। (सत्ताईस, अट्ठाईस, उनतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अट्ठाईस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઠ (8) પરથી 'અઠ્ઠાઈસ' (28) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "३५ को हिंदी शब्दों में ........ कहते हैं। (पैंतीस, चौंतीस, छत्तीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पैंतीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ (5) પરથી 'પૈં' યાદ રાખવું, ૩૫ = 'પૈંતીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "४८ को शब्दों में ........ कहते हैं। (सैंतालीस, अड़तालीस, उनचास)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अड़तालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઠ (8) પરથી 'અડ' યાદ રાખવું, ૪૮ = 'અડતાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "२३ को हिंदी शब्दों में ........ लिखते हैं। (तेईस, बाईस, चौबीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> तेईस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ (3) પરથી 'તેઈસ' (23) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "४१ को हिंदी शब्दों में ........ कहते हैं। (बयालीस, इकतालीस, तैंतालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> इकतालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક (1) પરથી 'ઈકતાલીસ' (41) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "२७ को शब्दों में ........ लिखते हैं। (छब्बीस, सत्ताईस, अट्ठाईस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सत्ताईस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત (7) પરથી 'સત્તાઈસ' (27) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "३२ को हिंदी शब्दों में ........ कहते हैं। (इकतीस, बत्तीस, तैंतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बत्तीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે (2) પરથી 'બત્તીસ' (32) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "४० के पहले ........ आता है। (३८, ३९, ४१)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ३९</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૦ (ચાલીસ) પહેલા હંમેશા 'ઉનતાલીસ' (39) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "४३ को शब्दों में ........ कहते हैं। (बयालीस, तैंतालीस, चवालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> तैंतालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ (3) પરથી 'તૈં' યાદ રાખવું, ૪૩ = 'તૈંતાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "२२ को शब्दों में ........ कहते हैं। (बाईस, तेईस, चौबीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बाईस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે (2) પરથી 'બાઈસ' (22) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "३४ को हिंदी शब्दों में ........ कहते हैं। (तैंतीस, चौंतीस, पैंतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चौंतीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર (4) પરથી 'ચૌં' યાદ રાખવું, ૩૪ = 'ચૌંતીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "४७ को हिंदी शब्दों में ........ कहते हैं। (छियालीस, सैंतालीस, अड़तालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सैंतालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત (7) પરથી 'સૈં' યાદ રાખવું, ૪૭ = 'સૈંતાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "४५ को शब्दों में ........ लिखते हैं। (चौंतीस, पैंतालीस, छियालीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पैंतालीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ (5) પરથી 'પૈં' યાદ રાખવું, ૪૫ = 'પૈંતાલીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "३६ को शब्दों में ........ कहते हैं। (पैंतीस, छत्तीस, सैंतीस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छत्तीस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છ (6) પરથી 'છત્તીસ' (36) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "२६ को हिंदी शब्दों में ........ कहते हैं। (पच्चीस, छब्बीस, सत्ताईस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छब्बीસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છ (6) પરથી 'છબ્બીસ' (26) યાદ રાખવું.</p></div>"
+    }
+  ]
+}
