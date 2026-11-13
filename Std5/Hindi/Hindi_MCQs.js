@@ -2798,3 +2798,136 @@ var Std5_Hindi_MCQs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "पहेलियाँ (પહેલિયાં)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'सोने की वह चीज़ है, पर बेचे नहीं सुनार।' - इस पहेली का सही उत्तर क्या है?\n(A) अंगूठी\n(B) चारपाई\n(C) हार\n(D) कंगन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चारपाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સોના' (Sleeping) માટે ખાટલો (ચારપાઈ) વપરાય પણ સોની તેને વેચે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "एक नगर में ढेरों चोर, चोरों का मुँह काला। - यह पहेલી किसके लिए है?\n(A) पेन\n(B) पेंसिल\n(C) माचिस की डिबिया\n(D) रात",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) माचिस की डिबिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માચીસની સળીઓનું મોઢું કાળું (ગંધક) હોય છે અને તે ડબ્બા (નગર) માં રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'पानी से पैदा होता हूँ, पानी में मर जाता हूँ।' - बताओ मैं कौन हूँ?\n(A) मछली\n(B) नमक\n(C) बर्फ\n(D) मेंढक",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नमक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું દરિયાના પાણીમાંથી બને અને પાણીમાં નાખતા જ ઓગળી (મરી) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "खुली रात में मैं पैदा होती, हरी घास पर सोती हूँ। - यह किसके बारे में है?\n(A) ओस की बूंद\n(B) बारिश\n(C) धूप\n(D) चाँदनी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ओस की बूंद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાકળ (Oas) હંમેશા રાત્રે ઘાસ પર પડે છે અને મોતી જેવી દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'इधर की बात उधर मैं करता, चुगलखोर पर कोई न कहता।' - इस यंत्र का नाम क्या है?\n(A) रेडियो\n(B) टेलीविजन\n(C) टेलीफोन\n(D) कंप्यूटर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) टेलीफोन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોન પર આપણે અહીની વાતો બીજી જગ્યાએ પહોંચાડીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'सोने' शब्द के इस पाठ में दो अर्थ कौन-कौन से हैं?\n(A) जागना और गहना\n(B) नींद और स्वर्ण (सोना धातु)\n(C) मूल्यवान और सस्ता\n(D) इनमें से कोई नहीं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नींद और स्वर्ण (सोना धातु)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્લેષ પ્રાસમાં એક શબ્દના બે અર્થ થાય - ઊંઘવું અને કિંમતી ધાતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'पहेलियाँ' बुझने से बालक की किस शक्ति का विकास होता है?\n(A) दौड़ने की शक्ति\n(B) विचार करने की शक्ति\n(C) गाने की शक्ति\n(D) सोने की शक्ति",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) विचार करने की शक्ति</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉખાણાં (Pheliyan) હંમેશા મગજને કસરત આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'सुनार' शब्द का स्त्रीलिंग शब्द क्या होगा?\n(A) सुनारी\n(B) सुनारिन\n(C) सुनारनी\n(D) सुकुमारी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) सुनारिन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાવસાયિક જાતિમાં મોટાભાગે 'ઇન' પ્રત્યય લાગે છે (જેમ કે ધોબી - ધોબિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "माचिस की तीली का सिरा किस रंग का होता है?\n(A) लाल\n(B) सफ़ेद\n(C) काला\n(D) नीला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) काला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતા મુજબ 'ચોરોનું મોઢું કાળું' એટલે માચીસની સળીનો મસાલો કાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'मोती जैसी मूरत मेरी' - इस पंक्ति में 'मूरत' का क्या अर्थ है?\n(A) मंदिर\n(B) मूर्ति / स्वरूप\n(C) पत्थर\n(D) चित्र",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मूर्ति / स्वरूप</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂરત એટલે આકાર કે સ્વરૂપ (Face/Shape).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'नगर' शब्द का विरुद्धार्थी (विलोम) शब्द क्या है?\n(A) शहर\n(B) गाँव\n(C) बस्ती\n(D) इलाका",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) गाँव</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેર કે નગરની સામે હંમેશા 'ગામ' (Village) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ओस की बूंदें सुबह कहाँ दिखाई देती हैं?\n(A) आसमान में\n(B) पानी के अंदर\n(C) हरी घास पर\n(D) घर की छत पर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) हरी घास पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'हरी घास पर सोती हूँ' - કવિતાની આ પંક્તિ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "इनमें से कौन-सा शब्द 'नमक' का पर्यायवाची है?\n(A) चीनी\n(B) लवण\n(C) पानी\n(D) खट्टा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) लवण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાનમાં મીઠાને 'લવણ' (Salt) કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'चारपाई' में कितने पैर होते हैं?\n(A) दो\n(B) तीन\n(C) चार\n(D) छह",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) चार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાર' + 'પાઈ' (પગ) = ચારપાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "पहेली 'इधर की बात उधर मैं करता' का उत्तर 'टेलीफोन' है। आज के समय में इसे और क्या कहते हैं?\n(A) चिट्ठी\n(B) मोबाइल\n(C) टेलीग्राम\n(D) रेडियो",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मोबाइल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેલિફોનનું આધુનિક અને ફરતું રૂપ એટલે મોબાઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ओस की बूंद किसके जैसी दिखती है?\n(A) सोने जैसी\n(B) मोती जैसी\n(C) चांदी जैसी\n(D) लोहे जैसी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मोती जैसी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાકળના બિંદુ ગોળ અને સફેદ ચમકતા હોવાથી તેને મોતી સાથે સરખાવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "निम्नलिखित शब्दों में से 'बादशाह' शब्द का अर्थ क्या है?\n(A) गुलाम\n(B) राजा\n(C) सैनिक\n(D) वज़ीर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) राजा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદશાહ એટલે શાસન કરનાર રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'कपूर' को जलाकर 'माचिस' की तीली क्या पैदा करती है?\n(A) पानी\n(B) आग\n(C) बर्फ\n(D) हवा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) आग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માચીસ (ચોર) ને ઘસતા જ તે આગ પેદા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'चाँदनी' रात में क्या दिखाई नहीं देता?\n(A) चाँद\n(B) तारे\n(C) ओस\n(D) सूरज",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) सूरज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરજ ફક્ત દિવસે જ દેખાય, ચાંદની રાત્રે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'पहेलियाँ' पाठ में 'चीज़' शब्द का अर्थ क्या है?\n(A) खाना\n(B) वस्तु\n(C) जगह\n(D) नाम",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) वस्तु</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ નિર્જીવ પદાર્થ કે વસ્તુ માટે 'ચીઝ' શબ્દ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'चुगलखोर' किसे कहते हैं?\n(A) सच बोलने वाले को\n(B) पीठ पीछे बुराई करने वाले को\n(C) मदद करने वाले को\n(D) गाना गाने वाले को",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पीठ पीछे बुराई करने वाले को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકની વાત બીજાને કહેવી એટલે ચુગલી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "नमक का जन्म कहाँ से होता है?\n(A) मिट्टी से\n(B) पेड़ से\n(C) सागर के पानी से\n(D) पहाड़ों से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) सागर के पानी से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાણી સે પેદા હોતા હૂં' - મીઠું દરિયા કિનારે અગરિયાઓ પકવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "पहेली के अनुसार, 'सबका मैं प्यारा हूँ' कौन कहता है?\n(A) टेलीफोन\n(B) नमक\n(C) माचिस\n(D) बादल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) टेलीफोन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેલિફોન દરેક ઘરમાં ઉપયોગી અને પ્રિય સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "दिए गए शब्दों में से कौन-सा शब्द 'स्वर्ण' का अर्थ नहीं है?\n(A) सोना\n(B) कनक\n(C) कंचन\n(D) चांदी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) चांदी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનું અને ચાંદી બંને અલગ ધાતુઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "पहेली सुलझाने से हमारा मनोरजंन होने के साथ-साथ क्या बढ़ता है?\n(A) वजन\n(B) ज्ञान\n(C) ऊँचाई\n(D) नींद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ज्ञान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા વધુ ઉખાણાં ઉકેલો, તેટલું તમારું સામાન્ય જ્ઞાન (General Knowledge) વધે.</p></div>"
+    }
+  ]
+}
