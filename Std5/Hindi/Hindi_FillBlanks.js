@@ -788,3 +788,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "चिट्ठी का सफ़र (ચિઠ્ઠી કા સફર)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "चिट्ठी पर नाम और पता ठीक से न लिखा हो, तो वह ____ पहुँचती है। (देर से, सही जगह, नहीं)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नहीं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ અને સરનામું વગર તો માણસ પણ ખોવાઈ જાય, તો ચિઠ્ઠી તો કેવી રીતે પહોંચે? એટલે જવાબ આવશે 'नहीं'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "पिनकोड में कुल ____ अंक होते हैं। (चार, पाँच, छह)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छह</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિનકોડ (PINCODE) ના સ્પેલિંગના મુખ્ય અક્ષરો યાદ રાખો અથવા યાદ રાખો કે ભારતમાં 6 આંકડાનો જ પિનકોડ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "पिनकोड की शुरुआत 15 अगस्त ____ को हुई थी। (1947, 1972, 1950)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1972</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદીના 25 વર્ષ પછી પિનકોડ આવ્યો (1947 + 25 = 1972).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "PIN का पूरा नाम 'पोस्टल ____ नंबर' है। (इंटरनेट, इंडेक्स, इंटरनेशनल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> इंडेक्स</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' એટલે 'Index' (ક્રમ આપવો). પિનકોડ એ સરનામાનો ઇન્ડેક્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "पुराने समय में संदेश भेजने के लिए ____ का इस्तेमाल किया जाता था। (घोड़ों, कबूतरों, ऊँटों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कबूतरों</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જા જા જા કબૂતર જા' ગીત યાદ કરો! જૂના જમાનામાં પક્ષી જ ટપાલી હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "पैदल चलकर संदेश पहुँचाने वाले व्यक्ति को ____ कहते थे। (डाकिया, हरकारा, सैनिक)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हरकारा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે 'હર' જગ્યાએ 'કારા' (કામ) કરવા પગપાળા જાય તે 'હરકારા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "पिनकोड का पहला अंक ____ बताता है। (राज्य, शहर, गली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> राज्य</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટું શું? રાજ્ય. એટલે પહેલો આંકડો હંમેશા રાજ્ય/ક્ષેત્ર માટે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "चिट्ठी पर सबसे अंत में ____ लिखना ज़रूरी है। (नाम, पिनकोड, तारीख)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पिनकोड</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરનામું પૂરું થાય પછી જ પિનકોડ લખાય છે, જેથી ટપાલીને વિભાગ સમજાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "गांधीजी को भेजे गए पत्र पर केवल '____' लिखा था। (साबरमती आश्रम, महात्मा गांधी, वर्धा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> महात्मा गांधी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી એટલા પ્રખ્યાત હતા કે માત્ર નામ લખો તો પણ પત્ર મળી જતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "उड़ीसा पुलिस आज भी संदेश भेजने के लिए ____ कबूतरों का इस्तेमाल करती है। (हुमर, गिरबाज़, जंगली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हुमर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હર પલ' તૈયાર રહે એ 'હુમર' (Humer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "कबूतरों की उम्र लगभग ____ साल होती है। (5-10, 15-20, 25-30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15-20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓની આવરદા માણસ કરતા ઓછી હોય, પણ ટપાલ માટે તે 15-20 વર્ષ જીવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "एक स्वस्थ कबूतर एक दिन में ____ किलोमीटर की दूरी तय कर सकता है। (500, 1000, 2000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબૂતર સુપરફાસ્ટ છે! આખા 1000 કિમી એક જ દિવસમાં કાપી નાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "पते में सबसे छोटी भौगोलिक इकाई से ____ की ओर बढ़ते हैं। (बड़ी, मध्यम, छोटी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા ઘર નંબર (નાનું), પછી શેરી, પછી શહેર અને છેલ્લે રાજ્ય (મોટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "सन्देश भेजने की सबसे तीव्र आधुनिक तकनीक ____ है। (चिट्ठी, ईमेल, कबूतर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ईमेल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇલેક્ટ્રોનિક મેઇલ' એટલે કે ઇમેઇલ જે સેકન્ડોમાં પહોંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "हरकारों को ____ से भी बचना पड़ता था। (डाकुओं, बारिश, धूप)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> डाकुओं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરકારા કિંમતી સામાન અને પત્રો લઈ જતા, એટલે જંગલી જાનવરો અને ડાકુઓનો ડર રહેતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "लिफाफे पर डाकटिकट ____ तरफ लगाया जाता है। (दाहिनी, बाईं, नीचे)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दाहिनी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણો હાથ (Right Hand) કામ માટે વપરાય, એટલે ટિકિટ પણ જમણી બાજુ ઉપર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "पिनकोड के शुरुआती दो अंक ____ बताते हैं। (गली, उपक्षेत्र, जिला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> उपक्षेत्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો અંક રાજ્ય અને બીજો અંક તેનો 'ઉપ-ભાગ' એટલે ઉપક્ષેત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "डाक विभाग केवल पत्र ही नहीं, ____ भी पहुँचाता है। (राशन, मनीऑर्डर, कपड़े)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मनीऑर्डर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રની સાથે પૈસા મોકલવા માટે 'Money' (પૈસા) + 'Order' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "____ प्रजाति के कबूतरों को प्रशिक्षित करके संदेश भेजे जाते हैं। (गिरबाज़, कौआ, कोयल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गिरबाज़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગિરબાઝ' અને 'હુમર' - આ બે ખાસ ટપાલી કબૂતરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "आजकल संदेश भेजने के लिए हम ____ का भी उपयोग करते हैं। (तार, मोबाइल, कबूतर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मोबाइल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યારે તમે શેમાં ભણો છો? મોબાઈલમાં! આ જ સૌથી આધુનિક છે.</p></div>"
+    }
+  ]
+}
