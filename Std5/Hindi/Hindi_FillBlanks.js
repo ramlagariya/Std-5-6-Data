@@ -680,3 +680,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "जहाँ चाह वहाँ राह (જહાં ચાહ વહાં રાહ)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઈલા સચાની ગુજરાત કે _____ જિલ્લે મેં રહતી હૈ। (સુરત, અમરેલી, રાજકોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતની ઈલા, હિંમતની મિશાલ! (સ-સ યાદ રાખવું: સુરત-સચાની)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઈલા કે _____ કામ નહીં કરતે થે। (પૈર, હાથ, કાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલાના હાથ 'બેજાન' હતા એટલે જ તેણે પગથી કામ શરૂ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઈલા ને અપને સારે કામ _____ સે કરના સીખા। (મુંહ, પૈરોં, હાથોં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૈરોં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ-સે પગ અને પ-સે પ્રગતિ; ઈલાએ પગથી પ્રગતિ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈલા _____ સાલ કી હો ગઈ હૈ। (૧૫, ૨૬, ૩૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૬ જાન્યુઆરી જેવો જ ઈલાનો આંકડો ૨૬ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઈલા કી માં ઔર દાદી _____ કરતી થીં। (ખેતી, કશીદાકારી, પઢાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કશીદાકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક-સે કઢાઈ અને ક-સે કશીદાકારી; જે ઈલાએ જોઈને શીખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઈલા _____ કી પરીક્ષા પાસ નહીં કર પાઈ। (આઠવીં, દસવીં, બારવીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસવીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોર્ડની પરીક્ષા' (૧૦મું ધોરણ) ઈલા માટે અઘરું રહ્યું હતું કારણ કે તેને વધારાનો સમય ન મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઈલા ને કાશ્મીરી ટાંકો કે સાથ _____ ટાંકે ભી સીખે। (લખનૌઈ, પંજાબી, મારવાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લખનૌઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાશ્મીરથી લખનૌ' - ઈલાની કળા આખા ભારતમાં પ્રસરી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઈલા કો _____ ખાના બહુત અચ્છા લગતા થા। (દાલ-ભાત, પૂરી-શાક, મીઠાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાલ-ભાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતનું ફેમસ ખાણું દાલ-ભાત જ ઈલા પગથી ખાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઈલા કી હિંમત કે આગે _____ ઘુટને ટેક દેતે હૈ। (દુશ્મન, કુદરત, લોગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મન મક્કમ હોય તો 'કુદરત' (Nature) ને પણ નમવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઈલા ને _____ ભરત કે સાથ નવીનતા લાઈ। (કાઠી, મોચી, સિંધી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાઠી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઠી (કાઠિયાવાડ) ભરત અને ઈલાનું નામ હંમેશા સાથે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઈલા અપને પૈરોં કી ઉંગલિયોં સે _____ પકડના સીખ ગઈ થી। (પેન્સિલ, ચમચ, સુઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કશીદાકારી કરવા માટે 'સોય' (સુઈ) પકડવી સૌથી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઈલા કે લિએ કૌન-સા કામ સબસે મુશ્કિલ થા? (લિખના, ખેલના, પઢના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેલના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલા દોરડું કૂદી શકતી નહોતી, એટલે રમવામાં તેને તકલીફ પડતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બેલ-બૂટોં કો ઉકેરને કે લિએ ઈલા ને _____ ટાંકો કા પ્રયોગ કિયા। (કચ્છી, ચિકનકારી, પંજાબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિકનકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિકનકારી અને લખનૌઈ બંને ફેમસ કળા ઈલાએ અપનાવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જહા ચાહ હોતી હૈ વહાં _____ નિકલ આતી હૈ। (મંઝિલ, રાહ, મુસીબત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનું નામ જ છે - 'જહાં ચાહ વહાં રાહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઈલા કા બચપન _____ મેં બીતા। (સુરત, અમરેલી, ભાવનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમરેલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલા રહે છે સુરતમાં પણ તેનું નાનપણ અમરેલીના રાજકોટ ગામમાં વીત્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઈલા ને કઢાઈ મેં _____ કા ભી ઉપયોગ કિયા। (કાંચ, મોતી, રેશમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી ભરતકામમાં 'કાચ' (Mirrors) બહુ જ સુંદર લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઈલા દસવીં કી પરીક્ષા ક્યું પાસ નહીં કર પાઈ? (આલસ કે કારણ, સમય કી કમી કે કારણ, બીમારી કે કારણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય કી કમી કે કારણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગથી લખવામાં વાર લાગે, એટલે સમય ખૂટ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઈલા કો અબ _____ કી ચિંતા નહીં હોતી। (પૈસોં, લોગોં, કઠિનાઈઓં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઠિનાઈઓં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસીબતો થી જે ડરે નહીં, તેને કોઈ ચિંતા ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઈલા કે પેર કી ઉંગલિયાં અબ _____ જેસી તેજ ચલતી હૈ। (હવા, બિજલી, ગાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિજલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બિજલી કી રફ્તાર' - ઈલાના પગ વીજળીની જેમ ચાલતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઈલા કી પ્રદર્શની મેં ઉસકે કપડોં પર _____ કી કઢાઈ થી। (કાશ્મીરી, લખનૌઈ, ગુજરાત કી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત કી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલા ગુજરાતી છે, એટલે તેના કામમાં ગુજરાતની છાપ દેખાય જ!</p></div>"
+    }
+  ]
+}
