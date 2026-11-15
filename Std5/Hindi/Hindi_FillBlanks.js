@@ -1054,3 +1054,136 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "भरत-मिलाप",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "वन में राम के साथ सीता और ____ भी हैं। (भरत, लक्ष्मण, शत्रुघ्न)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लक्ष्मण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ-લક્ષ્મણ અને સીતાની જોડી હંમેશા સાથે વનમાં ગઈ હતી તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "लक्ष्मण को दूर से बहुत से ____ आते हुए दिखाई दिए। (पशु, लोग, सैनिक)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लोग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં 'ધૂળ ઊડતી' જોઈ એટલે કે ઘણા બધા લોકો (પરિવાર) આવી રહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "भरत को आते देख ____ को शंका हुई कि वे लड़ने आ रहे हैं। (राम, सीता, लक्ष्मण)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लक्ष्मण</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણનો સ્વભાવ થોડો ગુસ્સાવાળો અને સાવચેત હતો, એટલે શંકા તેમને જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "राम ने कहा - 'भाई लक्ष्मण, भरत जैसा भाई ____ से ही मिलता है।' (मेहनत, भाग्य, लालच)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> भाग्य</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા ભાઈ નસીબ (ભાગ્ય) થી જ મળે, આવું રામ ભગવાન માનતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "भरत राम के पास पहुँचकर उनके ____ में गिर पड़े। (गले, चरणों, हाथों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चरणों</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સન્માન આપવા માટે હંમેશા ચરણો (પગ) માં નમન કરવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "भरत राम से ____ माँगने आए थे। (राज्य, धन, क्षमा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> क्षमा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૈકેયીના કારણે જે થયું તેના પસ્તાવા માટે ભરત 'ક્ષમા' માંગવા આવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "राम ने भरत को प्रेम से ____ लगा लिया। (गले, धक्का, हाथ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गले</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમ અને મિલન દર્શાવવા માટે 'ગળે લગાવવું' (આલિંગન) શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "भरत ने राम को वापस ____ चलने का आग्रह किया। (लंका, अयोध्या, जनकपुर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अयोध्या</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ અયોધ્યાના રાજકુમાર હતા, એટલે તેમને અયોધ્યા જ પાછા બોલાવવાના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "राम के अनुसार पिता की ____ का पालन करना सबसे बड़ा धर्म है। (आज्ञा, बुराई, संपत्ति)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> आज्ञा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાયણનું મુખ્ય શીખામણ 'પિતાની આજ્ઞા' પાળવી તે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "भरत ने राम से उनकी ____ माँगी। (तलवार, खड़ाऊँ, माला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> खड़ाऊँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાની ચંપલને હિન્દીમાં 'ખડાઉઁ' કહેવાય, જે ભરત સિંહાસન પર મૂકવા માંગતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "खड़ाऊँ लेकर भरत ने उन्हें ____ पर रखने का निश्चय किया। (सिर, कंधे, सिंहासन)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सिंहासन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા ન હોય ત્યારે તેની નિશાની 'સિંહાસન' પર રાખવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "राम के पिता का नाम ____ था। (जनक, दशरथ, रावण)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दशरथ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશરથ રાજાના ચાર પુત્રો હતા - રામ, લક્ષ્મણ, ભરત, શત્રુઘ્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "भरत राम के प्रति अपना ____ व्यक्त करने आए थे। (क्रोध, प्रेम, डर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> प्रेम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનું નામ 'ભરત-મિલાપ' છે અને મિલાપ હંમેશા 'પ્રેમ' થી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "____ को अपनी गलती का अहसास हुआ और वे रोने लगे। (लक्ष्मण, भरत, राम)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> भरत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત પોતાની માતાના કારણે રામને વનવાસ થયો તેનો પસ્તાવો કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "राम को देखकर भरत ने कहा - 'आप ____ के अधिकारी हैं।' (वन, सिंहासन, महल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सिंहासन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યેષ્ઠ પુત્ર (મોટો પુત્ર) હંમેશા ગાદી કે સિંહાસનનો અધિકારી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "राम वन में ____ की कुटिया बनाकर रह रहे थे। (पत्थरों, ईंटों, घास-फूस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> घास-फूस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં કુટિયા (ઝૂંપડી) હંમેશા ઘાસ અને લાકડાની બનેલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "लक्ष्मण को लगा कि भरत शायद ____ करने आए हैं। (सेवा, हमला, पूजा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हमला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈન્ય જોઈને લક્ષ્મણને લાગ્યું કે યુદ્ધ કે હુમલો કરવા આવ્યા હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "राम ने भरत को शांत करते हुए ____ बैठने को कहा। (पास, दूर, ऊँचा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમમાં હંમેશા પોતાની 'પાસે' બોલાવવામાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "भरत की आँखों में ____ के आँसू थे। (खुशी, क्रोध, पश्चाताप)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पश्चाताप</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણને કોઈ ભૂલનું દુઃખ હોય ત્યારે પશ્ચાતાપના આંસુ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "राम ने भरत को धैर्य रखने और ____ का पालन करने को कहा। (नियमों, वचन, लोगों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> वचन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઘુકુળ રીત સદા ચલી આઈ, પ્રાણ જાય પણ 'વચન' ન જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "खड़ाऊँ लेकर भरत ____ की तरह राज्य की सेवा करेंगे। (राजा, सेवक, शत्रु)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सेवक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતે પોતાને રામનો સેવક ગણાવ્યો હતો, રાજા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "भरत ने राम के चरणों की ____ को सिर से लगाया। (धूल, खड़ाऊँ, माला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धूल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિ અને આદર દર્શાવવા માટે ચરણોની રજ (ધૂળ) માથે લગાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "राम को ____ वर्ष का वनवास मिला था। (दस, बारह, चौदह)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चौदह</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો દુનિયા જાણે છે - 14 વર્ષનો વનવાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "अयोघ्या की जनता राम के जाने से ____ थी। (खुश, दुखी, उत्साहित)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दुखी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિય રાજા જંગલમાં જાય તો પ્રજા હંમેશા દુઃખી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "भरत-मिलाप का दृश्य बहुत ही ____ है। (डरावना, सुखद, हृदयस्पर्शी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हृदयस्पर्शी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ભાઈઓનો નિઃસ્વાર્થ પ્રેમ દિલને સ્પર્શી જાય તેવો હોય.</p></div>"
+    }
+  ]
+}
