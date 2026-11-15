@@ -1187,3 +1187,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "कैसा शोर (Hindi)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "बिरजू चाचा ने अपने खेत में ________ बोई थीं। (सब्जियाँ, फल, फूल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सब्जियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના નામ મુજબ 'શોર' શાકભાજીઓ કરે છે, એટલે બિરજૂ ચાચાએ શાકભાજી જ વાવી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "दोपहर का समय था, बिरजू चाचा ________ की छाया में आराम कर रहे थे। (घर, पेड़, मंदिर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पेड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં આરામ કરવા માટે કુદરતી એસી એટલે 'પેડ' (વૃક્ષ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "आलू ने कहा कि मैं सब सब्जियों में ________ हूँ। (छोटा, बड़ा, सरताज)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सरताज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાકા દરેક શાકમાં ભળે છે, એટલે તે બધાનો રાજા એટલે કે 'સરતાજ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "चाट, चिप्स और टिकिया ________ के बिना नहीं बन सकतीं। (मिर्च, आलू, गोभी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> आलू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાસ્તાની આઈટમમાં 'આલૂ' (બટાકા) મેઈન હીરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "शकरकंद आलू का ________ है। (दुश्मन, मित्र, भाई)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मित्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાકા અને શક્કરિયા બંને જમીનની અંદર થાય, એટલે બંને પાકા 'મિત્ર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "________ उछलकर बीच में आ गई। (लौकी, मटर, भिंडी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मटर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા ગોળ હોય એટલે તે દડાની જેમ 'ઉછળી' શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "फूलगोभी और बंदगोभी ________ सब्जियाँ हैं। (हरी, पीली, सफेद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सफेद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુલેવર અને કોબીજ અંદરથી સફેદ રંગના હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "________ के सिर पर कलगी (ताज) जैसा होता है। (बैंगन, टमाटर, करेला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बैंगन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગણના ઉપરના ભાગને ધ્યાનથી જુઓ, તે રાજાના 'તાજ' જેવો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "________ का खट्टा-मीठा स्वाद सबको प्यारा लगता है। (करेले, मटर, टमाटर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> टमाटर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાટું-મીઠું નામ સાંભળતા જ લાલ ચટાક 'ટામેટું' યાદ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "गाजर और ________ से हलवा बनता है। (बैंगन, लौकी, भिंडी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लौकी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાજરનો હલવો અને દૂધી (લૌકી) નો હલવો સૌથી પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "कड़वा ________ स्वास्थ्य के लिए बहुत लाभदायक है। (मिर्च, करेला, अदरक)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> करेला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દવા કડવી હોય પણ ફાયદો કરે, તેમ 'કારેલું' પણ કડવું પણ ગુણકારી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "________ के बिना सब्जी में स्वाद नहीं आता। (अदरक, पानी, पत्ता)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अदरक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદુ (અદરક) શાક અને ચામાં 'ઝાયકા' (સ્વાદ) લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "________ तीखी होती है, जो सबकी आँखों में पानी ला देती है। (हल्दी, चीनी, मिर्च)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मिर्च</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીખું લાગે ત્યારે આંખમાં પાણી આવે, અને તીખી 'મરચું' (મિર્ચ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ककड़ी और गाजर का उपयोग ________ में किया जाता है। (सब्जी, हलवा, सलाद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सलाद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાકડી અને ગાજર કાચા ખાઈ શકાય, એટલે તે 'સલાડ' માં વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "बिरजू चाचा के जागने पर सब सब्जियाँ ________ गईं। (सो, भाग, रो)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> भाग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિક જાગી જાય તો બધા ચુપચાપ પોતાની જગ્યાએ 'ભાગી' જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "आलू की टिकिया और ________ बहुत मज़ेदार होती हैं। (दाल, समोसे, फल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> समोसे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોસાની અંદર બટાકાનો જ મસાલો હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "लौकी और ________ का रायता भी बनता है। (मिर्च, ककड़ी, आलू)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ककड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધી અને કાકડી બંને ઠંડક આપે, એટલે તેના 'રાયતા' પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "गाजर का रंग ________ होता है। (नीला, लाल, काला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लाल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ટામેટું અને લાલ ગાજર - સ્વાસ્થ્ય માટે બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "सब्जियों को ________ रहने में ही भलाई है। (अलग-अलग, मिल-जुलकर, दूर-दूर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मिल-जुलकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકતામાં બળ છે, એટલે 'મળી-ભળીને' રહેવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "बिरजू चाचा अपनी ________ पूरी करके उठे। (पढ़ाई, नींद, लड़ाई)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नींद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરે ઝાડ નીચે સૂતા હોય એટલે 'ઊંઘ' (નીંદ) જ પૂરી કરે.</p></div>"
+    }
+  ]
+}
