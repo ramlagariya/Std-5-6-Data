@@ -1295,3 +1295,161 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "सीखो (શીખો)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "फूलों से हमें नित ____ सीखना चाहिए। (हँसना, रोना, गाना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हँसना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ હંમેશા ખીલેલા અને 'હસતા' હોય છે, એટલે ફૂલ = હસવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "भौंरों से हमें नित ____ सीखना चाहिए। (सोना, गाना, लड़ना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભમરો (भौंरा) હંમેશા ગુંજન કરે છે, જે 'ગાવા' જેવું લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "तरु की झुकी डालियों से हमें ____ सीखना चाहिए। (कूदना, शीश झुकाना, भागना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> शीश झुकाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નમેલી ડાળીઓ વિનમ્રતા (માથું નમાવવું) શીખવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "सूरज की किरणों से हमें ____ सीखना चाहिए। (जगना और जगाना, सोना, खेलना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> जगना और जगाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ પોતે જાગે છે અને આખી દુનિયાને પણ જગાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "हवा के झोंकों से ____ कोमल भाव बहाना सीखना चाहिए। (मन, तन, पैर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનની જેમ મનમાં હંમેશા કોમળ અને સારા વિચારો વહેવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "दूध तथा पानी से हमें ____ सीखना चाहिए। (मिलना और मिलाना, अलग रहना, लड़ना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मिलना और मिलाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ અને પાણી ભળી જાય તો અલગ દેખાતા નથી, એટલે કે હળીમળીને રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "लता और पेड़ों से सबको ____ लगाना सीखना चाहिए। (गले, धक्का, चोट)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गले</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેલ (लता) ઝાડને વીંટળાઈને રહે છે, એટલે કે 'ગળે લાગવું' (પ્રેમથી રહેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "मछली से ____ के लिए तड़पकर मरना सीखना चाहिए। (विदेश, घर, स्वदेश)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> स्वदेश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી માટે પાણી તેનું ઘર (દેશ) છે, તેના વગર તે રહી શકતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "पतझड़ के पेड़ों से दुख में ____ धरना सीखना चाहिए। (धीरज, गुस्सा, डर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धीरज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાનખરમાં પાંદડા ખરી જાય છતાં ઝાડ ધીરજ રાખે છે કે ફરી વસંત આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "दीपक से हमें ____ हरना सीखना चाहिए। (अंधकार, प्रकाश, चाँदनी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अंधकार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવો પોતે બળીને અંધારાને દૂર (હરના) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "पृथ्वी से हमें प्राणी की सच्ची ____ करना सीखना चाहिए। (सेवा, निंदा, बुराई)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सेवा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી માતા બધા જીવોનો ભાર સહન કરીને સેવા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "जलधारा से हमें जीवन ____ में आगे बढ़ना सीखना चाहिए। (रथ, पथ, घर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पथ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનો પ્રવાહ હંમેશા આગળ વધે છે, તેમ જીવનના રસ્તા (પથ) પર આગળ વધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "धुएँ से हमें हमेशा ____ ही चढ़ना सीखना चाहिए। (नीचे, ऊपर, पीछे)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ऊपर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો હંમેશા આકાશ તરફ 'ઉપર' જ જાય છે, જે પ્રગતિનું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "सत्पुरुष के जीवन से हमें ____ गढ़ना सीखना चाहिए। (चरित्र, धन, मकान)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चरित्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા માણસો હંમેશા સારું 'ચરિત્ર' બનાવવાની પ્રેરણા આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "अपने गुरु से हमें उत्तम ____ पढ़ना सीखना चाहिए। (विद्या, कहानी, चुटकुले)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> विद्या</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુનું કામ જ્ઞાન અને 'વિદ્યા' આપવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'सीखो' कविता के कवि का नाम ____ है। (श्रीनगर सिंह, श्रीनाथ सिंह, प्रेमचंद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> श्रीनाथ सिंह</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શીખો' એટલે 'નાથ' (શ્રીનાથ) પાસેથી જ્ઞાન લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "सूरज की किरणों से हमें ____ और जगाना सीखना चाहिए। (सोना, जगना, रोना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> जगना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ વહેલી સવારે જાગે છે, તેથી 'જગના'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "दीपक ____ हरता है। (प्रकाश, अंधकार, सुख)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अंधकार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરના' એટલે દૂર કરવું, દીવો અંધારાને દૂર કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "मछली हमें सिखाती है कि ____ के लिए तड़प कर मरना। (स्वदेश, परदेश, गाँव)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> स्वदेश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલીને પોતાના દેશ (પાણી) સાથે અત્યંત પ્રેમ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "तरु की झुकी डालियों से हमें ____ झुकाना सीखना चाहिए। (पैर, हाथ, शीश)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> शीश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શીશ' એટલે મસ્તક કે માથું, નમ્રતા માટે માથું નમાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "हवा के झोंकों से हमें ____ भाव बहाना सीखना चाहिए। (कठोर, कोमल, तीखे)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कोमल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડો પવન કોમળતાનો અનુભવ કરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "दूध और पानी हमें ____ और मिलाना सिखाते हैं। (हँसना, मिलना, रोना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मिलना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિશ્રણ કરવા માટે 'મળવું' (મિલના) જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "पतझड़ के पेड़ों से हमें ____ धरना सीखना चाहिए। (धीरज, आलस, गुस्सा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धीरज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ સમય (પાનખર) માં ધીરજ રાખવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "पृथ्वी हमें ____ की सच्ची सेवा करना सिखाती है। (पत्थरों, प्राणी, बादलों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> प्राणी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર બધા 'પ્રાણીઓ' (જીવો) રહે છે અને તે સૌની સેવા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "जलधारा हमें जीवन ____ में आगे बढ़ना सिखाती है। (पथ, रथ, मथ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पथ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ એટલે રસ્તો, નદી હંમેશા પોતાના રસ્તે આગળ વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "धुएँ से हमें ऊँचे ही पर ____ सीखना चाहिए। (गिरना, चढ़ना, रुकना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चढ़ना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રગતિ હંમેશા 'ઉપર ચઢવાથી' થાય છે, જેમ ધુમાડો ચઢે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "सत्पुरुषों से हमें अपना ____ गढ़ना सीखना चाहिए। (घर, चरित्र, नाम)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चरित्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા માણસની ઓળખ તેના 'ચરિત્ર' (સ્વભાવ) થી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "नित हँसना हमें ____ सिखाते हैं। (काँटे, फूल, फल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> फूल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલો હંમેશા સ્મિત આપતા ખીલેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "कोमल भाव बहाना हमें ____ के झोंके सिखाते हैं। (पानी, हवा, आग)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> हवा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝોંકા' (લહેરખી) હંમેશા પવન (હવા) ના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "अंधकार हरना हमें ____ सिखाता है। (सूरज, दीपक, चाँद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दीपक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારા રૂમમાં આપણે 'દીવો' કરીએ તો જ અંધારું દૂર થાય.</p></div>"
+    }
+  ]
+}
