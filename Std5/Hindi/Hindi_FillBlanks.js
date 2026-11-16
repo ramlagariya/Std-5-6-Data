@@ -1453,3 +1453,136 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "चावल की रोटियाँ (ચાવલ કી રોટિયાં)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "कोको के माता-पिता ______ के खेतों में काम करने गए थे। (धान / गेहूँ / मक्का)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાવલ' (Rice) શેમાંથી બને? 'ધાન' (Paddy) માંથી. આમ, ખેતરમાં 'ધાન' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "कोको के पास कुल ______ चावल की रोटियाँ थीं। (दो / तीन / चार)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાવલ' શબ્દમાં ૩ અક્ષર છે પણ રસોઈમાં ૧ ઉમેરીને 'ચાર' યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "कोको ने रोटियों को सबसे पहले ______ के पीछे छिपाया। (दरवाजे / अलमारी / रेडियो)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> रेडियो</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર સાંભળવા 'રેડિયો' જોઈએ, અને કોકોએ રસીલી રોટી માટે 'રેડિયો' પકડ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "______ कोको का सबसे पहला दोस्त था जो उसके घर आया। (तिनसू / मिम्मी / नीनी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नीनी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન' થી 'નયા' અને 'ન' થી 'નીની' - જે પહેલા આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "मिम्मी अपने साथ केले के ______ पापड़ लाई थी। (दो / चार / पाँच)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી કોકો પાસે રોટી હતી, તેટલા જ મિમ્મી પાસે પાપડ હતા (૪ = ૪).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "तिनसू अपने साथ ______ के फूल लेकर आया था। (गुलाब / गेंदे / केतकी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गेंदे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત' થી 'તિનસૂ' અને ગીત ગાતો આવ્યો એટલે 'ગેંદે' ના ફૂલ લાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "कोको के पेट में भूख के कारण ______ गूँज रहे थे। (शेर / चूहे / गुडगुड)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गुडगुड</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાલી પેટે અવાજ કેવો આવે? 'ગુડગુડ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "उ-बा-तुन ______ की दुकान का मैनेजर था। (कपड़ों / चाय / बर्तनों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चाय</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાકેલા લોકો 'ચાય' પીએ, અને ઉ-બા-તુન બધાનો થાક ઉતારતો 'ચાય' વેચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "अंत में रोटियों वाला फूलदान ______ अपने साथ ले गया। (नीनी / मिम्मी / उ-बा-तुन)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> उ-बा-तुन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે જે આવ્યો તે જ બધું 'ઉઠાવી' (ઉ-બા-તુન) ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "मिम्मी के पापड़ ______ के तेल में तले हुए थे। (नारियल / सरसों / मूंगफली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मूंगफली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિમ્મી = મગફળી (મ થી મ યાદ રાખો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "कोको ने रोटियों को छिपाने के लिए ______ का बहाना बनाया। (पेट दर्द / सिर दर्द / नींद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पेट दर्द</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવાની વાત હોય ત્યારે બહાનું પણ 'પેટ' નું જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "उ-बा-तुन गुलाबी फूलदान की जगह ______ फूलदान लाया था। (लाल / नीला / पीला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नीला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ કેવું હોય? 'નીલું'. મમ્મીને પણ 'નીલું' પસંદ હતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "कोको ने रोटियाँ अंत में ______ फूलदान में छिपाई थीं। (गुलाबी / नीले / सफेद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गुलाबी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું ફૂલદાન 'ગુલાબી' હતું જેમાં રોટલી છુપાવી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "नीनी रेडियो पर ______ की खबर सुनना चाहता था। (बाढ़ / परीक्षा / चुनाव)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> परीक्षा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યાર્થીઓને હંમેશા 'પરીક્ષા' ની જ ટેન્શન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "कोको की माँ ने रोटियाँ ______ के लिए बनाई थीं। (दोस्तों / मेहमानों / कोको)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कोको</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો મુખ્ય હીરો 'કોકો' છે, એટલે મમ્મી તેના માટે જ બનાવી ગઈ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "पापड़ देखकर कोको के मुँह में ______ आ गया। (पानी / कड़वापन / दर्द)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદિષ્ટ વસ્તુ જોઈને હંમેશા 'મોઢામાં પાણી' આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "तिनसू और मिम्मी को रोटियों की ______ भी नहीं लगी। (सुगंध / खबर / आहट)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> खबर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોકોએ એવી રીતે છુપાવી કે કોઈને 'ખબર' સુધ્ધાં ન પડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "चावल की रोटियाँ नाटक में कुल ______ मुख्य पात्र हैं। (तीन / पाँच / सात)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पाँच</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોકો, નીની, મિમ્મી, તિનસૂ અને ઉ-બા-તુન (આંગળીઓ ગણો = ૫)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "उ-बा-तुन दुकान से ______ लेकर आया था। (मिठाई / फूलदान / रेडियो)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> फूलदान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ રાખવા માટે 'ફૂલદાન' બદલવા જ તે આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "कोको के घर की दीवार पर एक ______ टँगी थी। (तस्वीर / घड़ी / कैलेंडर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कैलेंडर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારીખ જોવા માટે દીવાલ પર 'કેલેન્ડર' હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "कोको ने कमरे का दरवाजा ______ कर लिया था। (खुला / बंद / टेढ़ा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बंद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરીથી ખાવું હોય તો દરવાજો 'બંધ' જ કરવો પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "कोको की उम्र लगभग ______ साल थी। (आठ-नौ / पांच-छह / दस-बारह)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> आठ-नौ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોરણ 5 ના બાળક જેવો જ એટલે 8-9 વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "मिम्मी ने चाय के साथ ______ खाने का प्रस्ताव रखा। (बिस्किट / पापड़ / रोटियाँ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पापड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિમ્મી પોતે જે 'પાપડ' લાવી હતી, તે જ ખાવાની વાત કરે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "जब पेट में आवाज़ हुई, तो कोको ने उसे ______ की आवाज़ बताया। (चूहे / रेडियो / बिल्ली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चूहे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પેટમાં ઉંદર દોડે' - આ જાણીતી કહેવત પરથી યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "कोको ने रोटियों को फूलदान के ______ डाल दिया था। (ऊपर / नीचे / अंदर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> अंदर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છુપાવવા માટે વસ્તુ હંમેશા 'અંદર' જ નાખવી પડે!</p></div>"
+    }
+  ]
+}
