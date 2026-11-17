@@ -1586,3 +1586,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "धुमधुमा गाँव के बच्चे",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "धुमधुमा गाँव में हमेशा ______ की कमी रहती थी। (पानी, खाने, खेल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામના નામમાં 'ધુમ' છે પણ તકલીફ 'પાણી' ની છે - આ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "बच्चे पानी में ______ और तैरना चाहते थे। (दौड़ना, नहाना, सोना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नहाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હોય તો સૌથી પહેલા 'નહાવાની' અને 'તરવાની' જ ઈચ્છા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "______ ने कहा, 'मैं बादलों से प्रार्थना करूँगा कि रोज बरसो'। (बिल्लू, महिमा, राजू)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बिल्लू</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' પરથી 'બિલ્લુ' અને 'બ' પરથી 'બાદલ' - બિલ્લુએ બાદલને બોલાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "बादल ______ कैसे बरस सकते हैं? (कभी-कभी, रोज, साल में)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> रोज</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોજ વરસાદ પડે તે શક્ય નથી, એટલે જ મહિમાએ આ પ્રશ્ન પૂછ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "बच्चों ने एक बहुत बड़ा ______ खोदने का विचार किया। (मकान, कुआँ, गड्ढा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गड्ढा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવ બનાવવા માટે પહેલા 'ખાડો' (ગડ્ઢા) ખોદવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "बच्चे घर से फावड़े, कुदालें, तसले और ______ लाए। (टोकरियाँ, थालियाँ, बाल्टी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> टोकरियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટી ભરવા માટે 'ટોકરી' નો જ ઉપયોગ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "बच्चे दिन-रात ______ खोदने में जुट गए। (मैदान, ज़मीन, पहाड़)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ज़मीन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોદકામ હંમેશા 'જમીન' પર જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "बच्चों का उत्साह देखकर गाँव के ______ भी उनकी मदद करने लगे। (लोग, पशु, पक्षी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> लोग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોની મહેનત જોઈને 'મોટા માણસો' (લોકો) પણ કામે લાગી ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "गड्ढे में वर्षा का ______ भरा। (कीचड़, पानी, पत्थर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ આવે ત્યારે આકાશમાંથી 'પાણી' જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "गड्ढे में पानी भरने से वह एक ______ बन गया। (तालाब, समुंदर, नाला)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> तालाब</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો ખાડો + વરસાદનું પાણી = સુંદર તળાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "तालाब के पानी से खेतों की ______ हुई। (बुआई, सिंचाई, कटाई)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सिंचाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં પાણી આપવાની પ્રક્રિયાને હિન્દીમાં 'સિંચાઈ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "खेतों में ______ लहलहाए। (पेड़, धान, फूल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં પાક (ધાન) લહેરાય, ત્યારે જ ખેડૂત ખુશ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "बच्चे पानी में ______ खूब नहाए। (छपाछप, धीरे-धीरे, डरकर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छपाछप</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રમવાનો અવાજ એટલે 'છપાછપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "______ गाँव के बच्चों ने अपनी मेहनत से समस्या दूर की। (धुमधुमा, रामापुर, शांतिपुर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> धुमधुमा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનું આખું નામ જ 'ધુમ-ધુમા' ગામ પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "बच्चे हमेशा पानी की कमी के कारण ______ नहीं पाते थे। (खेल, सो, पढ़)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> खेल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોને સૌથી વધુ 'રમવું' (ખેલ) ગમે, જે પાણી વગર શક્ય નહોતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "रजिया ने कहा, 'हम एक बड़ा सा ______ क्यों नहीं खोदते?' (कुआँ, गड्ढा, तालाब)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गड्ढा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજિયા અને બાકીના બાળકોએ 'ગડ્ઢા' ખોદવાનો આઈડિયા આપ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "लोग मिट्टी ढोते रहे और बाहर ______ रहे। (फेंकते, सजाते, रखते)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> फेंकते</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાડો કરવો હોય તો માટી બહાર 'ફેંકવી' જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "इस कहानी से हमें ______ की शक्ति का पता चलता है। (धन, सहयोग, क्रोध)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सहयोग</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા સાથે મળીને (સહયોગથી) કામ કરે તો મોટી મુસીબત પણ ટળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "प्रार्थना शब्द का अर्थ ______ होता है। (आज्ञा, विनती, झगड़ा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> विनती</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભગવાન પાસે આપણે 'વિનંતી' જ કરીએ, જેને હિન્દીમાં પ્રાર્થના કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "खेतों में धान पैदा हुआ और लोग ______ हुए। (दुखी, खुश, शांत)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> खुश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારી ખેતી થાય એટલે બધા 'ખુશ' જ થાય.</p></div>"
+    }
+  ]
+}
