@@ -1694,3 +1694,136 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "स्वच्छता (સ્વચ્છતા)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અજયને મોહનને અપને ________ પર બુલાયા થા. (જન્મદિન / શાદી / ત્યોહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જન્મદિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ અજયના 'જન્મદિન' ની વાત છે, એટલે 'જ' થી જન્મદિવસ યાદ રાખવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મોહન ને દેખા કિ કુડેદાન કે બહાર બહુત-સા ________ ફૈલા હુઆ થા. (પાન / કૂડા / પાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૂડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુડેદાન' ની સાથે હંમેશા 'કૂડા' (કચરો) જ જોડાયેલો હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કુડે પર ________ ભિનભિના રહી થીં. (મધુમક્ખિયાં / મક્ખિયાં / તિતલિયાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મક્ખિયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી હોય ત્યાં માખીઓ (મક્ખિયાં) જ ભણભણે, મધમાખી ફૂલો પર હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અજય કી ________ બિમાર થીં. (માતાજી / દાદી / બહન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજયના ઘરે તેના વડીલ એટલે કે 'દાદી' બિમાર હતા તે યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગંદગી બહુત-સી ________ કી જડ હૈ. (ખુશિયોં / બિમારિયોં / સફાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિમારિયોં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી = બિમારી. જ્યાં ગંદકી હોય ત્યાં ડોક્ટરને બોલાવવા જ પડે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નગરપાલિકા કા કામ નગર કો ________ રખના હૈ. (ગંદા / બડા / સ્વચ્છ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નગરપાલિકાની ગાડી આવે ત્યારે ગીત વાગે છે ને? 'સ્વચ્છ ભારત' - એટલે કામ સ્વચ્છ રાખવાનું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હમે કૂડા હમેશા ________ મેં હી ડાલના ચાહિયે. (થેલી / કુડેદાન / રાસ્તે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુડેદાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂડા + દાન = કુડેદાન. કચરાનું દાન હંમેશા ડબ્બામાં જ કરવાનું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્વચ્છતા ઔર ________ કા ગહરા સંબધ હૈ. (ખેલ / સ્વાસ્થ્ય / પઢાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વાસ્થ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સફાઈ (સ્વચ્છતા) રાખશો તો તબિયત (સ્વાસ્થ્ય) સારી રહેશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અગલે ________ કો સબ બચ્ચે અજય કે મોહલ્લે મેં ગયે. (સોમવાર / રવિવાર / શનિવાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રવિવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવાર એટલે રજાનો દિવસ, અને રજાના દિવસે જ બધા મિત્રો ભેગા થઈ શકે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મોહન ને દેખા કિ નાલિયોં મેં કૂડે કે કારણ ________ રુકા હુઆ હૈ. (પાની / કીચડ / પથ્થર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાલી (ગટર) માં જો કચરો ભરાય તો પાણી જ રોકાઈ જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હમે અપને ________ કો સાફ-સુથરા રખના ચાહિયે. (પુસ્તક / મોહલ્લે / ખિલોને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોહલ્લે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં આખા મહોલ્લાને સાફ કરવાની વાત મુખ્ય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બચ્ચોં ને અપને સાથ ________ ઔર ટોકરિયાં લી થીં. (બલ્લે / ઝાડૂ / કિતાબેં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાડૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફાઈ કરવા માટે સૌથી પહેલું હથિયાર 'ઝાડુ' જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કુડેદાન પર ________ હોના ચાહિયે. (ઢક્કન / ફૂલ / ચિત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢક્કન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઢાંકણ (ઢક્કન) હોય તો જ માખીઓ અંદર ન જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અજય કે ઘર કે પાસ ગંદગી દેખકર મોહન કો બહુત ________ હુઆ. (દુઃખ / આનંદ / ગુસ્સા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુઃખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી જોઈને કોઈને મજા ન આવે, હંમેશા અફસોસ કે દુઃખ જ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "છિલકા હમેશા કુડેદાન મેં ડાલના એક અચ્છી ________ હૈ. (આદત / બુરાઈ / ખેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારી ટેવ (આદત) જ માણસને મહાન બનાવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મુહલ્લે કી સફાઈ દેખકર ________ ખુશ હો ગયે. (નેતા / લોગ / ચોકીદાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહલ્લામાં જે રહેતા હોય તે 'લોકો' (લોગ) જ સફાઈ જોઈને ખુશ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અધ્યાપક ને કહા કિ સફાઈ રખના હમારા ________ હૈ. (કર્તવ્ય / મનોરંજન / સપના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કર્તવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફાઈ એ કોઈ રમત નથી, એ આપણી ફરજ (કર્તવ્ય) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નાલિયોં કી સફાઈ કરને કે બાદ બચ્ચોં ને ઉસમેં ________ ડાલી. (રેત / મિટ્ટી / ફિનાઈલ/દવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિનાઈલ/દવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવજંતુ મારવા માટે સફાઈ પછી દવા કે ફિનાઈલ નાખવું પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મોહન ને અજય કો ________ કા ઉપહાર દિયા. (ઘડી / કિતાબ / ખિલોના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિતાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કિતાબ' એ સૌથી શ્રેષ્ઠ ઉપહાર છે, મોહને પણ તે જ આપ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કુડેદાન કે પાસ બહુત ________ ફૈલી હુઈ થી. (ખુશબૂ / દુર્ગંધ / હવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુર્ગંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી હોય ત્યાં સુગંધ (ખુશબૂ) ન હોય, ખરાબ ગંધ એટલે 'દુર્ગંધ' હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કેલે કા ________ રાસ્તે પર ફેંકના બુરી બાત હૈ. (ગુચ્છા / છિલકા / ફલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છિલકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં મોહન ઉપર કેળાની 'છાલ' (છિલકા) પડી હતી, એ યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હમે અપના ઘર ઔર ________ સાફ રખના ચાહિયે. (પાઠશાળા / સિનેમા / હોટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠશાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર પછી આપણે સૌથી વધુ સમય નિશાળ (પાઠશાળા) માં વિતાવીએ છીએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અજય કે મોહલ્લે મેં જગહ-જગહ ________ કે ઢેર થે. (કૂડે / કપડોં / મિટ્ટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૂડે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ ગંદકી વિશે છે, એટલે 'કૂડા' (કચરો) જ જવાબ આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જહાં ગંદગી હોતી હૈ, વહાં ________ ફૈલતી હૈ. (સફાઈ / બીમારી / સમૃદ્ધિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીમારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી એ બીમારીની 'બેસ્ટ ફ્રેન્ડ' છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સબ બચ્ચોં ને મિલકર મોહલ્લે કો ________ બનાયા. (બડા / સુંદર / ગંદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફાઈ કર્યા પછી બધું જ 'સુંદર' દેખાય. (NJ Classes)</p></div>"
+    }
+  ]
+}
