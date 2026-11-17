@@ -1827,3 +1827,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "हम भारत की शान हैं (કવિતા)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નન્હે-નન્હે હમેં ન સમજો, હમ ભારત કી _______ હૈં। (શાન, જાન, માન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાની પહેલી પંક્તિ યાદ રાખો - ભારતની 'શાન' એટલે કે પ્રતિષ્ઠા આ દેશનાં બાળકો જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હમસે હી હૈ _______ સારી, ફૈલા યહ આસમાન હૈ। (દુનિયા, ધરતી, નદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસમાનની સાથે હંમેશા 'ધરતી' ની જોડી બને છે, એટલે અહીં ધરતી આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ફૂલ હૈં હમ ઇસ _______ કે, ખુશબૂ ફૈલાના કામ હૈ। (બગિયા, જંગલ, ખેત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બગિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ હંમેશા 'બગીચા' (બગિયા) માં હોય, જંગલમાં નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બઢ-ચઢકર આગે જાયેંગે, કરતે કામ _______ હૈં। (આસાન, મહાન, પુરાને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ વધવા માટે કામ હંમેશા 'મહાન' (મોટા) કરવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "_______ હી ઉઠતે જાના હૈ, આગે હી બઢતે જાના હૈ। (નીચે, તિરછે, ઊંચે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રગતિ કરવી એટલે હંમેશા 'ઊંચે' ઉઠવું, નીચે પડવું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બચ્ચોં કા કામ _______ ફૈલાના હૈ। (ગંદકી, ખુશબૂ, અંધેરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુશબૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો ફૂલ સમાન છે, અને ફૂલનું કામ હંમેશા સુગંધ (ખુશબૂ) ફેલાવવાનું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આસમાન કા સમાનાર્થી શબ્દ _______ હૈ। (આકાશ, ધરતી, પાતાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ અને આ - આસમાન = આકાશ. બંને 'આ' થી શરૂ થાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખુશબૂ કા વિરોધી શબ્દ _______ હૈ। (સુગંધ, બદબૂ, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદબૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુશ (સારી) x બદ (ખરાબ). તેથી ખુશબૂ x બદબૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હમેં કિસી સે _______ નહીં સમજના ચાહિયે। (બડા, છોટા, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં બાળકો કહે છે 'નન્હે-નન્હે હમેં ન સમજો', એટલે કે અમને નાના (છોટા) ન સમજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બગિયા કા અર્થ _______ હોતા હૈ। (બગીચા, આંગન, જંગલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બગીચા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગિયા અને બગીચા - બંનેમાં 'બગી' કોમન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બચ્ચે દેશ કા _______ હૈં। (અતીત, ભવિષ્ય, ઇતિહાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભવિષ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આજે બાળક છે તે આવતીકાલનો નાગરિક છે, એટલે કે 'ભવિષ્ય' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ફૂલોં કી તરહ હંમેશા _______ રહના ચાહિયે। (મુસ્કુરાતે, રોતે, સોતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુસ્કુરાતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ હંમેશા ખીલેલા અને હસતા લાગે છે, એટલે કે 'મુસ્કુરાતે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શાન કા અર્થ _______ હોતા હૈ। (બુરાઈ, પ્રતિષ્ઠા, કમજોરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિષ્ઠા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું નામ મોટું હોય તેની 'શાન' એટલે કે 'ઈજ્જત/પ્રતિષ્ઠા' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બચ્ચોં કા ઇરાદા _______ હી બઢતે જાને કા હૈ। (પીછે, ઉપર, આગે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આગે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશના બાળકો ક્યારેય પાછા ન પડે, હંમેશા 'આગે' (આગળ) જ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ધરતી કિસકે કારણ સજી-ધજી હૈ? (પેડોં, બચ્ચોં, જાનવરોં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બચ્ચોં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કવિતા મુજબ બાળકો જ ધરતીની રોનક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહાન કામ કરને સે સબકો _______ મિલતી હૈ। (સજા, શાન, થકાવટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા અને મોટા કામ કરવાથી દેશની પ્રતિષ્ઠા (શાન) વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાપ કા વિરોધી શબ્દ _______ હૈ। (પુણ્ય, બુરા, અધર્મ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુણ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાપ-પુણ્યની જોડી જગજાહેર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "હમેં કિસી ભી મુસીબત મેં _______ નહીં ચાહિયે। (રુકના, ભાગના, હસના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુકના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગે હી બઢતે જાના હૈ' નો અર્થ છે કે ક્યારેય અટકવું (રુકના) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કવિતા મેં બચ્ચોં કો કિસકી શાન કહા ગયા હૈ? (વિશ્વ, ભારત, ઘર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'હમ ભારત કી શાન હૈં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નન્હે શબ્દ કા અર્થ _______ હોતા હૈ। (બડે, છોટે, તાકતવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના બાળકોને હિન્દીમાં પ્યારથી 'નન્હે-મુન્ને' કહેવામાં આવે છે.</p></div>"
+    }
+  ]
+}
