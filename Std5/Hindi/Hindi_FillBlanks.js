@@ -2043,3 +2043,136 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "पहेलियाँ (પહેલીઓ)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "फल देकर _____ हुए हैं, हरियाली फैलाते हैं। (असफल / सफल / विफल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सफल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષ હંમેશા ફળ આપીને પરોપકારનું કાર્ય સફળ કરે છે તેમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "फूलों से नित _____ सीखो, भौरों से नित गाना। (हँसना / रोना / नाचना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હँસના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ હંમેશા ખીલેલા (હસતા) હોય છે, એટલે ફૂલ = હસવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "पहेली में 'पत्थर का देश' _____ को कहा गया है। (पहाड़ / रेगिस्तान / जंगल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पहाड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહાડ પથ્થરોનો બનેલો હોય છે, તેથી તેને પથ્થરનો દેશ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "सोने की वह चीज़ है, पर बेचे नहीं _____। (सुनार / लुहार / कुम्हार)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सुनार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પહેલીમાં 'સોના' એટલે ઉંઘવું (નિદ્રા) છે, પણ છળ કપટ માટે 'સુનાર' શબ્દ વાપર્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "एक साथ हम दो भाई, पर एक-दूसरे से कभी न _____। (बोलें / मिलें / देखों)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मिलें</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ જોડા (Shoes) ની વાત છે, જે સાથે ચાલે છે પણ ક્યારેય અરસ-પરસ મળતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "तीन अक्षर का मेरा નામ, _____ देना मेरा काम। (खाना / पानी / दाना)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बादल' (વાદળ) ના ત્રણ અક્ષર છે અને તે પાણી આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "खुली रात में मैं पैदा होती, _____ जैसी मूरत है। (हीरे / मोती / सोने)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मोती</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાકળના ટીપા (ओस) મોતી જેવા ચમકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "बादल का विलोम शब्द (विरोधी) _____ है। (जलद / आकाश / पाताल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> आकाश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળ આકાશમાં હોય છે, પણ જો સ્થાનની દ્રષ્ટિએ જોઈએ તો ઉપર આકાશ અને નીચે પાતાળ (સંદર્ભ મુજબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ऐनक के दो पहिये हैं, पर वह _____ नहीं है। (साइकिल / कार / बस)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> साइकिल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચશ્માના બે કાચ ગોળ પૈડા જેવા લાગે એટલે સાયકલ સાથે સરખામણી કરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "सबको _____ देती है, खुद अंधेरे में रहती है। (मोमबत्ती / सूरज / बिजली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मोमबत्ती</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીણબત્તી પોતે ઓગળીને બીજાને અજવાળું આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "धरती के हम _____ हैं, हम पर सबका अभिमान। (बेटे / राजा / भगवान)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बेटे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે સૌ ધરતી માતાના સંતાનો (બેટા) છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "नदी को पहेली में _____ का देश कहा जा सकता है। (पानी / पत्थर / रेत)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી એટલે વહેતું પાણી, માટે પાણીનો દેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "पहेली को सुलझाना एक _____ का काम है। (बुद्धि / आलस / खेल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बुद्धि</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલી ઉકેલવા માટે મગજ (બુદ્ધિ) કસવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "मध्य कटे तो 'कल' बन जाऊँ, वह शब्द _____ है। (कमल / काजल / कोमल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कमल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'क-म-ल' માંથી વચ્ચેનો અક્ષર 'મ' કાઢતા 'કલ' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "अंत कटे तो 'कम' बन जाऊँ, वह शब्द _____ है। (कमल / कलम / काम)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> कमल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'क-म-ल' માંથી છેલ્લો અક્ષર 'લ' કાઢતા 'કમ' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "पेड़ हमें _____ देते हैं। (छाया / आग / पत्थर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> छाया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષનું કામ શીતળતા અને છાયડો આપવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "बादल का पर्यायवाची शब्द _____ है। (जलद / नीरज / पवन)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> जलद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલ (પાણી) + દ (આપનાર) = જલદ (વાદળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "पहेलियों से हमारी _____ शक्ति बढ़ती है। (शारीरिक / विचार / सोने की)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> विचार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલીઓ વિચારવા મજબૂર કરે છે, તેથી વિચાર શક્તિ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'पहेलियाँ' पाठ में जूतों को _____ भाई कहा गया है। (दो / तीन / चार)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दो</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુટ હંમેશા જોડીમાં (બે) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "जो सबके चेहरे पर _____ ला दे, वह अच्छी पहेली है। (मुस्कान / उदासी / क्रोध)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मुस्कान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનોરંજન હંમેશા ચહેરા પર સ્મિત લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ऐनक का उपयोग _____ साफ देखने के लिए करते हैं। (आंखों / कानों / नाक)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> आंखों</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખની દ્રષ્ટિ નબળી હોય ત્યારે ચશ્મા (એનક) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "बादल का प्रथम अक्षर कटे तो _____ शब्द बनेगा। (दल / बाल / काल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बा-द-ल' માંથી પ્રથમ અક્ષર 'બા' કાઢતા 'દલ' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ओस की बूंदें सुबह _____ पर दिखाई देती हैं। (घास / आसमान / आग)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> घास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે મેદાનમાં ઘાસ પર ઝાકળ બિંદુઓ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "पहेली मनोरंजन के साथ-साथ _____ भी बढ़ाती है। (ज्ञान / वजन / लंबाई)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ज्ञान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું જાણવા મળે એટલે જ્ઞાનમાં વધારો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "एक पहेली में स्वयं को 'थल का राजा' _____ ने कहा है। (बादल / पर्वत / मछली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पर्वत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત જમીન (થલ) પર સૌથી ઊંચો અને મજબૂત હોય છે.</p></div>"
+    }
+  ]
+}
