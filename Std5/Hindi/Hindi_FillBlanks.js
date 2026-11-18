@@ -1935,3 +1935,111 @@ var Std5_Hindi_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "खरगोश और हाथी",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "सरोवर के किनारे _________ ज़मीन थी। (कठोर, गीली, रेतीली)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गीली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરોવર એટલે કે તળાવની પાળે પાણી હોવાથી જમીન હંમેશા 'ભીની' (ગીલી) હોય તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "खरगोशों के _________ ज़मीन के अंदर थे। (घर, घोंसले, बिल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> बिल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસલા રહેવા માટે જે ખાડો ખોદે તેને હિન્દીમાં 'બિલ' (Burrow) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "हाथियों का झुंड पानी में _________ करने लगा। (सोने, क्रीड़ा, दौड़ने)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> क्रीड़ा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીઓને પાણી બહુ ગમે, એટલે તેઓ ત્યાં રમત અથવા 'ક્રીડા' કરવા લાગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "हाथियों के पैरों के नीचे कई _________ दब गए। (हाथी, खरगोश, साँप)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> खरगोश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'ખરગોશ ઔર હાથી' છે, હાથી મોટા છે અને સસલા નાના, એટલે સસલા જ દબાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "खरगोशों का सरदार बहुत _________ था। (डरपोક, समझदार, क्रोधी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> समझदार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મુસીબતમાંથી રસ્તો કાઢે તે હંમેશા 'સમજદાર' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "खरगोश चंद्रमा को अपना _________ कहते थे। (चाचा, मामा, दादा)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> मामा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળગીત યાદ કરો - 'ચંદા મામા દૂર કે'! વાર્તામાં પણ સસલાએ ચાંદને મામા કહ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "पूर्णमासी का _________ निकला था। (सूरज, तारा, चाँद)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> चाँद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ (પૂર્ણમાસી) ના દિવસે આખો 'ચાંદ' જ નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "हाथी अपनी _________ से पानी छिड़क रहे थे। (पूँछ, सूँड, टाँग)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सूँડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી પાસે પાણી ઉડાડવા માટે કુદરતી પાઇપ જેવી 'સૂંઢ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "तालाब में चाँद की _________ दिखाई दे रही थी। (तस्वीर, परछाई, चमक)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> परछाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં જે દેખાય તેને 'પરછાઈ' (પ્રતિબિંબ) કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "खरगोश _________ प्राणी हैं। (विशाल, नन्हे, मांसाहारी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नन्हे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી મોટા (વિશાલ) છે, જ્યારે સસલા નાના એટલે કે 'નન્હે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "हाथियों के सरदार ने चाँद को _________ किया। (प्रणाम, गुस्सा, नज़रअंदाज़)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> प्रणाम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી ડરી ગયો હતો, એટલે તેણે આદરમાં 'પ્રણામ' કર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "लहरों के साथ चाँद भी _________ हो रहा था। (गायब, ऊपर-नीचे, शांत)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ऊपर-नीचे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં મોજાં આવે ત્યારે તેમાં દેખાતી વસ્તુ પણ મોજાંની જેમ 'ઉપર-નીચે' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "हाथियों ने खरगोशों से _________ माँगी। (मदद, सजा, माफी)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> माफी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ સમજાઈ જાય એટલે હંમેશા 'માફી' માંગવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "खरगोशों के बिल दबाने से खरગોશ _________ थे। (खुश, दुःखी, भूखे)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> दुःखी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈનું ઘર તૂટી જાય, ત્યારે તે હંમેશા 'દુઃખી' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "सरोवर के पास _________ घास उगी थी। (सूखी, कँटीली, नरम)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> नरम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની નજીક થતું ઘાસ હંમેશા લીલું અને 'નરમ' (કુણું) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "हाथियों का झुंड उस जंगल में _________ के लिए आया। (सोने, रहने, पानी पीने)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पानी पीने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરોવર હતું એટલે હાથીઓ ત્યાં 'પાણી પીવા' અને નહાવા જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "हाथियों को पानी बहुत _________ है। (बुरा लगता, प्यारा, डराता)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> प्यारा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી અને પાણીની દોસ્તી પાકી હોય, એટલે પાણી તેમને 'પ્યારું' (ગમતું) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "चंदा मामा अपने भांजों से मिलने _________ में आए हैं। (मैदान, पहाड़, सरोवर)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सरोवर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસલા સરોવર પાસે રહેતા હતા અને ચાંદનું પ્રતિબિંબ પણ 'સરોવર'માં જ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "हाथियों ने दूसरे _________ में जाने का फैसला किया। (गाँव, शहर, जंगल)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> जंगल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી જંગલી પ્રાણી છે, એટલે તે એક જંગલ છોડી બીજા 'જંગલ'માં જ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "रात को सरोवर में _________ चाँद दिखाई दिया। (आधा, पूरा, टूटा हुआ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> पूरा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણમાસી એટલે પૂનમ, અને પૂનમે હંમેશા 'આખો' (પૂરો) ચાંદ દેખાય.</p></div>"
+    }
+  ]
+}
