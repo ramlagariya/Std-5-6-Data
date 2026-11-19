@@ -156,3 +156,136 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "फसलों के त्योहार",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "भारत में सभी फसलों से जुड़े त्योहार जनवरी के मध्य में शुरू होते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી અને લણણી (Harvest) ના મોટાભાગના ઉત્સવો જાન્યુઆરી મહિનામાં જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "खिचड़ी के त्योहार के दिन बहुत सर्दी होती है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું) - पाठ के अनुसार लोग कड़ाके की ठंड में कांप रहे थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાન્યુઆરી એટલે શિયાળો, અને શિયાળો એટલે કડકડતી ઠંડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "खिचड़ी (मकर संक्रांति) के दिन लोग गंगा स्नान नहीं करते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - मकर संक्रांति पर लोग बड़ी संख्या में गंगा स्नान करते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીમાં સ્નાન અને દાન એ મકર સંક્રાંતિનો મુખ્ય રિવાજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "असम में फसलों के त्योहार को 'बिहू' कहा जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અસમ અને 'બ' થી બિહુ (A-B ની જોડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "केरल में फसलों का मुख्य त्योहार 'पोंगल' है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - केरल में 'ओणम' मनाया जाता है, जबकि पोंगल तमिलनाडु का त्योहार है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K-O' (Kerala-Onam) અને 'T-P' (Tamil Nadu-Pongal) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "झारखंड में 'सरहुल' बड़े जोश के साथ मनाया जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝારખંડમાં લોકો 'ઝાડ' (સાલના વૃક્ષ) ની પૂજા કરે છે, જેને 'સરહુલ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "पंजाब में मकर संक्रांति को 'लोहड़ी' के रूप में मनाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબનો ભાંગડા અને લોહડીની અગ્નિ હંમેશા સાથે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "सरहुल के दिन 'पीपल' के पेड़ की पूजा की जाती है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - सरहुल के दिन 'साल' के पेड़ की पूजा की जाती है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરહુલ = સાલ (S-S યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "गुजरात में मकर संक्रांति के दिन पूरा आसमान पतंगों से भर जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગ અને ગુજરાત એકબીજાના પર્યાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "कुमाऊँ में मकर संक्रांति को 'घुघुतिया' भी कहते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુકુ (કુમાઉં - કુમાઉં) નહીં પણ કુમાઉંમાં 'ઘુઘુ'તિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "पोंगल के दिन मिट्टी के नए मटके में नए चावल, दूध और गुड़ डालकर पकाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌષ્ટિક પદાર્થોનું મિશ્રણ એટલે પोंગલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "सरहुल का त्योहार केवल एक दिन मनाया जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - सरहुल का जश्न चार दिनों तक चलता है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો ઉત્સવ, વધુ દિવસો (૪ દિવસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "आदिवासी लोग आमतौर पर प्रकृति की पूजा करते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ આદિવાસીઓ ખેતી અને જંગલ (પ્રકૃતિ) ને જ ભગવાન માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "तमिलनाडु में लोग धूप में बैठकर पतंग उड़ाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - गुजरात के लोग पतंग उड़ाते हैं, तमिलनाडु में 'पोंगल' मनाया जाता है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગ = ગુજરાતની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "मकर संक्रांति को उत्तर प्रदेश और बिहार में 'तिल संक्रांति' भी कहते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તલ (Til) નું દાન અને સેવન આ પ્રદેશમાં મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ओणम उत्सव कर्नाटक का मुख्य त्योहार है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - ओणम केरल का त्योहार है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓણમ એટલે કેરળની સુંદરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "कुमाऊँ में लोग पक्षियों को पकवान खिलाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું) - घुघुतिया त्योहार के दौरान बच्चों को पकवान की माला दी जाती है और वे पक्षियों को बुलाते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓને ખવડાવીને પુણ્ય કમાવાનો ઉત્સવ એટલે ઘુઘુતિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "खिचड़ी के त्योहार पर गुड़ और तिल के लड्डू बनाए जाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળપણ અને તલનો સ્વાદ એટલે શિયાળાનો આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "झारखंड में उराँव और संथाल जनजातियाँ अलग-अलग समय पर सरहुल मनाती हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું) - उराँव फरवरी-मार्च में और संथाल मार्च-अप्रैल में मनाते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રદેશ એક પણ રીત અને સમય અલગ-અલગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "मकर संक्रांति पर सूर्य की पूजा नहीं की जाती है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - मकर संक्रांति सूर्य के उत्तरायण होने का उत्सव है, इसमें सूर्य की पूजा महत्वपूर्ण है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકર સંક્રાંતિ એટલે સૂર્યનો રાશિ પરિવર્તન ઉત્સવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "घुघुतिया के त्योहार में माला में संतरा और गन्ना भी पिरोया जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફળ અને પકવાનની મિશ્રિત માળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "भारत के हर प्रांत में फसलों से जुड़ा कोई न कोई त्योहार मनाया जाता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત કૃષિપ્રધાન દેશ છે, તેથી તહેવારો પણ ખેતીના જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "पोंगल के दिन 'पोंगल-पोंगल' के नारे लगाए जाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું) - जब दूध में उफान आता है तो 'पोंगल-पोंगल' (खिचड़ी में उफान आ गया) कहा जाता है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભરો આવે ત્યારે આનંદ વ્યક્ત કરવાનો શબ્દ 'પોંગલ-પોંગલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "सरहुल के दौरान लोग अपने घरों की लिपाई-पुताई नहीं करते।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું) - सरहुल से पहले लोग अपने घरों को खूब साफ-सुथरा और लिपाई-पुताई करते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવો ઉત્સવ એટલે ઘરની સફાઈ અને નવું રૂપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "मकर संक्रांति के दिन गया (बिहार) में तिल का बहुत महत्व है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગયા (Gaya) માં તલની ખાદ્ય સામગ્રી પ્રખ્યાત છે.</p></div>"
+    }
+  ]
+}
