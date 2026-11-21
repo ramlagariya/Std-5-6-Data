@@ -638,3 +638,86 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "हँसी का पिटारा",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "माँ ने बेटे को बाजरा सुखाने के लिए रखा था। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (माँ ने बेटे को <b>गेहूँ</b> सुखाने के लिए रखा था।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ 'ગેહૂં' (ઘઉં) શબ્દ યાદ રાખો, બાજરો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "माँ ने बेटे से कहा कि कोई गाय गेहूँ न खा जाए। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મીએ પ્રાણી તરીકે 'ગાય' થી સાવધાન રહેવા કહ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "गधा गेहूँ खा रहा था, फिर भी लड़के ने उसे नहीं भगाया। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોકરો બહુ આજ્ઞાકારી હતો એટલે એણે ગધેડાને ગાય ન સમજી અને ભગાડ્યો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "लड़के के अनुसार माँ ने सिर्फ गधे को निकालने के लिए कहा था। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (माँ ने सिर्फ <b>गाय</b> को निकालने के लिए कहा था।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં ઊંધું આપ્યું છે, ગધેડાને બદલે ગાય યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "दूसरा दोस्त स्वयं को पत्र लिख रहा था। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજા મિત્રની મજાક એ જ હતી કે એ પોતાને જ પત્ર લખતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "पत्र में क्या लिखा है, यह दोस्त को पहले से ही पता था। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (दोस्त ने कहा कि पत्र मिलने के बाद ही पता चलेगा कि क्या लिखा है।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્ર હજી મળ્યો નથી એટલે શું લખ્યું છે તે ખબર નથી - આ જ રમુજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "मालिक ने नौकर से कहा कि कोई भी काम करने से पहले मुझसे पूछ लेना। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિકે તેની શરત મૂકી હતી કે બધું જ પૂછીને કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "रसोईघर में बिल्ली दूध पी रही थी और नौकर उसे देख रहा था। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોકર માલિકના આદેશ મુજબ બિલાડીને ભગાડતા પહેલા પૂછવા ગયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "श्यामू ने आईने में अपना चेहरा देखकर कहा कि 'इसे कहीं देखा है'। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં પોતાનું જ મોઢું જોઈને ઓળખતા ન હોય તેવો ટુચકો પાઠમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "मास्टरजी के अनुसार छात्र के गृहकार्य में बहुत कम गलतियाँ थीं। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (छात्र के गृहकार्य में <b>बहुत ज्यादा</b> गलतियाँ थीं।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોમવર્કમાં ભૂલો 'વધારે' (જ્યાદા) હતી, ઓછી (કમ) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "छात्र ने कहा कि होमवर्क उसने अकेले ने ही किया है। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (छात्र ने कहा कि होमवर्क उसके <b>पिताजी</b> ने करने में मदद की है।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલો પિતાજીની હતી કારણ કે હોમવર્ક એમણે કર્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "मूर्ख नौकर ने दूध में गिरी मक्खी को तुरंत निकाल दिया। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (नौकर ने मालिक से पूछा कि 'क्या मैं मक्खी निकाल दूँ?')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોકર એટલો બધો આજ્ઞાકારી હતો કે માખી કાઢવા માટે પણ પૂછવા ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "जीवन में हास्य का बहुत महत्व है। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકરણનો મુખ્ય ઉદ્દેશ્ય હાસ્યનું મહત્વ સમજાવવાનો જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "हँसने से स्वास्थ्य अच्छा रहता है। (સાચું કે ખોટું જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસવું એ સ્વાસ્થ્ય માટે ઉત્તમ છે, જે આ પાઠનો સાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "इस पाठ में केवल कहानियाँ दी गई हैं। (સાચું કે ખોટું જણાવો અને ખોટું હોય તો કારણ આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (इस पाठ में <b>चुटकुले</b> दिए गए हैं।)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'હંસી કા પિટારા' છે એટલે તેમાં 'ચુટકુલે' (ટુચકા) જ હોય.</p></div>"
+    }
+  ]
+}
