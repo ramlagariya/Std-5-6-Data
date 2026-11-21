@@ -721,3 +721,111 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "खाना खजाना (चित्रपाठ)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચિત્રમાં માતાજી રસોઈ બનાવી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખો - રસોડાના ચિત્રમાં હંમેશા માતાજી મુખ્ય ભૂમિકામાં રસોઈ બનાવતા જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "છોકરો રસોડામાં પુસ્તક વાંચી રહ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: છોકરો ભોજન કરી રહ્યો છે/જમી રહ્યો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'ખાના ખજાના' છે, એટલે બાળક ભણશે નહીં પણ ખાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દાદીમાં હાથમાં પુસ્તક લઈને વાંચી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Tip - રસોડામાં બે વ્યક્તિ બેઠા છે: બાળક જમે છે અને દાદી વાંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રસોડામાં ગેસનો બે મોઢાવાળો (બે બર્નર) ચૂલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ધ્યાનથી જુઓ, માતાજીની સામે ગેસનો ચૂલો જ બતાવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રસોડામાં એક પણ બારી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: રસોડામાં એક બારી છે જેમાંથી વાદળ દેખાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા ઉજાસ માટે રસોડામાં બારી હોવી જરૂરી છે, ચિત્રમાં તે સ્પષ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ટોપલીમાં શાકભાજી અને ફળો રાખેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ટોપલી હંમેશા તાજા શાકભાજી માટે રસોડામાં વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અભરાઈ (રેક) પરની બરણીઓમાં અથાણું અને તેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડામાં ઉપરના ભાગે બરણીઓમાં અથાણાં અને મસાલા જેવી વસ્તુઓ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "માતાજી વેલણ (બેલન) થી રોટલી વણી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલી માટે 'ચકલા' અને 'બેલન' (પાટલી-વેલણ) જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રસોડામાં પાણી ભરવા માટે માટલું (મટકા) રાખેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતીય રસોડામાં માટલું પાણી માટે અનિવાર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ રસોડું ખૂબ જ ગંદુ અને અસ્તવ્યસ્ત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ચિત્રમાં રસોડું એકદમ સ્વચ્છ અને વ્યવસ્થિત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકના ચિત્રો હંમેશા આદર્શ અને સ્વચ્છ વ્યવસ્થા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "થાળીમાં રોટલીઓ રાખેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાજી રોટલી બનાવે છે અને થાળીમાં ગરમાગરમ રોટલીઓ દેખાય જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગેસના ચૂલાની નીચે ગેસ સિલિન્ડર રાખેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસ ચૂલો સિલિન્ડર વગર ન ચાલે, ચિત્રમાં તે નીચેના ભાગે જોઈ શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ચિત્રમાં રસોડામાં ટેલિવિઝન (ટીવી) દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: રસોડામાં ટીવી નથી, બધી જ વસ્તુઓ રસોઈને લગતી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Rule - રસોઈના પાઠમાં મનોરંજનનાં સાધનો ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કપાયેલા શાકભાજી થાળીમાં રાખેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાજીની પાસે શાકભાજી કાપેલા પણ દેખાય છે જે તેઓ રાંધવાના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચૂલા પર કઢાઈ (કડાઈ) રાખેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ચૂલા પર તવી અને કુકર જેવું વાસણ દેખાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્યાનથી જુઓ, માતાજી રોટલી શેકવા માટે 'તવી' (તવા) નો ઉપયોગ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રસોડામાં ચમચીઓ (ચમચ) સ્ટેન્ડમાં લટકાવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડાની દીવાલ પર ચમચી અને કળછી લટકાવેલા જોઈ શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચિત્રમાં પિતાજી રસોઈમાં મદદ કરી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ચિત્રમાં પિતાજી ક્યાંય દેખાતા નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં માત્ર ત્રણ જ પાત્રો છે: માતા, બાળક અને દાદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દાદીમાં ન્યૂઝપેપર (છાપું) વાંચી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: દાદીમાં પુસ્તક (કહાની કી કિતાબ) વાંચી રહ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક અને છાપામાં ફરક છે, ચિત્રમાં તે સ્પષ્ટ પુસ્તક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "છોકરાની સામે ખાવાની થાળી પીરસેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોકરો બેઠો છે અને તેની સામે થાળી છે એટલે તે જમી રહ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રસોડામાં ઘઉં પીસવાની ઘંટી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: રસોડામાં કોઈ ઘંટી દેખાતી નથી, માત્ર રસોઈના વાસણો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ નાનું અને આધુનિક રસોડું છે, જેમાં ઘંટી જેવી મોટી વસ્તુ નથી.</p></div>"
+    }
+  ]
+}
