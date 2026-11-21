@@ -829,3 +829,136 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "वे दिन भी क्या दिन थे (NCERT Rimjhim)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "कुम्मी ने अपनी डायरी में 17 मई 2155 की घटना लिखी थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતની તારીખ યાદ રાખો - 17 મે 2155.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "रोहित को जो पुस्तक मिली थी, वह बिल्कुल नई थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: रोहित को जो पुस्तक मिली वह बहुत पुरानी थी, जिसके पन्ने पीले और सुकड़े हुए थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વસ્તુ જ અજાયબી લાગે, નવી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "पुस्तक में स्कूलों के बारे में लिखा था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું પ્રકરણ સ્કૂલ (જૂની vs નવી) પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "कुम्मी को स्कूल जाना बहुत पसंद था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: कुम्मी को स्कूल से नफरत थी क्योंकि उसका मशीनी अध्यापक उसे बहुत सारा काम और टेस्ट देता था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુંમી + સ્કૂલ = નફરત (કારણ કે તે મશીન હતું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "पुराने समय में अध्यापक मशीन होते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: पुराने समय में अध्यापक मनुष्य (स्त्री या पुरुष) होते थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું એટલે જીવતું જાગતું (માણસ), નવું એટલે મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "मशीनी अध्यापक के पास होमवर्क डालने के लिए एक विशेष छेद (slot) होता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીનમાં પેપર નાખવા માટે સ્લોટ હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "कुम्मी का मशीनी अध्यापक भूगोल के विषय में बहुत तेज़ चल रहा था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂગોળનો ગિયર સ્પીડમાં હતો, એટલે કુંમી મુંઝાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "मशीन सुधारने के लिए डॉक्टर को बुलाया गया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: मशीनी अध्यापक को सुधारने के लिए एक मिस्त्री (अध्यक्ष) को बुलाया गया था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન માટે મિકેનિક હોય, ડોક્ટર તો માણસ માટે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "पुराने समय में बच्चे एक विशेष भवन में पढ़ने जाते थे जिसे 'स्कूल' कहते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની નિશાળ એટલે એક મોટું મકાન અને બધા બાળકો સાથે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "भविष्य में पुस्तकें केवल कागज़ पर छपी होती थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: भविष्य में पुस्तकें टेलीविज़न के पर्दे पर चलती थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભવિષ્ય = સ્ક્રીન (Screen), ભૂતકાળ = કાગળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "कुम्मी की आयु 11 वर्ष और रोहित की आयु 13 वर्ष थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુંમી 11, રોહિત 13 (2 વર્ષનો તફાવત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "रोहित को पुस्तक अपने घर के एक पुराने डिब्बे में मिली थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબાટ કે સ્ટોર રૂમના ડબ્બામાંથી જ જૂની વસ્તુ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "पुराने स्कूलों में एक ही आयु के बच्चे अलग-अलग चीज़ें सीखते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: पुराने स्कूलों में एक ही आयु के बच्चे एक साथ एक जैसी चीज़ें सीखते थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ એજ = સેમ લેસન (Same age = Same lesson).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "कुम्मी को मशीन सुधारने वाले व्यक्ति ने एक सेब खाने को दिया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીનવાળા કાકાએ હસતાં હસતાં સફરજન આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "रोहित ने कहा कि कागज़ की पुस्तकें बेकार होती हैं क्योंकि उन्हें एक बार पढ़कर फेंकना पड़ता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોહિતને 'યુઝ એન્ડ થ્રો' પુસ્તકો ગમતા નહોતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "मशीनी अध्यापक को बच्चे की बुद्धि के अनुसार व्यवस्थित किया जा सकता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન એટલે સેટિંગ; ગતિ વધારી કે ઘટાડી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "कुम्मी के दादाजी ने बताया था कि उनके ज़माने में कहानियाँ कागज़ पर छपती थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદાજીના દાદાજી એટલે પ્રિન્ટેડ બુકનો યુગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "पुराने स्कूलों में गृहकार्य (Homework) नहीं दिया जाता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: पुराने स्कूलों में भी अध्यापक बच्चों को गृहकार्य देते थे और प्रश्न पूछते थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોમવર્ક વગરની નિશાળ ક્યાંય હોતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "मशीन सुधारने वाले व्यक्ति का चेहरा गोल और लाल था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ મટોળ ચહેરો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "अंत में कुम्मी को लगा कि पुराने समय के स्कूल बहुत ही मज़ेदार होते होंगे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'વે દિન ભી ક્યા દિન થે' આ જ અહેસાસ કરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "टेलीविज़न के पर्दे पर शब्द स्थिर रहते थे, हिलते नहीं थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: टेलीविज़न के पर्दे पर शब्द चलते (हिलते) रहते थे, जबकि कागज़ की पुस्तक में शब्द स्थिर रहते थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્રીન પર તો બધું હલે (Scroll થાય), કાગળ પર સ્થિર રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "मशीनी अध्यापक एक निश्चित समय पर हर दिन चालू हो जाता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન ટાઈમનું પાક્કું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "कुम्मी की माँ का मानना था कि हर बच्चे को मशीन की सहायता से ही पढ़ना चाहिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (उस समय की सोच के अनुसार)।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં માતા મશીની શિક્ષણનું સમર્થન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "मशीनी अध्यापक कभी-कभी छुट्टी भी देता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: शनिवार और रविवार को छोड़कर मशीनी अध्यापक रोज़ाना पढ़ाने आ जाता था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન કદી થાકે નહીં, એટલે રજા આપે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "कुम्मी को मशीनी अध्यापक के पर्दे पर अक्षरों का चलना अच्छा लगता था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत। कारण: कुम्मी उस समय पुराने स्कूलों के बारे में सोच रही थी और उसका मन पढ़ाई में नहीं था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુંમીનું મન પાઠના અંતે જૂની નિશાળમાં ખોવાયેલું હતું.</p></div>"
+    }
+  ]
+}
