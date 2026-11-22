@@ -1361,3 +1361,111 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "दुमदुમા गाँव के बच्चे",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "दुमदुमा गाँव में हमेशा पानी की भरमार रहती थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> दुमदुમા गाँव में हमेशा पानी की कमी रहती थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દુમદુમા' એટલે પાણીની 'કમી' વાળું ગામ, ભરમાર વાળું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "पानी की कमी के कारण बच्चे पानी में खेल या तैर नहीं सकते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી તો રમત અને તરવાનું ક્યાંથી હોય? એટલે વિધાન સાચું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "बिल्लू ने कहा- 'हम प्रार्थना करें कि भगवान रोज़ वर्षा करें' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભગવાન પાસે પ્રાર્થના કરવાની વાત 'લપ્પા' (Lappa) એ કહી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાર્થના કરે 'લપ્પા' (L), ખાડો ખોદે 'રઝિયા' (R)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "रजिया ने एक बड़ा सा गड्ढा खोदने का सुझाव दिया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઝિયા = મોટો ખાડો (ગઢ્ઢા), આ વાત ફાઈનલ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "बच्चे अपने साथ फावड़े, कड़ाही, कुदाल और तसले लाए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોદકામ માટે આ જ સાધનો જોઈએ, એટલે યાદ રાખવું સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "तालाब खोदने के लिए बच्चे केवल आधे दिन तक ही काम करते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> बच्चे दिनभर खुदाई का काम करते रहे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો ખૂબ ઉત્સાહી હતા, એટલે 'આખો દિવસ' કામ કર્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "तालाब में बरसात का पानी भरने से दुमदुમા गाँव की समस्या हल हो गई।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ + નવો તળાવ = પાણીની સમસ્યાનું સોલ્યુશન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "खेतों की सिंचाई के कारण गाँव में केवल धान की फसल हुई।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> खेतों में मक्का और केले की भरपूर फसल हुई।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાઈ (M) અને કેળા (K) - MK યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "अब दुमदुमा गाँव के बच्चे पानी में खूब नहाते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે બાળકો ખુશ થયા અને પાણીમાં મજા કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "बिल्लू ने कहा कि वह घर से फावड़ा ला सकता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ્લું સાધન લાવવાની તૈયારી બતાવે છે (B for Billu, B for Bringing tools).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "दुमदुमा गाँव में जब बारिश होती थी, तब सब लोग दुखी हो जाते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> दुमदुમા गाँव के लोग पानी की कमी से दुखी थे, बारिश से तो सब खुश होते थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ હંમેશા ખુશી લાવે, દુઃખ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "इस पाठ से हमें यह सीख मिलती है कि मिल-जुलकर काम करने से समस्या हल होती है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકતામાં બળ છે - એ જ આ પાઠનો મુખ્ય બોધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "बच्चों ने जो गड्ढा खोदा था, वह बाद में एक तालाब बन गया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો ખાડો + વરસાદનું પાણી = સુંદર તળાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "गाँव के बड़ों ने बच्चों को गड्ढा खोदने से मना कर दिया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> गाँव के बड़े लोगों ने भी बच्चों का साथ दिया और काम में जुट गए।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા કામમાં બધા જ સાથ આપે, કોઈ રોકે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "मक्का और केला दुमदुમા गाँव की मुख्य फसलें बनीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અંતે મકાઈ અને કેળાનો ઉલ્લેખ ચોક્કસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "तालाब में केवल नल का पानी इकट्ठा किया गया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> तालाब में बरसात (Rain) का पानी इकट्ठा किया गया था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં તળાવ હંમેશા વરસાદી પાણીથી ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "हसीना ने कहा था कि हमें गड्ढा खोदना चाहिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> गड्ढा खोदने का विचार रजिया का था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ યાદ રાખો: રઝિયા = આઈડિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "बच्चों ने मिट्टी ढोने के लिए तसलों का उपयोग किया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તસલા (Tasla) માટી કાઢવા માટે વપરાતું સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "दुमदुमा गाँव में खेतों की सिंचाई के लिए पानी की कमी अब नहीं रही।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો અંત 'સુખદ' છે, એટલે સમસ્યા પૂરી થઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "तालाब खोदते समय बच्चे बहुत दुखी और उदास थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> बच्चे बहुत उत्साह और जोश के साथ काम कर रहे थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારું કામ કરતી વખતે બાળકોમાં હંમેશા 'જોશ' હોય, ઉદાસી નહીં!</p></div>"
+    }
+  ]
+}
