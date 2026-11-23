@@ -1469,3 +1469,136 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "स्वच्छता (સ્વચ્છતા)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "अजय ने मोहन को अपने जन्मदिन पर बुलाया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ અજયના જન્મદિવસની વાત છે, માટે વિધાન સાચું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "मोहन ने अजय को उपहार में खिलौना दिया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: मोहन ने अजय को कहानियों की एक पुस्तक भेंट की थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોહન' 'વાર્તા' પ્રેમી હતો, એટલે 'વાર્તાની ચોપડી' જ આપે, રમકડું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "अजय की गली में बहुत गन्दगी थी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગલીમાં ગંદકી હતી એટલે જ તો પાઠનું નામ 'સ્વચ્છતા' રાખ્યું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "कूड़ेदान के बाहर कूड़ा फैला हुआ था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં સ્પષ્ટ છે કે ડસ્ટબિન હોવા છતાં લોકો બહાર કચરો નાખતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "गन्दगी के कारण ही नालियों में पानी रुका हुआ था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો ગટરમાં ફસાય એટલે પાણી રોકાઈ જાય (ગંદકી = જામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "कूड़े पर मक्खियाँ नहीं भिनक रही थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: कूड़े के ढेर पर मक्खियाँ भिनक रही थीं और चारों ओर गंदगी थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયાં ગંદકી ત્યાં માખી (ગંદકી = માખીનો અડ્ડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "अजय की माताजी बीमार थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: अजय की दादी बीमार थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ 'દાદી' બીમાર હતી, 'મમ્મી' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "नगरपालिका का काम शहर को स्वच्छ रखना है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નગર + પાલિકા = નગરની રક્ષા (સફાઈ) કરનાર સંસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "शिक्षक ने बताया कि गंदगी से बीमारियाँ फैलती हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજા દિવસે શાળામાં શિક્ષકે મોહનને સફાઈનું મહત્વ સમજાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "हमें कूड़ा इधर-उधर फेंकना चाहिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: हमें कूड़ा हमेशा कूड़ेदान में ही डालना चाहिए।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇધર-ઉધર' નહીં, 'ડસ્ટબિનની અંદર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "रविवार को सब बच्चे अजय के मोहल्ले में गए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવાર એટલે રજાનો દિવસ, સફાઈ માટેનો શ્રેષ્ઠ દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "बच्चों के पास झाड़ू और टोकरियाँ थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફાઈ માટે ઝાડુ અને કચરો ભરવા ટોપલી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "मोहल्ले के लोग बच्चों को देखकर खुश नहीं हुए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: मोहल्ले के लोग बच्चों का उत्साह देखकर बहुत खुश हुए और उनकी मदद करने लगे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા કામને જોઈને બધા ખુશ જ થાય (બાળકો = પ્રેરણા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "बच्चों ने नालियों की सफाई भी की।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગલીની સફાઈ સાથે ગટર (નાલી) સાફ કરવી પણ જરૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "स्वच्छता और स्वास्थ्य का गहरा संबंध है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જયાં સ્વચ્છતા, ત્યાં પ્રભુતા અને સારું સ્વાસ્થ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "अजय के घर के पास रहने वाली औरत ने छत से केले का छिलका फेंका।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તા પર કેળાની છાલ ફેંકવાથી જ વાર્તામાં વળાંક આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "मोहन ने अजय को बताया कि वह नगरपालिका को पत्र लिखेगा।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: यह बात शिक्षक ने कही थी कि हम नगरपालिका को पत्र लिखेंगे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરિયાદ પત્ર મોકલવાનું સૂચન 'શિક્ષકે' આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "अजय का मोहल्ला बहुत साफ-सुथरा था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: अजय का मोहल्ला बहुत गंदा था, जिसे बच्चों ने मिलकर साफ किया।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ગલી સાફ હોત તો સફાઈ અભિયાનની જરૂર જ ન પડત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "हमें केवल अपने घर की सफाई करनी चाहिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: हमें अपने घर के साथ-साथ गली और मोहल्ले को भी स्वच्छ रखना चाहिए।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા એ સામૂહિક જવાબદારી છે, માત્ર ઘરની નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "कूड़ेदान पर ढक्कन होना चाहिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાંકણ હોય તો માખીઓ ન બેસે અને બીમારી ન ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "सफाई करने के बाद मोहल्ला चमकने लगा।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેનતનું પરિણામ હંમેશા 'ચમકદાર' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "अजय की माताजी ने मोहन से माफी माँगी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: वह उस महिला ने माफी माँगी थी जिसने सड़क पर छिलका फेंका था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ પડોશી સ્ત્રીએ કરી હતી, અજયની મમ્મીએ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "बीमारियों का मुख्य कारण गंदगी है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી = રોગનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "बच्चों ने मिलकर सफाई का संकल्प लिया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> सही (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અંતે બાળકોએ હંમેશા સ્વચ્છતા રાખવાના શપથ લીધા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "कूड़ा फेंकने के लिए सड़क पर बड़ी-बड़ी टोपियां रखी थीं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> गलत (ખોટું). <br>कारण: कूड़ा फेंकने के लिए डस्टबिन (कूड़ेदान) रखे थे, टोपियां नहीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોપી માથે પહેરાય, કચરો તો 'કચરાપેટી' માં જ નખાય!</p></div>"
+    }
+  ]
+}
