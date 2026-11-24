@@ -1710,3 +1710,136 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "खरगोश और हाथी (ખરગોશ ઔર હાથી)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "खरगोशों के बिल सरोवर के किनारे गीली जमीन के भीतर थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરગોશ (સસલા) ને ભીની અને નરમ જમીન ગમે એટલે 'ગીલી જમીન' યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "सरोवर का नाम 'सूर्य सरोवर' था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: સરોવરનું સાચું નામ 'ચંદ્રસરોવર' હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તામાં 'ચંદા મામા' આવે છે એટલે સરોવર પણ 'ચંદ્ર' સરોવર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "हाथियों का झुंड पानी पीने के लिए सरोवर के पास आया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીઓને પાણી અને સ્નાન ખૂબ ગમે એટલે તેઓ સરોવરે જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "हाथियों के पैरों के नीचे दबकर कुछ खरગોશ मर गए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથીનું વજન વધારે અને સસલા કોમળ, એટલે દબાઈ જ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "खरगोशों का सरदार बहुत डरपोक था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ખરગોશનો સરદાર બુદ્ધિશાળી અને નીડર હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીડર (સરદાર) ક્યારેય ડરપોક ન હોય, તે હંમેશા રસ્તો કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "हाथियों के राजा का नाम 'गजराज' था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દીમાં હાથીને 'ગજ' કહેવાય, એટલે તેના રાજા 'ગજરાજ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "खरगोशों के सरदार ने कहा कि वे चंद्रमा के भांजे हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસલાઓએ યુક્તિ કરી અને પોતાને 'ચંદા મામાના ભાણેજ' ગણાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "रात को सरोवर में सूर्य चमक रहा था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: રાત્રે સરોવરમાં ચંદ્ર (ચંદા મામા) ચમકી રહ્યા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાત્રે સૂર્ય ન હોય, રાત્રે તો ચંદ્ર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "चंदा मामा खरगोशों से बहुत प्रसन्न थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: સસલાએ હાથીને ડરાવવા માટે કહ્યું કે ચંદા મામા નારાજ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુક્તિ ત્યારે જ સફળ થાય જ્યારે સામેવાળાને ડર લાગે (નારાજગીનો ડર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "लहरों के साथ चंदा मामा ऊपर-नीचे हो रहे थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં લહેરો આવે ત્યારે પ્રતિબિંબ હાલવા માંડે, જેને 'કાંપના' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "हाथी को बहुत गुस्सा आया और उसने खरगोशों को मार डाला।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: હાથી ડરી ગયો અને તેણે માફી માંગી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બોધકથા છે, જેમાં બુદ્ધિથી બળવાનને હરાવવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "गजराज ने अपनी सूँड उठाकर चंदा मामा को नमस्कार किया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી સભ્ય પ્રાણી તરીકે ભૂલ સ્વીકારીને નમસ્કાર કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "खरगोशों ने हाथियों को दूसरे जंगल में भेज दिया।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડરના કારણે હાથીઓ તે જગ્યા છોડીને બીજા જંગલમાં જતા રહ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "हाथी पानी में खेलना पसंद करते हैं।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી હંમેશા સૂંઢ વડે પાણી ઉડાડીને નાહતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "खरगोशों का सरदार हाथियों के पास अकेला गया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: તે કેટલાક ચુનંદા ખરગોશોની સાથે ગયો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુછ ચુને હુએ ખરગોશ' - ટીમ વર્કથી કામ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "चंद्रमा में दिखने वाला धब्बा खरगोशों की परछाई है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (પાઠના સંદર્ભમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકવાયકા મુજબ ચંદ્રમાં સસલા જેવી આકૃતિ દેખાય છે, જેનો ઉપયોગ યુક્તિમાં થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "हाथी बहुत शरારતી थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુછ હાથી શરારતી થે' - પાઠની શરૂઆતની લાઈન યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "हाथी खरगोशों के दुश्मन थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: હાથીઓ અજાણતા નુકસાન કરતા હતા, તેઓ દુશ્મન નહોતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુશ્મની હોય તો મારી નાખે, પણ આ તો અજાણતા થતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "पानी हिलने पर चंद्रमा का प्रतिबिंब भी हिल रहा था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાનનો નિયમ: પાણી હલે તો તેમાં દેખાતું ચિત્ર (પ્રતિબિંબ) પણ હલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "हाथी डर के मारे काँपने लगे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાંપના' એટલે ધ્રૂજવું, હાથી ભગવાન (ચંદ્ર) ના ડરથી ધ્રૂજવા લાગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "खरगोशों ने हाथियों को सरोवर से दूर जाने को कहा।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતિ માટે ખરગોશોએ હાથીઓને તે વિસ્તાર છોડવા મજબૂર કર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "खरगोश का बिल जमीन के ऊपर झाड़ियों में था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: બિલ જમીનની અંદર - નીચે હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બિલ' (દર) હંમેશા જમીનની અંદર હોય, ઉપર ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "गजराज एक समझदार हाथी था जिसने अपनी गलती मानी।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ સ્વીકારે તે જ સાચો રાજા (ગજરાજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "यह कहानी पंचतंत्र की कहानियों जैसी बोધદાયક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓની વાર્તાઓ જેમાં બોધ મળે તે અકબર-બીરબલ અથવા પંચતંત્રની હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "हाथियों ने सरोवर का सारा पानी पी लिया था।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: તેઓ માત્ર પાણી પીવા અને નાહવા આવ્યા હતા, પાણી ખતમ નહોતું થયું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પાણી ખતમ થઈ જાય તો ચંદા મામાનું પ્રતિબિંબ ક્યાં દેખાય?</p></div>"
+    }
+  ]
+}
