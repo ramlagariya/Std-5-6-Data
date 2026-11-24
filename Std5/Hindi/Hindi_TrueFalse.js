@@ -1843,3 +1843,111 @@ var Std5_Hindi_TrueFalse = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "पहेलियाँ (પહેલીયાં)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પહેલીયાં (Riddles) પૂછવાથી આપણી વિચારવાની શક્તિ વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પઝલ્સ હંમેશા મગજની કસરત કરાવે, એટલે વિચારવાની શક્તિ વધે જ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્ય મુજબ, 'સોનાની વસ્તુ' એટલે 'ચારપાઈ' (ખાટલો) ને સોની વેચે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> 'सोने की वह चीज़ है, पर बेचे नहीं सुनार।' એટલે કે તે ઊંઘવા (સોના) માટે છે, પણ તેને સોની વેચતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોના = Gold નહિ, પણ ઊંઘવું (Sleeping) સમજવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ચારપાઈ' (ખાટલા) ની કિંમત બહુ જ વધારે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> કાવ્યમાં લખ્યું છે - 'मोल तो उसका ज्यादा नहीं', એટલે કે તેની કિંમત વધુ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાટલો ગરીબના ઘરે પણ હોય, એટલે કિંમત ઓછી હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "માચિસની પેટીને 'એક નગર જેમાં ચાલીસ ચોર' સાથે સરખાવવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માચિસની સળીઓ = ચોર, ખોખું = નગર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માચિસની સળીઓનું મોઢું લાલ રંગનું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> પહેલી મુજબ 'मुँह उनका काला' એટલે કે તેમનું મોઢું કાળું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળું માથું ઘસવાથી જ પ્રકાશ (અજવાળું) થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાણીને 'વાદળ' ના પિતા અને પુત્ર બંને માનવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાંથી વાદળ બને અને વાદળમાંથી પાણી પડે. (Cycle of Water) (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વાદળ કહે છે કે 'હું બધાની નીચે સૂઈ રહું છું'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> વાદળ કહે છે 'मैं सबके ऊपर लेटा', એટલે કે તે આકાશમાં બધાની ઉપર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ ઉપર હોય એટલે વાદળ પણ ઉપર જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઝાકળ (ઓસ) ના બિંદુઓ મોતી જેવા દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોતી જેવી મૂરત મેરી' - આ લાઈન ઝાકળ માટે વપરાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઝાકળ (ઓસ) પોતાને 'વાદળની પૌત્રી' (પોતી) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળમાંથી વરસાદ અને ઝાકળ ઠંડીમાં બને - 'બાદલ કી મેં પોતી હૂં'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ટેલીફોન બહુ જ મોટો 'ચુગલખોર' (ચાડીખોર) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> કાવ્યમાં કહ્યું છે 'चुगलखोर पर कोई न कहता', એટલે કે તે વાત આમ-તેમ કરે છે છતાં કોઈ તેને ચુગલખોર કહેતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેલીફોન તો કામની વસ્તુ છે, એટલે એને કોઈ વઢતું નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિંહ પાસે મહેલ નથી છતાં તે રાજા કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક રૂપયા પાસ નહીં, ફિર ભી રાજા કહલાએ' - તે જંગલનો રાજા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'બાદલ' શબ્દનો પહેલો અક્ષર કાઢી નાખતા 'દલ' શબ્દ બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા + દલ = બાદલ. 'બા' કાઢો તો વધે 'દલ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'બાદલ' શબ્દનો વચ્ચેનો અક્ષર કાઢી નાખતા 'બાલ' શબ્દ બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા + દ + લ. વચ્ચેથી 'દ' હટાવો તો 'બાલ' થઈ જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સિંહ (શેર) પાસે અઢળક સંપત્તિ અને રૂપિયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> 'एक रुपया पास नहीं' - સિંહ પાસે એક પણ રૂપિયો હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલના રાજાને પૈસાની શું જરૂર? એની શક્તિ જ એનું ધન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઝાકળ (ઓસ) ખુલ્લી રાતમાં પેદા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુલી રાત મેં મેં પૈદા હોતી' - ઝાકળ રાત્રે જ બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માચિસની સળીની પૂંછડી પકડીને ખેંચવાથી અજવાળું થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૂંછ પકડકર ખીંચ દો, ઝટ હો જાયે ઉજાલા' - સળી ઘસવી એટલે પૂંછડી ખેંચવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'બાદલ' (વાદળ) નું કામ લોકોને તરસ્યા રાખવાનું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> 'पानी देना मेरा काम' - વાદળનું કામ પાણી આપી તરસ છિપાવવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળ એટલે વરસાદ, અને વરસાદ એટલે પાણી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઝાકળ (ઓસ) હંમેશા સૂકી જમીન પર જ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (गलत)</p><p><strong>કારણ:</strong> 'हरी घास पर सोती हूँ' - ઝાકળ લીલા ઘાસ પર જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગીચામાં સવારે ઘાસ પર પાણીના ટીપાં હોય એ જ ઝાકળ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સોનાની વસ્તુ હોવા છતાં 'ચારપાઈ' નું વજન બહુ જ વધારે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'बहुत है उसका भार' - ખાટલો ઉપાડવામાં ભારે લાગે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પહેલીયાં મનુષ્યની સમજશક્તિની કસોટી કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (सही)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉખાણાં ઉકેલવા માટે બુદ્ધિ દોડાવવી પડે. (NJ Classes)</p></div>"
+    }
+  ]
+}
