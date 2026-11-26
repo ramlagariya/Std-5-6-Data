@@ -56,3 +56,86 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "गिनती (२१ से ५०)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' (અંક) ને વિભાગ 'બ' (શબ્દ) સાથે જોડો:<br>1. ૨૧<br>2. ૨૨<br>3. ૨૩<br>4. ૨૪",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - इक्कीस<br>2 - बाईस<br>3 - तेईस<br>4 - चौबीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૧ થી ૨૪ ના સ્પેલિંગમાં પાછળ 'ઈસ' (ees) આવે છે તે યાદ રાખો. ૨૧ = ઈક્કીસ (૧ = ઈક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૨૫<br>2. ૨૬<br>3. ૨૭<br>4. ૨૮",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - पच्चीस<br>2 - छब्बीસ<br>3 - सत्ताईस<br>4 - अट्ठाईस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પચ્ચીસ માં 'ચ' અડધો અને આખો આવે છે. છબ્બીસ માં 'બ' અડધો આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૨૯<br>2. ૩૦<br>3. ૩૧<br>4. ૩૨",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - उनतीस<br>2 - तीस<br>3 - इकतीस<br>4 - बत्तीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'उन' (ઉન) એટલે એક ઓછો. ૩૦ માં એક ઓછો એટલે 'ઉન-તીસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૩૩<br>2. ૩૪<br>3. ૩૫<br>4. ૩૬",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - तैंतीस<br>2 - चौथीस<br>3 - पैंतीस<br>4 - छत्तीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૧ થી ૩૬ માં પાછળ 'તીસ' અથવા 'તીસ' જેવો ઉચ્ચાર આવે છે. ૩૩ (તેંત્રીસ) = તૈંતીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૩૭<br>2. ૩૮<br>3. ૩૯<br>4. ૪૦",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - सैंतीस<br>2 - अड़तीस<br>3 - उनतालीस<br>4 - चालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩૯ (ઓગણચાળીસ) = 'ઉન-તાલીસ'. યાદ રાખો ૪૦ એટલે ચાલીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૪૧<br>2. ૪૨<br>3. ૪૩<br>4. ૪૪",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - इकतालीस<br>2 - बयालीस<br>3 - तैंतालीस<br>4 - चवालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૧ થી ૪૪ માં પાછળ 'લીસ' આવે છે. ૪૧ = એક + તાલીસ = ઇકતાલીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૪૫<br>2. ૪૬<br>3. ૪૭<br>4. ૪૮",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - पैंतालीस<br>2 - छियालीस<br>3 - सैंतालीस<br>4 - अड़तालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી જેવું જ છે, ૪૭ (સુડતાલીસ) = સંતાલીસ (Saitilis).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ૪૯<br>2. ૫૦<br>3. ૨૬<br>4. ૩૫",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - उनचास<br>2 - पचास<br>3 - छब्बीस<br>4 - पैंतीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫૦ એટલે પચાસ અને ૪૯ એટલે પચાસ માં એક ઓછો (ઉન + ચાસ) = ઉનચાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાચી જોડણી સાથે જોડો:<br>1. ३७ <br>2. ४९ <br>3. २८ <br>4. ४२",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - सैंतीस<br>2 - उनचास<br>3 - अट्ठाईस<br>4 - बयालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દી અંકો ૩ (३) અને ૭ (७) ખાસ ઓળખતા શીખો, તે ગુજરાતી કરતા થોડા અલગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (ગુજરાતી અંક) ને વિભાગ 'બ' (હિન્દી અંક) સાથે જોડો:<br>1. ૨૯<br>2. ૩૬<br>3. ૪૪<br>4. ૨૧",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - २९<br>2 - ३६<br>3 - ४४<br>4 - २१<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દી માં ૪ (४) લખતી વખતે 'ચોગડા' નો આકાર થોડો પતંગ જેવો થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. બત્રીસ<br>2. અડતાલીસ<br>3. તેવીસ<br>4. ઓગણચાલીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - बत्तीस<br>2 - अड़तालीस<br>3 - तेईस<br>4 - उनतालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બત્રીસ' ને હિન્દીમાં 'બત્તીસ' કહેવાય, ખાલી 'ર' ની જગ્યાએ અડધો 'ત' લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેના શબ્દોને સાચા અંક સાથે જોડો:<br>1. उनतीस<br>2. उनतालीस<br>3. उनचास<br>4. इक्कीस",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - २९<br>2 - ३९<br>3 - ४९<br>4 - २१<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉન' વાળા શબ્દો હંમેશા ૯ ના અંક (૯, ૧૯, ૨૯, ૩૯, ૪૯) માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંખ્યા અને તેના પછીની સંખ્યાને જોડો:<br>1. २९ કે બાદ<br>2. ३૯ કે બાદ<br>3. ४૯ કે બાદ<br>4. २૪ કે બાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - तीस (३०)<br>2 - चालीस (४०)<br>3 - पचास (५०)<br>4 - पच्चीस (२५)<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાદ' એટલે પછીની સંખ્યા. એકડા બોલીને ચેક કરી લેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સત્તાવીસ<br>2. સાડત્રીસ<br>3. સુડતાલીસ<br>4. છવીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - सत्ताईस<br>2 - सैंतीस<br>3 - सैंतालीस<br>4 - छब्बीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૭ ના અંક વાળી હિન્દી સંખ્યામાં 'સૈ' (Sai) અથવા 'સત્તા' (Satta) જેવો શબ્દ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (અંક) ને વિભાગ 'બ' (શબ્દ) સાથે જોડો:<br>1. ३३<br>2. ४५<br>3. २७<br>4. ४८",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p>1 - तैंतीस<br>2 - पैंतालीस<br>3 - सत्ताईस<br>4 - अड़तालीस<hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૪૫ (પિસ્તાલીસ) ને હિન્દીમાં 'પૈંતાલીસ' કહેવાય. પિ -> પૈં.</p></div>"
+    }
+  ]
+}
