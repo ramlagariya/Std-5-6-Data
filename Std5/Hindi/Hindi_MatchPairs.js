@@ -187,3 +187,86 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "सोच अपनी-अपनी",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. चरवाहा <br> 2. पक्षी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. चरवाहा - गायें चरा रहा है <br>2. पक्षी - आकाश में उड़ रहे हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચરવાહા' હંમેશા 'ગાય' સાથે હોય અને 'પક્ષી' હંમેશા 'આકાશ' માં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. सूरज <br> 2. तितलियाँ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. सूरज - निकल रहा है <br>2. तितलियाँ - फूलों पर मँडरा रही हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ સવારે 'નીકળે' અને પતંગિયા 'ફૂલ' પર જ ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. कुत्ता <br> 2. बच्चे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. कुत्ता - रास्ते में बैठा है <br>2. बच्चे - बगीचे में खेल रहे हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં કુતરો 'રસ્તા' પર છે અને બાળકો 'બગીચા'માં મજા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. नारियल के पेड़ <br> 2. घर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. नारियल के पेड़ - दो हैं <br>2. घर - पाँच हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ગણતરી યાદ રાખો: નાળિયેરી 2 અને ઘર 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દના અર્થ મુજબ જોડો: <br> 1. चरवाहा <br> 2. पर्वत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. चरवाहा - पशु चराने वाला <br>2. पर्वत - पहाड़</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરવાહા = જે ચરાવે તે, પર્વત = પહાડ (સમાનાર્થી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ મુજબ જોડો: <br> 1. सुबह <br> 2. ऊपर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. सुबह - शाम <br>2. ऊपर - नीचे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનું વિરોધી સાંજ અને ઉપરનું વિરોધી નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એકવચન-બહુવચન મુજબ જોડો: <br> 1. तितली <br> 2. लड़का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. तितली - तितलियाँ <br>2. लड़का - लड़के</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈ' વાળું 'ઇયાં' થઈ જાય અને 'આ' વાળું 'એ' થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચિત્રમાં વસ્તુના સ્થાન મુજબ જોડો: <br> 1. सूरज <br> 2. फूल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. सूरज - पहाड़ों के पीछे <br>2. फूल - बगीचे में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ પહાડની પાછળથી નીકળે અને ફૂલ બગીચામાં ખીલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. चरवाहे के हाथ में <br> 2. आकाश में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. चरवाहे के हाथ में - लकड़ी है <br>2. आकाश में - सात पक्षी हैं</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોવાળના હાથમાં લાકડી અને આકાશમાં 7 પક્ષીઓ (ગણી લેવા!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દ અને તેના અર્થ જોડો: <br> 1. बगीचा <br> 2. कुत्ता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. बगीचा - वाटिका <br>2. कुत्ता - श्वान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગીચાને વાટિકા કહેવાય અને કુતરાને સંસ્કૃત/હિન્દીમાં શ્વાન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી શબ્દ જોડો: <br> 1. निकलना <br> 2. बहुत",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. निकलना - डूबना <br>2. बहुत - कम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ નીકળે (ઉગવો) અને ડૂબે (આથમવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંખ્યા મુજબ જોડો: <br> 1. चरवाहा <br> 2. तितलियाँ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. चरवाहा - एक <br>2. तितलियाँ - तीन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રમાં ધ્યાનથી જુઓ: ગોવાળ 1 છે અને પતંગિયા 3 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને 'બ' સાથે જોડો: <br> 1. टोपी वाला <br> 2. बंदर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. टोपी वाला - व्यापारी <br>2. बंदर - पेड़ पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વાર્તાના પાત્રો છે, વેપારી પાસે ટોપી છે અને વાંદરો ઝાડ પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લિંગ પરિવર્તન મુજબ જોડો: <br> 1. ग्वाला <br> 2. कुत्ता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ग्वाला - ग्वालिन <br>2. कुत्ता - कुतिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુલિંગ માંથી સ્ત્રીલિંગ બનાવવાની પ્રેક્ટિસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (ગુજરાતી અર્થ) ને 'બ' (હિન્દી શબ્દ) સાથે જોડો: <br> 1. પર્વત <br> 2. આકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. પર્વત - पहाड़ <br>2. આકાશ - नभ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશને હિન્દીમાં ગગન કે નભ પણ કહેવાય.</p></div>"
+    }
+  ]
+}
