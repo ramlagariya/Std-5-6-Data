@@ -139,3 +139,51 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "खिलौनेवाला (હિન્દી)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. रेलगाड़ी <br> 2. मोटर-कार <br> 3. सीटी <br> 4. गुड़िया <br> --- <br> (A) सुंदर-सी <br> (B) बहुत भली-सी <br> (C) चाभी भर देने वाली <br> (D) हवा से बातें करने वाली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) ચાભી ભર દેને વાલી <br>2 - (D) હવા સે બાતેં કરને વાલી <br>3 - (A) સુંદર-સી <br>4 - (B) બહુત ભલી-સી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેલગાડી' ચાલવા માટે ચાવી જોઈએ અને 'મોટર' ઝડપથી એટલે કે 'હવા' સાથે વાત કરે એમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (પાત્ર) ને વિભાગ 'બ' (વસ્તુ) સાથે જોડો: <br> 1. मुन्नू <br> 2. मोहन <br> 3. सरला <br> 4. बच्चा (કવિ) <br> --- <br> (A) मोटर <br> (B) गुड़िया <br> (C) तीर-कमान <br> (D) साड़ी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ગુડિયા <br>2 - (A) મોટર <br>3 - (D) સાડી <br>4 - (C) તીર-કમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુન્નુ-ગુડિયા', 'મોહન-મોટર' (બંને 'મ' થી શરૂ થાય છે) અને 'સરલા-સાડી' (બંને 'સ' થી શરૂ થાય છે) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (સમાનાર્થી શબ્દ) ને વિભાગ 'બ' સાથે જોડો: <br> 1. माँ <br> 2. जंगल <br> 3. असुर <br> 4. तनिक <br> --- <br> (A) राक्षस <br> (B) वन <br> (C) थोड़ा <br> (D) जननी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D) જનની <br>2 - (B) વન <br>3 - (A) રાક્ષસ <br>4 - (C) થોડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસુર એટલે ખરાબ (રાક્ષસ) અને તનિક એટલે જરાક (થોડા) - આ શબ્દો પર ધ્યાન આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (તુકવાલે શબ્દ - રાઈમિંગ) ને વિભાગ 'બ' સાથે જોડો: <br> 1. आई <br> 2. सुंदर <br> 3. मँगाऊँगा <br> 4. सलोने <br> --- <br> (A) बंदर <br> (B) जाऊँगा <br> (C) खिलौने <br> (D) छाई",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D) છાઈ <br>2 - (A) બંદર <br>3 - (B) જાઉંગા <br>4 - (C) ખિલૌને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દના છેલ્લા અક્ષરો સરખા હોય તે તેની જોડી બને, જેમ કે 'ને-ને' (સલોને-ખિલૌને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રામાયણના પાત્રોના સંદર્ભમાં જોડો: <br> 1. राम <br> 2. कौशल्या <br> 3. ताड़का <br> 4. वन <br> --- <br> (A) राक्षसी <br> (B) जंगल <br> (C) माँ <br> (D) तात (पुत्र)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D) તાત (પુત્ર) <br>2 - (C) માઁ <br>3 - (A) રાક્ષસી <br>4 - (B) જંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતામાં બાળક કહે છે 'હું રામ બનીશ અને તું કૌશલ્યા' - આ પંક્તિ પરથી યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી (विलोम) શબ્દો જોડો: <br> 1. सुंदर <br> 2. रोना <br> 3. लेना <br> 4. आना <br> --- <br> (A) देना <br> (B) जाना <br> (C) कुरूप <br> (D) हँसना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) કુરુપ <br>2 - (D) હંસના <br>3 - (A) દેના <br>4 - (B) જાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દો એટલે કે ઉલટા અર્થ. હસવું-રડવું અને લેવું-દેવું એ રોજિંદા શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વસ્તુ અને કિંમત/રંગ (કવિતા મુજબ) જોડો: <br> 1. गेंद <br> 2. तोता <br> 3. पैसे <br> 4. खिलौनेवाला <br> --- <br> (A) पुकार रहा <br> (B) एक पैसे वाली <br> (C) हरा <br> (D) चार",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) એક પૈસે વાલી <br>2 - (C) હરા <br>3 - (D) ચાર <br>4 - (A) પુકાર રહા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોપટ હંમેશા 'લીલો' (હરા) હોય અને દડો 'એક પૈસા' નો છે એમ કવિતામાં ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ક્રિયા અને કર્તા જોડો: <br> 1. सिटी बजाना <br> 2. चाभी भरना <br> 3. थाली बजाना <br> 4. तलवार खरीदना <br> --- <br> (A) रेलगाड़ी <br> (B) बच्चा <br> (C) खिलौनेवाला <br> (D) लोटा-थाली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) ખિલૌનેવાલા <br>2 - (A) રેલગાડી <br>3 - (D) લોટા-થાલી <br>4 - (B) બચ્ચા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલગાડી 'ચાવી' થી ચાલે અને બાળક 'તલવાર' ખરીદવા ઈચ્છે છે તે યાદ રાખો.</p></div>"
+    }
+  ]
+}
