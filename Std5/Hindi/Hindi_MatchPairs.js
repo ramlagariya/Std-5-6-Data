@@ -270,3 +270,61 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "चिड़ियाघर की सैर",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: \nઅ: (1) शेर, (2) बंदर, (3) गेंडा, (4) जिराफ़ \nબ: (A) लंबी गर्दन, (B) पिंजरे में दहाड़ना, (C) नाक पर सींग, (D) मुँह काला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) शेर - (B) पिंजरे में दहाड़ना</li><li>(2) बंदर - (D) मुँह काला (લંગૂરના સંદર્ભમાં)</li><li>(3) गेंडा - (C) नाक पर सींग</li><li>(4) जिરાફ - (A) लंबी गर्दन</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓના શારીરિક લક્ષણો યાદ રાખો: જિરાફ-ડોક (Neck), ગેંડો-સીંગડું (Horn), સિંહ-ગર્જના (Roar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય રીતે જોડો: \nઅ: (1) कछुआ, (2) हाथी, (3) शुतुरमुर्ग, (4) मछली \nબ: (A) पानी में तैरना, (B) सबसे बड़ा पक्षी, (C) सख्त खोल, (D) लंबी सूँड",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) कछुआ - (C) सख्त खोल</li><li>(2) हाथी - (D) लंबी सूँड</li><li>(3) शुतुरमुर्ग - (B) सबसे बड़ा पक्षी</li><li>(4) मछली - (A) पानी में तैरना</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કછુઆ' એટલે રક્ષણ માટે 'ઢાલ' (shell), 'હાથી' એટલે 'સૂંઢ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યોગ્ય જોડકાં જોડો (પક્ષીઓ): \nઅ: (1) तोता, (2) मोर, (3) बतख, (4) काकातुआ \nબ: (A) सफ़ेद रंग का विदेशी पक्षी, (B) पानी में तैरना, (C) हरा रंग, (D) रंग-बिरंगे पंख",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) तोता - (C) हरा रंग</li><li>(2) मोर - (D) रंग-बिरंगे पंख</li><li>(3) बतख - (B) पानी में तैरना</li><li>(4) काकातुआ - (A) सफ़ेद रंग का विदेशी पक्षी</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોતો-લીલો, કાકાતુઆ-સફેદ (પાઠ મુજબ યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ અને તેના અર્થ જોડો: \nઅ: (1) सैर, (2) बाड़ा, (3) खोल, (4) कछुआ \nબ: (A) कछुए का ऊपरी सख्त भाग, (B) पर्यटन या घूमना, (C) एक जलचर, (D) घेरा हुआ स्थान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) सैर - (B) पर्यटन या घूमना</li><li>(2) बाड़ा - (D) घेरा हुआ स्थान</li><li>(3) खोल - (A) कछुए का ऊपरी सख्त भाग</li><li>(4) कछुआ - (C) एक जलचर</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'સૈર' છે એટલે કે 'ફરવું', અને 'બાડા' એટલે પ્રાણીઓ માટેની 'જગ્યા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાત્ર અને તેની ક્રિયા જોડો: \nઅ: (1) गीता, (2) दादाजी, (3) लोग, (4) लंगूर \nબ: (A) शेर को मूंगफली खिलाना, (B) टिकट लेकर अंदर गए, (C) खुशी से झूम उठी, (D) काला मुँह",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) गीता - (C) खुशी से झूम उठी</li><li>(2) दादाजी - (B) टिकट लेकर अंदर गए</li><li>(3) लोग - (A) शेर को मूंगफली खिलाना</li><li>(4) लंगूर - (D) काला मुँह</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીતા નાની છોકરી છે એટલે 'ખુશી', દાદાજી સમજદાર છે એટલે 'ટિકિટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો: \nઅ: (1) हँसना, (2) बाहर, (3) डरना, (4) सफेद \nબ: (A) अंदर, (B) काला, (C) रोना, (D) निडर होना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) हँसना - (C) रोना</li><li>(2) बाहर - (A) अंदर</li><li>(3) डरना - (D) निडर होना</li><li>(4) सफेद - (B) काला</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સામાન્ય વિરોધી શબ્દો છે જે પાઠના વાક્યોમાં વપરાયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખોરાક અને પ્રાણીના જોડકાં જોડો: \nઅ: (1) शेर, (2) बंदर, (3) शुतुरमुर्ग, (4) मछली \nબ: (A) दाना, (B) मांस, (C) केला, (D) जलचर वनस्पति",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) शेर - (B) मांस</li><li>(2) बंदर - (C) केला</li><li>(3) शुतुरमुर्ग - (A) दाना</li><li>(4) मछली - (D) जलचर वनस्पति</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંદરો-કેળું (બધા જાણે છે), સિંહ-માંસાહારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાઠમાં આવેલી જગ્યાઓ અને પ્રાણીઓ: \nઅ: (1) तालाब, (2) पिंजरा, (3) बाड़ा, (4) रेत \nબ: (A) गेंडा, (B) शुतुरमुर्ग, (C) मछली, (D) शेर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) तालाब - (C) मछली</li><li>(2) पिंजरा - (D) शेर</li><li>(3) बाड़ा - (A) गेंडा</li><li>(4) रेत - (B) शुतुरमुर्ग</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીમાં શાહમૃગ (Ostrich) ઇંડા મૂકે અથવા ફરે, તળાવમાં માછલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બહુવચન રૂપો જોડો: \nઅ: (1) पिंजरा, (2) मछली, (3) आँख, (4) बात \nબ: (A) मछलियाँ, (B) पिंजरे, (C) बातें, (D) आँखें",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) पिंजरा - (B) पिंजरे</li><li>(2) मछली - (A) मछलियाँ</li><li>(3) आँख - (D) आँखें</li><li>(4) बात - (C) बातें</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' નું 'એ' થાય અને 'ઈ' નું 'ઈયાં' (મછલી -> મછલીયાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશેષતા અને નામ જોડો: \nઅ: (1) विदेशी तोता, (2) भारी शरीर, (3) डरपोक जीव, (4) राजा \nબ: (A) शेर, (B) काकातुआ, (C) हाथी, (D) कछुआ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>(1) विदेशी तोता - (B) काकातुआ</li><li>(2) भारी शरीर - (C) हाथी</li><li>(3) डरपोક जीव - (D) कछुआ (ગભરાય ત્યારે મોઢું અંદર કરી લે છે)</li><li>(4) राजा - (A) शेर</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિદેશી' યાદ આવે એટલે 'કાકાતુઆ' જ આવે!</p></div>"
+    }
+  ]
+}
