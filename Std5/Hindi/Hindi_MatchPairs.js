@@ -328,3 +328,86 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "हँसी का पिटारा",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) माँ <br> (2) बेटा <br> --- <br> (A) गधे को नहीं निकाला <br> (B) गेहूँ की रखवाली",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) माँ : गेहूँ की रखवाली <br> (2) - (A) बेटा : गधे को नहीं निकाला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના પહેલા જ ચુટકુલામાં માં એ દીકરાને ઘઉં સાચવવાનું કામ સોંપ્યું હતું પણ દીકરો ભોળો હતો એટલે ગધેડાને ન કાઢ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (વિરોધી શબ્દ): <br> (1) मूर्ख <br> (2) मालिक <br> --- <br> (A) नौकर <br> (B) बुद्धिमान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) मूर्ख : बुद्धिमान <br> (2) - (A) मालिक : नौकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દમાં હંમેશા ઉલટું વિચારવું, શેઠ (માલિક) ની સામે નોકર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (સમાનાર્થી શબ્દ): <br> (1) दोस्त <br> (2) सुबह <br> --- <br> (A) सवेरा <br> (B) मित्र",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) दोस्त : मित्र <br> (2) - (A) सुबह : सवेरा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર પડે એટલે 'સવેરા' અને ભાઈબંધ એટલે 'મિત્ર' કે 'દોસ્ત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (લિંગ પરિવર્તન): <br> (1) बेटा <br> (2) कुत्ता <br> --- <br> (A) कुतिया <br> (B) बेटी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) बेटा : बेटी <br> (2) - (A) कुत्ता : कुतिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દીમાં 'આ' પ્રત્યય હોય તો 'ઈ' લગાડવાથી સ્ત્રીલિંગ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (વચન પરિવર્તન): <br> (1) गधा <br> (2) लड़का <br> --- <br> (A) लड़के <br> (B) गधे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) गधा : गधे <br> (2) - (A) लड़का : लड़के</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકવચનમાં 'આ' હોય તો બહુવચનમાં 'એ' થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) दीपक <br> (2) अँधेरा <br> --- <br> (A) उजाला <br> (B) बत्ती",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) दीपक : बत्ती <br> (2) - (A) अँधेरा : उजाला (विरोधी शब्द)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુટકુલામાં દીપક સળગાવવાની વાત આવે છે, અંધારું હોય તો જ અજવાળું (ઉજાલા) ની કિંમત સમજાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (શબ્દ અને અર્થ): <br> (1) इस्तरी <br> (2) फौरन <br> --- <br> (A) तुरंत <br> (B) प्रेस",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) इस्तરી : प्रेस <br> (2) - (A) फौरन : तुरंत</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફૌરન' એટલે કે 'જલ્દી' અથવા 'તુરંત'. ઇસ્ત્રી કપડાં પર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) राका <br> (2) श्याम <br> --- <br> (A) पेंटर <br> (B) दोस्त",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (A) राका : पेंटर <br> (2) - (B) श्याम : दोस्त</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુટકુલામાં રાકા પેન્ટર છે અને શ્યામ તેનો મિત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (વિરોધી શબ્દ): <br> (1) हँसना <br> (2) गलत <br> --- <br> (A) सही <br> (B) रोना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) हँसना : रोना <br> (2) - (A) गलत : सही</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ હસવાનું છે, તો તેનું ઉલટું રડવાનું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (પાત્ર અને સંવાદ): <br> (1) माँ <br> (2) बेटा <br> --- <br> (A) तूने गधे को क्यों नहीं निकाला? <br> (B) आपने कहा था कोई कुत्ता न आए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (A) माँ : तूने गधे को क्यों नहीं निकाला? <br> (2) - (B) बेटा : आपने कहा था कोई कुत्ता न आए।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માં એ ફક્ત કુતરાને રોકવાની વાત કરી હતી એટલે ભોળા દીકરાએ ગધેડાને ન કાઢ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (પર્યાયવાચી શબ્દ): <br> (1) आसमान <br> (2) दिन <br> --- <br> (A) दिवस <br> (B) आकाश",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) आसमान : आकाश <br> (2) - (A) दिन : दिवस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસમાન એટલે આકાશ અને દિન ને આપણે દિવસ પણ કહીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (લિંગ ઓળખો): <br> (1) मोर <br> (2) शेर <br> --- <br> (A) शेरनी <br> (B) मोरनी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) मोर : मोरनी <br> (2) - (A) शेर : शेरनी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુ-પક્ષીઓમાં પાછળ 'ની' લગાડવાથી સ્ત્રીલિંગ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) मूर्ख <br> (2) बुद्धिमान <br> --- <br> (A) अकलमंद <br> (B) नासमझ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) मूर्ख : नासमझ <br> (2) - (A) बुद्धिमान : अकलमंद</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનામાં સમજ નથી તે નાસમજ (મૂર્ખ) અને જેનામાં અકલ છે તે અકલમંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) भोजन <br> (2) पानी <br> --- <br> (A) जल <br> (B) खाना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (B) भोजन : खाना <br> (2) - (A) पानी : जल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દીમાં પાણીને જલ અને ભોજનને ખાના કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: <br> (1) गेहूँ <br> (2) चावल <br> --- <br> (A) अनाज <br> (B) धान",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> (1) - (A) गेहूँ : अनाज <br> (2) - (B) चावल : धान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બધું અનાજ છે, ઘઉં અને ચોખા મુખ્ય પાક છે.</p></div>"
+    }
+  ]
+}
