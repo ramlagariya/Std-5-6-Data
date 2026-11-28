@@ -494,3 +494,61 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "भरत-मिलाप",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. રામ <br> 2. લક્ષ્મણ <br> 3. સીતા <br> 4. ભરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. રામ - અયોધ્યાના મોટા રાજકુમાર <br>2. લક્ષ્મણ - રામના નાના ભાઈ (વનમાં સાથે ગયા) <br>3. સીતા - રામની પત્ની <br>4. ભરત - રામની પાદુકા લઈ જનાર ભાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રોના સંબંધો યાદ રાખો: રામ (મોટા), લક્ષ્મણ-ભરત (નાના) અને સીતા (રામની અર્ધાંગિની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દ અને તેના અર્થના સાચા જોડકાં બનાવો: <br> 1. કુટિયા <br> 2. શાયદ <br> 3. દોષ <br> 4. ખડાઊં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. કુટિયા - ઝૂંપડી (ઝોંપડી) <br>2. શાયદ - કદાચ (શાયદ) <br>3. દોષ - અપરાધ (ગુનો) <br>4. ખડાઊં - લાકડાની ચંપલ (પાદુકા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખડાઊં' એટલે લાકડાના 'ખડા' (ઉભા) રહેવાના પગરખાં - પાદુકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિરુદ્ધાર્થી શબ્દોના જોડકાં જોડો: <br> 1. નિકટ <br> 2. હસના <br> 3. દુઃખી <br> 4. આજ્ઞા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. નિકટ × દૂર <br>2. હસના × રોના <br>3. દુઃખી × સુખી <br>4. આજ્ઞા × અવજ્ઞા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દોમાં અર્થ બિલકુલ ઉલટો થાય, જેમ કે નિકટ (નજીક) તો દૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દોના યોગ્ય જોડકાં બનાવો: <br> 1. વન <br> 2. માતા <br> 3. પિતા <br> 4. ભાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. વન - જંગલ <br>2. માતા - માં/જનની <br>3. પિતા - તાત/જનક <br>4. ભાઈ - ભ્રાતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃત જેવો શબ્દ 'ભ્રાતા' એટલે ભાઈ, અને 'વન' તો જંગલ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાત્ર અને તેની વિશેષતાના જોડકાં જોડો: <br> 1. આદર્શ ભાઈ <br> 2. સેવક તરીકે રાજ કરનાર <br> 3. ધનુષધારી રક્ષક <br> 4. પવિત્ર સ્ત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. આદર્શ ભાઈ - શ્રીરામ <br>2. સેવક તરીકે રાજ કરનાર - ભરત <br>3. ધનુષધારી રક્ષક - લક્ષ્મણ <br>4. પવિત્ર સ્ત્રી - સીતાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતે રામની ગેરહાજરીમાં સેવક બનીને જ શાસન કર્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાઠના ઘટનાક્રમ મુજબ પાત્રો અને ક્રિયા જોડો: <br> 1. લક્ષ્મણ <br> 2. ભરત <br> 3. રામ <br> 4. જનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. લક્ષ્મણ - ગુસ્સે થયા <br>2. ભરત - રામના પગમાં પડ્યા <br>3. રામ - પિતાની આજ્ઞા પાળી <br>4. જનતા - ભરતની સાથે વન ગઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્મણજી હંમેશા રામની સુરક્ષા માટે સજાગ અને થોડા ક્રોધિત સ્વભાવના હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દાર્થ (હિન્દી થી હિન્દી) જોડો: <br> 1. અતિથિ <br> 2. મિલાપ <br> 3. પ્રણામ <br> 4. ઉત્તેજિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. અતિથિ - મહેમાન <br>2. મિલાપ - ભેટ (મિલના) <br>3. પ્રણામ - નમસ્તે/અભિવાદન <br>4. ઉત્તેજિત - જોશમાં આવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિથિ દેવો ભવ: - અતિથિ એટલે મહેમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંબંધોના સાચા જોડકાં બનાવો: <br> 1. રામ-લક્ષ્મણ <br> 2. રામ-સીતા <br> 3. દશરથ-રામ <br> 4. ભરત-રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. રામ-લક્ષ્મણ - ભાઈ-ભાઈ <br>2. રામ-સીતા - પતિ-પત્ની <br>3. દશરથ-રામ - પિતા-પુત્ર <br>4. ભરત-રામ - અતુટ ભાઈચારાનું પ્રતીક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠમાં મુખ્યત્વે 'ભાઈ-ભાઈ' નો પ્રેમ દર્શાવવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મુહાવરા અને અર્થના જોડકાં બનાવો: <br> 1. ગળે મિલના <br> 2. ગદગદ હોના <br> 3. મસ્તક ઝુકાના <br> 4. ઉત્તેજિત હોના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ગળે મિલના - પ્રેમથી મળવું <br>2. ગદગદ હોના - અત્યંત ભાવુક થવું <br>3. મસ્તક ઝુકાના - સન્માન આપવું <br>4. ઉત્તેજિત હોના - ક્રોધિત કે ઉશ્કેરાઈ જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળામાં ગળું નાખવું એટલે ખૂબ પ્રેમથી મળવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થાન અને પાત્રના જોડકાં જોડો: <br> 1. અયોધ્યા <br> 2. પંચવટી <br> 3. સિંહાસન <br> 4. જંગલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. અયોધ્યા - રામનું રાજ્ય <br>2. પંચવટી - વનવાસનું સ્થાન <br>3. સિંહાસન - ભરતે રામની પાદુકા રાખી <br>4. જંગલ - વનવાસની જગ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહાસન પર રામ નહોતા બેઠા, રામની પાદુકા બેઠી હતી.</p></div>"
+    }
+  ]
+}
