@@ -411,3 +411,86 @@ var Std5_Hindi_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "खाना खजाना (चित्र पाठ)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>1. थाली --- (A) रोटी बेलने के लिए<br>2. चकला --- (B) सब्जी काटने के लिए<br>3. चाकू --- (C) खाना खाने के लिए<br>4. बेलन --- (D) रोटी रखने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) खाना खाने के लिए<br>2 - (D) रोटी रखने के लिए<br>3 - (B) सब्जी काटने के लिए<br>4 - (A) रोटी बेलने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડાની વસ્તુઓ અને તેના ઉપયોગ યાદ રાખો: થાળી-જમવા, ચકલો-રોટલી રાખવા (કે વણવા માટે આધાર), ચાકૂ-કાપવા અને વેલણ-વણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચિત્ર પાઠના આધારે પાત્રો અને તેમની ક્રિયાઓને જોડો:<br>1. माता --- (A) पुस्तक पढ़ रही है<br>2. लड़का --- (B) खाना बना रही है<br>3. दादी --- (C) खाना खा रहा है<br>4. पिता --- (D) फल-सब्जी लाते हैं",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) खाना बना रही है<br>2 - (C) खाना खा रहा है<br>3 - (A) पुस्तक पढ़ रही है<br>4 - (D) फल-सબ્જી લાતે હૈં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના ચિત્રમાં ધ્યાનથી જુઓ: મમ્મી રસોઈ કરે, છોકરો જમે અને દાદી વાંચે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્વાદ અને વસ્તુને યોગ્ય રીતે જોડો:<br>1. चीनी --- (A) खट्टा<br>2. मिर्च --- (B) कड़वा<br>3. नीम --- (C) मीठा<br>4. इमली --- (D) तीखा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) मीठा<br>2 - (D) तीखा<br>3 - (B) कड़वा<br>4 - (A) खट्टा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદની ઓળખ: ખાંડ-ગળી, મરચું-તીખું, લીમડો-કડવો અને આંબલી-ખાટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શાકભાજીના હિન્દી અને ગુજરાતી નામ જોડો:<br>1. लौकी --- (A) ભીંડો<br>2. भिंडी --- (B) દૂધી<br>3. आलू --- (C) રીંગણ<br>4. बैंगन --- (D) બટાકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) દૂધી<br>2 - (A) ભીંડો<br>3 - (D) બટાકા<br>4 - (C) રીંગણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લૌકી' લાંબી દૂધી જેવી અને 'બૈંગન' એટલે જાંબલી રીંગણ - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રસોડાના સાધનોને જોડો:<br>1. चूल्हा --- (A) पानी पीने के लिए<br>2. गिलास --- (B) दाल निकालने के लिए<br>3. कलछी --- (C) आग जलाने के लिए<br>4. चम्मच --- (C) खाना खाने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) आग जलाने के लिए<br>2 - (A) पानी पीने के लिए<br>3 - (B) दाल निकालने के लिए<br>4 - (D) खाना खाने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૂલ્હા' પર રસોઈ થાય (આગ), 'ગિલાસ' થી પાણી પીવાય અને 'કલછી' (કડછો) થી દાળ પીરસાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અનાજ અને તેના નામ જોડો:<br>1. गेहूँ --- (A) ચોખા<br>2. चावल --- (B) ઘઉં<br>3. मक्का --- (C) બાજરી<br>4. बाजरा --- (D) મકાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) ઘઉં<br>2 - (A) ચોખા<br>3 - (D) મકાઈ<br>4 - (C) બાજરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેહૂં-ઘઉં (બંને 'ગ' થી શરૂ થાય છે), ચાવલ-ચોખા (બંને 'ચ' થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ફળોના હિન્દી અને ગુજરાતી નામ જોડો:<br>1. आम --- (A) સફરજન<br>2. सेब --- (B) કેળું<br>3. अंगूर --- (C) કેરી<br>4. केला --- (D) દ્રાક્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) કેરી<br>2 - (A) સફરજન<br>3 - (D) દ્રાક્ષ<br>4 - (B) કેળું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આમ (AAM) - ફળોનો રાજા કેરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દો જોડો:<br>1. रसोइघर --- (A) माता<br>2. माँ --- (B) पाकगृह<br>3. पानी --- (C) कुसुमित<br>4. फूल --- (D) जल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) पाकगृह<br>2 - (A) माता<br>3 - (D) जल<br>4 - (C) पुष्प/कुसुमित</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈઘરને હિન્દીમાં 'પાકગૃહ' પણ કહેવાય છે, યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વસ્તુઓ અને તેના પ્રકાર જોડો:<br>1. हल्दी --- (A) अनाज<br>2. गेहूँ --- (B) सब्जी<br>3. करेला --- (C) मसाला<br>4. पपीता --- (D) फल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) मसाला<br>2 - (A) अनाज<br>3 - (B) सब्जी<br>4 - (D) फल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હળદર મસાલામાં આવે, કારેલું શાકભાજીમાં અને પપૈયું ફળમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બનાવવાની રીત અને વાનગી જોડો:<br>1. तलकर --- (A) रोटी<br>2. सेककर --- (B) पूरी<br>3. उबालकर --- (C) इडली<br>4. भाप से --- (D) चावल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) पूरी<br>2 - (A) रोटी<br>3 - (D) चावल<br>4 - (C) इडली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરી તળાય (તલકર), રોટલી શેકાય (સેકકર) અને ઈડલી વરાળથી બને (ભાપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાસણો અને તેના આકાર/સ્થિતિ જોડો:<br>1. कलछी --- (A) गोल<br>2. थाली --- (B) लंबी डंडी वाली<br>3. गिलास --- (C) बेलनाकार<br>4. डिब्बा --- (D) चौकोर या गोल",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) लंबी डंडी वाली<br>2 - (A) गोल<br>3 - (C) बेलनाकार<br>4 - (D) चौकोर या गोल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાળી હંમેશા ગોળ હોય અને કલછી (ડોયો) લાંબી દાંડી વાળો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રસોઈમાં વપરાતા મસાલા જોડો:<br>1. नमक --- (A) पीला<br>2. हल्दी --- (B) लाल<br>3. मिर्च --- (C) काला<br>4. काली मिर्च --- (D) सफेद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (D) सफेद<br>2 - (A) पीला<br>3 - (B) लाल<br>4 - (C) काला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ પરથી મસાલા ઓળખો: મીઠું સફેદ, હળદર પીળી, મરચું લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્રિયાપદ જોડો:<br>1. बेलना --- (A) सब्जी<br>2. काटना --- (B) रोटी<br>3. धोना --- (C) दाल<br>4. पकाना --- (D) बर्तन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) रोटी<br>2 - (A) सब्जी<br>3 - (D) बर्तन<br>4 - (C) दाल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટલી વણાય (બેલના), શાકભાજી કપાય (કાટના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચિત્રના ખૂણામાં રહેલી વસ્તુઓ જોડો:<br>1. टोकरी --- (A) अनाज भरा है<br>2. अलमारी --- (B) फल-सब्जियाँ हैं<br>3. मटका --- (C) डिब्बे रखे हैं<br>4. बोरी --- (D) पानी भरा है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) फल-सब्जियाँ हैं<br>2 - (C) डिब्बे रखे हैं<br>3 - (D) पानी भरा है<br>4 - (A) अनाज भरा है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોપલીમાં શાક હોય, માટલામાં પાણી હોય અને કોથળામાં (બોરી) અનાજ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાસણોના બીજા નામ જોડો (પર્યાય):<br>1. प्याला --- (A) तवेता<br>2. चमचा --- (B) बरणी<br>3. डिब्बा --- (C) कटोरी<br>4. पौना --- (D) चम्मच",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) कटोरी<br>2 - (D) चम्मच<br>3 - (B) बरणी<br>4 - (A) तवेता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્યાલા એટલે વાટકી (કટોરી) અને ચમચા એટલે ચમચી.</p></div>"
+    }
+  ]
+}
